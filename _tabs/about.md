@@ -5,9 +5,9 @@ order: 4
 ---
 
 > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+<!-- {: .prompt-tip } -->
 
-I lead go-to-market at Civic Technologies, helping developers integrate seamless, privacy-preserving identity solutions that balance security and user experience.
+I currently lead a go-to-market team, helping developers integrate seamless, privacy-preserving identity solutions that balance security and user experience.
 
 I've built and scaled high-impact demand generation programs, driving pipeline growth through content engines, sales funnels, and data-driven automation—turning ebooks, webinars, and research into revenue. On the technical side, I have worked on data pipelines, Jupyter notebooks, React components, Next.js functions, AWS Lambdas, Google Cloud Functions, CloudWatch alerts, SNS automations, and SendGrid integrations.
 
