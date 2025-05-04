@@ -9,40 +9,40 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: America/Los_Angeles
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Titus Capilnean # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Go To Market 0->1 | AI | Blockchain | Identity # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  I lead go-to-market for identity and AI-driven products, helping developers integrate seamless, privacy-first authentication. I build demand engines that turn content into revenue and work hands-on across data, cloud, and code. I collaborate with founders and teams at the edge of identity, AI, and growth—shaping what’s next in digital trust, security, and GTM execution.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://tituscapilnean.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: tituscapilnean # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: titus_k # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Titus Capilnean
+  # email: titus.capilnean@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://twitter.com/titus_k # change to your Twitter homepage
+    - https://github.com/tituscapilnean # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/tituscapilnean # change to your LinkedIn homepage
 
 # Site Verification Settings
 webmaster_verifications:
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /assets/lib/1743199882413.jpeg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
