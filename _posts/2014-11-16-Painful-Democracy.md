@@ -4,7 +4,7 @@ date: YYYY-MM-DD HH:MM:SS +/-TTTT
 date: 2014-11-16 10:12:33 +0800
 categories: [English, Politics]
 tags: [elections]     # TAG names should always be lowercase
-author: <author_id>   
+author: <titus>   
 ---
 
 This weekend, just like two weeks before, I waited patiently for hours to vote—a right our parents fought for 25 years ago. In London, tens of thousands of people—most of them calm and smiling—queued with us in the hope of a better future back home, where they still have family members, friends, businesses. I didn’t get the chance to do it though, unfortunately, after waiting for 10 hours.
