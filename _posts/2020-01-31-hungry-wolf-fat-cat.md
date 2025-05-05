@@ -8,7 +8,7 @@ author: titus
 
 I've been sitting on this concept since a conversation I had with a friend who visited me in San Francisco last month. She had been traveling since she started studying for her MBA degree at INSEAD and had left a successful career in commercial real estate in Romania.
 
-Both of us have friends who are successful people in their fields in the country and we discussed the concepts of hungry wolves and fat cats, and their relationship to growth – both personal and systemic. I had already written a post about [attitudes in the US vs Romania](/2019/10/05/the-thing-with-americans-and-their-attitude), so this intrigued me to the point where I had to write about it.
+Both of us have friends who are successful people in their fields in the country and we discussed the concepts of hungry wolves and fat cats, and their relationship to growth – both personal and systemic. I had already written a post about [attitudes in the US vs Romania](/posts/the-thing-with-americans-and-their-attitude), so this intrigued me to the point where I had to write about it.
 
 ## Hungry Wolves
 
