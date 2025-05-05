@@ -10,7 +10,7 @@ Yes, this a rant about creative energy. I’ve been traveling for work and perso
 
 ## Creative work
 
-The type of work that I do is highly intellectually intensive – strategy, decision-making, writing, conceptualizing. I also enjoy working with entrepreneurs outside my regular working hours, I read a lot of news, and sometimes I do research to justify financial decisions. On top of that, I try to keep learning, at least a few months. I know I need to cut some of these down and prioritize sleep and relaxation more, but [that’s not always easy](/posts/2020-02-17-competitive-people-choose-your-battles).
+The type of work that I do is highly intellectually intensive – strategy, decision-making, writing, conceptualizing. I also enjoy working with entrepreneurs outside my regular working hours, I read a lot of news, and sometimes I do research to justify financial decisions. On top of that, I try to keep learning, at least a few months. I know I need to cut some of these down and prioritize sleep and relaxation more, but [that’s not always easy](/posts/competitive-people-choose-your-battles).
 
 ## Water Jug of Creative Energy
 
