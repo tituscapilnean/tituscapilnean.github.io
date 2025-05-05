@@ -1,7 +1,7 @@
 ---
 title: Applying Agile Performance Management in a High-Growth Startup
 date: 2016-05-05 12:00:00 +0000
-categories: [Change Management, Startups]
+categories: [Change Management, Startups, English]
 tags: [Agile, Performance Management, Startup]   
 author: Titus
 ---
