@@ -32,7 +32,7 @@ If you're like me, and do sports for fun and casual workout, then hear me out. U
 
 This is a tricky one. While in most situations, I would strongly encourage you to be competitive, there are different ways to approach this.
 
-Not every battle is worth winning, and sometimes you need to give some ground in immediate battles to be able to get what you want long term. It's like the long-term greedy concept I talked a bit about in the [fat cat/hungry wolf](#) post.
+Not every battle is worth winning, and sometimes you need to give some ground in immediate battles to be able to get what you want long term. It's like the long-term greedy concept I talked a bit about in the [fat cat/hungry wolf](/posts/hungry-wolf-fat-cat) post.
 
 So next time you're in a work exchange of opposite views, ask yourself—do I need this win to achieve our collective long-term goals, or will conceding here buy me enough goodwill to get what I want/we need next time we have to negotiate? Good old-fashioned politics, yes. While some people might hate it, it's inevitable the higher up you move in your career.
 
