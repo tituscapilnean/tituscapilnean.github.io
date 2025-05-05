@@ -14,11 +14,11 @@ First, a little bit of background. I was born in (still) communist Romania, in 1
 
 I remember the only time I competed for marks by my own free will. It was when I bet with my parents that I would get a snowboard if I got 10/10 in math over a whole semester. Obviously, they thought I wouldn’t do it, but I did and I’ve been snowboarding for over 15 years as a result. Looking back, if they had given me similar milestones and if I had identified similar rewards, I would have been more involved in my first years of schooling.
 
-Even childhood games were competitive—sports and any other stuff. I [wrote about it]({% post_url 2023-12-14-the-thing-with-americans-and-their-attitude %}) earlier last year. This negative competitive attitude then went on to shape people, business and life. It creates bad work environments, bad relationships, bad friendships. It also takes a strong personal toll. If you have an internal conversation going on inside your head (I found out some people don’t, and that’s ok), even that can become competitive.
+Even childhood games were competitive—sports and any other stuff. I [wrote about it]({% post_url 2019-10-05-the-thing-with-americans-and-their-attitude.md %}) earlier last year. This negative competitive attitude then went on to shape people, business and life. It creates bad work environments, bad relationships, bad friendships. It also takes a strong personal toll. If you have an internal conversation going on inside your head (I found out some people don’t, and that’s ok), even that can become competitive.
 
 ## Manifestation
 
-The way that manifested in mine for the longest of time was through comparing myself and my achievements with others. I know, slippery slope to depression and anxiety. It also fosters [imposter syndrome]({% post_url 2023-11-20-people-that-smell-the-failure %}) and other nice side effects! If it’s not clear enough, I’ll spell it out: it’s really bad for you.
+The way that manifested in mine for the longest of time was through comparing myself and my achievements with others. I know, slippery slope to depression and anxiety. It also fosters [imposter syndrome]({% post_url 2019-11-12-people-that-smell-the-failure.md %}) and other nice side effects! If it’s not clear enough, I’ll spell it out: it’s really bad for you.
 
 Naturally, I wanted to fix it. So here’s a few strategies I’ve been applying in work, life, and sports.
 
@@ -32,7 +32,7 @@ If you’re like me, and do sports for fun and casual workout, then hear me out.
 
 This is a tricky one. While in most situations, I would strongly encourage you to be competitive, there are different ways to approach this.
 
-Not every battle is worth winning, and sometimes you need to give some ground in immediate battles to be able to get what you want long term. It’s like the long-term greedy concept I talked a bit about in the [fat cat/hungry wolf]({% post_url 2023-10-07-from-hungry-wolf-to-fat-cat-how-culture-can-promote-or-hinder-growth %}) post.
+Not every battle is worth winning, and sometimes you need to give some ground in immediate battles to be able to get what you want long term. It’s like the long-term greedy concept I talked a bit about in the [fat cat/hungry wolf]({% post_url 2020-01-31-hungry-wolf-fat-cat.md %}) post.
 
 So next time you’re in a work exchange of opposite views, ask yourself—do I need this win to achieve our collective long-term goals, or will conceding here buy me enough goodwill to get what I want/we need next time we have to negotiate? Good old-fashioned politics, yes. While some people might hate it, it’s inevitable the higher up you move in your career.
 
