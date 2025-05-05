@@ -1,5 +1,5 @@
 ---
-title: Barrick and Newmont Merger: What Does That Mean for Europe?
+title: "Barrick and Newmont Merger: What Does That Mean for Europe?"
 date: 2014-04-27 12:00:00 +0000
 categories: [Mining, English]
 tags: [merger, gold, europe]   
