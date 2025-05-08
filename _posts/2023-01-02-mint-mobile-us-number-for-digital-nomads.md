@@ -8,7 +8,7 @@ author: titus
 
 I wrote this review from Argentina, after 8+ months of using Mint Mobile while traveling through South America.
 
->I will get paid if you sign up via one of the links in this article, and so will you. Switch to [Mint Mobile](http://fbuy.me/t4G2T) already and stop spending so much on your wireless plan. Use my referral link to get $15 in renewal credit.
+>I will get paid if you sign up via one of the links in this article, and so will you. Switch to [Mint Mobile](https://www.mintmobile.com/plans/?utm_content=personal_url&utm_medium=referral&utm_campaign=Refer-a-friend+Landing+Page+-+%2415+-+Jan+2022&utm_source=Friendbuy&fbuy_ref_code=t4G2T) already and stop spending so much on your wireless plan. Use my referral link to get $15 in renewal credit.
 
 Mint Mobile is a prepaid wireless carrier that has gained popularity among digital nomads for its affordable pricing and flexibility. One of the key features that makes Mint Mobile appealing to travelers like us is its support for **WiFi calling and texting**.
 
@@ -22,6 +22,6 @@ This means you can have one eSIM for your Mint Mobile service and another for a 
 
 The main benefit for us is that we can keep your **two-factor authentication** enabled. Two-factor authentication is an extra layer of security that requires you to enter a code sent to your phone in addition to your login credentials – like for banks and credit score accounts. This can help protect your accounts from unauthorized access, but it can be inconvenient if you don’t have access to your phone. With WiFi calling and texting, you can still receive the codes you need to log in to your accounts, even if you don’t have a cellular connection.
 
-Overall, [Mint Mobile](http://fbuy.me/t4G2T) is a great choice for digital nomads who want an affordable and flexible wireless plan that includes support for WiFi calling and texting. Whether you’re working from a coffee shop in Argentina or taking a call from a client in Colombia, Mint Mobile has you covered.
+Overall, [Mint Mobile](https://www.mintmobile.com/plans/?utm_content=personal_url&utm_medium=referral&utm_campaign=Refer-a-friend+Landing+Page+-+%2415+-+Jan+2022&utm_source=Friendbuy&fbuy_ref_code=t4G2T) is a great choice for digital nomads who want an affordable and flexible wireless plan that includes support for WiFi calling and texting. Whether you’re working from a coffee shop in Argentina or taking a call from a client in Colombia, Mint Mobile has you covered.
 
 > P.S. If you’re using a VPN service on your device, make sure to turn it off on WiFi at least until your WiFi calling and texting becomes available. Then turn the VPN back on.
