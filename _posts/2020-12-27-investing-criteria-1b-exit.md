@@ -1,5 +1,5 @@
 ---
-title: Investing criteria: Can this company produce a +$1B exit?
+title: "Investing criteria: Can this company produce a +$1B exit?"
 date: 2020-12-27 10:00:00 +0000
 categories: [English, Venture Capital]
 tags: [investing, startups, unicorns, evaluation]
