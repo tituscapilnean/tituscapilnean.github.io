@@ -1,5 +1,6 @@
 ---
 layout: categories
+permalink: /categories/english
 icon: fas fa-stream
-order: 5
+order: 1
 ---
