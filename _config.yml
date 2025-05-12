@@ -73,8 +73,6 @@ analytics:
   fathom:
     id: # fill in your Fathom Site ID
 
-category_dir: categories
-
 # Page views settings
 pageviews:
   provider: # now only supports 'goatcounter'
