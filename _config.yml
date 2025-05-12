@@ -77,14 +77,6 @@ analytics:
 pageviews:
   provider: # now only supports 'goatcounter'
 
-nav:
-  - name: Home
-    url: /
-  - name: Romanian
-    url: /categories/romanian/
-  - name: English
-    url: /categories/english/
-
 # Prefer color scheme setting.
 #
 # Note: Keep empty will follow the system prefer color by default,
