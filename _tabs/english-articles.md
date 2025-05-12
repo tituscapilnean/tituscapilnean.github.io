@@ -1,5 +1,6 @@
 ---
 layout: category
+title: english
 permalink: /categories/english/
 icon: fas fa-stream
 order: 1
