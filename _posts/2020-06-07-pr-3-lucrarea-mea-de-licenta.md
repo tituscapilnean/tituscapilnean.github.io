@@ -50,13 +50,13 @@ Ghidul prezentat în paginile ce urmează reprezintă o sumă a experiențelor p
 
 ## Cuprins
 
-### [CAPITOLUL 1: Relațiile publice – fundamente și teorii](posts/relatii-publice-fundamente)
+### [CAPITOLUL 1: Relațiile publice – fundamente și teorii](/posts/relatii-publice-fundamente)
 
 1.1. Rolul comunicării și al relațiilor publice  
 1.2. Locul relațiilor publice în funcțiunile organizației  
 1.3. Tipuri de organizare a activităților de relații publice
 
-### [CAPITOLUL 2: Relațiile publice online ca instrument de influențare](/posts/relatiile-publice-online-ca-instrumente-de-influentare)
+### [CAPITOLUL 2: Relațiile publice online ca instrument de influențare](/posts/relatiile-publice-online-ca-instrument-de-influentare)
 
 2.1. Procesul de influențare în mediul online  
 2.2. Media proprii, Media cumpărate și Media dobândite  

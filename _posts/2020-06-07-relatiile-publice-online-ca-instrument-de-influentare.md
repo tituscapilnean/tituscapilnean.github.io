@@ -116,5 +116,5 @@ Blogurile au fost măsurate prin SATI în 2011 și s-a ajuns la cifra de aproape
 
 După cum s-a putut observa mai sus, nu ducem nici pe departe lipsă de canale de comunicare online. Totul este ca întreprinderile care își doresc o prezență solidă pe aceste platforme să înțeleagă rolul lor, stilul de comunicare de adoptat pe fiecare plaformă în parte, integrarea tuturor platformelor alese în planul și strategia de comunicare, totul pentru a contribui la efortul general de relații publice. Datorită dezvoltării Internetului, orice antreprenor are acum acces la o piață globală și poată să construiască un univers de comunicare și relații publice cu mult mai multă ușurință, dar și provocările sunt mai mari în lupta pentru captarea atenției și interesului utilizatorilor de Internet.
 
-[Capitolul 1](/posts/relatii-publice-fundamente) | [Cuprins](/posts/pr-3.0-lucrarea-mea-de-licenta) | [Capitolul 3](/posts/constructia-prezentei-online-3.0)
+[Capitolul 1](/posts/relatii-publice-fundamente) | [Cuprins](/posts/pr-3-lucrarea-mea-de-licenta) | [Capitolul 3](/posts/constructia-prezentei-online-3.0)
 

@@ -297,4 +297,4 @@ Adserver-ul, așa cum îi spune și numele, este o aplicație ce funcționează 
 
 Se pot folosi doar o parte din aceste instrumente sau mai mult decât am cuprins în această lucrare. De reținut este că sistemul de raportare și monitorizare joacă un rol esențial în măsurarea impactului activității de relații publice online. Este recomandat ca aceste rapoarte să fie corelate cu alte rapoarte de performanță ale companiei (cifre de vânzări, trafic în magazin, producție, profituri) pentru a oferi o imagine de ansamblu.
 
-[Capitolul 2](/posts/relatiile-publice-online-ca-instrumente-de-influentare) | [Cuprins](/posts/pr-3.0-lucrarea-mea-de-licenta) | [Cuvant de final si bibliografie](/posts/cuvant-de-final-si-bibliografie)
+[Capitolul 2](/posts/relatiile-publice-online-ca-instrument-de-influentare) | [Cuprins](/posts/pr-3-lucrarea-mea-de-licenta) | [Cuvant de final si bibliografie](/posts/cuvant-de-final-si-bibliografie)

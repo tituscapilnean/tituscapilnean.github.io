@@ -80,4 +80,4 @@ Pe baza tacticilor descrise în paginile anterioare, am formulat o serie de tact
 
 Fiecare tip de tactici este specific unui grup de rețele de socializare, respectiv unui canal media online. Cu toate că avem la dispoziție o întreagă paletă de tactici online, nu trebuie să uităm că rezultatele cele mai bune se obțin dintr-un produs sănătos promovat pe baza unei strategii bine definite atât pe termen scurt, cât și pe termen mediu și lung, folosind un mix optim de canale online și offline.
 
-[Cuprins](posts/pr-3.0-lucrarea-mea-de-licenta) | [Capitolul 2](/posts/relatiile-publice-online-ca-instrument-de-influentare)
+[Cuprins](posts/pr-3-lucrarea-mea-de-licenta) | [Capitolul 2](/posts/relatiile-publice-online-ca-instrument-de-influentare)
