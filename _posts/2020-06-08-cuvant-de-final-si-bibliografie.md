@@ -73,4 +73,4 @@ Resurse web:
 - http://www.zelist.ro
 - https://www.google.com/adplanner
 
-[Capitolul 3](/posts/constructia-prezentei-online-3.0) | [Cuprins](pr-3-lucrarea-mea-de-licenta)
+[Capitolul 3](/posts/constructia-prezentei-online-3.0) | [Cuprins](/posts/pr-3-lucrarea-mea-de-licenta)
