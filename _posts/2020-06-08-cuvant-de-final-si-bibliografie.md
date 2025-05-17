@@ -1,12 +1,12 @@
 ---
 title: Cuvânt de final și Bibliografie
-date: 2020-06-08 00:00:00 +0000
+date: 2020-06-08 11:00:00 +0000
 categories: [PR 3.0, Romanian]
 tags: [relatii publice, comunicare]
 author: titus
 ---
 
-Cuvânt de final si Bibliografie
+# Cuvânt de final si Bibliografie
 
 Contextul în care operează toți agenții economici din România este în continuare unul de criză. Cu toate că la prima vedere bugetele și activitățile de comunicare ar trebui restrânse, cu scopul conservării activității de bază, un bun manager și un antreprenor curajos, vizionar poate să vadă o oportunitate în dezvoltarea activităților de relații publice online în locul vechilor activități de comunicare, mai costisitoare. Mi-am propus în această lucrare să ofer o imagine clară asupra componentelor, canalelor și a metodologiilor ce compun portofoliul de campanii de relații publice online pentru o întreprindere mică sau mijlocie.
 
@@ -14,7 +14,7 @@ Cu siguranță, o mare parte din ideile pe care le-am vehiculat aici se pot apli
 
 Pentru viitor, specialistul în relații publice online va trebui să gestioneze cu și mai mare atenție și rigurozitate prezențele online ale întreprinzătorilor, dat fiind faptul că majoritatea consumatorilor se documentează de pe Internet înainte de a lua decizia de cumpărare. Ei au apelat în principal la site-urile producătorilor sau furnizorilor pentru categoriile financiar (63%), telecom şi servicii Internet (51%), piese şi servicii auto (60%), produse “Do It Yourself” (60%), conform studiului “Internetul şi decizia de cumpărare” efectuat de GfK România. Așadar, e mai important ca oricând pentru întreprinzători să dețină website-uri, pagini de Facebook, canale de Youtube, conturi de Twitter și alte prezențe online coerente, care aduc valoare consumatorului și îi rezolvă dilemele principale legate de decizia de consum.
 
-Bibliografie
+## Bibliografie
 
 - BĂDĂU, Horea Mihai, *Tehnici de comunicare în social media*, Ed. Polirom, Bucureşti, 2011
 - BREAKENRIDGE, Deirdre, *PR 2.0: New Media, New Tools, New Audiences*, FT Press, 2008
@@ -39,7 +39,7 @@ Bibliografie
 - WATSON, John, *Behaviorism*, Transaction Publishers, New Jersey, 1998
 - WILCOX, Dennis L.; AULT, Philip A.; AGEE, Warren K.; CAMERON, Glen T., *Relații Publice – Strategii și tactici*, Ed. Curtea Veche, București, 2005
 
-Resurse web:
+## Resurse web:
 
 - http://ansonalex.com
 - http://blogs.forrester.com

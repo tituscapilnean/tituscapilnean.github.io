@@ -53,10 +53,10 @@ Odată ce am stabilit rolul relațiilor publice într-o organizație, modul în 
 
 Conform mai multor autori, activitățile specifice de relații publice se pot împărți în următoarele categorii:
 
-- **Relații publice financiare – oferirea de informații relevante din punct de vedere al rezultatelor financiare ale organizației. Acest tip de comunicare se face, de regulă, cu jurnaliști specializați pe analize financiare.
-- **Relații publice orientate spre consumator – generarea de notorietate pentru produsul sau serviciul oferit, respectiv pentru organizație, prin alte metode decât cele publicitare.
-- **Relații publice de criză – răspunsuri la acuzații, informații false.
-- **Relații guvernamentale – implicarea în discuții și negocieri cu autoritățile pentru a influența agenda politică.
+- **Relații publice financiare** – oferirea de informații relevante din punct de vedere al rezultatelor financiare ale organizației. Acest tip de comunicare se face, de regulă, cu jurnaliști specializați pe analize financiare.
+- **Relații publice orientate spre consumator** – generarea de notorietate pentru produsul sau serviciul oferit, respectiv pentru organizație, prin alte metode decât cele publicitare.
+- **Relații publice de criză** – răspunsuri la acuzații, informații false.
+- **Relații guvernamentale** – implicarea în discuții și negocieri cu autoritățile pentru a influența agenda politică.
 
 O altă clasificare, așa cum le-a tratat Dennis Wilcox, a tacticilor de relații publice poate să fie rezumată în patru mari elemente, bazată pe canalele purtătoare de mesaj. Primul dintre ele, evenimente speciale se caracterizează prin acțiuni cu vizibilitate puternică, menite să influențeze în mod pozitiv participanții și observatorii. Ele sunt de folos atunci când acțiunile organizației trebuie să fie mai vocale decât cuvintele ei. Aceste tipuri de evenimente pot fi folosite pentru a construi relații cu publicuri specifice, dar și pentru a atrage atenția mediatică. Pseudoevenimentele sunt o categorie de activitatăți creată cu unicul scop de a atrage atenția principalilor furnizori de știri. Cele două tipuri de media, controlate și necontrolate, sunt reprezentate de publicitate, buletine informative, discursuri, broșuri, pagini de Internet etc, respectiv de canale media în care există o entitate ce filtrează mesajul – știri, bloguri etc. Comunicatul de presă sau nota de presă pot fi incluse în această categorie, unde nu există garația că mesajul ajunge la publicul țintă.
 
