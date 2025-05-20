@@ -1,5 +1,5 @@
 ---
-title: Ditrău: Prostia, preotul și ardelenii
+title: "Ditrău: Prostia, preotul și ardelenii"
 date: 2020-02-03 10:00:00 +0200
 categories: [Romanian, Politica]
 tags: [discriminare, ditrau, rasism]
