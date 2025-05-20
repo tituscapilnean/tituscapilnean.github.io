@@ -10,7 +10,7 @@ Last week I was building a “content strategy” document that read like it had
 
 ## Why Multimodel Editing Beats One‑Model Monologues
 
-Using *multiple* large‑language models as ruthless editors beats begging a single model to be both author **and** critic. Each system has distinct blind spots—their clash exposes yours. After two years of ping‑ponging drafts between models, here’s the loop that consistently upgrades my docs while cutting editing time by **30 %**:
+Using *multiple* large‑language models as ruthless editors beats begging a single model to be both author **and** critic. Each system has distinct blind spots—their clash exposes yours. After two years of ping‑ponging drafts between models, here’s the loop that consistently upgrades my docs while **significantly** cutting editing time:
 
 | Step | Model             | Prompt                                 | Aim                                                          | Typical Outcome                              |
 | ---- | ----------------- | -------------------------------------- | ------------------------------------------------------------ | -------------------------------------------- |
@@ -24,8 +24,8 @@ Using *multiple* large‑language models as ruthless editors beats begging a sin
 > **Why not stick to one model?** Because diversity breeds depth. Claude excels at tone‑policing, Gemini injects structure, and o3—ironically—catches hallucinations the others miss. Their overlap eliminates single‑source bias while letting each model play to its strength.
 
 ## Minimal Data, Maximum Proof
-- Across recent content projects, the loop consistently shortened drafts without sacrificing any key ideas. 
-- Engagement analytics show readers finishing a greater share of the content compared with one-model drafts.
+- Across recent content projects, the loop consistently **shortened drafts** without sacrificing any key ideas. 
+- Engagement analytics show readers **finishing a greater share of the content** compared with one-model drafts.
 
 ## Implementation Tips
 
