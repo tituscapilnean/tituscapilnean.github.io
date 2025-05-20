@@ -23,10 +23,9 @@ Using *multiple* large‑language models as ruthless editors beats begging a sin
 
 > **Why not stick to one model?** Because diversity breeds depth. Claude excels at tone‑policing, Gemini injects structure, and o3—ironically—catches hallucinations the others miss. Their overlap eliminates single‑source bias while letting each model play to its strength.
 
-### Minimal Data, Maximum Proof
-
-* In **12 client docs** since February, the loop trimmed average length from 2 400 to **1 650 words** without losing a single key point.  
-* Read‑time analytics show **+18 % completion** compared to one‑model drafts.
+## Minimal Data, Maximum Proof
+- Across recent content projects, the loop consistently shortened drafts without sacrificing any key ideas. 
+- Engagement analytics show readers finishing a greater share of the content compared with one-model drafts.
 
 ## Implementation Tips
 
