@@ -3,7 +3,7 @@ title: "12 trenduri digitale pentru 2014 și reconcilerea cu 2013"
 date: 2014-01-08 09:00:00 +0200
 categories: ["Romanian", "Altele de online", "Sondaje și Studii"]
 tags: [campanii, digital, integrare, online, trenduri]
-author: Titus
+author: titus
 ---
 
 2013 n-a fost cel mai bun an din lume. A fost marcat de creștere destul de artificială în SUA, de erori politice mari în România și de o recunoaștere a înfrângerii metodei austerității din partea FMI. Nici pentru piața de digital nu a fost un an strălucit. Sper că în 2014 o să vedem mișcări mai mari decât în anul care a trecut.
