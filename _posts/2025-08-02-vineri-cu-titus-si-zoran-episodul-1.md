@@ -24,7 +24,7 @@ E un episod care atinge direct niște teme importante. Fără agende. Doar o dis
 
 Mai jos găsești playerul audio. Dacă îți place ce auzi, spune-ne. Dacă nu, spune-ne oricum.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_XPtqoebwQI?si=0An1TDL1YiiS2xcZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/_XPtqoebwQI?si=0An1TDL1YiiS2xcZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 sau poti sa asculti pe [Spotify](https://open.spotify.com/show/2Q27UKacN2bDEvc3GOaEgd)
 
