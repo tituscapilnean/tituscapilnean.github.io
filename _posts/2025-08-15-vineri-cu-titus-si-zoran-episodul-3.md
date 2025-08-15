@@ -6,8 +6,6 @@ tags: [geopolitica, coruptie, administratie, romania, ue, sua]
 author: titus
 ---
 
-# Vineri cu Titus și Zoran – American Dream pentru pace europeană
-
 Am intrat în direct pentru episodul 3 cu titlul *American Dream pentru pace europeană*. L-am ales inspirat de întâlnirea președintelui SUA cu cel al Rusiei – un eveniment istoric, dar nu în sensul bun al cuvântului. Am pornit de la acolo și am ajuns departe: de la Simona Halep la microbuzele PNRR, de la Texas la comunele din România, de la masoni care ocupă piețe la sistemul medical din SUA și cel din România.
 
 Ne-am întrebat de ce îi urâm pe cei care reușesc și de ce unii români simt că sportivii noștri le datorează ceva doar pentru că plătesc taxe. Am vorbit despre Simona Halep, Popovici și haterii de serviciu. Despre mentalitatea de "noi am plătit, deci ne aparțineți". Și despre cât de greu e să încurajezi excelența într-o cultură care descurajează succesul.
@@ -26,4 +24,4 @@ Pe final, am mutat discuția înspre Europa și SUA. Am comparat sistemele medic
 
 sau îl poți asculta pe [Spotify](https://open.spotify.com/show/2Q27UKacN2bDEvc3GOaEgd)
 
-Ne reauzim vinerea viitoare. Și dacă ai ceva de spus, scrie-ne.
+Ne reauzim vinerea viitoare. 
