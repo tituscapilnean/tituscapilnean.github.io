@@ -33,6 +33,10 @@ cd assets/lib && npm install && npm run build
 - **`tools/`** — `run.sh` (dev server), `test.sh` (production build + validation)
 - **`.github/workflows/pages-deploy.yml`** — CI/CD: builds with `JEKYLL_ENV=production`, runs html-proofer, deploys to GitHub Pages on push to main
 
+## Known Gotchas
+
+- **Year numbers in YAML tags must be quoted** — bare integers like `2025` break Jekyll's `slugify` filter with `undefined method 'gsub' for an instance of Integer`. Always use `"2025"` not `2025` in `tags`.
+
 ## Post Frontmatter
 
 ```yaml
