@@ -2,7 +2,7 @@
 title: "Vineri cu Titus și Zoran – episodul 16"
 date: 2026-01-23 13:00:00 +0300
 categories: [Podcast, Romania]
-tags: [geopolitica, ordine mondiala, 2026, NATO, SUA, Europa]
+tags: [geopolitica, ordine mondiala, "2026", NATO, SUA, Europa]
 author: titus
 ---
 
