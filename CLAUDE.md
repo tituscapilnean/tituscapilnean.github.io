@@ -45,6 +45,17 @@ author: titus_capilnean   # defined in _data/authors.yml
 ---
 ```
 
+## Git Workflow
+
+Always create a feature branch, never commit directly to `main`:
+
+```bash
+git checkout -b branch-name
+# make changes, commit
+gh pr create --title "..." --body "..."
+# merge via PR
+```
+
 ## Theme Customization
 
 The Chirpy theme is installed as a gem (`jekyll-theme-chirpy`). To override theme files, copy them from the gem into the corresponding local path. Key config is in `_config.yml`.
