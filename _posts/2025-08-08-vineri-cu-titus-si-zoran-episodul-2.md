@@ -28,7 +28,6 @@ Ascultă mai jos episodul integral. Și, ca de obicei, dacă îți place – dă
 
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/gLbtTkroFKk?si=q6UT9iQYtlwnFrjs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-sau îl găsești și pe [Spotify](https://open.spotify.com/show/2Q27UKacN2bDEvc3GOaEgd)
 
 Ne reauzim vinerea viitoare. Și da, chiar dacă nu ne mai supără Iliescu, ne-au rămas moștenirile lui. Și tot cu ele avem de trăit.
 
