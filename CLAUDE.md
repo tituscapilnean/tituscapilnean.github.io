@@ -36,6 +36,7 @@ cd assets/lib && npm install && npm run build
 ## Known Gotchas
 
 - **Year numbers in YAML tags must be quoted** — bare integers like `2025` break Jekyll's `slugify` filter with `undefined method 'gsub' for an instance of Integer`. Always use `"2025"` not `2025` in `tags`.
+- **Always use UTC for post dates** — GitHub Pages builds in UTC. A date like `09:00:00 -0800` equals `17:00:00 UTC`, so if the build runs before that time the post is treated as future and hidden. Always use `+0000` timezone, e.g. `date: 2026-03-15 08:00:00 +0000`.
 
 ## Post Frontmatter
 
