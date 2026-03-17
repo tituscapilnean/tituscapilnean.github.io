@@ -48,8 +48,18 @@ jobs:
           ruby-version: 3.3
           bundler-cache: true
 
+      - name: Cache Jekyll build
+        uses: actions/cache@v4
+        with:
+          path: |
+            .jekyll-cache
+            _site
+          key: jekyll-${{ runner.os }}-${{ hashFiles('_config.yml', 'Gemfile.lock') }}
+          restore-keys: |
+            jekyll-${{ runner.os }}-
+
       - name: Build site
-        run: bundle exec jekyll b -d "_site${{ steps.pages.outputs.base_path }}"
+        run: bundle exec jekyll b -d "_site${{ steps.pages.outputs.base_path }}" --incremental
         env:
           JEKYLL_ENV: "production"
 
