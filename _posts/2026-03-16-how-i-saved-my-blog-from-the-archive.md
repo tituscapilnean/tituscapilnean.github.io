@@ -6,7 +6,7 @@ tags: ["blogging", "migration", "archivarix", "jekyll", "ai", "python"]
 author: titus_capilnean
 ---
 
-I started blogging in 2009. Back then it was WordPress, on shared hosting, writing in Romanian about PR, advertising events, and whatever was happening in the Bucharest social media scene. Over the years the blog evolved — I wrote in English, moved to London, San Francisco, Phoenix, and the blog followed me through all of it. Marketing, startups, crypto, identity, AI, politics, food.
+I started blogging in 2009. Back then it was WordPress, on shared hosting, writing in Romanian about PR, advertising events, and whatever was happening in the Bucharest social media scene. Over the years the blog evolved — I wrote in English, moved to London, San Francisco, Austin, and Denver, and the blog followed me through all of it. Marketing, startups, crypto, identity, AI, politics, food.
 
 At some point my hosting disappeared. I don't remember exactly when or why — either I forgot to renew, or the provider shut down, or some combination of both. The domain still pointed somewhere but the content was gone.
 
