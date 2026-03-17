@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/06/white-hat-seo-150x150.jpg
 ---
 
-[![](/wp-content/uploads/2011/06/white-hat-seo-150x150.jpg)](/2011/06/facebook-influenteaza-indirect-rezultatele-google/white-hat-seo/)Atât Facebook, cât și alte rețele sociale neindexabile, pot să influențeze indirect rezultatele din Google și/sau din alte motoare de căutare(că doar Google nu e singurul). Cred că, dincolo de raportul SEOmoz, pe care l-am agățat de pe blogul lui Alex Negrea, e important de reținut următorul efect:
+[](/2011/06/facebook-influenteaza-indirect-rezultatele-google/white-hat-seo/)Atât Facebook, cât și alte rețele sociale neindexabile, pot să influențeze indirect rezultatele din Google și/sau din alte motoare de căutare(că doar Google nu e singurul). Cred că, dincolo de raportul SEOmoz, pe care l-am agățat de pe blogul lui Alex Negrea, e important de reținut următorul efect:
 
 – dai ceva pe Facebook(sau pe **rețeaua socială X**)
 

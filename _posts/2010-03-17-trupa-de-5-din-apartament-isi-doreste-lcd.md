@@ -36,4 +36,4 @@ A zis că dă și premiu 🙂 – separat de Alexandrion
 
 l.e. – la asta aspirăm :
 
-[![tv](/wp-content/uploads/2010/03/tv-400x272.jpg)](/wp-content/uploads/2010/03/tv.jpg)
+[](/wp-content/uploads/2010/03/tv.jpg)

@@ -14,7 +14,7 @@ Am coborât la metrou cu bicicletă cu tot şi am dat să intru în zona de pero
 
 Atunci n-am crezut că scrie în regulamentul metroului că **nu am voie să intru cu bicicleta**. De ieri însă, am observat că, pe mânere, au apărut extrase din regulamentul Metrorex, asta dacă tot nu cumpără nimeni publicitate pe ele. Scrie așa:
 
-[![photo\(3\)](/wp-content/uploads/2010/02/photo31-386x300.jpg)](/wp-content/uploads/2010/02/photo31.jpg)
+[](/wp-content/uploads/2010/02/photo31.jpg)
 
 _*scuze pentru calitatea jalnică a pozei – iPhone 3G nu are stabilizator 🙂_
 

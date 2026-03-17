@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2012/07/Coperta-DFB-150x150.png
 ---
 
-[![](/wp-content/uploads/2012/07/Coperta-DFB-150x150.png)](/wp-content/uploads/2012/07/Coperta-DFB.png)N-am scris despre DFB 2011(găsiți aici, aici, aici și aici trei păreri și mănunchiuri de feedback de la oameni din piață). Mi s-au părut cuprinzătoare.
+[](/wp-content/uploads/2012/07/Coperta-DFB.png)N-am scris despre DFB 2011(găsiți aici, aici, aici și aici trei păreri și mănunchiuri de feedback de la oameni din piață). Mi s-au părut cuprinzătoare.
 
 Anul acesta am fost ”prin reprezentant” la lansarea Digital Factbook pe anul 2012.
 

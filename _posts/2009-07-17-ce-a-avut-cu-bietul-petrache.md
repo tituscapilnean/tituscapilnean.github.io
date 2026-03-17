@@ -14,7 +14,6 @@ author: titus_capilnean
 
 Nu se putea ca folie respective să nu scape de băieții creativi, care au și un pix la îndemână. Normal că au umblat și au modificat scrisul, într-un stil umoristic ce amintește de clasa a 5-a, a 6-a.
 
-![Photo-0073k](/wp-content/uploads/2009/07/Photo-0073k-400x300.jpg)
 
 Vă mai amintiți cum se făcea mișto în generală?
 

@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/03/orange-meetup.jpg
 ---
 
-[![orange meetup](/wp-content/uploads/2010/03/orange-meetup.jpg)](/wp-content/uploads/2010/03/orange-meetup.jpg)
+[](/wp-content/uploads/2010/03/orange-meetup.jpg)
 
 Azi am stat pe bară cu scrisul, ca să am inspirație și fler pentru live blogging-ul de la Online MeetUp 5. Editia e despre real-time web, așa că nu aveam cum să nu fac ceva real-time, ca să consemnez ideile importante.
 

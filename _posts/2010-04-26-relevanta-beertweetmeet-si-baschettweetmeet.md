@@ -12,7 +12,7 @@ Eu unul nu-s de acord cu ce zice arhi despre Twitter. Nu suntem irelevanți, cel
 
 Pentru mine, și pentru cei care participă la evenimentele astea pe bune, nu ca să stea pe telefon sau să poată să pună pe blog, e o mare minune să poți juca un baschet fără violențe gratuite, ofticoși și alte caractere subumane pe care le întâlnești prin diverse parcuri bucureștene(vezi #baschettweetmeet – poze). Am jucat 1 h și jumătate, am plătit o sumă derizorie – 8 lei de persoană, ne-am simțit superbine, am făcut sport și am fost martori la lansarea sportmeet.ro.
 
-[![DSC02558](/wp-content/uploads/2010/04/DSC02558-400x300.jpg)](/wp-content/uploads/2010/04/DSC02558.JPG)
+[](/wp-content/uploads/2010/04/DSC02558.JPG)
 
 Un pic înainte de asta, a avut loc #beertweetmeet, sponsorizat de Ursus(vineri noapte – poze). Cred că ăsta a fost motivul pentru care am jucat unii dintre noi mai slab 🙂 A fost un prilej să ciocnim o bere offline, să ne întindem la povești cu oameni vechi și noi. Despre asta e vorba în social media – the social side of it.
 

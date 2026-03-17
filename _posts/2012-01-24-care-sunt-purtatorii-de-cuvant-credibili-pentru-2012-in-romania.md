@@ -10,7 +10,7 @@ author: titus_capilnean
 
 Din seria articolelor „pentru anul ăsta”, am văzut azi un studiu al **Edelman,** făcut în Marea Britanie, unde rata de penetrare a internetului este mai mare decât a televizorului**.** Ei au descoperit o creștere destul de mare a omului obișnuit și a angajatului simplu:
 
-[![](/wp-content/uploads/2012/01/screen_shot_2012-01-24_at_09.40-blog-full-400x298.png)](/wp-content/uploads/2012/01/screen_shot_2012-01-24_at_09.40-blog-full.png)
+[](/wp-content/uploads/2012/01/screen_shot_2012-01-24_at_09.40-blog-full.png)
 
 Graficul de mai sus e destul de grăitor pentru modul în care o să arate comunicarea în 2012 pe online. Aș merge atât de departe încât să zic că și în România se întâmplă același lucru. Totuși, vreau să verific chestia asta și supun votului vostru următorul poll:
 

@@ -15,15 +15,15 @@ Am ajuns ieri seară (GMT +7) în Hong Kong. Cred că dacă ar fi să rezum în 
 
 M-am plimbat destul de mult prin centru, unde m-au surprins două alte extreme – apa și alte lucruri de bază sunt foarte ieftine (4-5 lei o sticlă de 0,5 l de la 7 eleven), dar la restaurante e destul de scump (bine, la cele mai stilate, că la curry și take-away iei si cu 20 de lei). Priveliștea face toți banii, însă:
 
-[![IMG_3139](/wp-content/uploads/2013/06/IMG_3139-400x300.jpg)](/2013/06/cateva-idei-despre-hong-kong/img_3139/)
+[](/2013/06/cateva-idei-despre-hong-kong/img_3139/)
 
 Azi, de dimineață, am fost până sus, pe Victoria Peak, plus pe traseele din zonă. E mult mai respirabil aerul acolo și ai pe unde să te plimbi. Cred că e cea mai apropiată senzație de junglă tropicală pe care am trăit-o până acum. A fost nevoie să vin pe la hostel să mă schimb din cauza umezelii. Cea mai mișto chestie de sus, de acolo, dincolo de priveliște, a fost vegetația aia nouă, pe care nu o găsești la noi:
 
-[![](/wp-content/uploads/2013/06/IMG_3273-e1370847202286-150x150.jpg)](/2013/06/cateva-idei-despre-hong-kong/img_3273/)
+[](/2013/06/cateva-idei-despre-hong-kong/img_3273/)
 
-[![](/wp-content/uploads/2013/06/IMG_3269-e1370846693146-150x150.jpg)](/2013/06/cateva-idei-despre-hong-kong/img_3269/)
+[](/2013/06/cateva-idei-despre-hong-kong/img_3269/)
 
-[![](/wp-content/uploads/2013/06/IMG_3228-e1370846961173-150x150.jpg)](/2013/06/cateva-idei-despre-hong-kong/img_3228/)
+[](/2013/06/cateva-idei-despre-hong-kong/img_3228/)
 
 Mai am de văzut câteva chestii azi: Buddha, orașul dintre ziduri și niște lăcașe de cult tradiționale. Revin cu update.
 

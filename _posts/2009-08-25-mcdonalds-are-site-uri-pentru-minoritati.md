@@ -13,7 +13,7 @@ Azi dimineață am găsit o serie de linkuri foarte interesante care duc la dou�
 
 356black.com
 
-[![356black](/wp-content/uploads/2009/08/356black-400x256.jpg)](/wp-content/uploads/2009/08/356black.jpg)
+[](/wp-content/uploads/2009/08/356black.jpg)
 
 356Black este un site dedicat comunității afro-americane din SUA. El are ca scop sărbătorirea diversității culturale și a culturii afro-americane în fiecare zi, nu doar în ”luna istoriei negrilor” – habar nu aveam că există așa ceva – lună în care se celebrează sutele de ani de istorie a afro-americanilor pe continentul nou.
 
@@ -23,7 +23,7 @@ Desigur, pe thenextweb.com reacția a fost ușor habotnică, propunând la schim
 
 myinspirasian.com
 
-[![myinspirasain](/wp-content/uploads/2009/08/myinspirasain-400x257.jpg)](/wp-content/uploads/2009/08/myinspirasain.jpg)
+[](/wp-content/uploads/2009/08/myinspirasain.jpg)
 
 Dacă tot vorbeam de celebrat și dacă negrii au o lună a lor, McDonalds a creat o lună a celebrării asiaticilor din SUA, ca să nu se simtă ei discriminați 🙂 Luna se numește ”Asian Pacific Heritage Month” și a fost decretată de Președintele Jimmy Carter în 1978.
 

@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/06/vinyl_shape_iarmaroc_logo-150x150.jpg
 ---
 
-[![vinyl_shape_iarmaroc_logo](/wp-content/uploads/2010/06/vinyl_shape_iarmaroc_logo-150x150.jpg)](/wp-content/uploads/2010/06/vinyl_shape_iarmaroc_logo.jpg)Am găsit din întâmplare pe Feeder.ro un articol care se cocea de mai multă vreme. Organizatorii Iarmaroc 2010 și-au cerut oficial scuze de la participanți, artiști, expozanți, de la toată lumea. Cel mai relevant citat e următorul:
+[](/wp-content/uploads/2010/06/vinyl_shape_iarmaroc_logo.jpg)Am găsit din întâmplare pe Feeder.ro un articol care se cocea de mai multă vreme. Organizatorii Iarmaroc 2010 și-au cerut oficial scuze de la participanți, artiști, expozanți, de la toată lumea. Cel mai relevant citat e următorul:
 
 > Organizatorii Iarmaroc Fest 2010 **dezmint zvonurile conform carora vreun artist strain a fost uitat in aeroport**. Toti artistii straini au concertat, cu exceptia sarbilor Kal, Groove Orchestra si Tripcycle, care nu au mai putut ajunge si a artistului Al Blayney, la scena Zoo Project. Au fost anulate concertele romanilor Vasile Seicaru si Maria Gheorghiu cu Paul Arva, la scena Folk si seturile DJilor romani de la scena Selectro. Tot din cauza ploii, scena de Chill Out, cu hamace, nu a mai putut fi amenajata.
 > 

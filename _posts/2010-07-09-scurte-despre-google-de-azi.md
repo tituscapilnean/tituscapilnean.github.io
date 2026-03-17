@@ -15,11 +15,9 @@ Google Street View mai supără o țară, de data asta Australia. Deși ei s-au 
 
 Cea mai tare chestie Google-related de astăzi este că poți să îți înregistrezi cont, folosind contul tău de Facebook. Azi mi-a apărut lângă o fereastră de clip informația respectivă. Știe cineva mai multe despre așa ceva? A dispărut la scurt timp după ce am văzut-o, noroc că i-am făcut o captură:
 
-![](/wp-content/uploads/2010/07/facebook-youtube-353x300.jpg)
 
 Acum o fi chestia asta parte din strategia Google de a bate Facebook sau pur și simplu vor să profite de baza lor de date. Aș înclina să cred că e varianta a doua, pentru că am dat click pe butonul de Connect și mi-a apărut următoarea fereastră:
 
-![](/wp-content/uploads/2010/07/youtube-facebook-258x300.jpg)
 
 – îi las să trimită mailuri spre mine  
 – le dau acces la toate informațiile din contul meu, prieteni, viață, interese, etc.  

@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/03/logo-2010.gif
 ---
 
-[![logo-2010](/wp-content/uploads/2010/03/logo-2010.gif)](/wp-content/uploads/2010/03/logo-2010.gif)  
+[](/wp-content/uploads/2010/03/logo-2010.gif)  
 Sunt online de ceva vreme și am observat un fenomen, fetele au parte de mult mai multă deschidere, la început – mai ales dacă arată bine.
 
 Toată nevoia mea de a explicita chestia asta pe blog a pornit de la faptul că, timp de 2 ore, marți seara, am făcut live-blogging în timpul prezentării lui David J. Carr, iar el, în articolul lui despre faptul că a fost în România, a menționat doar fetele care au scris despre evenimet, Ela(pe blogul ei, unde a dat link spre blogul meu) și Andra(pe Apprentice.ro).

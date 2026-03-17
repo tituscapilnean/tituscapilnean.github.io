@@ -25,12 +25,12 @@ Deci nu e nici pe departe material de articol.
 
 Bașca #1 faptul că nici la capitolul engleză nu stau strălucit. Oare ce or zice americanii când văd cuvântul _contability_?:
 
-[![](/wp-content/uploads/2013/01/contability-wizart-400x169.png)](/2013/01/advertoriale-de-02-lei-pe-wall-street-ro/contability-wizart/)
+[](/2013/01/advertoriale-de-02-lei-pe-wall-street-ro/contability-wizart/)
 
 Bașca #2 site-ul clientului mai sus menționat nici măcar nu mai e sus (link)
 
 Bașca #3 greșeala de la #1 nu este singulară
 
-[![](/wp-content/uploads/2013/01/contability-wizart-2-400x176.png)](/2013/01/advertoriale-de-02-lei-pe-wall-street-ro/contability-wizart-2/)
+[](/2013/01/advertoriale-de-02-lei-pe-wall-street-ro/contability-wizart-2/)
 
 Vorba aia, ” _feedback is 50_ ”, n-am nimic personal.

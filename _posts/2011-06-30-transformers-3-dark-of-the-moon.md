@@ -12,7 +12,6 @@ Aseară, la invitația fetelor de la Oxygen PR, am fost la Samsung IMAX, în AFI
 
 Înainte să povestesc ce mi-a plăcut și ce mi s-a părut inedit, trebuie să precizez că e pentru prima dată când reușesc să ajung la timp la film, drept pentru care am câștigat un Optimus Prime de jucărie, cu care să mă laud pe blog și la birou.
 
-![](/wp-content/uploads/2011/06/IMG_20110630_005935-400x220.jpg)
 
 Da, se transformă.
 

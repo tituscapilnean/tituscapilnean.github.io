@@ -10,7 +10,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/03/grafic2-aparitii-media-TEDxBucharest-400x274.PNG
 ---
 
-[![tedx](/wp-content/uploads/2010/03/tedx.PNG)](/wp-content/uploads/2010/03/tedx.PNG)Am descoperit după ceva timp că nu am publicat raportul de PR al TEDxBucharest 2009 – deși rezultatele au fost cel puțin uimitoare, la nivel de apariții media, online și offline. Scriind aplicarea pentru **roblogfest 2010** , l-am recitit după multă vreme și cred că o să ți se pară și ție interesant.
+[](/wp-content/uploads/2010/03/tedx.PNG)Am descoperit după ceva timp că nu am publicat raportul de PR al TEDxBucharest 2009 – deși rezultatele au fost cel puțin uimitoare, la nivel de apariții media, online și offline. Scriind aplicarea pentru **roblogfest 2010** , l-am recitit după multă vreme și cred că o să ți se pară și ție interesant.
 
 Întreaga strategie de comunicare a fost construita noi, eu ocupându-mă de comunicarea **TEDxBucharest în Social Media**(Facebook, Twitter, LinkedIn, [Blog](/?s=tedx+bucharest))
 
@@ -92,9 +92,9 @@ Interviurile cu vorbitorii au generat **218 apariții media** dintre care:
 
 Graficele de distribuţie a apariţiilor media:
 
-[![grafic aparitii media TEDxBucharest](/wp-content/uploads/2010/03/grafic-aparitii-media-TEDxBucharest-400x273.PNG)](/wp-content/uploads/2010/03/grafic-aparitii-media-TEDxBucharest.PNG)
+[](/wp-content/uploads/2010/03/grafic-aparitii-media-TEDxBucharest.PNG)
 
-[![grafic2 aparitii media TEDxBucharest](/wp-content/uploads/2010/03/grafic2-aparitii-media-TEDxBucharest-400x274.PNG)](/wp-content/uploads/2010/03/grafic2-aparitii-media-TEDxBucharest.PNG)
+[](/wp-content/uploads/2010/03/grafic2-aparitii-media-TEDxBucharest.PNG)
 
 Promovarea unui eveniment exclusivist, derivat dintr-una din cele mai fascinante conferințe la nivel global, construit în jurul inovației a avut cel mai relevant impact în mediul online și social media, mediile care cunosc o evoluție exponențială încă și azi. Deși evenimentul s-a desfășurat într-una din cele mai aglomerate perioade ale anului din punct de vedere al intensității și cantității de subiecte de presă, în vinerea fără guvern, **TEDxBucharest** a adunat 194 de apariții, dintre care **177 au reprezentat știri, anunțuri și relatări pe portaluri, website-uri și blog-uri**.
 

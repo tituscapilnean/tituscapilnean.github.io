@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/01/troll_2-272x300.jpg
 ---
 
-[![troll_2](/wp-content/uploads/2010/01/troll_2-272x300.jpg)](/wp-content/uploads/2010/01/troll_2.jpg)Trolii sunt măsura succesului. Anul trecut, prin septembrie, octombrie, aveam și eu trollii mei. Între timp s-au retras, pentru că n-am mai publicat articole așa de controversate și mi-a mai scăzut ritmul de scriere.
+[](/wp-content/uploads/2010/01/troll_2.jpg)Trolii sunt măsura succesului. Anul trecut, prin septembrie, octombrie, aveam și eu trollii mei. Între timp s-au retras, pentru că n-am mai publicat articole așa de controversate și mi-a mai scăzut ritmul de scriere.
 
 În schimb, pe blogurile mari, ei sunt activi, vivace și dezinvolți, când vine vorba să se ia de autor, articol, idee sau de alți comentatori. Despre trollime au scris zoso, sebi, lamaie și au pus destul de bine la punct situația, mai puțin ultima fază – certurile între trolli.
 

@@ -20,8 +20,8 @@ O deschid și mă bucur de invitația la evenimentul secret și de berea băgat�
 
 Unboxing 101.
 
-[![](/wp-content/uploads/2012/10/291af4f812d811e291d61231381b6c82_7-150x150.jpg)](/wp-content/uploads/2012/10/291af4f812d811e291d61231381b6c82_7.jpg)
+[](/wp-content/uploads/2012/10/291af4f812d811e291d61231381b6c82_7.jpg)
 
-[![](/wp-content/uploads/2012/10/262c133012e211e285b022000a1cdc2f_7-150x150.jpg)](/wp-content/uploads/2012/10/262c133012e211e285b022000a1cdc2f_7.jpg)
+[](/wp-content/uploads/2012/10/262c133012e211e285b022000a1cdc2f_7.jpg)
 
-[![](/wp-content/uploads/2012/10/8c1e742612e211e2a2e022000a1faf45_7-150x150.jpg)](/wp-content/uploads/2012/10/8c1e742612e211e2a2e022000a1faf45_7.jpg)
+[](/wp-content/uploads/2012/10/8c1e742612e211e2a2e022000a1faf45_7.jpg)

@@ -12,7 +12,7 @@ Despre responsive web nu am văzut prea multe articole pe la noi. CTRL-D are o d
 
 Nici la capitolul site-uri responsive construite nu stăm prea bine. Dacă nici în media nu au apărut, surpriza vine dinspre retail, unde Vitantis Shopping Center devine cel mai inovativ centru comercial din România pe online.
 
-[![](/wp-content/uploads/2012/07/responsive-web-vitantis-400x177.png)](/wp-content/uploads/2012/07/responsive-web-vitantis.png)
+[](/wp-content/uploads/2012/07/responsive-web-vitantis.png)
 
 Ei au lansat un site prin care să ajute consumatorii să țină mult mai ușor pasul cu promoţiile, care să informeze și ține loc de invitaţie la shopping. Site-ul nu numai că e construit pe arhitectură responsive, designul e mișto, iar funcția de predictive search face căutările mult mai ușoare.
 

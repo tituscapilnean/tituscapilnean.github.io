@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/05/logo.png
 ---
 
-[![logo](/wp-content/uploads/2010/05/logo.png)](/wp-content/uploads/2010/05/logo.png)  
+[](/wp-content/uploads/2010/05/logo.png)  
 Dacă tot vine vara și timpul e perfect pentru evenimente prin oraș, îți mai povestesc de unul, care se promovează și el prin Social Media. E vorba de o explorare urbană, care urmărește să creeze niște soluții pentru reamenajarea Bucureștiului vechi.
 
 Pe 29 și 30 Mai, Centrul de Resurse pentru Participare Publica , Asociaţia Salvaţi Bucureştiul şi Asociaţia Bucureşti, se caută un București pierdut. Bucureștiul locurilor deja ştiute sau neştiute, Bucureștiul clădirilor pe lângă care trecem adesea, dar nu întotdeauna le şi vedem. Bucureștiul vechi și dărâmat.

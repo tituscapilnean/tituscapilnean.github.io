@@ -2,7 +2,7 @@
 title: "Vineri cu Titus și Zoran – episodul 15"
 date: 2026-01-02 13:00:00 +0300
 categories: [Podcast, Romania]
-tags: ["2025", bilant, "2026", Romania, retrospectiva]
+tags: ["2025", bilant, "2026", romania, retrospectiva]
 author: titus_capilnean
 ---
 

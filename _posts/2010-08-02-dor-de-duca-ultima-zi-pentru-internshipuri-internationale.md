@@ -8,7 +8,6 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/08/4371267477087__aiesec-7971051-400x195.gif
 ---
 
-![](/wp-content/uploads/2010/08/4371267477087__aiesec-7971051-400x195.gif)
 
 Da, AIESEC recrutează studenți sau absolvenți de mai puțin de 2 ani, pe care să îi trimită în internshipuri internaționale de super-calitate 🙂
 

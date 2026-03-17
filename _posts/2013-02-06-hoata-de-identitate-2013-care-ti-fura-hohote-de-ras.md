@@ -10,7 +10,7 @@ author: titus_capilnean
 
 _Citiorii mei s-au bucurat mult de invitațiile de la Oxygen PR și de la Ro Image(sursa foto), dar și de ospitalitatea Cinema City, Sun Plaza, ca de obicei. Vă las mai jos cu povestea unui film mai bun decât trailerul sau synopsisul de pe net._
 
-[![](/wp-content/uploads/2013/02/thumbs-400x266.jpg)](/2013/02/hoata-de-identitate-2013-care-ti-fura-hohote-de-ras/thumbs/)
+[](/2013/02/hoata-de-identitate-2013-care-ti-fura-hohote-de-ras/thumbs/)
 
 Am fost și am văzut “Hoața de identitate” un film la care m-am dus cu așteptări destul de mici. Am zis că va fi o comedie simplă, tipică, realizată pentru a mai face și oamenii încă un film și un ban de buzunar. Nu mă așteptam să am și momente de durere de burtă din cauza râsului J
 

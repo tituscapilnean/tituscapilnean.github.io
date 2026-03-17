@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2009/07/McDRealMilkshake-212x300.jpg
 ---
 
-[![McDRealMilkshake](/wp-content/uploads/2009/07/McDRealMilkshake-212x300.jpg)](/wp-content/uploads/2009/07/McDRealMilkshake.jpg)
+[](/wp-content/uploads/2009/07/McDRealMilkshake.jpg)
 
 Expresiv. Simplu. Clar.
 

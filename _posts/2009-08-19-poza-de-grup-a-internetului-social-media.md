@@ -9,7 +9,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2009/08/7mBO6-400x223.png
 ---
 
-[![Internet_University_Cast_by_elontirien](/wp-content/uploads/2009/08/Internet_University_Cast_by_elontirien-536x1024.png)](/wp-content/uploads/2009/08/Internet_University_Cast_by_elontirien.png)
+[](/wp-content/uploads/2009/08/Internet_University_Cast_by_elontirien.png)
 
 Am descoperit aici, pe deviantart.com, un set de personaje desenate ca să reprezinte fiecare rețea socială de pe internet. Vă las pe voi să comentați dacă sunt nimerite 😀
 
@@ -33,7 +33,7 @@ L-a mâncat **Facebook.**
 
 varianta cu reddit, digg și 4chan, desigur 😀
 
-[![7mBO6](/wp-content/uploads/2009/08/7mBO6-400x223.png)](/wp-content/uploads/2009/08/7mBO6.png)
+[](/wp-content/uploads/2009/08/7mBO6.png)
 
 Poza asta o am de pe thenextweb.com
 

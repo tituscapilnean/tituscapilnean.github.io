@@ -10,7 +10,6 @@ author: titus_capilnean
 
 O cititoare mi-a suflat pe email că a căutat în lung și în lat credite pentru MBA, burse pentru MBA și alte tipuri de finanțări, însă fără succes. Treaba asta se complică, dacă se orientează spre un MBA de afară sau către o școală din Top 100 Financial Times sau The Economist.
 
-![mba-imhi-financing](/wp-content/uploads/2013/03/mba-imhi-financing-400x224.jpg)
 
 Trebuie spus din start: **nu există rețeta perfectă.** Fiecare candidat are contextul lui/ei și diferă structura finanțării de la caz la caz. Totuși, din experiența mea, pot să încerc un proces prin care trebuie să treci atunci când cauți finanțare pentru MBA.
 

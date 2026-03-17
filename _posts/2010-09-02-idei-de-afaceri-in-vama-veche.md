@@ -14,7 +14,7 @@ Dincolo de povești și de apă sau de soare, am tot văzut prin vamă oameni ca
 
 Cel mai mult mi-a plăcut băiatul de mai jos:
 
-[![](/wp-content/uploads/2010/09/photo8-400x300.jpg)](/wp-content/uploads/2010/09/photo8.jpg)
+[](/wp-content/uploads/2010/09/photo8.jpg)
 
 Mecanismul e foarte simplu: **plătești ca să distrugi castelul făcut de băiat.** El ia banii, reface castelul și așteaptă un client nou. Acum din păcate, cât am stat pe lângă el, nu a distrus nimeni castelul. Lumea era mai mult curioasă decât dornică să facă bucăți creația omului.
 

@@ -2,7 +2,7 @@
 title: "You can't capture micro-moments just like that"
 date: 2016-01-21 00:00:00 +0000
 categories: [Strateg, English]
-tags: [marketing, multichannel, PR, strategy]
+tags: [marketing, multichannel, pr, strategy]
 author: Titus
 ----
 

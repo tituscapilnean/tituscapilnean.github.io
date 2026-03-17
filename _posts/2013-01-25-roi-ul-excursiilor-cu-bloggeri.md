@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2013/01/roi_investreturn-400x257.gif
 ---
 
-[![](/wp-content/uploads/2013/01/roi_investreturn-400x257.gif)](/2013/01/roi-ul-excursiilor-cu-bloggeri/roi_investreturn/)
+[](/2013/01/roi-ul-excursiilor-cu-bloggeri/roi_investreturn/)
 
 Dragă client de servicii de comunicare online/social media,
 

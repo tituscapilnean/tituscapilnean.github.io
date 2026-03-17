@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/03/margarina.jpg
 ---
 
-[![margarina](/wp-content/uploads/2010/03/margarina.jpg)](/wp-content/uploads/2010/03/margarina.jpg)  
+[](/wp-content/uploads/2010/03/margarina.jpg)  
 În penultima sesiune de la PR Forum, de marți, am avut ocazia să asist la una din cele mai bune campanii ad-hoc pentru margarină. Sesiunea s-a numit ”Eficienta si creativitate in campanii de comunicare”, iar campania de PR pentru margarină a eclipsat total celelalte două prezentări.
 
 Spun asta pentru că oamenii care au ieșit din sală **vorbeau doar despre margarină** și despre Liliana Stanculescu(Image PR), care a fost magistrală în discursul ei de susținere a produsului.

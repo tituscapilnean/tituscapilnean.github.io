@@ -14,7 +14,7 @@ Cum toată lumea are mai nou invitații de dat pe Google Plus, lansez și eu anu
 
 În ultima vreme, s-au deschis cam toate conturile de Plus, așa că se justifică cele **7,5 milioane de rezultate ale căutării** : invitație Google Plus.
 
-[![](/wp-content/uploads/2011/08/google-plus-400x170.jpg)](/2011/08/invitatii-google-plus/google-plus/)
+[](/2011/08/invitatii-google-plus/google-plus/)
 
 Bonus, pe lângă experții SEO care au acaparat prima pagină, eu vă dau și un decalog al utilizatorului de Google Plus, compus din bruma de experiență pe care o am cu rețeaua:
 
@@ -36,10 +36,10 @@ Bonus, pe lângă experții SEO care au acaparat prima pagină, eu vă dau și u
 
 9\. Descrierea trebuie să fie diferită față de poziția de la locul de muncă, pentru că ambele apar în Google, pe primul loc:
 
-[![](/wp-content/uploads/2011/08/titus-plus-400x245.jpg)](/2011/08/invitatii-google-plus/titus-plus/)
+[](/2011/08/invitatii-google-plus/titus-plus/)
 
 10\. Sitelink-urile(cele 3 linkuri albastre de sub descriere) le poți edita din seria de linkuri a profilului de Google Plus – de acolo setezi ordinea și numele cu care apar:
 
-[![](/wp-content/uploads/2011/08/titus-plus-2-400x291.jpg)](/2011/08/invitatii-google-plus/titus-plus-2/)
+[](/2011/08/invitatii-google-plus/titus-plus-2/)
 
 Na că a ieșit aproape tutorial. Dar să revin – dacă vreți invitații de Google Plus, lăsați un comentariu de cel puțin 5 cuvinte și vă trimit.

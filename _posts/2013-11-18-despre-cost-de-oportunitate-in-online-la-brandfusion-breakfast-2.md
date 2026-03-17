@@ -12,7 +12,7 @@ Se zice că lunea trebuie să rezolvi nerezolvatele de săptămâna trecută. Eu
 
 Din punctul meu de vedere, omul de decizie din companie trebuie să țină cont de încă două tipuri de costuri, pe lângă impactul pozitiv în vânzări, indicatori de imagine, profit.
 
-[![opportunity_cost](/wp-content/uploads/2013/11/opportunity_cost-378x300.jpg)](/2013/11/despre-cost-de-oportunitate-in-online-la-brandfusion-breakfast-2/opportunity_cost/)
+[](/2013/11/despre-cost-de-oportunitate-in-online-la-brandfusion-breakfast-2/opportunity_cost/)
 
 **_Acțiune:_ Costul de oportunitate al prezenței =** cât te costă dacă muți resursele de pe TV pe online, la nivel de indicatori de brand, efect în vânzări, profit etc. Dacă impactul estimat e mai mic decât diferența de impact din scăderea bugetului de TV, atunci nu se justifică investiția de online. Dacă da, atunci merită să muți/aloci buget.
 

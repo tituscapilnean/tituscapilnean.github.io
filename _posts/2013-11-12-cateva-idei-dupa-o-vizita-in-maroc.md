@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2013/11/Tangier_Medina_01-150x150.jpg
 ---
 
-[![Tangier_Medina_01](/wp-content/uploads/2013/11/Tangier_Medina_01-150x150.jpg)](/2013/11/cateva-idei-dupa-o-vizita-in-maroc/tangier_medina_01/)Luna trecută am fost, pentru câteva zile, în Tanger, în nordul Africii. Am pus poze pe Facebook, însă n-am apucat să scriu vreo poveste de acolo (prietenii știu de ce). Totuși e și o parte bună, măcar acum scriu doar părțile esențiale, care au rămas în memorie după aproape 3 săptămâni.
+[](/2013/11/cateva-idei-dupa-o-vizita-in-maroc/tangier_medina_01/)Luna trecută am fost, pentru câteva zile, în Tanger, în nordul Africii. Am pus poze pe Facebook, însă n-am apucat să scriu vreo poveste de acolo (prietenii știu de ce). Totuși e și o parte bună, măcar acum scriu doar părțile esențiale, care au rămas în memorie după aproape 3 săptămâni.
 
 **Aeroportul**
 

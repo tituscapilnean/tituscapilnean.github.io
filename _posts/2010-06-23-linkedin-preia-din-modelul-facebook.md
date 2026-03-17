@@ -8,7 +8,6 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/06/groupsLN-370x300.jpg
 ---
 
-![](/wp-content/uploads/2010/06/groupsLN-370x300.jpg)
 
 Ultima tendință în materie de rețele sociale este polarizarea. Dacă la început utilizatorii erau împrăștiați pe multe rețele atomizate, mai nou, ei se adună încet-încet în jurul câtorva rețele puternice.
 

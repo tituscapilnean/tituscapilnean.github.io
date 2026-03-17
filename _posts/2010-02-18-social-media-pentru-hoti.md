@@ -43,6 +43,6 @@ Ei sunt primii patru oameni pe care pot să îi targetez. Acum problema e că tr
 
 Simplu, dezactivezi geotagging-ul din Setările Twitter:
 
-[![geono](/wp-content/uploads/2010/02/geono-352x300.jpg)](/wp-content/uploads/2010/02/geono.jpg)
+[](/wp-content/uploads/2010/02/geono.jpg)
 
 Cred că ar trebui să includă și ei pe site o sugestie de genul ăsta.

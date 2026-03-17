@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/12/96473_1_230-150x150.jpg
 ---
 
-[![](/wp-content/uploads/2010/12/96473_1_230-150x150.jpg)](/wp-content/uploads/2010/12/96473_1_230.jpg)În fiecare an te gândești ce naiba o să fie la modă în anul următor, în ce direcție se duc lucrurile, ce colecții de modă vor apărea, ce gadgeturi noi o să vezi prin magazine sau ce produse o să se vândă cel mai bine.
+[](/wp-content/uploads/2010/12/96473_1_230.jpg)În fiecare an te gândești ce naiba o să fie la modă în anul următor, în ce direcție se duc lucrurile, ce colecții de modă vor apărea, ce gadgeturi noi o să vezi prin magazine sau ce produse o să se vândă cel mai bine.
 
 Uneori nu faci asta decât să fii în pas cu prietenii tăi, alteori jobul tău depinde de faptul că știi sau nu care sunt previziunile de coolness pentru anul următor.
 

@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/11/Partypokercardroom-150x150.jpg
 ---
 
-[![](/wp-content/uploads/2010/11/Partypokercardroom-150x150.jpg)](/wp-content/uploads/2010/11/Partypokercardroom.jpg)
+[](/wp-content/uploads/2010/11/Partypokercardroom.jpg)
 
 Un concurs bun de articole e unul care te pune să îți amintești de lucruri mișto pe care le-ai observat, dar pe care ai uitat să le notezi sau despre care n-ai ajuns atunci să scrii.
 

@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2012/01/politics-150x150.png
 ---
 
-[![](/wp-content/uploads/2012/01/politics-150x150.png)](/wp-content/uploads/2012/01/politics.png)Din categoria ”Best use of Social Media”, dacă tot vorbeam zilele trecute de trenduri și de Social TV în comentarii, vă povestesc un pic despre o idee faină a MSNBC – dezbaterea politică live pe Facebook.
+[](/wp-content/uploads/2012/01/politics.png)Din categoria ”Best use of Social Media”, dacă tot vorbeam zilele trecute de trenduri și de Social TV în comentarii, vă povestesc un pic despre o idee faină a MSNBC – dezbaterea politică live pe Facebook.
 
 Da, americanii vor putea urmări dezbaterea candidaților republicani pentru prezidențialele de anul ăsta pe Facebook, datorită parteneriatului MSNBC cu rețeaua de socializare. Oamenii logați pe Facebook vor putea pune întrebări live și vor putea urmări dezbaterea prin video/audio streaming.
 

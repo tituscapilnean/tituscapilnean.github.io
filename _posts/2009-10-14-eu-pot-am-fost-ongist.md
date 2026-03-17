@@ -14,7 +14,7 @@ Mai țin minte anul trecut, când pe vremea asta, mai aveam exact 2 zile până 
 
 Cred că **nu am mai povestit** de experiența mea din AIESEC foarte în detaliu. Am fost în organizație timp de aproape 3 ani și am trecut prin vreo 3 departamente – **Comunicare, Resurse Umane, Financiar** pentru că am vrut mai mult de la mine. Practic a fost locul unde mi-am descoperit talentele actuale și unde mi le-am crescut pe cele vechi. Am învățat practic – **comunicare, HTML, CSS, planificare, training, management financiar, intervievare, resurse umane, coaching, managementul culturii organizaționale, managementul timpului, managementul echipei** , etc.
 
-[![n656500891_1069718_8381](/wp-content/uploads/2009/10/n656500891_1069718_8381-400x300.jpg)](/wp-content/uploads/2009/10/n656500891_1069718_8381.jpg)
+[](/wp-content/uploads/2009/10/n656500891_1069718_8381.jpg)
 
 Am reușit să fac asta pentru că mi-am dorit să schimb ceva la mine și să contribui la rezultatele mari aduse în fiecare an de AIESEC București.
 

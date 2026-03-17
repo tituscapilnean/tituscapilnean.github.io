@@ -12,6 +12,6 @@ author: titus_capilnean
 
 Și ca articolul ăsta să nu rămână singur, am mai descoperit că Facebook strânge materiale de la utilizatori cu privire la locurile cele mai populare din România.
 
-[![](/wp-content/uploads/2012/04/fb-places-editor-400x298.png)](/wp-content/uploads/2012/04/fb-places-editor.png)
+[](/wp-content/uploads/2012/04/fb-places-editor.png)
 
 Editorul pentru locuri – aici.

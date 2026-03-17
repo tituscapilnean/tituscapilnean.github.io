@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/11/mooooney-150x150.jpg
 ---
 
-[![](/wp-content/uploads/2010/11/mooooney-150x150.jpg)](/wp-content/uploads/2010/11/mooooney.jpg)M-am trezit dis de dimineață cititind ultimul articol al lui Sebi(aka Visurât) și am câteva lucruri de adăugat la mica lui lecție despre cum să nu fi prost pe blog, pe gratis, când alții fac bani de pe urma articolelor tale.
+[](/wp-content/uploads/2010/11/mooooney.jpg)M-am trezit dis de dimineață cititind ultimul articol al lui Sebi(aka Visurât) și am câteva lucruri de adăugat la mica lui lecție despre cum să nu fi prost pe blog, pe gratis, când alții fac bani de pe urma articolelor tale.
 
 Tot [despre PR](/2010/10/draga-pr-manager-sau-pr-executive-sau-pr-assistant/) e vorba și despre cum poți să te lași dus de nas într-o negociere camuflată sub o întâlnire de _”să ne cunoaștem mai bine și să ne împrietenim”._
 

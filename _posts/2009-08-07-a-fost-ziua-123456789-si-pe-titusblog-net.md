@@ -12,6 +12,6 @@ Am capturat-o 🙂
 
 Uite aici dovada, pentru posteritate:
 
-[![123456789](/wp-content/uploads/2009/08/123456789-400x193.jpg)](/wp-content/uploads/2009/08/123456789.jpg)
+[](/wp-content/uploads/2009/08/123456789.jpg)
 
 Voi ați surprins-o?

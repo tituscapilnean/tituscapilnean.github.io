@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/06/ct_camp_refinantare_smart_bcr.jpg
 ---
 
-[![](/wp-content/uploads/2011/06/ct_camp_refinantare_smart_bcr.jpg)](/2011/06/povestea-unui-client-fericit-face-cat-100-reviewuri-ipotetice/ct_camp_refinantare_smart_bcr/)Pe 4 iulie se închid urnele campaniei BCR Refinanțare, prima campanie făcută altfel în blogosfera românească(de Blogal Initiative și sprijinită de revista Biz). Dacă tot ne apropiem de final, am pus cap la cap un mic parcurs al campaniei derulate pe blogul și conturile mele din social media(Facebook, LinkedIn și Twitter, respectiv Google Chat și Yahoo! Messenger, unde articolele au stat pe post de status în fiecare zi de publicare).
+[](/2011/06/povestea-unui-client-fericit-face-cat-100-reviewuri-ipotetice/ct_camp_refinantare_smart_bcr/)Pe 4 iulie se închid urnele campaniei BCR Refinanțare, prima campanie făcută altfel în blogosfera românească(de Blogal Initiative și sprijinită de revista Biz). Dacă tot ne apropiem de final, am pus cap la cap un mic parcurs al campaniei derulate pe blogul și conturile mele din social media(Facebook, LinkedIn și Twitter, respectiv Google Chat și Yahoo! Messenger, unde articolele au stat pe post de status în fiecare zi de publicare).
 
 ### Consistență, coerență, constanță
 

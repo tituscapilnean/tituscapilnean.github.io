@@ -10,7 +10,7 @@ author: titus_capilnean
 #   - [iframe] http://www.slideshare.net/slideshow/embed_code/12299976
 ---
 
-> [![](/wp-content/uploads/2012/04/influence-150x150.jpg)](/wp-content/uploads/2012/04/influence.jpg)Cele mai credibile surse de informaţii: familia (+19), prietenii (+16), forumurile şi experţii (+14) versus spoturi TV (2) sau filmele de pe Youtube (-14) şi comentariile de pe bloguri (-10) – mai mulţi consumatori au spus că nu au încredere în mediul respectiv.
+> [](/wp-content/uploads/2012/04/influence.jpg)Cele mai credibile surse de informaţii: familia (+19), prietenii (+16), forumurile şi experţii (+14) versus spoturi TV (2) sau filmele de pe Youtube (-14) şi comentariile de pe bloguri (-10) – mai mulţi consumatori au spus că nu au încredere în mediul respectiv.
 > 
 > _Eliza Rogalski_ citează un studiu(nu i-am văzut numele) la PR&The Web, parafrazată pe printreranduri.eu
 

@@ -27,7 +27,7 @@ Despre Ștefan
 > 
 > I grew up in Austria. After finishing highschool, I studied Literature at the University of Viena for 2 years. During that time I started working as a copywriter. Once that I decided literature was too boring for me, while lacking an insight into the human condition [ which interested me in the first place ], I dropped my literature courses, convinced my boss to let me work freelance and moved to Romania, where the cigarettes where cheaper and life more free.
 
-[![](/wp-content/uploads/2010/11/invitatie-layout-261x300.jpg)](/wp-content/uploads/2010/11/invitatie-layout.jpg)
+[](/wp-content/uploads/2010/11/invitatie-layout.jpg)
 
 Sori(Friends) mi-a zis că pot să aduc bloggeri cu mine.
 

@@ -2,7 +2,7 @@
 title: Why videos go viral?
 date: 2014-05-23 00:00:00 +0000
 categories: ['Digital Events']
-tags: ['viral videos', 'social media']
+tags: ['viral videos', 'social-media']
 author: Titus
 ---
 

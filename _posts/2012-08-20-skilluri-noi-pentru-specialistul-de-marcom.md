@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2012/08/web20specialist1-150x150.jpg
 ---
 
-[![](/wp-content/uploads/2012/08/web20specialist1-150x150.jpg)](/wp-content/uploads/2012/08/web20specialist1.jpg)M-am întors cu forțe noi și idei proaspete din vacanță (e subiectul unui alt articol). Una din primele activități de care îmi place să mă apuc când mă întorc este să citesc ultimele știri din online.
+[](/wp-content/uploads/2012/08/web20specialist1.jpg)M-am întors cu forțe noi și idei proaspete din vacanță (e subiectul unui alt articol). Una din primele activități de care îmi place să mă apuc când mă întorc este să citesc ultimele știri din online.
 
 Chris Brogan aruncă azi o teorie pe blog, prin care susține că specialistul de marketing și comunicare ar trebui să fie capabil să facă următoarele treburi:
 

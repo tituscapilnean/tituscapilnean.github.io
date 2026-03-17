@@ -2,7 +2,7 @@
 title: "Vineri cu Titus și Zoran – episodul 6"
 date: 2025-09-05 13:00:00 +0300
 categories: [Podcast, Romania]
-tags: [politica, alegeri, democratie, Romania, directie]
+tags: [politica, alegeri, democratie, romania, directie]
 author: titus_capilnean
 ---
 

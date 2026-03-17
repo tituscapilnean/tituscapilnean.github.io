@@ -14,6 +14,6 @@ Uite așa am descoperit motivul pentru care americanilor nu le e frică de un r�
 
 Oameni deștepți :>
 
-[![have-another-pint-of-icecream-just-to-be-safe](/wp-content/uploads/2010/03/have-another-pint-of-icecream-just-to-be-safe-262x300.jpg)](/wp-content/uploads/2010/03/have-another-pint-of-icecream-just-to-be-safe.jpg)
+[](/wp-content/uploads/2010/03/have-another-pint-of-icecream-just-to-be-safe.jpg)
 
 via nataliedee

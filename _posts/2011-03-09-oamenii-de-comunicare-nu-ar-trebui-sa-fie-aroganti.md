@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/03/food_production_chain_400px-150x150.jpg
 ---
 
-[![](/wp-content/uploads/2011/03/food_production_chain_400px-150x150.jpg)](/2011/03/oamenii-de-comunicare-nu-ar-trebui-sa-fie-aroganti/food_production_chain_400px/) Sursa foto - www.cdc.gov 
+[](/2011/03/oamenii-de-comunicare-nu-ar-trebui-sa-fie-aroganti/food_production_chain_400px/) Sursa foto - www.cdc.gov 
 
 Lucrez în domeniu, așa că îi văd în fiecare zi.
 

@@ -9,7 +9,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/07/IMG_20110729_085609-400x300.jpg
 ---
 
-[![](/wp-content/uploads/2011/07/283379_224881744221800_100000999296216_612938_7602487_n-e1311935602390-150x150.jpg)](/2011/07/cel-mai-bun-sofer-din-grand-prix-ul-blogosferei/283379_224881744221800_100000999296216_612938_7602487_n/)Unii ar zice că Alex a fost cel mai bun, însă eu știu ce mi-a zis Titi Aur, după ce am coborât din Volvo S60, după o tură de circuit: _”Ai fost cel mai bun de până acum. Ai mers greșit, totuși, dar ai fost mai bun”_.
+[](/2011/07/cel-mai-bun-sofer-din-grand-prix-ul-blogosferei/283379_224881744221800_100000999296216_612938_7602487_n/)Unii ar zice că Alex a fost cel mai bun, însă eu știu ce mi-a zis Titi Aur, după ce am coborât din Volvo S60, după o tură de circuit: _”Ai fost cel mai bun de până acum. Ai mers greșit, totuși, dar ai fost mai bun”_.
 
 Bine, poate nu ăsta a fost citatul exact, dar înțelegeți voi ideea.
 
@@ -25,7 +25,7 @@ Am mai învățat că există două tipuri de abodare a curbei – **cea instinc
 
 Lecțiile au fost excelente pentru finală, unde am reușit să concurez cu 4 secunde mai rapid decât în calificări 🙂
 
-[![](/wp-content/uploads/2011/07/IMG_20110729_085609-400x300.jpg)](/2011/07/cel-mai-bun-sofer-din-grand-prix-ul-blogosferei/img_20110729_085609/)
+[](/2011/07/cel-mai-bun-sofer-din-grand-prix-ul-blogosferei/img_20110729_085609/)
 
 Cu toate astea, am luat doar locul 9, dar a fost una din cele mai faine experiențe pe care le-am avut ca blogger. Rivalizează cu [săritul cu parașuta](/2010/04/aerul-e-mai-tare-la-3000-de-metri-deasupra-pamantului/)(UTV) și cu petrecerea [Puma](/2010/11/puma-graffitti-creative-factory-pantofi-sport-personalizati-in-6-saptamani/) de anul trecut.
 

@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/01/suicide450.jpg
 ---
 
-[![suicide450](/wp-content/uploads/2010/01/suicide450.jpg)](/wp-content/uploads/2010/01/suicide450.jpg)
+[](/wp-content/uploads/2010/01/suicide450.jpg)
 
 sursa foto si alte cateva idei
 

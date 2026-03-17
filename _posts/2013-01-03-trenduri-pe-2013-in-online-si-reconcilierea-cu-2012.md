@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2013/01/Trends2012-150x150.jpg
 ---
 
-[![](/wp-content/uploads/2013/01/Trends2012-150x150.jpg)](/2013/01/trenduri-pe-2013-in-online-si-reconcilierea-cu-2012/trends2012/)2013 a început destul de pe ne pusă masă. Nici n-am apucat să respir bine că a și trebuit să o iau din loc, așa că scriu de departe câteva gânduri pentru anul care a început de mai bine de 3 zile. 2012 a fost un an mai bun pentru publicitatea online, în semestrul 1 înregistrându-se [o creștere de 7% (yoy)](/2012/10/piata-de-online-a-crescut-in-semestrul-1-cu-7-yoy-iab-forum-2012/), în același trend cu creșterea globală previzionată pentru perioada următoare.
+[](/2013/01/trenduri-pe-2013-in-online-si-reconcilierea-cu-2012/trends2012/)2013 a început destul de pe ne pusă masă. Nici n-am apucat să respir bine că a și trebuit să o iau din loc, așa că scriu de departe câteva gânduri pentru anul care a început de mai bine de 3 zile. 2012 a fost un an mai bun pentru publicitatea online, în semestrul 1 înregistrându-se [o creștere de 7% (yoy)](/2012/10/piata-de-online-a-crescut-in-semestrul-1-cu-7-yoy-iab-forum-2012/), în același trend cu creșterea globală previzionată pentru perioada următoare.
 
 **Reconciliere cu 2012**
 

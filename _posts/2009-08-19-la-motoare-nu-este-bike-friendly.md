@@ -22,7 +22,7 @@ A fost unul din cele mai populare „Trainee Beers”, având în vedere că mes
 
 **Miezul problemei** din seara trecută a fost faptul că mi-am luat bicicletă. ”Furia albastră” mi-a intrat în posesie pe la ora 20:30, după schimbul de bunuri și valori de rigoare, alături de o **chitanță de mână**(mulțumesc @arhi pentru sugestie și o recomand oricui, nu de alta dar s-ar putea după ce dai banii omului, el să strige ”hoții” după tine și să rămâi și fără bani și fără bicicletă, eventual și cu o bătută de la organe).
 
-[![IMG_0223](/wp-content/uploads/2009/08/IMG_0223-400x300.jpg)](/wp-content/uploads/2009/08/IMG_0223.JPG)
+[](/wp-content/uploads/2009/08/IMG_0223.JPG)
 
 Așa arată noul meu vehicul de transport persoane – capacitate 1 loc. 😀
 

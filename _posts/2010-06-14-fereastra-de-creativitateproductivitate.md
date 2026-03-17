@@ -10,7 +10,6 @@ author: titus_capilnean
 
 Da, am fost plecat la mare, unde mi-am regăsit un pic din ceea ce mi-era dor. Noaptea autentică de vamă(care se întinde și se îmbină cu răsăritul). Dar nu despre asta vreau să vorbesc, doar aveam nevoie de o introducere(sau dicere, cum era să scriu, în italiană 🙂 ), ca să justific haotismul așternut în modul în care public mai nou, noaptea târziu.
 
-![](/wp-content/uploads/2010/06/MactacAwards2008-8-400x101.jpg)
 
 Ca să pot scrie am nevoie de 3 lucruri – **chef, inspirație și energie**. Mai nou, am văzut că ingredientele se aliniază perfect noaptea. **Fereastra mea de creativitate/productivitate** s-a cam mutat după căderea nopții din cauza căldurii, în principal, dar și din cauza faptului că pot să mă apuc de treabă după ce îmi tratez mintea cu niste ore de prieteni, relaxare și socializare. Chiar dacă ajung la 11-12 acasă, chiar dacă am plecat praf de la birou, tot găsesc energie noaptea să creez. De cam 1 an nu am prea exploatat constant fereastra, ci mai degrabă am încercat să o mut, în timpul zilei, ca să performez când trebuie.
 

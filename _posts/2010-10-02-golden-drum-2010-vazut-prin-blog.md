@@ -17,7 +17,7 @@ Despre Golden Drum 2010, _ediția cu numărul 17_ :
 > “The future of advertising has been questioned. Regardless of what cynics say, our industry is about to enter a golden period.”  
 >  Sir John Hegarty, key-note speaker at the Golden Drum 2010 Creative Academy
 
-[![](/wp-content/uploads/2010/10/gd-400x112.jpg)](/wp-content/uploads/2010/10/gd.jpg)
+[](/wp-content/uploads/2010/10/gd.jpg)
 
 Luni, 20 Septembrie, am primit un email în care scria că mi s-a aprobat cererea de acreditare. Eram la [Orange Online Meetup](/2010/09/orange-online-meetup-7-sem-cu-esearchvision-live/) și nu îmi venea să cred că organizatorii mi-au acceptat cererea de acreditare cu ajutorul acestui blog.
 

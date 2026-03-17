@@ -41,7 +41,7 @@ Cuprins(click și te duce direct la secțiunea respectivă de live-blog):
 
 Începutul Mobile Marketing Conference s-a lăsat un pic așteptat, până a venit marea majoritate a invitaților și a participanților. Am profitat de partea asta să mai discut cu lumea prin sală și să fac primele poze cu Nokia N900.
 
-[![20100513_008](/wp-content/uploads/2010/05/20100513_008-399x300.jpg)](/wp-content/uploads/2010/05/20100513_008.jpg)
+[](/wp-content/uploads/2010/05/20100513_008.jpg)
 
 Pentru început, Cristi Manafu ne povestește despre istoria de 2 ani a conferinței, MMC 2010 fiind a 3-a ediție. Anul ăsta aflăm despre idei, tendințe și soluții pentru brandurile care își doresc prezență pe media mobile. Vom avea parte și de câteva studii de caz, așa cum poți să vezi în agenda conferinței, deci se pot extrage soluții și din experiențele celorlalți.
 
@@ -60,7 +60,7 @@ Avem și un prin concurs(premiul e o campanie de 1.800 euro pe site-urile mobile
 
 Principalele ingrediente din mobile web:
 
-[![20100513_016](/wp-content/uploads/2010/05/20100513_016-399x300.jpg)](/wp-content/uploads/2010/05/20100513_016.jpg)
+[](/wp-content/uploads/2010/05/20100513_016.jpg)
 
 **Întrebări**
 
@@ -87,7 +87,7 @@ Dan Vârtopeanu ne-a prezentat Asociația de Mobile Marketing(www.mma-romania.co
 
 **Maia Novolan**, de la Syscom Digital, unul din fondatorii Asociației de Mobile Marketing introduce câteva bune practici din mobile.
 
-[![20100513_020](/wp-content/uploads/2010/05/20100513_020-399x300.jpg)](/wp-content/uploads/2010/05/20100513_020.jpg)
+[](/wp-content/uploads/2010/05/20100513_020.jpg)
 
 Început promițător – criza economică a fost un imbold pentru marketing-ul pe mobil, clienții începând să se orienteze și spre acest tip de media, în căutare de servicii de promovare mai ieftine, mai eficiente sau cu un alt tip de reach. Aflăm de la Maia cum trebuie să folosim baza de date cu consumatori, ca să putem derula campanii cât mai eficiente pe mobil.
 
@@ -108,11 +108,11 @@ Exemplu: METRO – clienți silver și gold- proiect de reactivare și creștere
 
 **Dan Vârtopeanu**, Voxline Communications, ne povestește despre ”Cum pot brandurile sa interactioneze cu consumatorii in mediul mobil si bune practici pentru integrarea cu celelalte canale de comunicare” – adică branduri, consumatori, rezultate, canale, integrare 🙂 Și-a regândit titlul între timp.
 
-[![20100513_023](/wp-content/uploads/2010/05/20100513_023-399x300.jpg)](/wp-content/uploads/2010/05/20100513_023.jpg)
+[](/wp-content/uploads/2010/05/20100513_023.jpg)
 
 Ideea principală de la început – a crescut viteza de reacție a clienților față de nemulțumirile cauzate de branduri – pe internet(social media), mobil(suni un prieten să te plângi)
 
-[![20100513_024](/wp-content/uploads/2010/05/20100513_024-225x300.jpg)](/wp-content/uploads/2010/05/20100513_024.jpg)
+[](/wp-content/uploads/2010/05/20100513_024.jpg)
 
 Mobilul este instrumentul multimedia cu care se paote comunica instantaneu – facem poze, vorbim, dăm SMS-uri, intrăm pe internet.
 
@@ -135,7 +135,7 @@ Aștept prezentarea lui Andrei, pentru că graficele de distribuție a folosirii
 
 Pe mobil, oamenii își verifică mailul, caută informații sau stau pe Messenger 🙂 și îl folosesc atunci când sunt singuri, de acasă sau în trafic(mașină, metrou)
 
-[![20100513_027](/wp-content/uploads/2010/05/20100513_027-399x300.jpg)](/wp-content/uploads/2010/05/20100513_027.jpg)
+[](/wp-content/uploads/2010/05/20100513_027.jpg)
 
 O informație foarte interesantă – Facebook este cea mai accesată rețea socială de pe mobil, cu majoritatea utilizatorilor frecvenți. Pe locul 2 este Hi5 și pe 3 LinkedIn. Desigur, dacă am vorbit de Facebook, au apărut în discuții Farmville sau Mafia… 😀 rumoare prin sală
 
@@ -145,7 +145,7 @@ Concluzie – mobile marketing-ul inițiază un dialog cu consumatorul, într-un
 
 Începem sesiunea a doua:
 
-[![20100513_032](/wp-content/uploads/2010/05/20100513_032-399x300.jpg)](/wp-content/uploads/2010/05/20100513_032.jpg)
+[](/wp-content/uploads/2010/05/20100513_032.jpg)
 
 _(updatez fiecare sesiune în momentul în care îi vine rândul)_
 
@@ -194,7 +194,7 @@ Am găsit pe site-ul lor și câteva studii de caz, dintre care unul despre club
 
 Sunt mai multe tipuri de coduri 2D:
 
-[![56717512](/wp-content/uploads/2010/05/56717512-300x300.png)](/wp-content/uploads/2010/05/56717512.png)
+[](/wp-content/uploads/2010/05/56717512.png)
 
 QR Code – quick response code, Data matrix, Cool Data Matrix, Sema code, etc.
 
@@ -221,7 +221,7 @@ Cum se ating obiectivele pe mobile – simplu, apelează la un expert 🙂
 ————————————————  
 **Sesiunea 3 – Workshp-urile**
 
-[![20100513_052](/wp-content/uploads/2010/05/20100513_052-399x300.jpg)](/wp-content/uploads/2010/05/20100513_052.jpg)
+[](/wp-content/uploads/2010/05/20100513_052.jpg)
 
 Specialisti din agentii in marketing digital si din companii active in zona mobile vor prezenta cateva studii de caz, vorbind despre strategia si tacticile abordate si, nu in ultimul rand, despre rezultate obtinute.
 
@@ -246,7 +246,7 @@ Concluzia – premiile mari puse ca și componente de loializare au contribuit l
 
 A început cu o tombolă – un mic formular pe care ni l-au dat pe mese. Să vedem ce trebuie să facem.
 
-[![20100513_055](/wp-content/uploads/2010/05/20100513_055-399x300.jpg)](/wp-content/uploads/2010/05/20100513_055.jpg)
+[](/wp-content/uploads/2010/05/20100513_055.jpg)
 
 Mai primim bilete dacă suntem activi – mă simt ca la școală/training. 🙂
 
@@ -266,7 +266,7 @@ Rata medie de participare este de 23%
 
 Brief-ul – temeviziunea ATOMIC rebranded, cu buget mic, are nevoie de o campanie care să îi aducă audiență.
 
-[![20100513_057](/wp-content/uploads/2010/05/20100513_057-399x300.jpg)](/wp-content/uploads/2010/05/20100513_057.jpg)
+[](/wp-content/uploads/2010/05/20100513_057.jpg)
 
 Ei sunt în spatele serviciului de modificare a vocii cu ajutorul unui calculator. 90% din utilizatori nu au recunoscut vocile prietenilor. Inclusiv un prieten de-al lui Dan și-a sunat nevasta, ea nu l-a recunscut și după 5 minute își dădeau întâlnire.
 
@@ -276,7 +276,7 @@ Ei au pus la punct switter.com – care interconectează SMS – Yahoo Messenger
 
 **Studiu de caz Petrom – Ana Bulgar**, Online Communication Manager Petrom, Mugur Patrascu, Managing Partner, iLeo
 
-[![20100513_058](/wp-content/uploads/2010/05/20100513_058-399x300.jpg)](/wp-content/uploads/2010/05/20100513_058.jpg)
+[](/wp-content/uploads/2010/05/20100513_058.jpg)
 
 Campania a fost destul de simplă – făceai un plin la benzinărie, apoi trimiteai un cod prin SMS. Obiectivul a fost să genereze consum repetat, similar cu Murfatlar. Au reactivat clienții care au participat doar o data, cu rata de răspuns de 33% în prima etapă, 21% în a doua etapă. Interesul scade, dacă nu câștigi 🙂
 

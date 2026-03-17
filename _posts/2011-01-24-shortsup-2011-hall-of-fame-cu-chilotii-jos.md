@@ -10,13 +10,12 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/01/IMG00033-20110122-2144-400x300.jpg
 ---
 
-![](/wp-content/uploads/2011/01/shortsup-logo-150x150.jpg)Am fost sâmbătă seară, mânat de o dorință de a viziona scurt-metraje simpatice, la ShortsUP Hall of Fame, adică unele din cele mai bune.
+Am fost sâmbătă seară, mânat de o dorință de a viziona scurt-metraje simpatice, la ShortsUP Hall of Fame, adică unele din cele mai bune.
 
 > Filmul de absolvire al lui Lars Von Trier, **Nocturne** (1980) e o mostra de tensiune narativa ce urma sa devina o marca a regizorului danez. **Duck Crossing** (regia Koldo Almandoz) aduce o viziune ironica, plina de referinte celebre si de staruri ca Marilyn Monroe, Clint Eastwood, Charlie Chaplin sau Emir Kusturica.
 
 Cu clipurile n-am nimic, nici cu conceptul evenimentului. Mi-au plăcut foarte mult cele două clipuri menționate mai sus, plus scurtmetrajul românesc **Poveste de la scara C**.
 
-![](/wp-content/uploads/2011/01/IMG00031-20110122-2029-400x300.jpg)
 
 Totuși, experiența evenimentului putea fi de 10 ori mai bună dacă:
 
@@ -28,7 +27,6 @@ Totuși, experiența evenimentului putea fi de 10 ori mai bună dacă:
 
 În momentul în care ceri 30 lei pentru intrarea la un set de scurt-metraje(nu discut de concert, pentru că nu sunt fan nici AB4, nici al concertelor pop-rock ținute în săli de spectacol cu scaune), creezi niște așteptări vis-a-vis de calitatea experienței pentru cei care vin să se uite la clipuri.
 
-![](/wp-content/uploads/2011/01/IMG00033-20110122-2144-400x300.jpg)
 
 Cred că pentru un eveniment reușit de proiecție trebuie să faci câteva verificări de rutină, care nu consumă prea mult timp, însă pot să facă diferența:
 

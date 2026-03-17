@@ -10,7 +10,6 @@ author: titus_capilnean
 
 Acum 3 ani de zile era 2007. Atunci am împlinit un an de stat în Bucureşti, după ce venisem în toamna lui 2006 la facultate tocmai din Baia Mare, unde mi-am petrecut primii 19 ani de existenţă. Scriu despre lucurile astea pentru că am preluat o mică leapşă de la Ionuţ, care se gândea cum să readucă în atenţie conţinutul mai vechi de pe blog. La mine nu e cazul să fac asta, pentru că blogul, în forma lui actuală nu are decât un anişor, acum în Iulie îl împlineşte.
 
-![](/wp-content/uploads/2010/06/n656500891_393736_4885-400x300.jpg)
 
 _*imaginea asta e superbă. păcat că mi-au furat bicicleta aia_
 

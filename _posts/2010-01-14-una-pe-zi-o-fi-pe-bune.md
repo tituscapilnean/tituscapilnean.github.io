@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/01/691-220x300.jpg
 ---
 
-[![691](/wp-content/uploads/2010/01/691-220x300.jpg)](/wp-content/uploads/2010/01/691.jpg)
+[](/wp-content/uploads/2010/01/691.jpg)
 
 sursa foto
 

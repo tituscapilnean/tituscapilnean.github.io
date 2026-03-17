@@ -14,6 +14,6 @@ Cred că e **primul e-book interactiv post-eveniment** pe care l-am văzut și c
 
 Vă las cu o captură și cu linkul.
 
-[![heineken 140](/wp-content/uploads/2013/04/heineken-140-400x245.png)](/2013/04/heineken-romania-inoveaza-follow-up-cu-e-book-interactiv/heineken-140/)
+[](/2013/04/heineken-romania-inoveaza-follow-up-cu-e-book-interactiv/heineken-140/)
 
 p.s. Da, recunosc, am luat bătaie în mod rușinos la fotbal. Mi-am dat seama ulterior de ce – aveam pantalonii negri și nu mă ”vedea” senzorul. Discriminare!

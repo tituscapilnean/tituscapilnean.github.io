@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2012/11/Experts2_Fotolia_8872776_XS-150x150.jpg
 ---
 
-[![experts puzzle](/wp-content/uploads/2012/11/Experts2_Fotolia_8872776_XS-150x150.jpg)](/2012/11/teapa-pe-facebook-cu-lupencea-alexandru-lucian/experts-puzzle/)Încă un articol despre cum poți să [te ferești de țepe](/2012/02/ghid-anti-teapa-pentru-clientii-de-online/), despre cum [se cumpără fani](/2012/04/s-a-dus-dracului-afacerea-cu-cumparatul-de-fani/) și ce consecințe are acțiunea asta asupra activității brandului pe Facebook. De data asta vorbim de alt tânăr care vinde fani la ofertă. Ce relevanță pentru brand, ce [ROI](/2012/11/cum-se-masoara-roi-ul-in-comunicare/)?
+[](/2012/11/teapa-pe-facebook-cu-lupencea-alexandru-lucian/experts-puzzle/)Încă un articol despre cum poți să [te ferești de țepe](/2012/02/ghid-anti-teapa-pentru-clientii-de-online/), despre cum [se cumpără fani](/2012/04/s-a-dus-dracului-afacerea-cu-cumparatul-de-fani/) și ce consecințe are acțiunea asta asupra activității brandului pe Facebook. De data asta vorbim de alt tânăr care vinde fani la ofertă. Ce relevanță pentru brand, ce [ROI](/2012/11/cum-se-masoara-roi-ul-in-comunicare/)?
 
 Cititori, faceți cunoștință cu **Bucur Cosmin**.
 

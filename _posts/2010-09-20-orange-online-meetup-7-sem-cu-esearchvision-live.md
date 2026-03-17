@@ -16,7 +16,7 @@ author: titus_capilnean
 
 Nu mai trec prin clasicele pasaje introductive, ci trec direct la subiect. Vorbim despre SEM, adică, pe românește, marketing pe și prin motoarele de căutare. O să povestim despre optimizare, how-to, pași cu un manager de vânzări(Amelie) și cu un account director(Hodalu).
 
-[![](/wp-content/uploads/2010/09/photo17.jpg)](/wp-content/uploads/2010/09/photo17.jpg)
+[](/wp-content/uploads/2010/09/photo17.jpg)
 
 Începem cu lucrurile de bază și aflăm ce e un search engine și cum putem să ne punem reclame pe el. Nu intru în detalii, pentru că se respectă standardele.
 

@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2013/06/big-brother-poster-150x150.jpg
 ---
 
-[![big-brother-poster](/wp-content/uploads/2013/06/big-brother-poster-150x150.jpg)](/2013/06/presa-americana-demasca-programul-prism-serviciile-colecteaza-date-de-pe-net/big-brother-poster/)Nu pune nimic pe internet de care nu ești 100% că ar fi ok să fie afișat în centrul orașului, pe un panou publicitar. Mai mult, nu trimite nimic pe mail sau nu vorbi nimic la telefon de care nu ești sigur că nu poate fi folosit împotriva ta. Big brother is watching din toate părțile, atât la noi, cât și afară.
+[](/2013/06/presa-americana-demasca-programul-prism-serviciile-colecteaza-date-de-pe-net/big-brother-poster/)Nu pune nimic pe internet de care nu ești 100% că ar fi ok să fie afișat în centrul orașului, pe un panou publicitar. Mai mult, nu trimite nimic pe mail sau nu vorbi nimic la telefon de care nu ești sigur că nu poate fi folosit împotriva ta. Big brother is watching din toate părțile, atât la noi, cât și afară.
 
 Diferența e că la americani mai intră presa în posesia unor mici dovezi de ascultări, de monitorizări sau data-sharing-uri făcute între diverse companii și serviciile lor. Citim în Wall Street Journal că organismul american de siguranță națională monitorizează cu sârg telefoanele mobile, emailurile și căutările pe internet, în scop anti-tero, încă din 2001. Washington Post dau chiar și numele programului – PRISM, împreună cu un grafic destul de sugestiv și lista companiilor care oferă acces la date: Microsoft, Yahoo, Google, Facebook, PalTalk, AOL, Skype, YouTube, Apple. Bine-nțeles, companiile neagă orice implicare în program și dau din umeri.
 

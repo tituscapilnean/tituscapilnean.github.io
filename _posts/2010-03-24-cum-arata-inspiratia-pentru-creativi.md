@@ -12,7 +12,7 @@ Fiecare mic designer își dorește să aibă lucrarea expusă într-un loc în 
 
 Una peste alta, e o super-ocazie să te faci cunoscut.
 
-[![finally-my-inspiration-is-revealed](/wp-content/uploads/2010/03/finally-my-inspiration-is-revealed-400x261.jpg)](/wp-content/uploads/2010/03/finally-my-inspiration-is-revealed.jpg)
+[](/wp-content/uploads/2010/03/finally-my-inspiration-is-revealed.jpg)
 
 Tocmai pentru că treburile astea sunt importante pentru creativi, Ursus sponsorizează un Outdoor în centru pentru cea mai creativă și inspirată lucrare. Brieful arată așa:
 

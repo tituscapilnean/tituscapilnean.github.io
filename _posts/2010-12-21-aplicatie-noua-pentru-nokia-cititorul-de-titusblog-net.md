@@ -10,7 +10,6 @@ author: titus_capilnean
 
 Acum o săptămână mi-am construit în cam 5 minute propria mea aplicație de OVI. Poți să o descarci de aici, dacă ai telefon cu Symbian și acces la OVI Store.
 
-![](/wp-content/uploads/2010/12/ovi-400x127.jpg)
 
 Dacă nu ai înțeles ce am zis în propoziția de dinainte, mai bine mă citești în continuare via web.
 

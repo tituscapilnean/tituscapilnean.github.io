@@ -10,7 +10,7 @@ author: titus_capilnean
 
 Cred că n-am mai primit o [leapșă de la Olimpiadele Comunicării](/2009/04/08/10-motive-sa-vii-la-olimpiade/), de anul trecut, când am fost foarte entuziasmat că am primit-o :). De data asta, am observat un ping-back în interfața de administrare a WordPress-ului. E de la Laura primit. Mi-a pasat o provocare la joacă – care sunt principiile după care mă ghidez în viață, după care mă orientez, etc.
 
-[![tumblr_kyb9q8cFRy1qzr04eo1_400](/wp-content/uploads/2010/02/tumblr_kyb9q8cFRy1qzr04eo1_400.png)](/wp-content/uploads/2010/02/tumblr_kyb9q8cFRy1qzr04eo1_400.png)
+[](/wp-content/uploads/2010/02/tumblr_kyb9q8cFRy1qzr04eo1_400.png)
 
 sursa foto
 

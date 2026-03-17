@@ -2,7 +2,7 @@
 title: "Vineri cu Titus și Zoran – episodul 9"
 date: 2025-10-03 13:00:00 +0300
 categories: [Podcast, Romania]
-tags: [sanatate, euroscepticism, geopolitica, economie, UE]
+tags: [sanatate, euroscepticism, geopolitica, economie, ue]
 author: titus_capilnean
 ---
 

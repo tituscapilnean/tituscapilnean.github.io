@@ -8,7 +8,6 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2012/06/rock-of-ages-912487l-150x150.jpg
 ---
 
-![](/wp-content/uploads/2012/06/rock-of-ages-912487l-150x150.jpg)
 
 Am fost aseară, grație Mediapro Distribution și Oxygen PR, filmul _Rock pentru totdeauna_ la Cinema City din Sun Plaza.
 

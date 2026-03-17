@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/05/facebookfeed.png
 ---
 
-[![](/wp-content/uploads/2011/05/facebookfeed.png)](/2011/05/facebook-a-schimbat-top-news-ca-sa-faca-mai-multi-bani/facebookfeed/)Hai să vă povestesc ce n-au înțeles ăștia de la MarketPilgrim.
+[](/2011/05/facebook-a-schimbat-top-news-ca-sa-faca-mai-multi-bani/facebookfeed/)Hai să vă povestesc ce n-au înțeles ăștia de la MarketPilgrim.
 
 Facebook a schimbat modul în care se afișează update-urile pe Top News și a limitat accesul predefinit doar la prietenii și paginile cu care interacționezi cel mai mult.
 

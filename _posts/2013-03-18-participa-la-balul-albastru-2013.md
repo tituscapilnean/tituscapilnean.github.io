@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2013/03/540773_482920898424523_88265667_n-150x150.png
 ---
 
-[![540773_482920898424523_88265667_n](/wp-content/uploads/2013/03/540773_482920898424523_88265667_n-150x150.png)](/2013/03/participa-la-balul-albastru-2013/540773_482920898424523_88265667_n/)Dacă lucrezi la companie care e pe profit, atunci probabil că n-ai niciun motiv să nu ceri o sponsorizare din partea ei pentru un bilet la **Balul Albastru 2013** și să contribui la sprijinirea tinerilor cu autism.
+[](/2013/03/participa-la-balul-albastru-2013/540773_482920898424523_88265667_n/)Dacă lucrezi la companie care e pe profit, atunci probabil că n-ai niciun motiv să nu ceri o sponsorizare din partea ei pentru un bilet la **Balul Albastru 2013** și să contribui la sprijinirea tinerilor cu autism.
 
 **Ce este Balul Albastru?**
 

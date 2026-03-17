@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/02/5-150x150.jpg
 ---
 
-[![](/wp-content/uploads/2011/02/5-150x150.jpg)](/wp-content/uploads/2011/02/5.jpg)Dacă n-ai citit anul trecut, în Decembrie 2010 am ținut un [training de comunicare online despre cum poate un ONG studențesc să folosească Social Media](/2010/12/concluziile-dupa-al-doilea-training-de-social-media-pe-care-l-am-tinut/) pentru a se face cât mai vizibil posibil pe internet și pentru a comunica și discuta cu studenții care petrec mult timp pe net.
+[](/wp-content/uploads/2011/02/5.jpg)Dacă n-ai citit anul trecut, în Decembrie 2010 am ținut un [training de comunicare online despre cum poate un ONG studențesc să folosească Social Media](/2010/12/concluziile-dupa-al-doilea-training-de-social-media-pe-care-l-am-tinut/) pentru a se face cât mai vizibil posibil pe internet și pentru a comunica și discuta cu studenții care petrec mult timp pe net.
 
 Atunci i-am învățat pe cei aproximativ 20 de participanți **cum să se joace cu Facebook, Twitter, cu blogul sau cu Youtube** și, cel mai important, **cum să le integreze** , ca să creeze o campanie online în adevăratul sens al cuvântului.
 

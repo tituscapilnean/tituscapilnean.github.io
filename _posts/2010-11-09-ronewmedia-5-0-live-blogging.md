@@ -15,7 +15,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/11/photo-8-400x300.jpg
 ---
 
-[![](/wp-content/uploads/2010/11/photo-1-150x150.jpg)](/wp-content/uploads/2010/11/photo-1.jpg)Azi toată ziua sunt la **RoNewMedia 5.0** , unul din evenimentele mari cu și pentru industria de online din România. M-au invitat cei de la BitDefender să particip și să comentez ceea ce vor spune invitații speciali de la Facebook, Yahoo, Google sau Orange, dar și ceilalți vorbitori de pe parcursul zilei.
+[](/wp-content/uploads/2010/11/photo-1.jpg)Azi toată ziua sunt la **RoNewMedia 5.0** , unul din evenimentele mari cu și pentru industria de online din România. M-au invitat cei de la BitDefender să particip și să comentez ceea ce vor spune invitații speciali de la Facebook, Yahoo, Google sau Orange, dar și ceilalți vorbitori de pe parcursul zilei.
 
 Premisa de la care pornim în **RoNewMedia 5.0** este că doar 2 site-uri din top 10 România sunt website-uri românești(sau care au început din România) – mai precis Trilulilu și Softpedia. Dar nu suntem singurii care au situația asta – majoritatea țărilor vest-europene au aceeași pondere.
 
@@ -33,7 +33,7 @@ Despre Check-in nu povestesc, vorbim după – urmează primul debate!
 >  Special guests: Mark Cowan – Facebook; Marvi Liao – Yahoo; Steffen Ehrhardt – Google; Patrice Slupowsky – Orange; Colin Kinsella – Digitas; Stefan Iordache – Leo Burnett; Mihai Trandafir – Universal McCann; Teddy Dumitrescu – Publicis; Dan Balotescu – Media Investment; Orlando Nicoara – Apropo Media; Calin Rotarus – ARBOInteractive, Mihai Fanache – Mediacafe.  
 >  Host: Dragos Stanca – RoNewMedia
 
-[![](/wp-content/uploads/2010/11/photo-2-400x300.jpg)](/wp-content/uploads/2010/11/photo-2.jpg)
+[](/wp-content/uploads/2010/11/photo-2.jpg)
 
 Începem RoNewMedia 5.0 cu un panel plin de nume importante. Din start sunt curios care va fi abordarea, pentru că titlul mi se pare tipic pentru industria de la noi – lupta. Chiar aseară discutam cu cineva – n-ar trebui să ne luptăm, ci ar trebui să lucrăm împreună.
 
@@ -85,7 +85,7 @@ Pauză – 20 minute, să mai recuperăm din întârziere.
 > 11:00 – 11:30 Special presentation: Mark Cowan, Facebook: “From website to platform”  
 >  11:30 – 11:45 Q&A Session
 
-[![](/wp-content/uploads/2010/11/photo-3-400x300.jpg)](/wp-content/uploads/2010/11/photo-3.jpg)
+[](/wp-content/uploads/2010/11/photo-3.jpg)
 
 Facebook e o mișcare, nu un website. E o comunitate. Și angajează. Facebook.com/Careers
 
@@ -119,7 +119,7 @@ Treaba e în felul următor – nu trebuie să așteptăm Facebook să facă ino
 
 > 11:45 – 12:15 Keynote Presentation: Colin Kinsella, Digitas North America
 
-[![](/wp-content/uploads/2010/11/photo-4-400x300.jpg)](/wp-content/uploads/2010/11/photo-4.jpg)
+[](/wp-content/uploads/2010/11/photo-4.jpg)
 
 Urmează Colin. Are 25 de ani de experiență și a zis că toată publicitatea va ajunge să fie digitală. Ei s-au orinetat acum și pe mobile.
 
@@ -142,7 +142,7 @@ Caracteristicile de mai sus se suprapun din multe puncte de vedere. Dacă îți 
 > 12:15 – 12:45 Special Presentation: Patrice Slupowski, Orange: “New media as a challenge on 4 screens”  
 >  12:45-13:00 Q&A Session
 
-[![](/wp-content/uploads/2010/11/photo-5-400x300.jpg)](/wp-content/uploads/2010/11/photo-5.jpg)
+[](/wp-content/uploads/2010/11/photo-5.jpg)
 
 Sărim peste prezentarea de companie.
 
@@ -171,7 +171,7 @@ Potol.
 
 > 14:15 – 14:45 Keynote Presentation: Marvin Liao, Yahoo
 
-[![](/wp-content/uploads/2010/11/photo-6-400x300.jpg)](/wp-content/uploads/2010/11/photo-6.jpg)
+[](/wp-content/uploads/2010/11/photo-6.jpg)
 
 Marvin a vorbit la RoNoeMedia în 2008. De atunci s-au schimbat foarte multe lucruri. Online-ul încă e în creștere, deci avem loc în piață. Display-ul n-a murit, va fi locul în care se poate inova. La fel și SEM, vor apărea din ce în ce mai multe posibilități de promovare.
 
@@ -196,7 +196,7 @@ Industria o să crească mai mult, atunci când vom învăța să privim dincolo
 
 > 15:30 – 16:00 Keynote Presentation: Timothy Bataillie, Netlog
 
-[![](/wp-content/uploads/2010/11/photo-7-400x300.jpg)](/wp-content/uploads/2010/11/photo-7.jpg)
+[](/wp-content/uploads/2010/11/photo-7.jpg)
 
 Tim începe prezentarea despre Netlog. Pare o platformă interesantă de care am auzit prea puțin.
 
@@ -219,7 +219,7 @@ Păcat că n-au foarte mulți useri în România sau în lume. Nu se pot bate cu
 > 16:00 – 16:30 Special Presentation: John Hrvatin, Microsoft  
 >  16:30 – 16:45 Q&A Session
 
-[![](/wp-content/uploads/2010/11/photo-8-400x300.jpg)](/wp-content/uploads/2010/11/photo-8.jpg)
+[](/wp-content/uploads/2010/11/photo-8.jpg)
 
 John ne vorbește de inovația care vine din experiențele pe care ai cu cei din jurul tău – nice video.
 

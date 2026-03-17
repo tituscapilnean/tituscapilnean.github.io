@@ -10,7 +10,7 @@ author: titus_capilnean
 #   - [iframe] http://www.slideshare.net/slideshow/embed_code/8197614
 ---
 
-[![](/wp-content/uploads/2011/05/mkt24t.jpg)](/2011/05/prezentarea-perfecta-ce-trebuie-sa-contina/mkt24t/)Cei care mă cunosc bine știu că îmi place mult să vorbesc în public. Cu cât audiența e mai mare și mai avizată, cu atât îmi place mai mult, pentru că **trec dincolo de monolog și pot să port o conversație cu sala**. Așa se poate scoate maximul dintr-o prezentare. Mai sunt câteva reguli mici, de bază(număr de cuvinte pe slide, număr de slideuri, asocieri cuvinte-imagini), care fixeaza idei, însa despre asta, într-un alt articol.
+[](/2011/05/prezentarea-perfecta-ce-trebuie-sa-contina/mkt24t/)Cei care mă cunosc bine știu că îmi place mult să vorbesc în public. Cu cât audiența e mai mare și mai avizată, cu atât îmi place mai mult, pentru că **trec dincolo de monolog și pot să port o conversație cu sala**. Așa se poate scoate maximul dintr-o prezentare. Mai sunt câteva reguli mici, de bază(număr de cuvinte pe slide, număr de slideuri, asocieri cuvinte-imagini), care fixeaza idei, însa despre asta, într-un alt articol.
 
 Vinerea trecută am participat la **Marketing 24/7** , unde, în prima parte a zilei, am vorbit despre online și social media. Mai precis, ideea principală a prezentării mele a fost să **trag un fir de la utilizatorii de internet la antreprenor/proprietar de mică afacere în oraș de provincie**.
 

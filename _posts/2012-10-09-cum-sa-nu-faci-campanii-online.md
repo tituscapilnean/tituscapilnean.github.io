@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2012/10/sales-funnel-150x150.png
 ---
 
-[![](/wp-content/uploads/2012/10/sales-funnel-150x150.png)](/wp-content/uploads/2012/10/sales-funnel.png)Acum ceva vreme am fost la o prezentare de-a lui Doru Panaitescu, în care ne-a povestit, printre altele, și despre câteva moduri în care poți să faci praf o campanie online. Mi-am permis să le pun pe blog, alături de câteva completări din proprie experiență.
+[](/wp-content/uploads/2012/10/sales-funnel.png)Acum ceva vreme am fost la o prezentare de-a lui Doru Panaitescu, în care ne-a povestit, printre altele, și despre câteva moduri în care poți să faci praf o campanie online. Mi-am permis să le pun pe blog, alături de câteva completări din proprie experiență.
 
   1. Buget dupa ureche – am auzit că 1000 EUR e ok
   2. Site-uri alese în mediaplan dupa ureche, pentru că alea îți plac ție/șefului

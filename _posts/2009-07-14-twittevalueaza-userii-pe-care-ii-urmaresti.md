@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2009/07/twitter-fail-whale-400x273.png
 ---
 
-![twitter-fail-whale](/wp-content/uploads/2009/07/twitter-fail-whale-400x273.png)  
+  
 sursa
 
 Mi-am făcut prima dată cont de twitter în Noiembrie 2008. Am început să conversez serios însă abia de prin Aprilie. În momentul acesta am în jur de 700 de updates, peste 100 de oameni pe care îi urmăresc și în jur de 250 de oameni care mă urmăresc.

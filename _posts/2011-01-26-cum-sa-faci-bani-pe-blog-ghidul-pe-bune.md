@@ -24,7 +24,7 @@ Să trecem, deci, la lucruri mai serioase. Am lucrat mai bine de un an și jumă
 
 **Pe cine contactez de la toate acele agenţii ca să le spun “uite am şi eu blogul acesta, scriu în principal despre asta şi asta, poate mă aveţi în vedere pentru vreo campanie”?**
 
-![](/wp-content/uploads/2011/01/agency1-212x300.jpg)E simplu, iei legătura cu un account manager dintr-o agenție sau cu un Online PR/Manager. Ia [lista de agenții care fac campanii pe bloguri](/2011/01/cine-face-campanii-pe-bloguri-in-romania/) sau vorbește cu un consultant din aceeași listă. Prima întrebare pe care poți să i-o pui este: ”Dacă mi-ai citit blogul, ce părere ai, s-ar potrivi pe campaniile pe care le derulezi tu/le derulați voi?”. De aici poți să primești primul feedback în legătură cu blogul tău și campaniile online.
+E simplu, iei legătura cu un account manager dintr-o agenție sau cu un Online PR/Manager. Ia [lista de agenții care fac campanii pe bloguri](/2011/01/cine-face-campanii-pe-bloguri-in-romania/) sau vorbește cu un consultant din aceeași listă. Prima întrebare pe care poți să i-o pui este: ”Dacă mi-ai citit blogul, ce părere ai, s-ar potrivi pe campaniile pe care le derulezi tu/le derulați voi?”. De aici poți să primești primul feedback în legătură cu blogul tău și campaniile online.
 
 De regulă, ai mari șanse să candidezi la campanii dacă **nu ai înjurat pe blog** , dacă **argumentezi civilizat** și dacă **scrii corect**. Asta dincolo de trafic, de care vorbim mai jos.
 
@@ -38,7 +38,7 @@ De obicei, se cere trafic(vizitatori unici/zi, vizitatori pe lună, afișări/zi
 
 **Dacă îi interesează traficul, care e procedura normală pentru a le demonstra câţi vizitatori am? Ne luăm după trafic.ro, Analytics sau WordPress Stats?**
 
-**![](/wp-content/uploads/2011/01/bucuresti_trafic-150x150.jpg)**
+****
 
 Cam orice tip de statistici generate de un site terț sunt acceptate ca să demonstrezi traficul. Totuși, Google Analytics e opțiunea 1, Trafic.ro pe 2 și apoi celelalte date de trafic. Nu o să accepte mai nimeni WordPress Stats, pentru că nu oferă date complete.
 

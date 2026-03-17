@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2012/04/work-for-free-150x150.png
 ---
 
-[![](/wp-content/uploads/2012/04/work-for-free-150x150.png)](/wp-content/uploads/2012/04/work-for-free.png)Citeam pe la prânz un articol despre cum să faci bani puțini muncind mult în online și nu numai. Problema de bază, pe care mulți o reclamă, însă puțini vorbesc despre ea, este că oamenii aflați la început pot să își ia țeapă dacă nu știu cât să ceară pe servicul pe care îl oferă:
+[](/wp-content/uploads/2012/04/work-for-free.png)Citeam pe la prânz un articol despre cum să faci bani puțini muncind mult în online și nu numai. Problema de bază, pe care mulți o reclamă, însă puțini vorbesc despre ea, este că oamenii aflați la început pot să își ia țeapă dacă nu știu cât să ceară pe servicul pe care îl oferă:
 
   * articol pe blog
   * design

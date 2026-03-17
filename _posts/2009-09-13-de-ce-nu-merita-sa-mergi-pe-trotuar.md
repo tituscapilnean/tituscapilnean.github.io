@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2009/09/IMG_0502.JPG
 ---
 
-[![IMG_0502](/wp-content/uploads/2009/09/IMG_0502.JPG)](/wp-content/uploads/2009/09/IMG_0502.JPG)
+[](/wp-content/uploads/2009/09/IMG_0502.JPG)
 
 _– poza e făcută pe Camil Ressu – undeva pe lângă Amiral – un mare canal scos în afară pe pista de bicle_
 

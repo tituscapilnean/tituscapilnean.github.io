@@ -3,7 +3,7 @@
 title: Digital Communications & Social Media as Investor Relations tools
 date: 2025-05-05 02:43:40 +0000
 categories: [Strategy, English]
-tags: [investor relations, digital marketing, social media]
+tags: [investor relations, digital marketing, social-media]
 author: Titus
 ---
 

@@ -8,7 +8,6 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/06/TerryBorder19-400x258.jpg
 ---
 
-![](/wp-content/uploads/2010/06/TerryBorder19-400x258.jpg)
 
 În puterea nopţii i+a venit curierul la uşă. Dl. Lămâie a deschis uşa entuziasmat şi a semnat pentru pachet.
 

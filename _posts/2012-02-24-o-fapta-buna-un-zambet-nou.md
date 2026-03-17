@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2012/02/make-you-smile-150x150.jpg
 ---
 
-[![](/wp-content/uploads/2012/02/make-you-smile-150x150.jpg)](/wp-content/uploads/2012/02/make-you-smile.jpg)De cele mai multe ori poți să faci fapte bune cu eforturi mici. Un ajutor, un cuvânt bun, o încurajare, o atenție sau un **zâmbet** pot să facă diferența în cazurile cele mai neașteptate.
+[](/wp-content/uploads/2012/02/make-you-smile.jpg)De cele mai multe ori poți să faci fapte bune cu eforturi mici. Un ajutor, un cuvânt bun, o încurajare, o atenție sau un **zâmbet** pot să facă diferența în cazurile cele mai neașteptate.
 
 Amintește-ți de câte ori ai fost obosit, trist sau stresat. Ce te-a scos cel mai bine din starea de rău? Ce ți-a făcut bine? **Zâmbetul** unui prieten, zâmbetul persoanei iubite. **Un zâmbet** cald te face să uiți de probleme și să privești lumea cu mai mult optimism.
 

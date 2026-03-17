@@ -66,11 +66,10 @@ Nu știu, încă nu am citit programul, dar îmi dau seama că nu o să mai pot 
 
 Agregarea numărului de măsuri la nivel de categorie susține suspiciunea din numărarea cuvintelor că principalele obiective ale USR Plus ar fi să nu mai murim în spitale și să nu mai fim săraci, după cum se poate vedea în poza 1.
 
-![](/wp-content/uploads/2020/11/123135118_10217625302965713_6627157642811246070_n.jpg)
 
 Puncte și pentru asta. Dar corelarea numărului de măsuri cu numărul de cuvinte parcă adâncește îngrijorarea privind înțelegerea comună a conceptelor între autori.
 
-În poza doi e indicatorul pe care l-am denumit ”gradul de detaliere al măsurilor”, practic numărul de caractere din textul angajamentului împărțit la numărul de măsuri din angajament. Dacă titlul are conotații negative pentru măsurile care beneficiază de mai puține cuvinte, ar putea fi privit și invers, ca productivitate a cuvintelor în măsuri. Nu judec.[![](/wp-content/uploads/2020/11/123166267_10217625303765733_5104781941390380430_o.jpg)](/wp-content/uploads/2020/11/123166267_10217625303765733_5104781941390380430_o.jpg)
+În poza doi e indicatorul pe care l-am denumit ”gradul de detaliere al măsurilor”, practic numărul de caractere din textul angajamentului împărțit la numărul de măsuri din angajament. Dacă titlul are conotații negative pentru măsurile care beneficiază de mai puține cuvinte, ar putea fi privit și invers, ca productivitate a cuvintelor în măsuri. Nu judec.[](/wp-content/uploads/2020/11/123166267_10217625303765733_5104781941390380430_o.jpg)
 
 Cu o medie de 2400 de caractere folosite pentru a lista o măsură într-un angajament și o mediană de 2100, limita de jos o reprezintă angajamentul ”Stimulente pentru a ne menține sănătoși, nu bolnavi”. Acesta folosește aproape 500 de caractere pentru a pregăti și lista 18 măsuri, care cuprind programe, finanțări, acțiuni legislative, acțiuni de comunicare, acțiuni executive. Limita de sus e dată de ”Fără gunoaie în natură” – o singură măsură descrisă si articulată detaliat, în aproape 6000 de caractere. Reagregat la nivel de categorii, Sănătate pentru toți este de departe cea mai concisă.
 
@@ -116,11 +115,10 @@ Documentul PDF îl percep ca pe un document programatic mai serios, spre deosebi
 
 Mi-ar fi plăcut să văd o aplicare mai riguroasă a unei structuri clare. Mi-ar fi plăcut să văd aceeași terminologie în toate capitolele. Cred că folosirea unui standard comun ar fi ajutat cititorul prin oferirea de predictibilitate și ar putea ajuta și când (sau dacă) va veni implementarea programului, prin identificarea ușoară a elementelor de acțiune îndeplinite, a obiectivelor atinse și așa mai departe. Elementul de tracking al unui plan e important și pentru implementator, și pentru manager și, fiind vorba de un program de guvernare, și pentru cei afectați de măsurile/propunerile/direcțiile/acțiunile cuprinse în el.
 
-![](/wp-content/uploads/2020/11/123136935_10217625304325747_5103846055637050631_o.jpg)
 
 Pe partea numărului de măsuri (sau mă rog, a elementelor de acțiune de cel mai jos nivel), poza 3 (sus) arată o situație ceva mai echilibrată decât în cazul programului de pe website. Capitolul Sănătate e responsabil pentru doar 15% din cele aproximativ 1200 de măsuri propuse, spre deosebire de proporția de 35% din 160 de măsuri în cazul website-ului.
 
-Locurile următoare din PDF arată o posibilă discrepanță în ce privește volumul între domeniile pentru care s-au elaborat măsuri și ce a fost ales pentru comunicare pe website. După Sănătate, cele mai proeminente capitole la numărul de măsuri sunt Politica Externă, Agricultura și Mediu. Totuși, recunosc că e nevoie de o mapare între angajamentele de pe website și capitolele din pdf înainte de a spune că website-ul nu reflectă programul.[![](/wp-content/uploads/2020/11/123163790_10217625305005764_3481196437064229636_o-1024x588.jpg)](/wp-content/uploads/2020/11/123163790_10217625305005764_3481196437064229636_o.jpg)
+Locurile următoare din PDF arată o posibilă discrepanță în ce privește volumul între domeniile pentru care s-au elaborat măsuri și ce a fost ales pentru comunicare pe website. După Sănătate, cele mai proeminente capitole la numărul de măsuri sunt Politica Externă, Agricultura și Mediu. Totuși, recunosc că e nevoie de o mapare între angajamentele de pe website și capitolele din pdf înainte de a spune că website-ul nu reflectă programul.[](/wp-content/uploads/2020/11/123163790_10217625305005764_3481196437064229636_o.jpg)
 
 În ce privește gradul de detaliere al măsurilor, ilustrat în poza 4 (sus) ca numărul de pagini dedicat capitolului împărțit la numărul de măsuri identificate, mă bucur să spun că Sănătatea își pierde locul de worst offender (sau most efficient) în favoarea capitolului pe Agricultură, care listează 106 măsuri în 12 pagini. Mai mult, sunt alte 4 capitole care au o densitate mai mare de măsuri per pagină decât Sănătatea! Cel mai detaliat capitol din punctul acesta de vedere este Tineret care, în 13 pagini, reușește să articuleze tot atâtea măsuri.
 

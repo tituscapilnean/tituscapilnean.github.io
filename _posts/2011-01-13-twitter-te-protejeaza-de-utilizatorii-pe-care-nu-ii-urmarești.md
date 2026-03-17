@@ -10,7 +10,6 @@ author: titus_capilnean
 
 Dacă pe Twitter ai intrat cumva pe linkul direct al unui tweet care conține un video sau o fotografie, atunci, în cazul în care nu urmărești persoana respectivă, nu ți se afișează imediat conținutul media.
 
-![](/wp-content/uploads/2011/01/twitter-media-400x249.jpg)
 
 Treaba asta am văzut-o aici(pentru cei care nu-l urmăresc pe @psaico).
 

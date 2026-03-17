@@ -32,7 +32,6 @@ Cercetarea efectuată cu ocazia redactării acestei lucrări urmărește două t
 
 În cadrul acestor campanii, am construit și aplicat un model circular ce servește drept cadru pentru orice campanie de relații publice în mediul online și poate fi folosit pentru construcția prezenței online 3.0:
 
-![](/wp-content/uploads/2020/06/Screen-Shot-2020-06-07-at-9.27.32-PM-341x300.png)
 
 _Figura nr. 3 – Modelul de campanie de relații publice_
 
@@ -40,7 +39,6 @@ Acest model asigură tranziția prin fiecare dintre etapele unei campanii de com
 
 Un ultim aspect de luat în calcul în mediul online, înainte să discutăm particularizat de fiecare element, este durata de viață a informației pe Internet. Diferența majoră dintre toate celelalte tipuri de comunicare și mediul online este că în online nimic nu dispare definitiv, totul poate fi accesat ulterior, spre deosebire de TV, unde dacă ai pierdut reclama, nu te poți întoarce la ea, sau promovarea prin fluturași, a căror durată de viață este dată de distanța până la primul coș de gunoi. Totuși, cu toate că informația poate fi accesată ulterior, ea nu stă în prim plan decât o perioadă limitat. În sensul ilustrării aceste deprecieri informaționale, am realizat o scară de depreciere pentru câteva din canalele principale din țara noastră.
 
-![](/wp-content/uploads/2020/06/Screen-Shot-2020-06-07-at-9.57.52-PM-400x287.png)
 
 _Figura nr. 4 – Scara de depreciere a informației pe Internet_
 
@@ -74,7 +72,6 @@ Strategia a fost teoretizată și definită ca fiind elementul de legătură în
 
 Strategia de relații publice online nu este cu nimic diferită, ea compunându-se din aceleași elemente:
 
-![](/wp-content/uploads/2020/06/Screen-Shot-2020-06-07-at-9.59.34-PM-400x240.png)
 
 _Figura nr. 5 – Întrebările ajutătoare pentru construcția strategiei de comunicare_
 
@@ -202,7 +199,6 @@ De regulă, campania de relații publice depinde de pagina de pornire a website-
 
 După cum se poate observa în figura de mai jos, am luat în calcul toate aceste elemente în momentul în care am realizat website-ul de campanie pentru TEDxBucharest 2009.
 
-![](/wp-content/uploads/2020/06/Screen-Shot-2020-06-07-at-10.02.25-PM-400x228.png)
 
 _Figura nr. 6 – Captură website www.tedxbucharest.com/2009_
 
@@ -237,7 +233,6 @@ Facebook este cel mai mare canal de comunicare online din România la ora actual
 
 Exemplu:
 
-![](/wp-content/uploads/2020/06/Screen-Shot-2020-06-07-at-10.04.15-PM-330x300.png)
 
 _Figura nr.7 – Captură Facebook.com – pagina de concurs Snow Explosion_
 
@@ -249,7 +244,6 @@ Următorul canal pe care îl luăm în calcul este Twitter, care deși nu are o 
 
 În România sunt undeva la 55.000 de conturi de Twitter. Recomand Twitter Advanced Search( http://search.twitter.com ) – unde se introduc cuvinte cheie legate de întreprindere, de produse sau de servicii, respective de categorie. După o perioadă de observație de minim două săptămâni, stabilim care sunt subiectele principale pe care le abordează oamenii în relația cu obiectivele tale de comunicare și alegem direcția de comunicare. Pentru Twitter recomandăm să existe un rezumat de o frază pentru campania planificată
 
-![](/wp-content/uploads/2020/06/Screen-Shot-2020-06-07-at-10.04.53-PM-400x100.png)
 
 _Figura nr.8 – Captură Twitter.com – contul @TEDxBucharest_
 
@@ -265,7 +259,6 @@ La final acordăm premiile, tragem concluziile și evaluăm întregul demers de 
 
 Exemplu:
 
-![](/wp-content/uploads/2020/06/Screen-Shot-2020-06-07-at-10.05.37-PM-400x212.png)
 
 _Figura nr. 9 – Captura Twitter.com – campania #mindworks pentru TEDxBucharest 2010_
 
@@ -275,7 +268,6 @@ Acest canal poate fi folosit pentru comunicarea întreprinderilor în foarte mul
 
 Un exemplu interesant de campanie de relații publice online este „De ce iubesc România” – lansată de trustul Media Pro în noiembrie 2011. Această campanie a folosit clipurile înregistrate de utilizatori români de Internet ca element central al campaniei de comunicare realizată în colaborare cu Graffiti BBDO. De observat și în acest caz faptul că Youtube este doar un vehicul de stocare, website-ul fiind canalul principal de comunicare online, iar Facebook canalul secundar cu cea mai mare importanță(11.000 de fani). O altă campanie care a utilizat platforma Youtube drept canal secundar este Rompetrol – Efix, pentru care au construit o prezență dedicată pe platforma de conținut video, reușind, cu ajutorul conținutului, să adune nu mai puțin de 881.000 de vizualizări pentru clipurile proprii.
 
-![](/wp-content/uploads/2020/06/Screen-Shot-2020-06-07-at-10.06.10-PM-376x300.png)
 
 _Figura nr. 10 – Captura canal Youtube EFIX 2010_
 
@@ -327,13 +319,11 @@ _Google Search & Analytics & Alerts_
 
 Motoarele de căutare trebuie să fie un instrument de monitorizare pe care specialistul în relații publice să îl folosească frecvent. Procesul este simplu – se caută periodic cuvinte cheie legate de marca, produsul și serviciul în cauză și se înregistrează modificările notabile din punct de vedere al aparițiilor pe website-uri și bloguri. Dacă se derulează o campanie exclusiv pe bloguri, se poate folosi funcția de Blogsearch a Google și se vor afișa doar rezultatele de pe bloguri.
 
-![](/wp-content/uploads/2020/06/Screen-Shot-2020-06-07-at-10.08.29-PM-337x300.png)
 
 _Figura nr. 11 – Captură căutare Snow Explosion – 12.6.2012_
 
 Al doilea instrument oferit în mod gratuit de către Google este sistemul de măsurare a traficului de pe website-uri și bloguri. Specialistul de relații publice trebuie să colecteze aceste date și să ofere rapoarte în baza lor. Deși ușor de instalat și configurat, se poate apela la un specialist în cod HTML pentru implementarea rapidă a script-ului de urmărire a traficului.
 
-![](/wp-content/uploads/2020/06/Screen-Shot-2020-06-07-at-10.09.07-PM-400x161.png)
 
 _Figura nr. 12 – Captură Google Analytics – TEDxBucharest_
 
@@ -343,7 +333,6 @@ _Facebook Search & Insights_
 
 Și Facebook oferă două unelte extrem de utile în lucrul cu platforma, din punct de vedere al monitorizării și raportării. Canalele proprii (aplicații sau pagini de marcă/produs/serviciu) se monitorizează cu ajutorul Facebook Insights, o serie de unelte care permit administratorului să țină pasul cu accesările, tipul de conținut care funcționează cel mai bine, respectiv cel care nu funcționează, cât de mult s-au răspândit mesajele. Pentru monitorizarea altor apariții decât cele de pe canalele proprii de pe Facebook, putem folosi motorul de căutare intern. Cu toate că nu acoperă toate conturile (fiind limitat de setările fiecărui cont), se pot detecta conversații care se întâmplă pe alte canale și se poate interveni la nevoie.
 
-![](/wp-content/uploads/2020/06/Screen-Shot-2020-06-07-at-10.09.49-PM-400x251.png)
 
 _Figura nr. 9 – Captură Facebook Insights – http://fb.me/tituscapilnean.ro_
 

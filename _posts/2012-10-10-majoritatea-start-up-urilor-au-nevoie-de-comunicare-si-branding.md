@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2012/10/467-l-150x150.jpg
 ---
 
-[![](/wp-content/uploads/2012/10/467-l-150x150.jpg)](/wp-content/uploads/2012/10/467-l.jpg)Asta am observat, cât timp m-am mai învârtit pe lângă companii în dezvoltare (ca să nu le zic la început). Numitorul comun a fost de o lipsă/prioritate redusă a activității de comunicare și branding ”corporate”. Pur și simplu, lăsau treaba asta pe ultimul loc – logo, site, mesaje de brand, un pic de self promo, un pic de PR – și nu creșteau așa de repede pe cât ar fi putut.
+[](/wp-content/uploads/2012/10/467-l.jpg)Asta am observat, cât timp m-am mai învârtit pe lângă companii în dezvoltare (ca să nu le zic la început). Numitorul comun a fost de o lipsă/prioritate redusă a activității de comunicare și branding ”corporate”. Pur și simplu, lăsau treaba asta pe ultimul loc – logo, site, mesaje de brand, un pic de self promo, un pic de PR – și nu creșteau așa de repede pe cât ar fi putut.
 
 Ceea ce urmează mai jos aplică mai ales la start-up-urile de online, care ar trebui să fie cu atât mai atente la prezența lor digitală.
 

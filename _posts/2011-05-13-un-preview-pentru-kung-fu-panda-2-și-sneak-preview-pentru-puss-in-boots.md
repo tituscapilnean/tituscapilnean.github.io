@@ -26,7 +26,7 @@ Kung Fu Panda 2 from Titus Capilnean on Vimeo.
 
 _Vocile_ : Jack Black, **Angelina Jolie** , **Dustin Hoffman** , **Jackie Chan** , Seth Rogen, **Lucy Liu** , David Cross, James Hong, Gary Oldman, Michelle Yeoh, **Jean-Claude Van Damme** , Victor Garber
 
-[![](/wp-content/uploads/2011/05/mantis-150x150.jpg)](/2011/05/un-preview-pentru-kung-fu-panda-2-%c8%99i-sneak-preview-pentru-puss-in-boots/mantis/)
+[](/2011/05/un-preview-pentru-kung-fu-panda-2-%c8%99i-sneak-preview-pentru-puss-in-boots/mantis/)
 
 Ah, da și personajul meu preferat e deja **Călugărițul** :
 
@@ -38,23 +38,23 @@ Stilul tradiţional al Călugăriţei e rapid, calculat, prompt şi precis. Stat
 
 Restul de personaje:
 
-[![mantis](/wp-content/uploads/2011/05/mantis-150x150.jpg)](/2011/05/un-preview-pentru-kung-fu-panda-2-%c8%99i-sneak-preview-pentru-puss-in-boots/mantis/)
+[](/2011/05/un-preview-pentru-kung-fu-panda-2-%c8%99i-sneak-preview-pentru-puss-in-boots/mantis/)
 
-[![image001](/wp-content/uploads/2011/05/image001-150x150.jpg)](/2011/05/un-preview-pentru-kung-fu-panda-2-%c8%99i-sneak-preview-pentru-puss-in-boots/image001/)
+[](/2011/05/un-preview-pentru-kung-fu-panda-2-%c8%99i-sneak-preview-pentru-puss-in-boots/image001/)
 
-[![image003](/wp-content/uploads/2011/05/image003-150x150.jpg)](/2011/05/un-preview-pentru-kung-fu-panda-2-%c8%99i-sneak-preview-pentru-puss-in-boots/image003-2/)
+[](/2011/05/un-preview-pentru-kung-fu-panda-2-%c8%99i-sneak-preview-pentru-puss-in-boots/image003-2/)
 
-[![image005](/wp-content/uploads/2011/05/image005-150x150.jpg)](/2011/05/un-preview-pentru-kung-fu-panda-2-%c8%99i-sneak-preview-pentru-puss-in-boots/image005/)
+[](/2011/05/un-preview-pentru-kung-fu-panda-2-%c8%99i-sneak-preview-pentru-puss-in-boots/image005/)
 
-[![image007](/wp-content/uploads/2011/05/image007-150x150.jpg)](/2011/05/un-preview-pentru-kung-fu-panda-2-%c8%99i-sneak-preview-pentru-puss-in-boots/image007/)
+[](/2011/05/un-preview-pentru-kung-fu-panda-2-%c8%99i-sneak-preview-pentru-puss-in-boots/image007/)
 
-[![image011](/wp-content/uploads/2011/05/image011-150x150.jpg)](/2011/05/un-preview-pentru-kung-fu-panda-2-%c8%99i-sneak-preview-pentru-puss-in-boots/image011/)
+[](/2011/05/un-preview-pentru-kung-fu-panda-2-%c8%99i-sneak-preview-pentru-puss-in-boots/image011/)
 
-[![image013](/wp-content/uploads/2011/05/image013-150x150.jpg)](/2011/05/un-preview-pentru-kung-fu-panda-2-%c8%99i-sneak-preview-pentru-puss-in-boots/image013/)
+[](/2011/05/un-preview-pentru-kung-fu-panda-2-%c8%99i-sneak-preview-pentru-puss-in-boots/image013/)
 
-[![image015](/wp-content/uploads/2011/05/image015-150x150.jpg)](/2011/05/un-preview-pentru-kung-fu-panda-2-%c8%99i-sneak-preview-pentru-puss-in-boots/image015/)
+[](/2011/05/un-preview-pentru-kung-fu-panda-2-%c8%99i-sneak-preview-pentru-puss-in-boots/image015/)
 
-[![113843149TT002_Puss_in_Boot](/wp-content/uploads/2011/05/113843149TT002_Puss_in_Boot-150x150.jpg)](/2011/05/un-preview-pentru-kung-fu-panda-2-%c8%99i-sneak-preview-pentru-puss-in-boots/113843149tt002_puss_in_boot/)
+[](/2011/05/un-preview-pentru-kung-fu-panda-2-%c8%99i-sneak-preview-pentru-puss-in-boots/113843149tt002_puss_in_boot/)
 
 Ție care îți place?
 
@@ -62,4 +62,4 @@ _p.s. toate informațiile astea le-am obținut de la Ro Film, pentru că am înt
 
 _p.p.s uite și sneak preview-ul la Puss in Boots, revin cu detalii în alt articol:_
 
-_[![](/wp-content/uploads/2011/05/113843149TT002_Puss_in_Boot-400x270.jpg)](/2011/05/un-preview-pentru-kung-fu-panda-2-%c8%99i-sneak-preview-pentru-puss-in-boots/113843149tt002_puss_in_boot/)_
+_[](/2011/05/un-preview-pentru-kung-fu-panda-2-%c8%99i-sneak-preview-pentru-puss-in-boots/113843149tt002_puss_in_boot/)_

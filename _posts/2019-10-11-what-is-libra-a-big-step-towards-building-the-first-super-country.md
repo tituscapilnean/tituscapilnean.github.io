@@ -2,7 +2,7 @@
 title: "What is Libra: a big step towards building the first super-country"
 date: 2019-10-11 10:00:00 +0000
 categories: [English, Technology, Blockchain]
-tags: [Libra, cryptocurrency, Facebook, fintech, regulation]     
+tags: [Libra, cryptocurrency, facebook, fintech, regulation]     
 author: Titus   
 ---
 

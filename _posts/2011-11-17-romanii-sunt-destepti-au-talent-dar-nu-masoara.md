@@ -10,7 +10,7 @@ author: titus_capilnean
 
 Am dat din întâmplare peste campania Rom Tricolor – Românii sunt deștepți, prin care își propun(curajos, zic eu) să schimbe rezultatele predictive ale lui Google în marile limbi de circulație internațională, pentru că în momentul ăsta nu ne avantajază deloc:
 
-[![](/wp-content/uploads/2011/11/romaniisuntdestepti-400x245.png)](/wp-content/uploads/2011/11/romaniisuntdestepti.png)
+[](/wp-content/uploads/2011/11/romaniisuntdestepti.png)
 
 Toate bune și frumoase, se înscrie în direcția de comunicare a ROM, însă am o întrebare pentru agenția care a făcut campania: **Cum o să măsoare impactul căutărilor pe care le fac oamenii pe Google?**
 

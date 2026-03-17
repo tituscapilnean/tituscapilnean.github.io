@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/10/cza1544l-150x150.jpg
 ---
 
-[![](/wp-content/uploads/2010/10/cza1544l-150x150.jpg)](/wp-content/uploads/2010/10/cza1544l.jpg)Contextul e de așa natură încât să mă pună să mă gândesc la cât de importantă e educația pe care părinții reușesc să o **insufle/inspire** copiilor. Dar și cât de important e modul și momentul în care se produce procesul de educație.
+[](/wp-content/uploads/2010/10/cza1544l.jpg)Contextul e de așa natură încât să mă pună să mă gândesc la cât de importantă e educația pe care părinții reușesc să o **insufle/inspire** copiilor. Dar și cât de important e modul și momentul în care se produce procesul de educație.
 
 **Paraziții** au o vorbă foarte bună, de ținut minte în sensul ăsta:
 

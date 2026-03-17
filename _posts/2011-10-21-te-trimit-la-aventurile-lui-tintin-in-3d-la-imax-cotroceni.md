@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/10/Adventures-of-Tintin-poster-210x300.jpg
 ---
 
-_Update:_ Pam-pam, conform criteriilor de concurs, câștigătorii sunt: **Anda Stanciulescu și** Lucica Radu. Felicitări, aveți email de la mine![![](/wp-content/uploads/2011/10/Adventures-of-Tintin-poster-210x300.jpg)](/wp-content/uploads/2011/10/Adventures-of-Tintin-poster.jpg)
+_Update:_ Pam-pam, conform criteriilor de concurs, câștigătorii sunt: **Anda Stanciulescu și** Lucica Radu. Felicitări, aveți email de la mine](/wp-content/uploads/2011/10/Adventures-of-Tintin-poster.jpg)
 
 Se știe că sunt client deja fidel la Cinema City, însă mai ales la [IMAX](/?s=imax), la filmele 3D din AFI Palace Cotroceni. Am tot scris despre filmele la care am fost, iar acum am ceva pentru voi, cititorii acestui blog. Mai toată blogosfera are deja câte un concurs cu invitații la film, așa că putem foarte bine să umplem sala IMAX cu cititori de bloguri.
 

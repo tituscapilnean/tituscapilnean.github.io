@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/06/photo3-150x150.jpg
 ---
 
-![](/wp-content/uploads/2010/06/photo3-150x150.jpg)De fiecare dată când mă întorc din Vama Veche, am de scris despre câte o tipologie umană întâlnită pe acolo, cu care am interacționat direct, într-un fel sau altul. Weekndul ăsta a fost de așa natură că a adunat mult mai puțină lume, deci mai puțin material de studiu pentru tipuri de vamaioți sau de pseudo-vamaioți. Am ajuns târziu de tot, sâmbătă dimineața, pe la 4 fără ceva, la Stuf, în vamă, pe un frig tomantic și după niște peripeții cu Dacia 1310, 1983, a lui Mihnea(nu le zic aici, că și așa s-a enervat bietul om).
+De fiecare dată când mă întorc din Vama Veche, am de scris despre câte o tipologie umană întâlnită pe acolo, cu care am interacționat direct, într-un fel sau altul. Weekndul ăsta a fost de așa natură că a adunat mult mai puțină lume, deci mai puțin material de studiu pentru tipuri de vamaioți sau de pseudo-vamaioți. Am ajuns târziu de tot, sâmbătă dimineața, pe la 4 fără ceva, la Stuf, în vamă, pe un frig tomantic și după niște peripeții cu Dacia 1310, 1983, a lui Mihnea(nu le zic aici, că și așa s-a enervat bietul om).
 
 Nu era multă lume, era muzică bună și aveam poftă de răsărit.
 

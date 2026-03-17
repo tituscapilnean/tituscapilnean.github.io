@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/05/virus.jpg
 ---
 
-[![virus](/wp-content/uploads/2010/05/virus.jpg)](/wp-content/uploads/2010/05/virus.jpg)Am câţiva prieteni virusaţi pe Yahoo! Messenger şi trimit mass-uri constant, cu următoarele linkuri.
+[](/wp-content/uploads/2010/05/virus.jpg)Am câţiva prieteni virusaţi pe Yahoo! Messenger şi trimit mass-uri constant, cu următoarele linkuri.
 
 (03.05.2010 10:52:55): foto 😀 http:// memorylmages . com /image.php  
 (03.05.2010 09:27:36): foto 😀 http:// facebook-lmg . com /image.php  

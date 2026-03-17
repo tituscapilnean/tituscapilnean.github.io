@@ -10,7 +10,7 @@ author: titus_capilnean
 
 Muncim, muncim, dar mai și râdem puțin 🙂 Am primit acum vreo câteva zile un link cu imaginea de mai jos.
 
-[![evolution_advertising-440x276](/wp-content/uploads/2010/02/evolution_advertising-440x276.jpg)](/wp-content/uploads/2010/02/evolution_advertising-440x276.jpg)
+[](/wp-content/uploads/2010/02/evolution_advertising-440x276.jpg)
 
 **AD** Art Director  
 **ACD** Associate Creative Director  

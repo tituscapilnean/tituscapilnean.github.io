@@ -12,7 +12,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2009/09/tari-1-400x261.png
 ---
 
-[![3186534628_127cf9736b_b](/wp-content/uploads/2009/08/3186534628_127cf9736b_b-300x300.jpg)](/wp-content/uploads/2009/08/3186534628_127cf9736b_b.jpg)
+[](/wp-content/uploads/2009/08/3186534628_127cf9736b_b.jpg)
 
 sursa foto
 
@@ -44,23 +44,23 @@ _Gruparea pe vârste:_
 
 sau în procente:
 
-[![varsta1](/wp-content/uploads/2009/09/varsta1-400x284.png)](/wp-content/uploads/2009/09/varsta1.png)
+[](/wp-content/uploads/2009/09/varsta1.png)
 
 Dacă ne uităm la structura pe sexe, **110.940**(41%) de utilizatori sunt bărbaţi, iar **142.660**(52%) sunt femei şi **16.940**(6,2%) de utilizatori cu sex nedeclarat, în ușoară scădere față de luna trecută – mai mulți oameni își completează profilurile.
 
 Doar **11,3%**(mai mulți decât în August) din utilizatori şi-au completat datele despre educaţie, din care 50% elevi de liceu, 2% studenţi şi 47% absolvenţi de o formă de învăţământ superior. E interesant faptul că au scăzut studenții de pe Facebook – mulți absolvind, iar cei care au intrat proaspăt la facultate, nu au trecut încă datele la zi în profilurile lor.
 
-[![sexe1](/wp-content/uploads/2009/09/sexe1-400x284.png)](/wp-content/uploads/2009/09/sexe1.png)
+[](/wp-content/uploads/2009/09/sexe1.png)
 
 Nici în Septembrie, la starea civilă/relaţii nu am putut avea o statistică completă, doar **29,02%** completând câmpul respectiv din profil.
 
-[![rel1](/wp-content/uploads/2009/09/rel1-400x284.png)](/wp-content/uploads/2009/09/rel1.png)
+[](/wp-content/uploads/2009/09/rel1.png)
 
 58,51% dintre cei care şi-au trecut starea relaţiei sunt cuplaţi/căsătoriţi, iar 41,49% sunt singuri în acest moment, conform datelor de pe Facebook. – fără mari modificări față de August.
 
 Spuneam mai sus că România are 1,3% din populaţie pe Facebook. Mai jos am făcut o comparaţie cu **Ungaria, Serbia, Bulgaria, Ucraina şi Polonia** în funcţie de gradul de penetrare a Facebook în fiecare ţară.
 
-[![tari-1](/wp-content/uploads/2009/09/tari-1-400x261.png)](/wp-content/uploads/2009/09/tari-1.png)
+[](/wp-content/uploads/2009/09/tari-1.png)
 
 _Populatia – Procent de penetrare – Ţara_  
 **21.500.000 – 1,3% – Romania  

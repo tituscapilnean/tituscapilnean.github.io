@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/12/facebook.png
 ---
 
-![](/wp-content/uploads/2010/12/facebook.png)De când a trecut Facebook la noile facilități pentru pagini, nu mai există niciun motiv pentru care companiile, atât cele mari, cât și cele mici, să rămână în continuare pe profiluri de persoane. Am discutat mai demult pe tema asta și mai mulți administratori de conturi de Facebook și ei susțineau sus și tare că profilul îi avantajează.
+De când a trecut Facebook la noile facilități pentru pagini, nu mai există niciun motiv pentru care companiile, atât cele mari, cât și cele mici, să rămână în continuare pe profiluri de persoane. Am discutat mai demult pe tema asta și mai mulți administratori de conturi de Facebook și ei susțineau sus și tare că profilul îi avantajează.
 
 Ca să explic de ce nu mai au niciun motiv să rămână pe profil, trebuie să clarificăm de ce unele companii au vrut să își facă profil pe Facebook și nu pagină.
 

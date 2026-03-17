@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/04/hm21-150x150.jpg
 ---
 
-![](/wp-content/uploads/2011/04/hm21-150x150.jpg)Zilele trecute m-am dat un pic mai mult cu metroul decât de obicei și am ajuns pe la Piața Unirii 2. Acolo toți stâlpii sunt îmbrăcați frumos în niște elemente de branding H&M. Nimic rău până aici, H&M a împânzit tot Bucureștiul cu bannere outdoor uriașe, așa că era normal să o facă și la metrou.
+Zilele trecute m-am dat un pic mai mult cu metroul decât de obicei și am ajuns pe la Piața Unirii 2. Acolo toți stâlpii sunt îmbrăcați frumos în niște elemente de branding H&M. Nimic rău până aici, H&M a împânzit tot Bucureștiul cu bannere outdoor uriașe, așa că era normal să o facă și la metrou.
 
 Totuși, e o diferență față de panourile mari – stâlpii sunt foarte aproape de oameni, pot să interacționeze cu ei, dacă li se dă posibilitatea asta. Ei, de aici mi-a venit ideea.
 

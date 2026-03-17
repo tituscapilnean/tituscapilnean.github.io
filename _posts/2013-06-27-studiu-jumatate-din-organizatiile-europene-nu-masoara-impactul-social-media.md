@@ -14,7 +14,7 @@ Acum o lună, Kellen Europe, a lansat primul raport despre modul în care utiliz
 
 Raportul “Social Media pentru Organizații” oferă o imagine de ansamblu asupra modului în care organizațiile din Europa folosesc social media, precum și asupra provocărilor de care se lovesc. Studiul a fost compus dintr-un sondaj online la care au participat 123 de directori de organizații din Europa și persoane responsabile de comunicarea online ale entităților, precum și o serie de focus grupuri construite pe baza rezultatelor sondajului.
 
-[![kellen](/wp-content/uploads/2013/06/kellen-400x114.png)](/2013/06/studiu-jumatate-din-organizatiile-europene-nu-masoara-impactul-social-media/kellen/)
+[](/2013/06/studiu-jumatate-din-organizatiile-europene-nu-masoara-impactul-social-media/kellen/)
 
 În mod surprinzător, Twitter e cea mai folosită rețea de socializare, depășind Facebook și Linkedin (la același nivel). Facebook și blogurile sunt văzute ca având cel mai mare potențial negative, pe când Twitter și Linkedin sunt surse de impact pozitiv. Îngrijorător e că **51% din organizațiile care au răspuns spun că NU măsoară** impactul comunicării în Social Media, drept urmare, doar 18% din ei consideră că acest tip de comunicare are efect în business-ul lor (nasoală treabă pentru agenții și consultanți, e rost de schimbare aici).
 

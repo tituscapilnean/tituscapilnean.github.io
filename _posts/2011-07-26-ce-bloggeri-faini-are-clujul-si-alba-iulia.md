@@ -20,6 +20,6 @@ _Takeaway_ : Bloggerul din ziua de azi valorează mult mai mult dacă este, în 
 
 Mulțumesc încă o dată și, cu voia voastră, îi nominalizez: Adelina, Corina, Ciulea, Marian, Liviu, Peri, Cucu, Răzvan și Alina, Bogdan, Cristi, George, Emanuel, Marius, Ruben, Maka, Radu, Palatkas, Robi, Lorand, Robin, Dragoș și Cătălin. Sper cã n-am uitat pe nimeni!
 
-[![rosia montana](/wp-content/uploads/2011/07/rosiamontana-400x266.jpg)](/2011/07/ce-bloggeri-faini-are-clujul-si-alba-iulia/rosiamontana/) Rosia Montana cu Bloggeri 
+[](/2011/07/ce-bloggeri-faini-are-clujul-si-alba-iulia/rosiamontana/) Rosia Montana cu Bloggeri 
 
 Cazare hotel la cel mai bun pret!

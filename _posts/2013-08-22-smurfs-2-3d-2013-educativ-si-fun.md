@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2013/08/WeZGuNmK80e3fj6RzRj31g-150x150.jpg
 ---
 
-[![Smurfs 2](/wp-content/uploads/2013/08/WeZGuNmK80e3fj6RzRj31g-150x150.jpg)](/2013/08/smurfs-2-3d-2013-educativ-si-fun/wezgunmk80e3fj6rzrj31g/)Am fost marți seară la **Smurfs 2** în 3D, la Afi, la Cinema City și mi-a plăcut.
+[](/2013/08/smurfs-2-3d-2013-educativ-si-fun/wezgunmk80e3fj6rzrj31g/)Am fost marți seară la **Smurfs 2** în 3D, la Afi, la Cinema City și mi-a plăcut.
 
 Povestea e destul de simplă – un vrăjitor rău, pe nume Gargamel, cu niște minions (ștrumpfi răi), adică Obraznicii, vrea să cucerească lumea folosind esență de ștrumpf pentru magie. Pentru chestia asta are nevoie de o formulă magică de la Ștrumpfiță, fapt pentru care o răpește și generează întregul arsenal de faze care urmează – căutarea, lupta, momentul în care simți că eroii pierd, revenirea și victoria finală. Nu le povestesc în detaliu, pentru că merită văzut filmul.
 

@@ -9,9 +9,9 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2009/12/merkel-400x260.jpg
 ---
 
-[![Obama](/wp-content/uploads/2009/12/Obama-400x259.jpg)](/wp-content/uploads/2009/12/Obama.jpg)
+[](/wp-content/uploads/2009/12/Obama.jpg)
 
-[![merkel](/wp-content/uploads/2009/12/merkel-400x260.jpg)](/wp-content/uploads/2009/12/merkel.jpg)
+[](/wp-content/uploads/2009/12/merkel.jpg)
 
 E o campanie fără cuvinte.
 
