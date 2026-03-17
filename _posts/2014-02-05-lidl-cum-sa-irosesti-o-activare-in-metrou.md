@@ -9,7 +9,7 @@ author: titus_capilnean
 ---
 
 Mă enervează să văd că un concept așa de mișto să rateze la capitolul ”activare” într-un loc în care mustește de telefoane mobile deștepte, capabile să scaneze QR code-ul ăla blestemat.  
-[](/2014/02/lidl-cum-sa-irosesti-o-activare-in-metrou/photo-11/)  
+  
 Câteva întrebări pentru realizator:
 
   1. Dacă scrii ”Scanează codul și…” (insert benefit here) te judecă cineva în piața publică? 🙂

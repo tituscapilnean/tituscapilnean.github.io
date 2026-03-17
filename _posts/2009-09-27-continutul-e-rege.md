@@ -8,7 +8,7 @@ author: titus_capilnean
 
 ![TRafic](http://z.hubpages.com/u/1197420_f496.jpg)
 
-Vă salut din nou de pe [titusblog](/). N-am scris până la urmă nici ieri, pentru că am vrut să fie [consistent experimentul](/2009/09/24/pauza/). Bine, nici nu prea am avut timp în zilele astea, mai ales ieri, când cred că a fost cea mai proastă zi din ultima vreme – dar nu despre asta vreau să vă povestesc.
+Vă salut din nou de pe [titusblog](/). N-am scris până la urmă nici ieri, pentru că am vrut să fie [consistent experimentul](/posts/pauza/). Bine, nici nu prea am avut timp în zilele astea, mai ales ieri, când cred că a fost cea mai proastă zi din ultima vreme – dar nu despre asta vreau să vă povestesc.
 
 M-am oprit din scris şi promovare vineri dimineaţă şi mă reapuc acum. În asta a constat practic întreg experimentul. Am citit de mai multă vreme nişte **meta** articole despre cum să îţi **meta** promovezi pe net blogul.  
 Multe zic bălării despre **link exchange, directoare web, agregatoare de conţinut obscure**(care pot să trimită roboţei în loc de oameni la tine pe blog), toate testate, cu rezultate foarte slabe sau zero, verificate în raportul de **Google Analytics**.

@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2013/06/1012118_10151671807750935_394813904_n-150x150.jpg
 ---
 
-[](/2013/06/cum-a-fost-brandfusion-breakfast-1-despre-brandurile-de-food/1012118_10151671807750935_394813904_n/)Vinerea trecută am fost, dis de dimineață, la prima ediție a BrandFusion Breakfast, la the Hub. Acolo, împreună cu oameni de marketing din ”food”, am dezbătut câteva idei de branding pentru antreprenori pe care le putem prelua și adapta din case-study-urile de ”food” pe care le-am văzut.
+Vinerea trecută am fost, dis de dimineață, la prima ediție a BrandFusion Breakfast, la the Hub. Acolo, împreună cu oameni de marketing din ”food”, am dezbătut câteva idei de branding pentru antreprenori pe care le putem prelua și adapta din case-study-urile de ”food” pe care le-am văzut.
 
 Le amintesc doar cele care mi s-au părut interesante: Goghurt – preferatul meu, un iaurt în tub, pentru copii (pentru că e complicat de hrănit unu mic cu lingurița în parc, cică), Yellow Tail – un altfel de vin (poziționat ca ușor de ales, fun to drink și convenabil) și Perrier (apă premium care vinde…well…sex).
 

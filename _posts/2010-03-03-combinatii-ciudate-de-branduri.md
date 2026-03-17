@@ -13,18 +13,18 @@ author: titus_capilnean
 
 După ce mi-am resuscitat blogul, aflat un pic în chinurile mySQL-ului, m-am gândit că ar fi fun să public niște imagini făcute de cei de la Business Pundit– ei și-au imaginat cum ar arăta câteva fuziuni vituale dintre brandurile mari.
 
-[](/wp-content/uploads/2010/03/mergers-fedup3.jpg)
+
 
 Asta a ieșit dintre FedEx și 7Up 😀
 
-[](/wp-content/uploads/2010/03/fedup.png)
+
 
 și cea mai tare mi s-a părut Slaughter Hut :))
 
-[](/wp-content/uploads/2010/03/mergers-slaughter-hut-600x569.jpg)
+
 
 compus din:
 
-[](/wp-content/uploads/2010/03/pizaaslaug.png)
+
 
 Ce alte branduri mai știi și pot fi unite în stilul ăsta?

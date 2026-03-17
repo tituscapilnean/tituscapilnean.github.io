@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/03/live-tweeting-400x195.jpg
 ---
 
-[](/wp-content/uploads/2010/03/live-tweeting.jpg)
+
 
 Ideea acestui articol a pornit de la un tweet primit de la @Minxieee:
 
@@ -48,16 +48,16 @@ Cu cât devii mai bun la asta, cu atât vei avea șansa să participi la mai mul
 
 P.S.: **Live tweet-urile/live blogging-ul făcut de mine până acum:**
 
-Webstock – [Concluzii și cuprins](/2009/09/20/webstock-concluzii-si-cuprins/), [Live Blog](/2009/09/18/webstock/), [Webstock 2009 pe Twitter](/2009/09/21/webstock09-pe-twitter/)
+Webstock – [Concluzii și cuprins](/posts/webstock-concluzii-si-cuprins/), [Live Blog](/posts/webstock/), [Webstock 2009 pe Twitter](/posts/webstock09-pe-twitter/)
 
-Promotiile acum – [Cum se castiga un Effie](/2009/07/09/promotiile-acum-live-cum-se-ca%C8%99tiga-un-effie/), [Do-s and Don-ts](/2009/07/09/promotiile-acum-live-do-s-and-dont-s/), [Weiden+Kennedy si Ursus](/2009/07/09/promotiile-acum-live-wieden-kennedy-si-ursus/)
+Promotiile acum – [Cum se castiga un Effie](/posts/promotiile-acum-live-cum-se-ca%C8%99tiga-un-effie/), [Do-s and Don-ts](/posts/promotiile-acum-live-do-s-and-dont-s/), [Weiden+Kennedy si Ursus](/posts/promotiile-acum-live-wieden-kennedy-si-ursus/)
 
-RoNewMedia – [jurnalism vs blogging](/2009/06/16/ronewmedia-3-0-jurnalism-sau-blogging/), [vazut printr-un hashtag](/2009/11/04/ronewmedia-vazut-printr-un-hashtag/)(fara sa fiu acolo)
+RoNewMedia – [jurnalism vs blogging](/posts/ronewmedia-3-0-jurnalism-sau-blogging/), [vazut printr-un hashtag](/posts/ronewmedia-vazut-printr-un-hashtag/)(fara sa fiu acolo)
 
-Zilele Biz – [Concluzii](/2009/11/28/zilele-biz-cateva-impresii-si-concluzii/), [Live pe Twitter](/2009/11/27/zilele-biz-live-ziua-de-marketing-si-media/)
+Zilele Biz – [Concluzii](/posts/zilele-biz-cateva-impresii-si-concluzii/), [Live pe Twitter](/posts/zilele-biz-live-ziua-de-marketing-si-media/)
 
-TEDxBucharest – [live tweet și follow-up](/2009/10/19/povestea-tedxbucharest-asa-cum-a-fost/)
+TEDxBucharest – [live tweet și follow-up](/posts/povestea-tedxbucharest-asa-cum-a-fost/)
 
-Orange Meetup – [live tweeting](/2009/10/15/orange-meetup-live-tweet/)
+Orange Meetup – [live tweeting](/posts/orange-meetup-live-tweet/)
 
-și prima conferință la care am făcut asta – [Marketing Innovation Conference](/2009/05/14/cum-am-castigat-un-ipod-shuffle/), unde am câștigat un iPod Shuffle
+și prima conferință la care am făcut asta – [Marketing Innovation Conference](/posts/cum-am-castigat-un-ipod-shuffle/), unde am câștigat un iPod Shuffle

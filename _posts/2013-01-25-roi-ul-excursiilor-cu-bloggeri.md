@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2013/01/roi_investreturn-400x257.gif
 ---
 
-[](/2013/01/roi-ul-excursiilor-cu-bloggeri/roi_investreturn/)
+
 
 Dragă client de servicii de comunicare online/social media,
 
@@ -40,4 +40,4 @@ Care a fost ROI-ul acestor activități?
 
 Știu, sunt un scâțar, n-am mai fost invitat în excursii, mă pierd în detalii. Totuși, la final de an, când se trag liniile în companiile X, Y și Z, s-ar putea să nu mai bage bani niciodată în bloguri, dacă nu le este evident ce beneficiu (de business, nu reach/articole sau mai știu eu ce) au avut ca urmare a investițiilor.
 
-Pentru detalii, folosiți cu încredere pagina de [Contact](/contact/), ofer consultanță pe tema asta.
+Pentru detalii, folosiți cu încredere pagina de Contact, ofer consultanță pe tema asta.

@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2012/01/Summify-final-red-150x150.jpg
 ---
 
-[](/wp-content/uploads/2012/01/Summify-final-red.jpg)Dimineață am aflat că Summify(un startup românesc de social summary) a fost cumpărat de Twitter. Evident, au blocat înscrierile la rețea, vor muta programatorii în California. Probabil vor construi un Social Reader branduit de Twitter pe baza softului care e în spatele Summify.
+Dimineață am aflat că Summify(un startup românesc de social summary) a fost cumpărat de Twitter. Evident, au blocat înscrierile la rețea, vor muta programatorii în California. Probabil vor construi un Social Reader branduit de Twitter pe baza softului care e în spatele Summify.
 
 Acum câteva luni i-am contactat pe cei de la Google Plus și le-am ”vândut” următoarea idee:
 

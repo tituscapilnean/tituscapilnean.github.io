@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/06/IMG_0035-400x106.jpg
 ---
 
-[](/wp-content/uploads/2010/06/IMG_0035.JPG)
+
 
 Duminică am scăpat de penultimul examen din sesiunea asta și am zis că nu mai pot să rezist pe scaun încă o zi și am dat o fugă până la Cernica, pentru Cube Days, de care auzisem cu ajutorul Jurnalului Țării lui Andrei, pentru care am scris articolul despre weekendul responsabil.
 

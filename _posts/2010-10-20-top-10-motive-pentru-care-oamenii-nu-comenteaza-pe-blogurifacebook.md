@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/10/blog-comment-icon-150x150.png
 ---
 
-[](/wp-content/uploads/2010/10/blog-comment-icon.png)Bun, treaba stă așa.
+Bun, treaba stă așa.
 
 Am întrebat în stânga și în dreapta de ce nu comentează diverși oameni pe care îi știu cititori de blog sau utilizatori fervenți de Facebook.
 

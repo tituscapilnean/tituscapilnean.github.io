@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/04/bere1-400x189.jpg
 ---
 
-[](/wp-content/uploads/2010/04/bere1.jpg)
+
 
 Am fost repuși în drepturi. Ni s-a dat înapoi ziua bărbatului, pe 5 Mai, când avem dreptul să bem bere ca porcii, să ne exprimăm misoginismul liber, să jucăm fotbal până târziu, să ieșim la meci, să ne manifestăm la pescuit sau la vânătoare.
 

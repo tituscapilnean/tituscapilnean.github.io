@@ -10,7 +10,7 @@ author: titus_capilnean
 #   - [iframe] http://www.slideshare.net/slideshow/embed_code/27100236
 ---
 
-_[](/2013/10/reportaj-de-la-internet-mobile-world-2013-imworld/anticiparea-viitorului-si-internetul-lucrurilor-tendintele-mondiale-prezentate-la-zi-la-imworld-2013/)Textul de mai jos e scris de Mirela Petre, Communication Specialist la eSKY.ro. Pe această cale îi mulțumesc și lui Cristi pentru invitație la Internet& Mobile World 2013, cu toate că n-am reușit să ajung din motive foarte work – related._
+_Textul de mai jos e scris de Mirela Petre, Communication Specialist la eSKY.ro. Pe această cale îi mulțumesc și lui Cristi pentru invitație la Internet& Mobile World 2013, cu toate că n-am reușit să ajung din motive foarte work – related._
 
 _Concluzia, după ce am citit și formatat textul ăsta, e că digitalul nu moare, digitalul migrează spre centru, se transformă și crește._
 
@@ -84,6 +84,6 @@ Ilona Ciausoiu, WSI Licence Owener, prin case study-ul ShopBag (o aplicaţie mob
 
 Andrei Georgescu, Co-Founder White Image, a vorbit despre importanţa segmentării bazei de date pentru e-mail marketing. Ca să fii cât mai relevant pentru om, deci ca să-l convingi să cumpere ce vrei tu să cumpere. Open rate-ul şi CTR-ul se dublează în cazul în care foloseşti soluţii de Behavioral Targeting pentru campaniile de e-mail marketing (duh! again).
 
-În ultimul panel, Adrian Pavelescu, Managing Director la Outbox, Alexadru Cernatescu (_n.b. cel care făcea[o prezentare la IAB Forum 2012](/2012/10/piata-de-online-a-crescut-in-semestrul-1-cu-7-yoy-iab-forum-2012/) despre aplicația Rompetrol cu 908 useri_), CEO şi CO-Founder Infinite Solutions Agency, şi Marius Deak, Founder Green Pixel, au vorbit despre importanţa relevanţei în campaniile unui brand, despre importanţa adaptării mesajului la canalul folosit, despre nevoia de coerenţă în comunicarea multi-channel.
+În ultimul panel, Adrian Pavelescu, Managing Director la Outbox, Alexadru Cernatescu (_n.b. cel care făcea[o prezentare la IAB Forum 2012](/posts/piata-de-online-a-crescut-in-semestrul-1-cu-7-yoy-iab-forum-2012/) despre aplicația Rompetrol cu 908 useri_), CEO şi CO-Founder Infinite Solutions Agency, şi Marius Deak, Founder Green Pixel, au vorbit despre importanţa relevanţei în campaniile unui brand, despre importanţa adaptării mesajului la canalul folosit, despre nevoia de coerenţă în comunicarea multi-channel.
 
 Una dintre concluzii a fost tocmai aceasta, că cele mai eficiente campanii sunt cele multi-channel, un fel de tra-digital (cele mai importante elemente din advertising-ul tradiţional, îmbinat cu digital-ul).

@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2012/09/SM-150x150.png
 ---
 
-_[](/wp-content/uploads/2012/09/SM.png)Ocazional, mai primesc internauți în vizită pe blog. De data asta, găzduiesc un articol scris de**Andra Suciu** despre experiența de la Internet & Mobile World pe care au avut-o cei de la agenția **Butterfly Media Group**. Articolul este o completare la ideea de „experiență contra text” pe care am promovat-o [aici](/2012/09/pr-isti-bloggeri-si-evenimente-nu-piscoturi/). Vă las să lecturați._
+_Ocazional, mai primesc internauți în vizită pe blog. De data asta, găzduiesc un articol scris de**Andra Suciu** despre experiența de la Internet & Mobile World pe care au avut-o cei de la agenția **Butterfly Media Group**. Articolul este o completare la ideea de „experiență contra text” pe care am promovat-o [aici](/posts/pr-isti-bloggeri-si-evenimente-nu-piscoturi/). Vă las să lecturați._
 
 În urmă cu două săptămâni, noi, cei de la Butterfly Media Group, am primit invitaţii de la Titus, la Internet& Mobile World 2012, ținut la Romexpo între 19 şi 21 septembrie.
 

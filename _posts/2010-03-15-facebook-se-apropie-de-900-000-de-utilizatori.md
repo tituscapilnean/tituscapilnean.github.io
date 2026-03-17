@@ -10,14 +10,14 @@ Mai precis, sunt **882.940** **de utilizatori de Facebook** , localizați în Ro
 
 Dacă vrei să urmărești evoluția utilizatorilor de Facebook în România, îți recomand să citești câteva articole:
 
-[Statistici Facebook din August 2009](/2009/08/04/statistici-facebook-la-zi/)  
+[Statistici Facebook din August 2009](/posts/statistici-facebook-la-zi/)  
 
 
-[Statistici Facebook din 7 Septembrie 2009](/2009/09/07/statisitici-facebook-la-zi-septembrie-2009/)
+[Statistici Facebook din 7 Septembrie 2009](/posts/statisitici-facebook-la-zi-septembrie-2009/)
 
-[Statistici Facebook din 15 Septembrie 2009](/2009/09/15/facebook-sare-de-300-000-de-utilizatori-romani/)
+[Statistici Facebook din 15 Septembrie 2009](/posts/facebook-sare-de-300-000-de-utilizatori-romani/)
 
-[Statistici Facebook din Noiembrie 2009](/2009/11/03/facebook-a-depasit-400-000-de-utilizatori-romani/)
+[Statistici Facebook din Noiembrie 2009](/posts/facebook-a-depasit-400-000-de-utilizatori-romani/)
 
 ca să vezi creșterea de la 255.000, câți erau în August, până la aproape 1 milion, câți sunt acum.
 

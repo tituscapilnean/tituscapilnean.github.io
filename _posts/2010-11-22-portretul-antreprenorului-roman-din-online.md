@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/11/netcamp-150x150.jpg
 ---
 
-[](/wp-content/uploads/2010/11/netcamp.jpg)Cu ocazia NetCamp 2010, de pe 6-8 Decembrie, Evensys a început, încă de luna trecută, un studiu a antreprenorilor online din România.
+Cu ocazia NetCamp 2010, de pe 6-8 Decembrie, Evensys a început, încă de luna trecută, un studiu a antreprenorilor online din România.
 
 Cu ocazia asta, am reușit să desenez un **portret al antreprenorului român pe internet**. Cum arată el?
 

@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/06/image004-208x300.jpg
 ---
 
-[](/2011/06/salvati-china-o-campanie-semnata-de-kung-fu-panda-2/image004/)…zis și **Dragonul Războinic** , panda-ul uriaș trebuie să salveze China cea pură, nevinovată și ecologistă de furia industriașului, păunul cel rău și răzbunător.
+…zis și **Dragonul Războinic** , panda-ul uriaș trebuie să salveze China cea pură, nevinovată și ecologistă de furia industriașului, păunul cel rău și răzbunător.
 
 Povestea desenului e foarte mișto, **merită să mergi la Kung Fu Panda 2** , așa că nu o să stric surpriza și să povestesc desfășurarea filmului. Sunt tot felul de faze comice și glume între personajele principale(tigroaica, cocorul, maimuța, călugărițul). Oaia clarvăzătoare e haioasă, iar toată lumea e șocată că poți să distrugi cu ajutorul prafului de pușcă(artificii).
 

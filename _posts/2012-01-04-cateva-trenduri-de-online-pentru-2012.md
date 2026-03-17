@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2012/01/2012-Doomsday1-150x150.jpg
 ---
 
-[](/wp-content/uploads/2012/01/2012-Doomsday1.jpg)Am trecut de încă un an de criză, 2011, am intrat cu stil în 2012, an în care sper ca piața de online să crească, dacă nu toată, spre deosebire de anul trecut când am asistat la o scădere în termeni reali – vezi aici – cu toate că ROADS raporta creștere(incluzând noi publisheri în studiu).
+Am trecut de încă un an de criză, 2011, am intrat cu stil în 2012, an în care sper ca piața de online să crească, dacă nu toată, spre deosebire de anul trecut când am asistat la o scădere în termeni reali – vezi aici – cu toate că ROADS raporta creștere(incluzând noi publisheri în studiu).
 
 Dincolo de contextul socio-economic în care activăm(optimism prudent), datele de la care pornim, cred că e important să pun pe hârtia digitală două dintre mecanismele/ideile de campanii pe care cred că o să le vedem mai des în 2012.
 
@@ -18,7 +18,7 @@ De câțiva ani se tot vorbește despre moartea bannerului și trecerea la alte 
 
 Conținutul branduit(traducere forțată) e o îmbinare eficace între conținut și branding, care dă credibilitate și consistență mesajelor pe care companiile le au de comunicat cu ajutorul(atenție, nu prin, ci cu ajutorul) principalilor publisheri online. Cred că e momentul în care o să trecem de la clasicele advertoriale, marcate ca atare, la secțiuni susținute, construite și menținute în strânsă colaborare cu departamentele de comunicare din rândul marilor investitori în publicitatea online.
 
-Desigur, campania de branded content nu trebuie să fie izolată de restul peisajului de comunicare, ci ar trebui să facă parte din [strategia anuală de online](/2011/01/cum-construiesti-o-strategie-anuala-de-online/), pe care fie și-a definitivat-o fiecare în decembrie, fie acum lucrează la ea și o va finaliza până la sfârșitul lunii curente.
+Desigur, campania de branded content nu trebuie să fie izolată de restul peisajului de comunicare, ci ar trebui să facă parte din [strategia anuală de online](/posts/cum-construiesti-o-strategie-anuala-de-online/), pe care fie și-a definitivat-o fiecare în decembrie, fie acum lucrează la ea și o va finaliza până la sfârșitul lunii curente.
 
 ## 2\. Jocuri cu recurență vs. one-shots
 

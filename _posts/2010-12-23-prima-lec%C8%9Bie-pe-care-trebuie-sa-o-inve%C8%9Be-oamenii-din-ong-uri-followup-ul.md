@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/12/821356_blog-150x150.jpg
 ---
 
-[](/wp-content/uploads/2010/12/821356_blog.jpg)Am multă experiență cu și în ONG-uri, mai mult prin prisma faptului că am fost membru AIESEC timp de vreo 3 ani. După, însă, am avut contact și cu alte ONG-uri prin oamenii cu care m-am văzut pe la evenimente și întâlniri de online. Stau de fiecare dată de vorbă cu ei, pentru că sunt oameni faini și plin de idei și inițiative(mă rog, majoritatea dintre ei). Cu toate aste, mai toți au o carență mare când vine vorba de **follow-up.**
+Am multă experiență cu și în ONG-uri, mai mult prin prisma faptului că am fost membru AIESEC timp de vreo 3 ani. După, însă, am avut contact și cu alte ONG-uri prin oamenii cu care m-am văzut pe la evenimente și întâlniri de online. Stau de fiecare dată de vorbă cu ei, pentru că sunt oameni faini și plin de idei și inițiative(mă rog, majoritatea dintre ei). Cu toate aste, mai toți au o carență mare când vine vorba de **follow-up.**
 
 **Când zic follow-up** , mă refer la faptul că mă aștept ca după superdiscuția din superevenimentul sau de pe superholul unde am superpus superțara la supercale să iasă un email de la el/ea către mine în care să îmi povestească, pe pași, ce își dorește de la mine și când pentru organizația lui/ei.
 

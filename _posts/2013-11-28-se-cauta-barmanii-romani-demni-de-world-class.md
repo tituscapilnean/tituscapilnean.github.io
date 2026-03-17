@@ -14,7 +14,7 @@ Ieri am fost la lansarea oficială, în România, a programul de instruire DIAGE
 
 Pe lângă faptul că am asistat la producția artistică câtorva cocktail-uri interesante (dintre care cel mai cel a fost _Smoky Zacapa Manhattan_ -ul), am zis să încerc să mă recalific drept barman. Poza de mai jos mi-e martor că mi-am dat silința și am produs un cocktail cel puțin decent, pe bază de rom, cu vanilie, lime și portocală.
 
-[](/2013/11/se-cauta-barmanii-romani-demni-de-world-class/1459347_472775886164631_1058868601_n/)
+
 
 Bine, n-aș fi reușit să îl fac atât de bun dacă nu mă ghida maestrul Aristotelis Papadopoulos. E barman de la 16 ani, are mai bine de 28 de ani de experiență în domeniul mixologiei și a câștigat competiția DIAGEO Reserve WORLD CLASS în 2009.
 

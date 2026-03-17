@@ -18,7 +18,7 @@ Linkedin a introdus acum ceva timp o nouă funcție – acel _endorsement_. Vă 
 
 Treaba e facilitată de Linkedin, care te invită să îi lași omului un _endorsement_ când îi vizitezi profilul.
 
-[](/2013/03/dragi-recruiteri-endorsement-ul-de-pe-linkedin-e-o-prostie/endorsments/)
+
 
 Așadar, dragi recruiteri, sper că nu luați în considerare în procesul de recrutare și selecție _endorsement-_ urile de pe Linkedin, nu de alta, dar v-ați putea trezi că ați recrutat pe online un specialist în indoor.
 

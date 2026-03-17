@@ -14,7 +14,7 @@ Așa am ajuns să observ **suportul de biciclete** , cu numeroase locuri, plasat
 
 ![](http://farm3.static.flickr.com/2540/3852820564_1f8ee26e18_o.jpg)  
   
-Așa mai zic și eu locuri de parcare pentru biciclete(poate iau exemplu și ăștia de [La Motoare](/2009/08/19/la-motoare-nu-este-bike-friendly/)) și încurajarea angajaților să vină cu ele la servici. Desigur, era asigurată și **paza** acolo de către un paznic al clădirii. Mă gândesc că **35 de minute nu faci nici cu metroul** într-o zi bună până la Aviatorilor 😀 În plus, nu mai trebuie să stai 20 de minute să cauți locuri de parcare, mai ales dacă ești ușor în întârziere.
+Așa mai zic și eu locuri de parcare pentru biciclete(poate iau exemplu și ăștia de [La Motoare](/posts/la-motoare-nu-este-bike-friendly/)) și încurajarea angajaților să vină cu ele la servici. Desigur, era asigurată și **paza** acolo de către un paznic al clădirii. Mă gândesc că **35 de minute nu faci nici cu metroul** într-o zi bună până la Aviatorilor 😀 În plus, nu mai trebuie să stai 20 de minute să cauți locuri de parcare, mai ales dacă ești ușor în întârziere.
 
 Mă uitam uimit la numărul de locuri mai ales pentru că am fost zilele trecute pe la Mall Vitan cu bicicleta și am constat cu stupoare că **au doar 2 locuri** de parcare pentru biciclete și 1 pentru scutere în toată parcarea aia imensă. Dacă nu reușești să prinzi loc, ajungi să o legi de gard.
 

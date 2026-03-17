@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/10/1308696129-29-150x150.jpg
 ---
 
-[](/wp-content/uploads/2011/10/1308696129-29.jpg)Mă aflu azi la Legal Issues în Social Media, prima conferință de genul ăsta de la noi. O să notez principalele idei mai jos, așa cum v-am obișnuit. _Refresh des, pentru că actualizez_.
+Mă aflu azi la Legal Issues în Social Media, prima conferință de genul ăsta de la noi. O să notez principalele idei mai jos, așa cum v-am obișnuit. _Refresh des, pentru că actualizez_.
 
 Începem cu lucrurile evidente – **colectarea datelor personale** – și de la faptul că trebuie să definești clar modul în care le colectezi și felul în care construiești baza de date. Mai mult, trebuie să te gândești în avans ce vei face cu informațiile din baza de date, daca vor fi folosite doar în campaniile de marketing, dacă vor fi folosite în recrutare etc. Multe din probleme pot fi rezolvate cu câteva box-uri care reprezintă accepturi de folosire a datelor colectate.
 

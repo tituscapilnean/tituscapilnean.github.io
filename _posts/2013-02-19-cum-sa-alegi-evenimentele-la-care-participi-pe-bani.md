@@ -10,7 +10,7 @@ author: titus_capilnean
 
 Mi-am pus un bookmark acum ceva timp, de pe blogul lui Marius Sescu. Era vorba despre criteriile de participare la evenimentele plătite, însă atunci îl bookmark-uisem cu total alte motive. Acum vreau să merg un pic mai departe și să vă povestesc modul în care aleg eu evenimentele la care particip și la care plătesc  _fee._
 
-[](/2013/02/cum-sa-alegi-evenimentele-la-care-participi-pe-bani/2012_03_virtualevents_wordle/)
+
 
 Nu cred că sala/locul de desfășurare sau organizatorul cântăresc prea mult în decizia mea, cât **vorbitorii, experiența lor și prezentarea pe care o fac**. Înțeleg nevoia de a avea sponsori care își prezintă brandul, însă nu înțeleg de ce nu pot să o facă într-un mod mai interesant. Aici e vina lor și a organizatorului, care nu îl instruiește. Un brand care prezintă ceva relevant va avea mult mai mult de câștigat decât o prezentare corporate plictisitoare. Dar am divagat.
 

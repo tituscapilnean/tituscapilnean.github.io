@@ -13,10 +13,10 @@ author: titus_capilnean
 
 Aseară am fost în oraș, offline, așa cum îi stă bine unui digitalist. Fără să vrem, am ales un loc de întâlnire unde aveau Beck’s la categoria ”bere relativ ieftină și bună”, drept pentru care masa s-a umplut repede de sticle. Dincolo de faptul că au făcut o campanie interesantă, în care fiecare stică are un design diferit, pe unele modele au plantat și un QR code.
 
-Deși am scris că respectivul tool [e cam mort de prin 2011](/2012/01/codul-qr-dezamagirea-anului-2011/), nu contest faptul că poate să fie util în momentele în care vrei [să îmbogățești experiența utilizatorului](/2013/07/pisici-fiti-mai-caini-o2-uk/). Problema e că trebuie să te asiguri că site-ul de mobil funcționează. Altfel ai făcut printurile pe sticlă fix degeaba.
+Deși am scris că respectivul tool [e cam mort de prin 2011](/posts/codul-qr-dezamagirea-anului-2011/), nu contest faptul că poate să fie util în momentele în care vrei [să îmbogățești experiența utilizatorului](/posts/pisici-fiti-mai-caini-o2-uk/). Problema e că trebuie să te asiguri că site-ul de mobil funcționează. Altfel ai făcut printurile pe sticlă fix degeaba.
 
 Mai jos aveți capturile, poate vede și agenția că a picat site-ul sau e linkul greșit.
 
-[](/2013/08/becks-degeaba-ai-qr-code-daca-nu-merge-site-ul/photo-2-4/)
 
-[](/2013/08/becks-degeaba-ai-qr-code-daca-nu-merge-site-ul/photo-1-4/)
+
+

@@ -30,16 +30,16 @@ Partea faină e că acest Starbucks stă deschis până târziu: de luni până 
 
 **Bonus:** poze de la concursul de făcut cafea:
 
-[](/2011/01/starbucks-ul-de-aseara-din-mall-vitan/img00019-20110120-2037/)
 
-[](/2011/01/starbucks-ul-de-aseara-din-mall-vitan/img00020-20110120-2037/)
 
-[](/2011/01/starbucks-ul-de-aseara-din-mall-vitan/img00021-20110120-2038/)
 
-[](/2011/01/starbucks-ul-de-aseara-din-mall-vitan/img00022-20110120-2038/)
 
-[](/2011/01/starbucks-ul-de-aseara-din-mall-vitan/img00023-20110120-2039/)
 
-[](/2011/01/starbucks-ul-de-aseara-din-mall-vitan/img00024-20110120-2039/)
+
+
+
+
+
+
 
 Ne place de Starbucks și avem încredere că pot să devină unul din cele mai tari branduri prezente în Social Media în România, așa cum fac în Statele Unite. Anul ăsta o să îi vedem în topul prezentat la conferințele Biz.

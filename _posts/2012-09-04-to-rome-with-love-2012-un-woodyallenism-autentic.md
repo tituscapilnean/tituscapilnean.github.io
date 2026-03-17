@@ -16,4 +16,4 @@ Filmul e plin de anecdote, satiră socială, povești de dragoste, dar și multe
 
 _Din dragoste pentru Roma_ rulează deja la The Light Cinema, în Liberty Mall, București (distribuit de RO Image), deci liber la film diseară.
 
-[](/wp-content/uploads/2012/09/to-rome-with-love-851499l.jpg)
+

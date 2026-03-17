@@ -12,7 +12,7 @@ Am fost aseară, la invitația Odeon și Oxygen PR, la Cinema City, în AFI Pala
 
 Dincolo de acest  _plot_ destul de plicticos pentru cei care nu urmăresc cu atenție industria de film, e de menționat că o vedem într-un rol de actriță pe nimeni alta decât Scarlett Johanson, tunsă scurt și vopsită blond – spălăcit, foarte _vintage_. Nu, nu există scene de nud, dar bătrânul Hitch se cam dă la ea tot filmul, cu umor și șarm, în timp ce regizează, dă ordine și chiar joacă într-o scenă pe care actorul nu reușea să o scoată la capăt.
 
-[](/2013/02/hitchcock-2012-umor-regal-cancan-uri-hollywoodiene/attachment/6467/)
+
 
 Urmele de _cancan_ sunt date de relația lui Hitch cu soția lui, care se încurcă cu un scriitor slab și vrăjitor. Pe lângă ping-pongurile cu Hitch, ea e deziluzionată de scriitor și se întoarce la soțul ei, în final, după ce fac împreună să fie bine pentru film.
 

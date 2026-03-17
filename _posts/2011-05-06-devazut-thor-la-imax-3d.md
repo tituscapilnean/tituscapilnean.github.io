@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/05/thor-3D-150x150.jpg
 ---
 
-[](/2011/05/devazut-thor-la-imax-3d/thor-3d/)Aseară, la invitația fetelor de la Oxygen PR(merci încă o dată), am fost la Samsung IMAX, în AFI Palace Cotroceni, să văd un film legendar – Thor, în full 3D IMAX – senzație autentică, cu popcorn, suc, bere, bloggeri și multă acțiune.
+Aseară, la invitația fetelor de la Oxygen PR(merci încă o dată), am fost la Samsung IMAX, în AFI Palace Cotroceni, să văd un film legendar – Thor, în full 3D IMAX – senzație autentică, cu popcorn, suc, bere, bloggeri și multă acțiune.
 
 **Ce mi-a plăcut:**
 

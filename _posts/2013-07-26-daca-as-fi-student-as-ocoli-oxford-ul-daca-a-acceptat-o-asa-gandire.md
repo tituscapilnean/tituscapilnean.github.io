@@ -12,4 +12,4 @@ Despre studenta vieții s-au scris mii de postări și râuri de articole, așa 
 
 Nu cred că aș vrea să fac parte dintr-o instituție de învățământ care a acceptat în rândurile ei un asemenea specimen. Numa zic. Ar fi trebuit să o dibuiască din interviu și să îi zică: ”Fată dragă, stai acasă, acolo unde cultura îi autentică și bună, nu veni aici, la noi, la rasism și consumerism.”
 
-[](/2013/07/daca-as-fi-student-as-ocoli-oxford-ul-daca-a-acceptat-o-asa-gandire/oxford/)
+

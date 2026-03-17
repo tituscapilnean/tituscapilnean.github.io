@@ -32,6 +32,6 @@ Despre evenimente:
 
 p.s. în afară de asta se mai întâmplă azi lansarea BitDefender 2011 și o dezbatere BateȘaua, că tot e ziua fără mașini azi.
 
-  * November 20, 2009 -- [La ce zile sa mergi din Zilele Biz 2009](/2009/11/la-ce-zile-sa-mergi-din-zilele-biz-2009/ "La ce zile sa mergi din Zilele Biz 2009")
-  * November 2, 2011 -- [Notite de la cea mai mare conferinta regionala de online – Webit 2011](/2011/11/notite-de-la-cea-mai-mare-conferinta-regionala-de-online-webit-2011/ "Notite de la cea mai mare conferinta regionala de online – Webit 2011")
-  * October 14, 2011 -- [Academia, vodca si ardeleanul](/2011/10/academia-vodca-si-ardeleanul/ "Academia, vodca si ardeleanul")
+  * November 20, 2009 -- La ce zile sa mergi din Zilele Biz 2009
+  * November 2, 2011 -- Notite de la cea mai mare conferinta regionala de online – Webit 2011
+  * October 14, 2011 -- Academia, vodca si ardeleanul

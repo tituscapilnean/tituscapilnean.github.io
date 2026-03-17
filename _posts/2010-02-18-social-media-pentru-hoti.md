@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/02/geono-352x300.jpg
 ---
 
-Scriam acum ceva timp despre omul care [a fost descoperit când jefuia o casă](/2009/09/23/hotie-descoperita-pe-facebook/), pentru că a folosit Facebook de la calculatorul victimei. Atunci social media și dependența individului față de ea(venită din ego, orgoliu, spune-i cum vrei) au ajutat la prinderea lui destul de rapidă. Poliția s-a folosit de datele rămase în calculatorul victimei și în câteva ore pusese deja mâna pe individ.
+Scriam acum ceva timp despre omul care [a fost descoperit când jefuia o casă](/posts/hotie-descoperita-pe-facebook/), pentru că a folosit Facebook de la calculatorul victimei. Atunci social media și dependența individului față de ea(venită din ego, orgoliu, spune-i cum vrei) au ajutat la prinderea lui destul de rapidă. Poliția s-a folosit de datele rămase în calculatorul victimei și în câteva ore pusese deja mâna pe individ.
 
 Hai să luăm acum reversul medaliei și să ne uităm la modul cum funcționează geolocalizarea pentru hoți.(adică îți identifică poziția reală, oriunde ai fi în lume – în raza de acțiune a semnalului de internet). Mai în glumă, mai în serios, trei olandezi(Barry, Boy și Frank) au creat un serviciu de găsit oameni care tocmai au plecat de acasă, oriunde în lume. Aplicația se bazează pe API-ul de Twitter(adică preia informații din baza lor de date) și se numește pleaserobme.com
 
@@ -43,6 +43,6 @@ Ei sunt primii patru oameni pe care pot să îi targetez. Acum problema e că tr
 
 Simplu, dezactivezi geotagging-ul din Setările Twitter:
 
-[](/wp-content/uploads/2010/02/geono.jpg)
+
 
 Cred că ar trebui să includă și ei pe site o sugestie de genul ăsta.

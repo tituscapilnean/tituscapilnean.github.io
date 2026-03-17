@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2012/03/furia-titanilor-150x150.jpg
 ---
 
-[](/wp-content/uploads/2012/03/furia-titanilor.jpg)Dacă la început mergeam cam la orice cinematograf, acum m-am obișnuit cu IMAX 3D-ul de la AFI Palace Cotroceni, powered by Cinema City. Aseară am fost (iar) la film pe invitația fetelor de la Oxygen PR, niște simpatice care mă tolerează, chiar dacă ajung uneori cu întârziere.
+Dacă la început mergeam cam la orice cinematograf, acum m-am obișnuit cu IMAX 3D-ul de la AFI Palace Cotroceni, powered by Cinema City. Aseară am fost (iar) la film pe invitația fetelor de la Oxygen PR, niște simpatice care mă tolerează, chiar dacă ajung uneori cu întârziere.
 
 Ca să nu lungesc ciorba, am fost la Furia Titanilor, care apare oficial vineri, 30 martie, prin MediaPro Distribution. Filmul va rula in reteaua Cinema City in format 3D si IMAX® 3D și e un film excelent de speriat consoarta sau de mers la ”first date”, dacă vrei să te ia însoțitoarea în brațe. Are multe faze dinamice, efecte 3D mișto, care te lipesc de scaun. Cu povestea nu știu dacă o să vă înțelegeți așa de bine, însă dacă v-ați jucat Diablo 1&2, o să recunoașteți multe din numele de acolo.
 

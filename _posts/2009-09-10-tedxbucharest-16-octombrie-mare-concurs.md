@@ -9,7 +9,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2009/09/colaj.png
 ---
 
-[](/wp-content/uploads/2009/09/black-ppt-logo.jpg)
+
 
 Cu surle și trâmbițe țin să vă anunț oficial că TEDxBucharest și-a deschis porțile și vine la noi pe **16 Octombrie** , la **Centrul Național al Dansului, în Teatrul Național București.**
 
@@ -22,7 +22,7 @@ La evenimentul **TEDx** Bucharest, proiecții ale înregistrărilor filmelor TED
 Licența **TEDx** este folosită sub directa îndrumare a celor de la TED Global 🙂
 
 La TEDxBucharest vor veni peste **15 vorbitori** locali și internaționali, ca:   
-[](/wp-content/uploads/2009/09/colaj.png)  
+  
 1\. Nelvin Joseph – Artificial Intelligence & Green Tech. Researcher
 
 2\. Alexandra Nechita – Artist
@@ -64,37 +64,37 @@ Există 3 dimensiuni:
 300px lățime:
 
 ![TEDxBucharest](http://farm3.static.flickr.com/2609/3901669288_3f08424eea_o.png)  
-[Get code](/2009/09/09/tedxbucharest-16-octombrie-mare-concurs/#Cod)
+[Get code](/posts/tedxbucharest-16-octombrie-mare-concurs/)
     
     
     ![TEDxBucharest](http://farm3.static.flickr.com/2609/3901669288_3f08424eea_o.png) 
       
     
-    [Get code](/2009/09/09/tedxbucharest-16-octombrie-mare-concurs/#Cod)
+    [Get code](/posts/tedxbucharest-16-octombrie-mare-concurs/)
 
 200px lățime:
 
 ![TEDxBucharest](http://farm4.static.flickr.com/3452/3900887625_60b60f4606_o.png)  
-[Get code](/2009/09/09/tedxbucharest-16-octombrie-mare-concurs/#Cod)
+[Get code](/posts/tedxbucharest-16-octombrie-mare-concurs/)
     
     
     ![TEDxBucharest](http://farm4.static.flickr.com/3452/3900887625_60b60f4606_o.png) 
       
     
-    [Get code](/2009/09/09/tedxbucharest-16-octombrie-mare-concurs/#Cod)
+    [Get code](/posts/tedxbucharest-16-octombrie-mare-concurs/)
 
 și 125px lățime:
 
   
 ![TEDxBucharest](http://farm3.static.flickr.com/2566/3901669224_12f80cdcf5_o.png)  
   
-[Get code](/2009/09/09/tedxbucharest-16-octombrie-mare-concurs/#Cod)
+[Get code](/posts/tedxbucharest-16-octombrie-mare-concurs/)
     
     
     ![TEDxBucharest](http://farm3.static.flickr.com/2566/3901669224_12f80cdcf5_o.png) 
       
     
-    [Get code](/2009/09/09/tedxbucharest-16-octombrie-mare-concurs/#Cod)
+    [Get code](/posts/tedxbucharest-16-octombrie-mare-concurs/)
 
 **Cum se instalează:**
 

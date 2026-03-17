@@ -10,7 +10,7 @@ author: titus_capilnean
 
 Cum altfel ai putea să exprimi că un lipici ține o veșnici? Desigur, printr-un clișeu social arhicunoscut, căsătoria.
 
-[](/wp-content/uploads/2010/02/SuperCola3.preview.jpg)
+
 
 Cred că nu s-au uitat la ratele de divorț din ultima vreme…
 

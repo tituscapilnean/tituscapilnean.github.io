@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2009/08/twitterhashtaginado-400x245.png
 ---
 
-[](/wp-content/uploads/2009/08/twitterhashtaginado.png)
+
 
 Astăzi am dat din întâmplare peste hashtagul #inadolescenta, început undeva sâmbătă în jur de ora ~~4-5~~**23**(LE) de @adrianciubotariu.
 

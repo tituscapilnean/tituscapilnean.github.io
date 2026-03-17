@@ -9,7 +9,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/10/aIMAG0058-226x300.jpg
 ---
 
-Acum multe ore s-a terminat **prima zi din[Golden Drum 2010](/?s=golden%20drum)**, pe care am început-o încă de dimineață, de la prima oră, când ne-am prezentat conștiincioși la check-in. Nu s-a trezit prea multă lume la 9, așa că a mers repede.
+Acum multe ore s-a terminat **prima zi dinGolden Drum 2010**, pe care am început-o încă de dimineață, de la prima oră, când ne-am prezentat conștiincioși la check-in. Nu s-a trezit prea multă lume la 9, așa că a mers repede.
 
 Prima parte a zilei, adică de la 9 la 13, am participat la **jurizarea în direct a competiției de Advertising**. De menționat e că, deși nu am văzut nicio campanie românească în finala asta, din juriu a făcut parte **Lucian Georgescu**(manager GAV).
 
@@ -20,7 +20,7 @@ Mi-am ales câteva campanii pe care le-am considerat că merită să le prezint 
 **Lotus – Umbrella bag**
 
   
-[](/wp-content/uploads/2010/10/lotusumbrella.jpg)
+
 
 Campania s-a derulat în China, unde oamenii puteau să își scuture umbrelele în niște saci speciali. În momentul în care sacul se umplea, mesajul campaniei apărea pe suport, atenționând trecătorii despre lipsa apei potabile din multe regiuni din lume.  
 **  
@@ -109,7 +109,7 @@ In momentul in care identifici un tip de consumator si construiesti un pachet pe
 
 Nimeni nu se trezeste ca fiind consumator. Oamenii au dorinte, vise, vor sa se distreze, nu vor sa te vada, ca advertiser, ca le vrei doar portofelul.
 
-Michael a vorbit din nou despre scara standardelor in advertising, training la care [am participat în 2009](/2009/05/leadership-in-creatie-michael-conrad/), cu Grădinița Cannes.
+Michael a vorbit din nou despre scara standardelor in advertising, training la care [am participat în 2009](/posts/leadership-in-creatie-michael-conrad/), cu Grădinița Cannes.
 
 Ce nu trebuie sa uite publicitarul e ca atunci cand sta in interiorul normelor, nu are cum sa depaseasca nivelul 5(vezi topul din articolul de mai sus). Daca vrei sa creezi ceva nou si inovativ, trebuie sa provoci clientul sa te lase sa iesi din tipare.
 
@@ -123,4 +123,4 @@ Concluzia zilei – e criză și campaniile sociale au abundat pe tot parcursul 
 
 Să vedem de mâine încolo ce mai aflăm. Întrebări?
 
-[](/wp-content/uploads/2010/10/aIMAG0058.jpg)
+

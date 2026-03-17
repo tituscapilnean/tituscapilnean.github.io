@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/03/farmville2-400x239.png
 ---
 
-[](/wp-content/uploads/2010/03/farmville2.png)
+
 
 Citeam azi dimineață că 19% din români se joacă online zilnic, unii în timpul orelor de job, deci știrea asta se potrivește la fix pentru acel procent din cei 1,4 milioane de români care se joacă online în fiecare zi.
 

@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/11/brand-760683-150x150.jpg
 ---
 
-[](/wp-content/uploads/2010/11/brand-760683.jpg)Am citit în weekend pe blogul lui Cristi Manafu articolul ăsta. Dacă nu vrei să îl citești chiar acum, pe scurt e vorba despre motivele pentru care oamenii vorbesc(sau folosesc social media ca să vorbească) despre experiențele pozitive pe care le-au avut cu brandurile. În articolul lui, face referire la Seth Godin, cel care a scris lista celor 20 de motive pentru care oamenii devin ambasadori de branduri.
+Am citit în weekend pe blogul lui Cristi Manafu articolul ăsta. Dacă nu vrei să îl citești chiar acum, pe scurt e vorba despre motivele pentru care oamenii vorbesc(sau folosesc social media ca să vorbească) despre experiențele pozitive pe care le-au avut cu brandurile. În articolul lui, face referire la Seth Godin, cel care a scris lista celor 20 de motive pentru care oamenii devin ambasadori de branduri.
 
 În timp am ajuns să văd că România e o țară atipică, drept urmare **parte din motivele lui Godin s-ar putea să nu fie aceleași** cu cele pe care consumatorul român le are în momentul în care vorbește de bine despre un brand pe net(adică pe blog, pe contul de Twitter, pe contul de Facebook).
 

@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2013/05/Content_Marketing_Mix1-01-150x150.png
 ---
 
-[](/2013/05/reach-si-engagement-masurare-in-content-marketing/content_marketing_mix1-01/)La rugămintea lui Alin, am scris câteva rânduri pentru blogul lui despre starea ”industriei” de content marketing. Le redau mai jos.
+La rugămintea lui Alin, am scris câteva rânduri pentru blogul lui despre starea ”industriei” de content marketing. Le redau mai jos.
 
 > Cred că întrebarea e prea avansată pentru stadiul în care se află marketingul în România. Să zici că o companie are strategie de content marketing e ca și cum ai vorbi de rachete spațiale în Evul Mediu. Bun, dacă ar fi să mă gândesc ipotetic, eu aș pune drept KPI pentru conținut: reach-ul și engagement-ul, adică numărul de oameni la care a ajuns și numărul de oameni pe care i-a și influențat să facă ceva (like, share, comentariu etc.). Dincolo de asta, poți să legi contentul cu marketing afiliat sau cu lead generation-ul tradițional din sales, dar deja nu mai e content marketing, ci e advertorial clasic.
 > 

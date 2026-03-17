@@ -99,7 +99,7 @@ la_riquiqui: workshop-ul despre social media de la **Ronewmedia** : booorrriing
 
 F5_MONEYro: **RoNewMedia** >top 5 retele sociale: Blogger – 221,5 Facebook – 200,2 MySpace – 126,2 WordPress – 113,7 Windows Live Spaces – 86,8
 
-F5_MONEYro: **RoNewMedia** > Susan-Rice Lincoln: citeaza Zelist si spune ca sunt 11.000 de romani pe Twitter, dintre care doar 1000 activi – aici cred că mai degrabă m-a citat pe mine(ziceam [într-un articol chestia](/2009/07/31/rotwitter-numere/) asta mai de mult)
+F5_MONEYro: **RoNewMedia** > Susan-Rice Lincoln: citeaza Zelist si spune ca sunt 11.000 de romani pe Twitter, dintre care doar 1000 activi – aici cred că mai degrabă m-a citat pe mine(ziceam [într-un articol chestia](/posts/rotwitter-numere/) asta mai de mult)
 
 flaviusv: #**ronewmedia** Doamna Susan Rice-Lincoln ne spune ceva ce nu stim despre SM? pe mine m-a capiat cu banalitatile astea !
 

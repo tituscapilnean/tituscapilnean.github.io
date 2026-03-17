@@ -15,15 +15,15 @@ Am ajuns ieri seară (GMT +7) în Hong Kong. Cred că dacă ar fi să rezum în 
 
 M-am plimbat destul de mult prin centru, unde m-au surprins două alte extreme – apa și alte lucruri de bază sunt foarte ieftine (4-5 lei o sticlă de 0,5 l de la 7 eleven), dar la restaurante e destul de scump (bine, la cele mai stilate, că la curry și take-away iei si cu 20 de lei). Priveliștea face toți banii, însă:
 
-[](/2013/06/cateva-idei-despre-hong-kong/img_3139/)
+
 
 Azi, de dimineață, am fost până sus, pe Victoria Peak, plus pe traseele din zonă. E mult mai respirabil aerul acolo și ai pe unde să te plimbi. Cred că e cea mai apropiată senzație de junglă tropicală pe care am trăit-o până acum. A fost nevoie să vin pe la hostel să mă schimb din cauza umezelii. Cea mai mișto chestie de sus, de acolo, dincolo de priveliște, a fost vegetația aia nouă, pe care nu o găsești la noi:
 
-[](/2013/06/cateva-idei-despre-hong-kong/img_3273/)
 
-[](/2013/06/cateva-idei-despre-hong-kong/img_3269/)
 
-[](/2013/06/cateva-idei-despre-hong-kong/img_3228/)
+
+
+
 
 Mai am de văzut câteva chestii azi: Buddha, orașul dintre ziduri și niște lăcașe de cult tradiționale. Revin cu update.
 

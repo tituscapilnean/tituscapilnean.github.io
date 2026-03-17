@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/02/logo-2010.gif
 ---
 
-[](/wp-content/uploads/2010/02/logo-2010.gif)Am tot auzit de RoBlogFest de când am intrat în industrie(adică de vreo 10 luni) și acum a venit acel moment fatidic: s-au deschis înscrierile la RoBlogFest 2010. Abia aștept să văd ce bloguri interesante/noi/populare/de nișă vor concura anul ăsta, mai ales că m-am înscris și eu la 2 dintre categorii – cel mai popular blog(unde o să am nevoie de ajutorul tău și al prietenilor tăi să mă voteze 🙂 ) și la categoria Campanii integrate de social media – cu TEDxBucharest 2010, unde iar o să am nevoie de susținere.
+Am tot auzit de RoBlogFest de când am intrat în industrie(adică de vreo 10 luni) și acum a venit acel moment fatidic: s-au deschis înscrierile la RoBlogFest 2010. Abia aștept să văd ce bloguri interesante/noi/populare/de nișă vor concura anul ăsta, mai ales că m-am înscris și eu la 2 dintre categorii – cel mai popular blog(unde o să am nevoie de ajutorul tău și al prietenilor tăi să mă voteze 🙂 ) și la categoria Campanii integrate de social media – cu TEDxBucharest 2010, unde iar o să am nevoie de susținere.
 
 Aștept de ceva vreme concursul ăsta, ca să descopăr ceva bloguri noi, să vă ce fac cele vechi, dacă greii se vor mai înscrie anul ăsta (Sebi a anunțat că nu). E un moment în care ne numărăm prin blogosferă – să vedem dacă dă cu plus.
 

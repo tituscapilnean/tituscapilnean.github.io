@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/07/1649694-View_from_park_Guel-Barcelona-150x150.jpg
 ---
 
-[](/2011/07/in-barcelona-nu-mergi-sa-faci-plaja/1649694-view_from_park_guel-barcelona/)Mergi să te plimbi, să vizitezi, să explorezi. E un oraș frumos de mama focului, însă fără plaje spectaculoase. Are niște petice lungi de nisip, însă dă mai mult a Eforie Nord decât a Spania. Mai bine faci lucruri mai interesante. Cel puțin eu asta am înțeles din cele 4 zile de vacanță în Barcelona.
+Mergi să te plimbi, să vizitezi, să explorezi. E un oraș frumos de mama focului, însă fără plaje spectaculoase. Are niște petice lungi de nisip, însă dă mai mult a Eforie Nord decât a Spania. Mai bine faci lucruri mai interesante. Cel puțin eu asta am înțeles din cele 4 zile de vacanță în Barcelona.
 
 Povestea a început de sâmbătă dimineață, dintr-un taxi al cărui șofer extrem de amabil ne-a dus până la aeroportul din Otopeni cu doar 20 de lei(pe ceas), ne-a urat drum bun și ne-a făcut dimineața frumoasă. Era de la Pelican. Ne-am dus noi către terminal, cu biletele de avion în mână, și ne-am urcat în scurtă vreme în avion.
 
@@ -28,7 +28,7 @@ De aici și subiectul articolului: nu mergi la plajă în Barce. E cam ca la Efo
 
 În peripluul nostru dinspre plajă spre centru, am trecut prin și ne-am jucat în Jardins de Fontsere i Mestre, o parte din parcul ce adăpostește grădina zoologică și Palatul Parlamentului, pe care le-am lăsat pentru o altă vizită.
 
-Am bifat și Arcul de Triumf, acoperit parțial de o sponsorizare bancară pentru NBA și am luat-o tot la picior spre centru, spre celebra Rambla, pe unde am încercat să găsim un restaurant cât mai bine dosit, date fiind sfaturile primite [anterior](/2011/07/cel-mai-bun-ghid-pentru-barcelona/).
+Am bifat și Arcul de Triumf, acoperit parțial de o sponsorizare bancară pentru NBA și am luat-o tot la picior spre centru, spre celebra Rambla, pe unde am încercat să găsim un restaurant cât mai bine dosit, date fiind sfaturile primite [anterior](/posts/cel-mai-bun-ghid-pentru-barcelona/).
 
 Ne-am plasat la _Nostromo_ , unde pentru 15 euro/om am mâncat 2 feluri de mâncare, desert și am primit câte o băutură – totul de la un spaniol și un chinez de o amabilitate rară. Locul se vedea că e mai restrâns, că se gătește cu pasiune, pentru puțini oameni – aveau vreo 7 mese, cu totul.
 

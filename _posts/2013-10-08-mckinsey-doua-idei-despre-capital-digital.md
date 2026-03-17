@@ -21,7 +21,7 @@ De data asta am intrat adânc în rapoartele McKinsey și am punctat următoarel
 
 Concluzia raportului pune accentul pe resursa umană, care, așa cum ziceam și în articolul de ieri, e extrem de importantă pentru creșterea impactului pozitiv pe care integrarea digitală o poate aduce. Se caută liderii talentați care știu să gestioneze așteptările.
 
-[](/2013/10/mckinsey-doua-idei-despre-capital-digital/chief_digital_officer_cool_600/)
+
 
 Al doilea material pune problema un pic mai contabilicește – cum se reflectă capitalul digital în valoarea companiei. Dincolo de aspectele ce țin de valoarea companiei și perspectivele unei achiziții, respectiv de partea tradițională a capitalului digital (servere, infrastructură etc.), companiile trebuie să măsoare și să investească în capacitățile intangibile ce țin de partea digitală a business-ului.
 

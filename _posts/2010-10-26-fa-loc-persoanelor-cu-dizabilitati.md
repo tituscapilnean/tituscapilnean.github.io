@@ -9,7 +9,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/10/Poster-5-212x300.jpg
 ---
 
-[](/wp-content/uploads/2010/10/3360734315_c5618a0495_z.jpg)_Acesta este un articol pornit de la un Guest Post primit din partea lui Teo Zăbavă, Active Watch AMP._
+_Acesta este un articol pornit de la un Guest Post primit din partea lui Teo Zăbavă, Active Watch AMP._
 
 Unii spun că au loc, alţii că nu ştiu cum să le facă loc, alţii că nu prea sunt oameni cu dizabilităţi. Toată lumea are dreptate. Au loc acasă la ei. Oficial, sunt prea puţini oameni cu dizabilităţi ca să merite să te îngrijorezi.
 
@@ -36,7 +36,7 @@ Dacă nu ştiai, ea spune că în orice societate, dacă se pun suficienţi oame
 
 Să creeze o societate în care cei cu dizabilităţi vor putea merge oriunde pe stradă, vor putea intra în orice teatru, cinema, instituţie, vor avea locuri de muncă fără a le fi teamă de privirile celor din jur şi unde vor putea fi mulţumiţi de sine, pentru că vor fi devenit parteneri egali.
 
-[](/wp-content/uploads/2010/10/Poster-5.jpg)**Gala Persoanelor cu Dizabilităţi**
+**Gala Persoanelor cu Dizabilităţi**
 
 Eveniment anual care pune în prim plan potenţialul celor cu dizabilităţi de a oferi societăţii în care trăiesc creativitate, talent, studii, experienţe.
 

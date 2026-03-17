@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/08/risk-150x150.jpg
 ---
 
-[](/2011/08/brandul-cu-risc-masiv-in-social-media-experienta-mea/risk/)Văzând titlul ăsta, sperați să vă dau niște idei/sfaturi bazate pe jobul meu curent.
+Văzând titlul ăsta, sperați să vă dau niște idei/sfaturi bazate pe jobul meu curent.
 
 Nu o să fac asta. Nu e momentul. Totuși, sunt câteva lecții pe care le-am învățat încă de pe vreme când eram ONG-ist, plus câteva idei venite de prin alte părți.
 

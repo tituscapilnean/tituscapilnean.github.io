@@ -21,21 +21,21 @@ Pe lângă asta, au anunțat că au un panel digitalizat de consum (FMCG) și c�
 
 [Key Online Data * Romania * 2013  
 Xtreme Shoppers  
-](//infogr.am/Key-Online-Data--Romania--2013) | [Infographics](//infogr.am)
+](https://infogr.am/Key-Online-Data--Romania--2013) | [Infographics](https://infogr.am)
 
 Am mai aflat despre Digitally Natives și Digital Immigrants:
 
 **O imagine face cât 1000 de cuvinte, deci 3 imagini fac cât…**
 
-[](/2013/04/conferinta-gfk-menage-a-digital-online-and-offline/digital-natives/)
 
-[](/2013/04/conferinta-gfk-menage-a-digital-online-and-offline/digital-immigrants-and-migrants/)
 
-[](/2013/04/conferinta-gfk-menage-a-digital-online-and-offline/digital-natives-copy/)
+
+
+
 
 _Trenduri pentru digital natives:_ trăiesc în lumea mixta (online și offline), vor să artate bine și le place să aibă parte de _fresh fun_
 
-[](/2013/04/conferinta-gfk-menage-a-digital-online-and-offline/social-media/)
+
 
 Digitally natives sunt _hipsteri bio, grasi si narcisisti, care gusta glumele politcally incorrect_.
 
@@ -56,7 +56,7 @@ Nu mai știu cine a zis-o, dar nu a fost combătut, așa că nu o luați ca fact
 
 Niște cifre mai jos:
 
-[Digital Conversions](//infogr.am/Digital-Conversions) | [Infographics](//infogr.am)
+[Digital Conversions](https://infogr.am/Digital-Conversions) | [Infographics](https://infogr.am)
 
 Am mai discutat despre ce decizii iei pe online: valoare vs. volum, impact, relevanță directă pentru vânzări și am explorat/ne-a dat temă de testare următoarele: frecvențe de 2-3 și efectul de halo.
 
@@ -87,7 +87,7 @@ Despre case-ul Avon nu o să vorbesc, a fost prezentat foarte slab, generalită�
 
 În final, Traian a vorbit despre motivul pentru care eram acolo – **Studiul Online & Facebook Influencers**.
 
-[Normal user vs. Influencer *** (GfK Romania 2013)](//infogr.am/Normal-user-vs-Influencer-----GfK-Romania-2013) | [Create infographics](//infogr.am)
+[Normal user vs. Influencer *** (GfK Romania 2013)](https://infogr.am/Normal-user-vs-Influencer-----GfK-Romania-2013) | [Create infographics](https://infogr.am)
 
 Cum arată un brand urmăribil:  
 User obișnuit – **De încredere și original**  

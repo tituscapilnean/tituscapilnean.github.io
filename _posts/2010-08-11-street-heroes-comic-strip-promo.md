@@ -15,11 +15,11 @@ Se întîmplă în zilele următoare. Mi-a plăcut foarte mult modul în care au
 
 Primul newsletter:
 
-[](/wp-content/uploads/2010/08/newsletter.jpg)
+
 
 și al doilea:
 
-[](/wp-content/uploads/2010/08/newsletter-2.jpg)
+
 
 Îi găsești pe net și pe Facebook.
 

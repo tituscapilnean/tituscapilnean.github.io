@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/07/packing-list-150x150.jpg
 ---
 
-[](/2011/07/cum-ma-pregatesc-de-plecarea-in-vacanta/packing-list/)Mai am puțin și plec spre Spania. Am luat biletele de avion, am rezervările la hotel făcute, însă mai trebuie să trec printr-un proces foarte, foarte important, înainte de plecare – făcutul bagajului.
+Mai am puțin și plec spre Spania. Am luat biletele de avion, am rezervările la hotel făcute, însă mai trebuie să trec printr-un proces foarte, foarte important, înainte de plecare – făcutul bagajului.
 
 Deși sună foarte simplu, trebuie să reții că pleci la câteva mii de kilometri distanță și nu poți să te întorci, în cazul în care ai uitat ceva. De ceva vreme încoace, măcar mental, am ajuns să fac o listă de lucruri de care am nevoie atunci când plec în vacanță.
 

@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/09/reduceri-de-pret.jpg
 ---
 
-**Update:** Reprezentanții Groupon au promis că îmi restituie suma și că îmi dau și un voucher cadou, drept compensație. Bună treabă! Bravo](/wp-content/uploads/2011/09/reduceri-de-pret.jpg)
+**Update:** Reprezentanții Groupon au promis că îmi restituie suma și că îmi dau și un voucher cadou, drept compensație. Bună treabă! Bravo
 
 Cred că un articol de genul ăsta trebuia să citesc și eu înainte să mă enervez azi cu niște cupoane de karting ieftin pe care le luasem de ceva vreme de pe Groupon.ro. Întâi spun povestea și apoi pașii pe care cred eu că trebuie să îi urmeze oricine ca să fie mulțumit de cupoanele de reducere cumpărate de pe unul din zecile de site-uri de la noi.
 
@@ -34,7 +34,7 @@ Am terminat glorios cele 20 de minute şi am luat-o spre casă, jurând că ~~nu
 
 ## Sfaturile mele pentru cei care cumpără de pe site-urile de reduceri
 
-Percepția mea e că ofertele de pe site-urile astea au așa prețuri mici tocmai pentru că nu prea au clienți și vor să vândă totuși ceva, reducând la minim marja de profit. Așadar, ai grijă ce cumperi, pentru că s-ar putea să cheltui mai mulți bani decât dacă n-ai fi luat niciun cupon. Mi-am făcut un checklist după incidentul ăsta și după [țeapa luată de niște prieteni de-ai mei cu o cazare](/2011/08/teapa-cu-goldendeals-ro-si-sindtour-ro/ "teapa goldendeals"), tot de pe site-urile de reduceri.
+Percepția mea e că ofertele de pe site-urile astea au așa prețuri mici tocmai pentru că nu prea au clienți și vor să vândă totuși ceva, reducând la minim marja de profit. Așadar, ai grijă ce cumperi, pentru că s-ar putea să cheltui mai mulți bani decât dacă n-ai fi luat niciun cupon. Mi-am făcut un checklist după incidentul ăsta și după țeapa luată de niște prieteni de-ai mei cu o cazare, tot de pe site-urile de reduceri.
 
   * sună să afli mai multe informații. Întotdeauna!
   * ai grijă ca site-ul să aibă SSL(în partea de sus, la bara de adresă web să fie scris https://….), ca să plătești cu cardul în siguranță

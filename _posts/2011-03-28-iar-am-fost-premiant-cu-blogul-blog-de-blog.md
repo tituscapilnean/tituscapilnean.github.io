@@ -16,7 +16,7 @@ Anul ăsta am fost nominalizat și am luat fix **două premii** :
 >  Valive  
 >  http://traducatordecarte.blogspot.com/  
 >  http://bookconsumer.blogspot.com/#  
->  [Titus](/2011/01/cele-mai-mari-greseli-pe-care-o-companie-le-poate-face-in-social-media/)  
+>  [Titus](/posts/cele-mai-mari-greseli-pe-care-o-companie-le-poate-face-in-social-media/)  
 >  Zîna eficienţei  
 >  Eliza şi grădina ei  
 >  Adelin Petrişor

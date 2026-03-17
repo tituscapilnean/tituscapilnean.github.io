@@ -213,7 +213,7 @@ Cine nu știa de Google Ad Planner, mâna sus.
 
 Și o chestie amuzantă de pe Adplannerul Google:
 
-[](/wp-content/uploads/2011/10/gandul.info_.png)
+
 
 Două scurte:
 

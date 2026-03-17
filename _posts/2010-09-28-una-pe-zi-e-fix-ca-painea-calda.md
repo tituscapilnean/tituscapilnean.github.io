@@ -18,4 +18,4 @@ Mișto concertul la injectoare.
 
 **Update:** Trebuie să citești comentariile de pe Youtube. De mult timp nu am mai văzut un clip publicitar așa de apreciat de utilizatorul de rând! O să genereze niște expresii de folosit, că, deh, ” _multe lucruri e fix_ ”:
 
-[](/wp-content/uploads/2010/09/efix.jpg)
+

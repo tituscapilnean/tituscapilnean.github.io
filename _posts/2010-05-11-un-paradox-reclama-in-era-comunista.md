@@ -29,30 +29,30 @@ Totuși, sunt de remarcat câteva tehnici de manual, aplicate cu stîngăcie, î
 
 de la asta
 
-[](/wp-content/uploads/2010/05/IMG_0111.JPG)
+
 
 la asta
 
-[![Ursus-olimpic\[3\]](/wp-content/uploads/2010/05/Ursus-olimpic3-400x266.jpg)](/wp-content/uploads/2010/05/Ursus-olimpic3.jpg)
+
 
 **Elita:**
 
   
 de la asta
 
-[](/wp-content/uploads/2010/05/IMG_0113.JPG)
+
 
 la asta**Antinevralgic**
 
 a inceput așa:
 
-[](/wp-content/uploads/2010/05/IMG_11.JPG)
+
 
 si a ajuns la:
 
-[](/wp-content/uploads/2010/05/HEADACHE_1.preview.jpg)
 
-*printre puținele campanii care au ajuns pe adsoftheworld.com , despre care [am mai scris mai demult](/2009/04/10/new-media-la-unirii-si-universitate/).
+
+*printre puținele campanii care au ajuns pe adsoftheworld.com , despre care [am mai scris mai demult](/posts/new-media-la-unirii-si-universitate/).
 
 **Branduri internaționale**
 
@@ -60,11 +60,11 @@ si a ajuns la:
 
 a inceput asa:
 
-[](/wp-content/uploads/2010/05/IMG_0126.JPG)
+
 
 si a ajuns asa:
 
-[](/wp-content/uploads/2010/05/Nivea987.jpg)
+
 
 sau
 
@@ -72,7 +72,7 @@ sau
 
 care a inceput asa:
 
-[](/wp-content/uploads/2010/05/IMG_0116.JPG)
+
 
 si a ajuns asa:
 

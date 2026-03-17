@@ -8,9 +8,9 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2009/09/softwareproject-600x450-400x300.jpg
 ---
 
-[](/wp-content/uploads/2009/09/softwareproject-600x450.jpg)
 
-Să vă explic cum stă treaba când lucrezi în sistemul furnizor – client. Tipul ăsta de treburi **nu le-am avut la job, ci în afara lui, pe unde mai fac diverse freelance-uri**([site-uri – atât html, cât și WordPress, campanii, design-uri](/portofoliu-web-si-design/), etc. – dacă vă interesează, [contactați-mă, mă pricep](/contact/)).
+
+Să vă explic cum stă treaba când lucrezi în sistemul furnizor – client. Tipul ăsta de treburi **nu le-am avut la job, ci în afara lui, pe unde mai fac diverse freelance-uri**(site-uri – atât html, cât și WordPress, campanii, design-uri, etc. – dacă vă interesează, contactați-mă, mă pricep).
 
 Problema e una de cunoaștere în sine a ceea **ce vrei să comanzi** , tu ca și client, și modul în care explici chestia asta. La asta mai contribuie cât de bine poate să te consilieze omul cu care lucrezi, ca să scoată de la tine exact ceea ce îți dorești. Desigur, niciodată nu se întâmplă așa, pentru că oricum pe parcurs omul își mai dă seama că vrea una într-un fel și alta în altfel, că nu e bine acolo, că vrea un pic altfel, ceea ce e perfect ok, atunci când i se comunică din timp.
 

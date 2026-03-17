@@ -12,11 +12,11 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2009/08/penetrare-400x223.jpg
 ---
 
-[](/wp-content/uploads/2009/08/3186534628_127cf9736b_b.jpg)
+
 
 sursa foto
 
-Din România lipsesc cu desăvârşire studiile despre audienţa de pe Facebook sau Twitter. Pentru cel din urmă am început un recensământ şi am publicat un [mini studiu](/2009/07/28/studiu-de-audienta-pe-twitter/) acum câteva zile.
+Din România lipsesc cu desăvârşire studiile despre audienţa de pe Facebook sau Twitter. Pentru cel din urmă am început un recensământ şi am publicat un [mini studiu](/posts/studiu-de-audienta-pe-twitter/) acum câteva zile.
 
 Numerele românilor pe Facebook arată în felul următor:
 
@@ -40,23 +40,23 @@ _Gruparea pe vârste:_
 
 sau în procente:
 
-[](/wp-content/uploads/2009/08/procente-varsta.png)
+
 
 Dacă ne uităm la structura pe sexe, **102.200**(40%) de utilizatori sunt bărbaţi, iar **134.200**(52%) sunt femei şi **20.000**(8%) de utilizatori cu sex nedeclarat.
 
 Doar **9%** din utilizatori şi-au completat datele despre educaţie, din care 48% elevi de liceu, 4% studenţi şi 48% absolvenţi de o formă de învăţământ superior.
 
-[](/wp-content/uploads/2009/08/procente-educatie.png)
+
 
 Nici la starea civilă/relaţii nu am putut avea o statistică completă, doar **27%** completând câmpul respectiv din profil.
 
-[](/wp-content/uploads/2009/08/procente-relatii.jpg)
+
 
 58% dintre cei care şi-au trecut starea relaţiei sunt cuplaţi/căsătoriţi, iar 42% sunt singuri în acest moment, conform datelor de pe Facebook.
 
 Spuneam mai sus că România are 1,18% din populaţie pe Facebook. Mai jos am făcut o comparaţie cu **Ungaria, Serbia, Bulgaria, Ucraina şi Polonia** în funcţie de gradul de penetrare a Facebook în fiecare ţară.
 
-[](/wp-content/uploads/2009/08/penetrare.jpg)
+
 
 _Populatia – Procent de penetrare – Ţara_  
 **21.500.000 – 1,19% – Romania  
@@ -70,4 +70,4 @@ Doar Ucraina are un grad de penetrare mai mic la numărul de utilizatori Faceboo
 
 Mai avem de lucrat la social medi, la numărul de oameni de pe Facebook b-)
 
-Sper că v-a fost util articolul. Poate vă mai interesează şi [mini recensământul Twitter](/2009/07/28/studiu-de-audienta-pe-twitter/).
+Sper că v-a fost util articolul. Poate vă mai interesează şi [mini recensământul Twitter](/posts/studiu-de-audienta-pe-twitter/).

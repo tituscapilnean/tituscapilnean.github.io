@@ -10,7 +10,7 @@ Complotez de ceva vreme cu câțiva oameni din online-ul românesc și pun pe pi
 
 De aici trebuie să ne extindem în Europa și în lume. O să fie mai mare ca Facebook!
 
-Cei care au văzut [clipul de acum 2 săptămâni](/2010/11/motor-actiune/), de pe blog, știu cam despre ce e vorba:
+Cei care au văzut [clipul de acum 2 săptămâni](/posts/motor-actiune/), de pe blog, știu cam despre ce e vorba:
 
 Acu a venit și ziua cea mare în care public clipul complet:
 

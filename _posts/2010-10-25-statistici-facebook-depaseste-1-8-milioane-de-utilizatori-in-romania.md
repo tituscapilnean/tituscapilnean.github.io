@@ -10,7 +10,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/10/country-age-pie-ro-400x246.png
 ---
 
-[](/wp-content/uploads/2010/10/country-users-ro-last-6-months.png)A trecut ceva vreme de când n-am mai scris despre Facebook și creșterea în număr de utilizatori. După cum arată ultimele statistici, sunt foarte mari șanse ca până la finalul anului să trecem de un nou prag psihologic – **2 milioane de utilizatori**.
+A trecut ceva vreme de când n-am mai scris despre Facebook și creșterea în număr de utilizatori. După cum arată ultimele statistici, sunt foarte mari șanse ca până la finalul anului să trecem de un nou prag psihologic – **2 milioane de utilizatori**.
 
 **Cum stăm acum?**
 
@@ -20,13 +20,13 @@ Câți români utilizatori de internet folosesc Facebook: **23.41%** – deci un
 
 În ultimele 6 luni, rețeaua și menținut rata de creștere, ajungând de la 1.2 milioane, la peste 1.8 milioane, ceea ce mă face să cred că vom sări de 2 milioane de utilizatori undeva în jurul datei de 1 Ianuarie 2011.  
   
-[](/wp-content/uploads/2010/10/country-users-ro-last-6-months.png)
+
 
 Facebook în România își menține profilul pe vârstă și sexe, respectiv **48% din utilizatori sunt între 25 și 44 de ani**(grupul cu cea mai mare putere de cumpărare), iar **52% sunt femei și 48% sunt bărbați**.
 
 Deja, ca brand poți să te adresezi către în jur de 1 milion de posibili clienți.
 
-[](/wp-content/uploads/2010/10/country-age-pie-ro.png)
+
 
 În plus, Facebakers a adăugat un Top 3 Branduri în România, pe Facebook, cel puțin interesant:
 

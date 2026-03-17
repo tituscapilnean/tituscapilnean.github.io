@@ -12,7 +12,7 @@ author: titus_capilnean
 Dat fiind faptul că iar am evadat din București în weekend, iar ajung să scriu numai luni despre chestiile faine făcute vineri. Așadar, vinerea asta, moment în care toți corporatiștii cad lați în paturi, terminați de plantație, eu, la invitația lui Ionuț și împreună cu alți bloggeri de vază ai urbei, am fost să bem bere.
 
 Nimic neobișnuit până aici, doar că am fost să bem bere la Beer’o’clock, în pasajul Villacrosse, un beerhouse despre care doar auzisem că are bere foarte bună, însă nu îl testasem încă. Și n-am băut oricum și orice, ci am fost întreținuți toată seara de către reprezentanții jollybeers.net.  
-[](/wp-content/uploads/2010/09/127408814894.png)
+
 
 > Fondată în anul 2009, Jolly Beers este unicul importator şi distribuitor de bere Schneider Weisse şi Hutthurmer în România.
 > 
@@ -50,7 +50,7 @@ Berea asta e **ușoară** , e aromată și merită băută în 2, ca o șampanie
 și
 
 **TAP 6 Unser Aventinus**  
-[](/wp-content/uploads/2010/09/12680582227787.png)
+
 
 > Când Roger Putman, degustător internaţional de bere britanic, spunea că “Aventinus este bunicul berilor de grâu”, o făcea pe bună dreptate deoarece Aventinus este cel mai vechi dublu-bock cu fermentare la suprafaţă din lume, fiind creat în 1907 la Weisses Bräuhaus din München ca răspuns creativ la berile dublu-bock cu fermentaţie inferioară existente la acea vreme. Aventinus a fost botezată după istoricul cu acelaşi nume, care în secolul al XII-lea a scris pentru prima dată despre Bavaria şi locuitorii săi.
 > 

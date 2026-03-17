@@ -10,7 +10,7 @@ author: titus_capilnean
 
 Citeam săptămâna trecută un articol interesant de-al lui Alex despre ce trebuie să alegi: Pagină de Facebook sau Grup de Facebook. El a sumarizat decizia într-un raționament simplu – **grupul** este pentru **pasiuni/domenii de interes comune** , iar **pagina** pentru **enitități/branduri**.
 
-[](/wp-content/uploads/2010/06/facebook_logo.jpg)
+
 
 De aici și datorită unei întrebări, mi-a venit ideea să scriu despre **Evenimentele de pe Facebook** , atașate fie la grupuri, fie la pagini. Evenimentele permit construirea unei liste de invitați, confirmați, probabili, în așteptare sau care au refuzat invitația. Așa poți sății evidența oamenilor pe care îi aștepți la evenimente, teoretic măcar.
 

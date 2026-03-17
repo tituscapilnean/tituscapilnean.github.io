@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/07/image002-208x300.jpg
 ---
 
-_[](/2011/07/super-8-la-movieplex-bucuresti/image002/)Guestpost scris de Sergiu Căpîlnean, care a fost la film, la invitația Ro Image 2000(mulțumim!)._
+_Guestpost scris de Sergiu Căpîlnean, care a fost la film, la invitația Ro Image 2000(mulțumim!)._
 
 Vineri seară am fost la Movieplex Cinema, în Plaza România, să văd **Super 8**. Auzisem de el că ar fi science-fiction, că ar fi fost regizat de JJ Abrams şi produs de Stephen Spielberg, amândoi cu palmaresuri impresionante, însă prea multe nu ştiam despre el.
 

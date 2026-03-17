@@ -6,7 +6,7 @@ tags: ["austria", "munte", "ski", "snow-explosion", "snowboard"]
 author: titus_capilnean
 ---
 
-În sfârşit am găsit 10 minute libere să mai şi scriu pe blog. Am fost în [weekend în Austria](/2009/10/26/austria-povestea-a-doua-zile-de-documentare/), la Ossiach, trimis în recunoaştere de către cei de la Snow Explosion. Scopul meu a fost **să văd, să fac poze, să mă întorc şi să povestesc**. Primele 3 le-am îndeplinit deja, rămăsese a patra, pe care o fac acum 🙂
+În sfârşit am găsit 10 minute libere să mai şi scriu pe blog. Am fost în [weekend în Austria](/posts/austria-povestea-a-doua-zile-de-documentare/), la Ossiach, trimis în recunoaştere de către cei de la Snow Explosion. Scopul meu a fost **să văd, să fac poze, să mă întorc şi să povestesc**. Primele 3 le-am îndeplinit deja, rămăsese a patra, pe care o fac acum 🙂
 
 Cu articolul ăsta vreau să confirm și să vă asigur că **Snow Explosion se va întâmpla în perioada 5-20 decembrie**. Mai mult decât atât, va fi foarte tare, nu numai datorită petrecerilor 🙂
 

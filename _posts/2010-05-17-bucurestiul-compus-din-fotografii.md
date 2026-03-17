@@ -8,9 +8,9 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/05/3357123293_6149fbdd41-400x266.jpg
 ---
 
-[](/wp-content/uploads/2010/05/3357123293_6149fbdd41.jpg)
 
-Citeam în weekend pe blogul lui Vlad Petreanu despre un eveniment pe care nu pot să îl țin pentru mine. Se leagă foarte mult de una din ideile pe care le-am prezentat la noaptea de Pecha-Kucha – [promovarea cu ajutorul comunității](/2010/02/26/promovarea-romaniei-printr-un-gest-simplu-tag-urile-fotografiiilor/ "promovarea romaniei"), rețelelor de oameni. De data asta nu e vorba despre România, ci despre București, iar mediul nu e online, ci e „pe viu”.
+
+Citeam în weekend pe blogul lui Vlad Petreanu despre un eveniment pe care nu pot să îl țin pentru mine. Se leagă foarte mult de una din ideile pe care le-am prezentat la noaptea de Pecha-Kucha – promovarea cu ajutorul comunității, rețelelor de oameni. De data asta nu e vorba despre România, ci despre București, iar mediul nu e online, ci e „pe viu”.
 
 Pentru 3 zile, stâlpii de la metroul din Piața Unirii 1 se transformă în ghivece de …fotografii. **„Livada de Fotografii”** a fost botezat evenimentul de strângere a semințelor de București, ce va avea loc între 9 și 11 Iunie. Fiecare bucureștean e invitat să aducă o mică bucată din capitală, sub forma unei poze format maxim 10×15(**costă 1 leu** să printrezi o fotografie la Mihai Petre la reaper_1024 [at] yahoo.com până pe 31 mai) și să o lipească pe unul din stâlpii stației Unirii 1.
 

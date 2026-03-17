@@ -13,7 +13,7 @@ author: titus_capilnean
 
 _Articol scris de Sergiu Capilnean, public affairs expert cu experienta in cadrul German Marshall Fund, Aspen Institute, Petrom si EIR, initial postat pe Facebook. L-am editat putin si adapta pentru blog._
 
-_Face parte dintr-o[serie pre-alegeri](/2020/11/analiza-serial-programul-de-guvernare-al-usr-plus-pentru-alegerile-parlamentare-2020/)._
+_Face parte dintr-o[serie pre-alegeri](/posts/analiza-serial-programul-de-guvernare-al-usr-plus-pentru-alegerile-parlamentare-2020/)._
 
 # Ziua 1 + Ziua 2: Structura programului de guvernare USR Plus!
 
@@ -69,7 +69,7 @@ Agregarea numărului de măsuri la nivel de categorie susține suspiciunea din n
 
 Puncte și pentru asta. Dar corelarea numărului de măsuri cu numărul de cuvinte parcă adâncește îngrijorarea privind înțelegerea comună a conceptelor între autori.
 
-În poza doi e indicatorul pe care l-am denumit ”gradul de detaliere al măsurilor”, practic numărul de caractere din textul angajamentului împărțit la numărul de măsuri din angajament. Dacă titlul are conotații negative pentru măsurile care beneficiază de mai puține cuvinte, ar putea fi privit și invers, ca productivitate a cuvintelor în măsuri. Nu judec.[](/wp-content/uploads/2020/11/123166267_10217625303765733_5104781941390380430_o.jpg)
+În poza doi e indicatorul pe care l-am denumit ”gradul de detaliere al măsurilor”, practic numărul de caractere din textul angajamentului împărțit la numărul de măsuri din angajament. Dacă titlul are conotații negative pentru măsurile care beneficiază de mai puține cuvinte, ar putea fi privit și invers, ca productivitate a cuvintelor în măsuri. Nu judec.
 
 Cu o medie de 2400 de caractere folosite pentru a lista o măsură într-un angajament și o mediană de 2100, limita de jos o reprezintă angajamentul ”Stimulente pentru a ne menține sănătoși, nu bolnavi”. Acesta folosește aproape 500 de caractere pentru a pregăti și lista 18 măsuri, care cuprind programe, finanțări, acțiuni legislative, acțiuni de comunicare, acțiuni executive. Limita de sus e dată de ”Fără gunoaie în natură” – o singură măsură descrisă si articulată detaliat, în aproape 6000 de caractere. Reagregat la nivel de categorii, Sănătate pentru toți este de departe cea mai concisă.
 
@@ -118,7 +118,7 @@ Mi-ar fi plăcut să văd o aplicare mai riguroasă a unei structuri clare. Mi-a
 
 Pe partea numărului de măsuri (sau mă rog, a elementelor de acțiune de cel mai jos nivel), poza 3 (sus) arată o situație ceva mai echilibrată decât în cazul programului de pe website. Capitolul Sănătate e responsabil pentru doar 15% din cele aproximativ 1200 de măsuri propuse, spre deosebire de proporția de 35% din 160 de măsuri în cazul website-ului.
 
-Locurile următoare din PDF arată o posibilă discrepanță în ce privește volumul între domeniile pentru care s-au elaborat măsuri și ce a fost ales pentru comunicare pe website. După Sănătate, cele mai proeminente capitole la numărul de măsuri sunt Politica Externă, Agricultura și Mediu. Totuși, recunosc că e nevoie de o mapare între angajamentele de pe website și capitolele din pdf înainte de a spune că website-ul nu reflectă programul.[](/wp-content/uploads/2020/11/123163790_10217625305005764_3481196437064229636_o.jpg)
+Locurile următoare din PDF arată o posibilă discrepanță în ce privește volumul între domeniile pentru care s-au elaborat măsuri și ce a fost ales pentru comunicare pe website. După Sănătate, cele mai proeminente capitole la numărul de măsuri sunt Politica Externă, Agricultura și Mediu. Totuși, recunosc că e nevoie de o mapare între angajamentele de pe website și capitolele din pdf înainte de a spune că website-ul nu reflectă programul.
 
 În ce privește gradul de detaliere al măsurilor, ilustrat în poza 4 (sus) ca numărul de pagini dedicat capitolului împărțit la numărul de măsuri identificate, mă bucur să spun că Sănătatea își pierde locul de worst offender (sau most efficient) în favoarea capitolului pe Agricultură, care listează 106 măsuri în 12 pagini. Mai mult, sunt alte 4 capitole care au o densitate mai mare de măsuri per pagină decât Sănătatea! Cel mai detaliat capitol din punctul acesta de vedere este Tineret care, în 13 pagini, reușește să articuleze tot atâtea măsuri.
 

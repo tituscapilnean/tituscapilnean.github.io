@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2013/11/RTEmagicC_02_logo.jpg.jpg
 ---
 
-[](/2013/11/concluzia-proasta-cu-marketingul-de-tara/rtemagicc_02_logo-jpg/)Văd din ce în ce mai des tot felul de străini de sorginte insulară europeană că se dau peste cap în a zice despre țara noastră că are potențial, că e frumoasă, că e un paradis natural și așa mai departe. În felul ăsta e coafat și articolul de pe Ziare.com. Nu-l contrazic decât parțial, pentru că a concluzionat prost. Pe la mijlocul articolului chiar îmi dăduse speranța că a înțeles cum merge dezvoltarea unei țări (bazată pe valorificarea de resurse interne, producție, industrie, minerit și infrastructură), dar a încheiat așa:
+Văd din ce în ce mai des tot felul de străini de sorginte insulară europeană că se dau peste cap în a zice despre țara noastră că are potențial, că e frumoasă, că e un paradis natural și așa mai departe. În felul ăsta e coafat și articolul de pe Ziare.com. Nu-l contrazic decât parțial, pentru că a concluzionat prost. Pe la mijlocul articolului chiar îmi dăduse speranța că a înțeles cum merge dezvoltarea unei țări (bazată pe valorificarea de resurse interne, producție, industrie, minerit și infrastructură), dar a încheiat așa:
 
 > Intrebat care este cauza imaginii negative a Romaniei in strainatate, Gerry Eastwood a dat un raspuns asemanator cu cel al majoritatii strainilor din campania “Strain in Romania”.
 > 

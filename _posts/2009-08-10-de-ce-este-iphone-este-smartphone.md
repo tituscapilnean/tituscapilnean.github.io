@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2009/08/phoneadexcerpt-400x198.jpg
 ---
 
-[](/wp-content/uploads/2009/08/phoneadexcerpt.jpg)
+
 
 sursa foto
 

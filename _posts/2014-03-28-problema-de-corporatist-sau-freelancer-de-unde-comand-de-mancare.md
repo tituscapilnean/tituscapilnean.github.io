@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2014/03/food-delivery-service-300x225.jpg
 ---
 
-[](/2014/03/problema-de-corporatist-sau-freelancer-de-unde-comand-de-mancare/food-delivery-service-300x225/)Nu sunt mare fan al gătitului, nu-mi place să îmi iau mâncare la pachet și nu mă prea omor după sandvișurile sau caserolele de la supermarketuri. N-am putut niciodată să iau mai mult de 2 sau 3 ori pe săptămână mâncare cu mine la birou sau acasă, drept pentru care mă plimb prin restaurantele bucureștene sau să comand mâncare de pe net sau pe mobil, prin aplicații. Dacă de pe net e destul de simplu să dai un search pe ”comandă mâncare bucurești” (respectiv numele orașului din țară), pe mobil nu-s așa de multe opțiuni.
+Nu sunt mare fan al gătitului, nu-mi place să îmi iau mâncare la pachet și nu mă prea omor după sandvișurile sau caserolele de la supermarketuri. N-am putut niciodată să iau mai mult de 2 sau 3 ori pe săptămână mâncare cu mine la birou sau acasă, drept pentru care mă plimb prin restaurantele bucureștene sau să comand mâncare de pe net sau pe mobil, prin aplicații. Dacă de pe net e destul de simplu să dai un search pe ”comandă mâncare bucurești” (respectiv numele orașului din țară), pe mobil nu-s așa de multe opțiuni.
 
 Pentru mine e important să mi se amintească faptul că trebuie să mănânc, mai ales dacă am treabă și am intrat în _flow_ , să știu cât durează până ajunge comanda, să știu că pot să filtrez după bucătării, feluri de mâncare și că mi se zice cât e comanda minimă și zonele de livrare, să nu mă trezesc că trebuie să iau 2 kile de mâncare doar ca să vină până unde sunt eu. Din câte am văzut, Food Panda face treburile ăstea foarte bine, însă e întotdeauna bine să diversifici și să ai variante.
 

@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2009/12/geoana+basescu_b-400x241.jpg
 ---
 
-[](/wp-content/uploads/2009/12/geoana+basescu_b.jpg)
+
 
 sursa foto
 

@@ -37,49 +37,49 @@ Radu ne-a povestit despre experiețele lui cu fotografia prin alte țări și de
 
 Am aflat și despre marea regulă a treimilor, regulă care te ajută să încadrezi o poză cât de cât decent., iar George ne-a arătat câteva lucrări ale lui Henri Cartier – Bresson, Martin Parr, Miroslav Tichy, Kevin van Aelst, Michael Wesley, Egyed Ufo Zoltan, Jamie Beck, și Marian Pislaru, așa pentru inspirație.
 
-[](/2012/10/fotografii-mai-bune-cu-scoalaf64/image-3/)
 
-[](/2012/10/fotografii-mai-bune-cu-scoalaf64/photo-10/)
 
-[](/2012/10/fotografii-mai-bune-cu-scoalaf64/treimi/)
 
-[](/2012/10/fotografii-mai-bune-cu-scoalaf64/dsc03819/)
 
-[](/2012/10/fotografii-mai-bune-cu-scoalaf64/dsc03826/)
 
-[](/2012/10/fotografii-mai-bune-cu-scoalaf64/dsc03830/)
 
-[](/2012/10/fotografii-mai-bune-cu-scoalaf64/dsc03834/)
 
-[](/2012/10/fotografii-mai-bune-cu-scoalaf64/dsc03836/)
 
-[](/2012/10/fotografii-mai-bune-cu-scoalaf64/dsc03843/)
 
-[](/2012/10/fotografii-mai-bune-cu-scoalaf64/dsc03844/)
 
-[](/2012/10/fotografii-mai-bune-cu-scoalaf64/dsc03855/)
 
-[](/2012/10/fotografii-mai-bune-cu-scoalaf64/dsc03857/)
 
-[](/2012/10/fotografii-mai-bune-cu-scoalaf64/dsc03865/)
 
-[](/2012/10/fotografii-mai-bune-cu-scoalaf64/dsc03867/)
 
-[](/2012/10/fotografii-mai-bune-cu-scoalaf64/dsc03871/)
 
-[](/2012/10/fotografii-mai-bune-cu-scoalaf64/dsc03872/)
 
-[](/2012/10/fotografii-mai-bune-cu-scoalaf64/dsc03880/)
 
-[](/2012/10/fotografii-mai-bune-cu-scoalaf64/dsc03881/)
 
-[](/2012/10/fotografii-mai-bune-cu-scoalaf64/dsc03890/)
 
-[](/2012/10/fotografii-mai-bune-cu-scoalaf64/dsc03891/)
 
-[](/2012/10/fotografii-mai-bune-cu-scoalaf64/dsc03892/)
 
-[](/2012/10/fotografii-mai-bune-cu-scoalaf64/dsc03898/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Pentru practică, am fost până sus la capătul telegondolei din Azuga, apoi prin pădure, pe un drum forestier, către cabana Susai, unde ne-am oprit pentru un ultim popas înainte de drumul pe DN1 înapoi spre Sinaia.
 

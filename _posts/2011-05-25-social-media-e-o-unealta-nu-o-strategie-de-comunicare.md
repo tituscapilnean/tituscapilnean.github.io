@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/05/social-media-tool-150x150.jpg
 ---
 
-[](/2011/05/social-media-e-o-unealta-nu-o-strategie-de-comunicare/social-media-tool/)Azi am decis să resuscitez un titlu din drafts, mai ales în contextul în care ieri am citit un articol destul de dur despre _”experții social media”_. Încă de la primul meu training de comunicare cu ajutoru online-ului și, mai precis, a social media, mi-am dat seama că n-am cum să predau ”social media”, pentru că ar însemna să stau să detaliez ce face Facebook, Twitter, ce face un blog etc.
+Azi am decis să resuscitez un titlu din drafts, mai ales în contextul în care ieri am citit un articol destul de dur despre _”experții social media”_. Încă de la primul meu training de comunicare cu ajutoru online-ului și, mai precis, a social media, mi-am dat seama că n-am cum să predau ”social media”, pentru că ar însemna să stau să detaliez ce face Facebook, Twitter, ce face un blog etc.
 
 N-are sens. Despre asta poți citi prin help-uri, pe site-uri de tutoriale etc.
 
@@ -20,7 +20,7 @@ Stabilește **obiectivul de comunicare** , pornind de la obiectivul de business 
 
 **Construiește un mecanism pe baza obiectivului** – aici depinde de atu-urile pe care le are produsul/serviciul tău, de strategia de client service, de discount-urile pe care vrei să le dai sau nu, de tipul de brand pe care vrei să ți-l construiești. Și mai depinde și de canalele pe care le alegi – abia aici vorbești de **social media**.
 
-(restul procesului [aici](/2010/11/cateva-idei-de-la-primul-meu-training-de-comunicare-in-social-media/))
+(restul procesului [aici](/posts/cateva-idei-de-la-primul-meu-training-de-comunicare-in-social-media/))
 
 Dar doar la nivel de canal, pentru că **strategia deja îți este conturată**.
 
@@ -32,4 +32,4 @@ Combat doar partea de vârstă – nu contează așa de mult ea, cât experienț
 
 Cam la asta se rezumă.
 
-_p.s. așa îți dai seama că[nu ești expert social media](/2011/01/cum-iti-dai-seama-ca-nu-esti-expert-social-media/)_
+_p.s. așa îți dai seama că[nu ești expert social media](/posts/cum-iti-dai-seama-ca-nu-esti-expert-social-media/)_

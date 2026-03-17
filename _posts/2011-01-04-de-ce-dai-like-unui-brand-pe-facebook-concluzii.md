@@ -11,7 +11,7 @@ author: titus_capilnean
 ![Facebook logo](http://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Facebook.svg/266px-Facebook.svg.png)
     Image via Wikipedia
 
-Scriam acum 3 săptămâni că vreau să aflu **[de ce dai like pe Facebook](/2010/12/top-10-motive-pentru-care-dai-like-unui-brand-pe-facebook-2/) unei pagini** care reprezintă un brand.
+Scriam acum 3 săptămâni că vreau să aflu **[de ce dai like pe Facebook](/posts/top-10-motive-pentru-care-dai-like-unui-brand-pe-facebook-2/) unei pagini** care reprezintă un brand.
 
 Am făcut un poll la care au răspuns 84 de cititori, suficient cât să trag câteva concluzii.
 
@@ -51,6 +51,6 @@ Doar pentru subiectele sensibile și industriile unde procentul de hateri e mare
 
 Rezultatele complete ale sondajului:
 
-[](/wp-content/uploads/2011/01/like-pe-Facebook.jpg)
+
 
 Acestea fiind zise, sper că **am mai dat un plus de claritate** direcției în care trebuie să o ia mesajele de pe paginile de Facebook pe care le administrezi.

@@ -20,7 +20,7 @@ Nu mă înțelege greșit. Concursurile cu premii – produse sunt foarte bune c
 
 Însă, tipul de utilizator de internet atras de mecanismul ăsta este unul care scoate bani din buzunar mai greu, mai ales dacă a câștigat sau poate câștiga pe gratis produsele.
 
-[](/wp-content/uploads/2010/11/166502795lLCdyM_fs.jpg) Jucatorul 
+ Jucatorul 
 
 Utilizatorul ăsta se numește **utilizatorul jucător.** El este implicat în acțiunea ta pentru că are un premiu de câștigat. Dacă nu îl câștigă, se supără și pleacă. Merge la următorul concurs, să vâneze următorul premiu.
 
@@ -28,7 +28,7 @@ Totuși, e util să atragi câțiva dintre ei, pentru că vor anima spiritele î
 
 Bine, nu-i uităm nici pe cei care cumpără produsul pentru care au concurat, după ce n-au câștigat, însă ei sunt puțini și rari.
 
-[](/wp-content/uploads/2010/11/first_time_home_buyer.jpg) Cumparatorul 
+ Cumparatorul 
 
 Există un alt tip de utilizator, mai puțin exploatat pe Facebook, Twitter, bloguri.
 
@@ -40,4 +40,4 @@ Ce faci cu el? Mai bine să zic ce nu faci – nu îi dai concursuri cu premii �
 
 Pune-l să cumpere. Ajută-l să găsească cea mai bună ofertă pentru el. Oferă-i reduceri speciale pe Facebook, Twitter, blog, dacă te ajută să te promovezi sau dacă vorbește cu alții despre produsele tale. E cu atât mai plăcut mecanismul pentru tipul ăsta de utilizator, cu cât el e mai îndrăgostit de produsele tale.
 
-Așa cum am scris la începutul săptămânii, [oamenii vorbesc despre branduri cu prietenii lor](/2010/11/de-ce-vorbesti-de-bine-despre-branduri-in-socialmediaconcluzii/). Dacă și stimulezi conversația asta, ai numai de câștigat.
+Așa cum am scris la începutul săptămânii, [oamenii vorbesc despre branduri cu prietenii lor](/posts/de-ce-vorbesti-de-bine-despre-branduri-in-socialmediaconcluzii/). Dacă și stimulezi conversația asta, ai numai de câștigat.

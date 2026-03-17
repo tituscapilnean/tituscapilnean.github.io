@@ -10,7 +10,7 @@ author: titus_capilnean
 
 Dacă anul trecut erau rare ocaziile în care vedeam știrile de afară despre social media și comunicare online pe blogurile de la noi, de ceva vreme încoace, au început să apară și bloguri de agenții care iau în serios rolul de educare a clientului și a utilizatorului de social media (fie el educat sau nu).
 
-[](/wp-content/uploads/2012/10/Screen-Shot-2012-10-22-at-5.14.28-PM.jpg)
+
 
 Agenția _Butterfly Media Group_ scrie săptămânal, începând de azi, un scurt rezumat pentru principalele știri din ultimele 7 zile. Prin secțiunea asta, cititorii lor își pot crea o imagine de ansamblu asupra noutăților și inovațiilor dintr-o piață foarte volatilă. Nu de puține ori apar tool-uri noi, Facebook, Twitter, Linkedin, Pinterest sau Instagram mai fac câte o modificare, deci merită să fim la curent, mai ales dacă lucrăm în domeniu.
 

@@ -15,13 +15,13 @@ Primul articol din 2010 coincide cu reîntoarcerea mea în București, deci îna
 
 Ca să încep anul cum trebuie, am făcut rost de niște comics tematice, de “la mulți ani”.
 
-[](/wp-content/uploads/2010/01/lma.jpg)
 
-[](/wp-content/uploads/2010/01/77970.strip.gif)
 
-[](/wp-content/uploads/2010/01/my-scientific-breakthrough.jpg)
 
-[](/wp-content/uploads/2010/01/1290606653786209131.png)
+
+
+
+
 
 Așa o să îmi încep ziua de lucru zâmbind că a mai trecut un an și că urmează un 2010 interesant, atât pe blog, cât și în proiectele mele.
 

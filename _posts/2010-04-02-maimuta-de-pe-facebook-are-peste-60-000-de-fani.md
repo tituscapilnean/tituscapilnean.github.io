@@ -10,7 +10,7 @@ author: titus_capilnean
 
 Cică totul ar fi pornit de la niște oameni care au văzut o maimuță prin Tampa Bay. Nimic spectaculos până aici. Totuși un ziar local, St. Petersburg Times, a reușit să creeze un pic de buzz la nivel național(și acum internațional) în jurul maimuței misterioase din Tampa Bay. I-au făcut pagină de Facebook și peste 64.000 de oameni au devenit fanii maimuței misterioase 🙂
 
-[](/wp-content/uploads/2010/04/tampa.jpg)
+
 
 Acum dincolo de faptul că are atât de mulți fani, maimuța excelează la nivel de conversație și interacțiune cu utilizatorii care o urmăresc. A reușit să strângă în jurul ei un grup de 100-200 de susținători acerbi, care comentează la orice mesaj trimis de maimuță(adică de cei de la redacția St. Petersburg Times). Comentatorii se entuziasmează de fiecare dată când maimuța anunță faptul că a scăpat din nou de autoritățile care o urmăresc. Valoarea pe care o aduce pagina asta se limitează doar la fun și am adus-o în discuție pentru că mi se pare uimitor cât de mulți oameni vor să vorbească cu o maimuță care vagabondează prin Tampa.
 

@@ -10,7 +10,7 @@ author: titus_capilnean
 
 Am primit zilele trecute de la o prietenă, un pont despre cum Google o comite puțin, când vine vorba de Kika, concurentul celor de la IKEA. Cel mai mișto rezultat îl obțineți atunci când căutați istoria Kika și Google vă sugerează să vă orientați spre linkurile IKEA.
 
-[](/wp-content/uploads/2010/01/ikeavskika.jpg)
+
 
 Imaginea de mai jos nu e singura de tipul ăsta, ci chiar și o căutare pe cuvântul ”kika” întoarce la sugestii ”ikea”. Ce poți să mai faci în cazul ăsta?
 

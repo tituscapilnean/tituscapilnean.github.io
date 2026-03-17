@@ -12,7 +12,7 @@ Mai mereu lumea înjură netul de la RDS, că pică din când în când, că nu 
 
 Hai că te-am făcut deja curios să afli despre ce e vorba. Marketing-ul de la RDS nu se prea pricepe să poziționeze oferta asta bine, așa că și eu am aflat din întâmplare, de la o casieriță care mi-a zâmbit frumos, că pot să profit de o gratuitate. De pe site-ul lor, îți ia ceva până te prinzi care e ideea cu modemul.
 
-[](/wp-content/uploads/2010/10/2929425028_1f61d2e0db.jpg)
+
 
 _(imagine cu scop ilustrativ, modemul pe care îl am eu e negru cu albastru)_
 

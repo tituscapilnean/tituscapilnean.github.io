@@ -10,7 +10,7 @@ author: titus_capilnean
 
 Merci Nic și Simona pentru invitație.
 
-[](/wp-content/uploads/2010/11/Invitatie-Bal-Catavencu.jpg)
+
 
 Deși am ajuns mai târziu, deci după decernările de premii(despre care poți să citești aici), tot am avut timp să ne simțim bine împreună.
 

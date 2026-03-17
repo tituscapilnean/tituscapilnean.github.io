@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2012/02/teapa_romania-223x300.jpg
 ---
 
-[](/wp-content/uploads/2012/02/teapa_romania.jpg)Cred că fiecare om care lucrează în online de cel puțin 2 ani a auzit povești de genul “am luat țeapă de la bloggerul x sau agenția y” și, evident, la încă un cui în sicriul industriei de advertising online(așa cum înțeleg unii să o facă).
+Cred că fiecare om care lucrează în online de cel puțin 2 ani a auzit povești de genul “am luat țeapă de la bloggerul x sau agenția y” și, evident, la încă un cui în sicriul industriei de advertising online(așa cum înțeleg unii să o facă).
 
 Țepele pot fi evitate dacă ești puțin atent. Am sintetizat principalele elemente la care trebuie să fii atent atunci când accepți o propunere de campanie online. O parte din ele le folosesc și eu, zi de zi, atunci când am de analizat oferte de publicitate/PR online.
 

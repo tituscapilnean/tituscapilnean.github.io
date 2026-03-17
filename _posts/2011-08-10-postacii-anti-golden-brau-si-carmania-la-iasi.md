@@ -13,13 +13,13 @@ Weekend-ul trecut a fost Golden Brau CarMania și la Iași, după ce acum două 
 
 În weekend, imediat după eveniment, pe duminică, cu toate că bloggerii participanți au scris că evenimentul a fost ok(aici și aici), am primit următorul comentariu pe blog:
 
-[](/2011/08/postacii-anti-golden-brau-si-carmania-la-iasi/postac-pe-blogul-meu/)
+
 
 După cum puteți vedea, omul se plângea de organizare, iar postacul #2 îl susținea în anonimatul dat de un IP diferit și de a@a.ro la adresa de email. 
 
 Evident, elucubrațiile au rămas în pending(inițial vroiam să le bag direct în spam, însă nu puteam să fiu apoi martor la următoarele comentarii:
 
-[](/2011/08/postacii-anti-golden-brau-si-carmania-la-iasi/postac-anti-golden-brau/)
+
 
 Băiatul a mai comentat de zor și ar mai fi comentat dacă nu îl cenzuram. Acum rămâne de văzut care dintre concurenții/haterii lui Golden Brau au săvârști mârlănia asta? Mă ajută vreun expert în IP-uri și tracing? Poate dăm de micuți și îi demascăm un pic, pentru că nu-i frumos ce au făcut.
 

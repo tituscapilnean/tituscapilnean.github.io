@@ -12,7 +12,7 @@ Pe vremuri, îmi puneam părinții să facă diverse chestii pentru mine, copil 
 
 Ei, p-atunci n-aveam Facebook și 10-le la matematică era echivalentul celor 1.000.000 de like-uri pe care au crezut părinții fetelor din poza de mai jos că le pot pune în calea dorințelor lor de a adopta un câine.
 
-[](/2013/01/parinti-copii-santaj-emotional-si-facebook/twogirlsandapuppy/)
+
 
 Dar s-au înșelat și ambiția lor, precum și trendul de social care plutește în internetosferă, au făcut ca poza să strângă peste ~~1,8 milioane de like~~ 2,5 milioane de like-uri și încă nu s-a oprit. Cu o asemenea performanță, ar putea deveni _social media experts_ din moment în moment. Senzațional! 🙂
 

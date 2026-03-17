@@ -12,7 +12,7 @@ author: titus_capilnean
 
 Deci vă rog din nou să vă lăsați amprenta pe aici cu un vot 🙂
 
-[](/wp-content/uploads/2009/08/3500130714_f097d16eb0_b.jpg)
+
 
 sursa foto
 

@@ -13,7 +13,7 @@ Vineri am primit un newsletter de la Blogal Initiative, cum că landingul de cam
 
 Surpriza mea maximă a fost să văd că noul landing page arată așa:
 
-[](/2011/06/calculatorul-de-refinantare-widget-pe-bloguri-si-site-uri-iii/refinantare/)
+
 
 Deci pe site-ul BCR poți acum să îți calculezi exact cât te costă refinanțarea, cât câștigi, în comparație cu creditul vechi și ce costuri extra mai ai, pe lângă dobândă.
 
@@ -23,7 +23,7 @@ Setezi perioada și afli exact cât o să ai de plătit pe lună. Perfect.
 
 Mă bucur să văd că BCR citește sfaturile de pe Twitter:
 
-[](/2011/06/calculatorul-de-refinantare-widget-pe-bloguri-si-site-uri-iii/tweet-titus/)
+
 
 Da, ideea a fost a mea, pe 14 Iunie, pe Twitter. Haters gonna hate.
 

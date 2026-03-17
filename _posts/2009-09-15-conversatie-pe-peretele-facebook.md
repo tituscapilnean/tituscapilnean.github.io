@@ -10,13 +10,13 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2009/09/tag-400x171.jpg
 ---
 
-Acum câteva zile am scris despre [Facebook Lite și despre faptul că anunțaseră pe blogul lor că vor lansa o funcționalitate gen Twitter.](/2009/09/11/facebook-la-cura-de-slabire/)
+Acum câteva zile am scris despre [Facebook Lite și despre faptul că anunțaseră pe blogul lor că vor lansa o funcționalitate gen Twitter.](/posts/facebook-la-cura-de-slabire/)
 
 Inițial, @replys a fost funcțional doar în SUA, iar de azi-noapte funcțioanează și la noi.
 
-[](/wp-content/uploads/2009/09/fb-tw.jpg)
 
-Ca să explic puțin contextul, Facebook a pornit un război de concurență cu Twitter. Au [cumpărat Friendfeed](/2009/08/10/buzz-international-facebook-a-cumparat-friendfeed/) pentru real-time search și au început să implementeze funcții asemănătoare sau complementare celor de pe Twitter. Acum două săptămâni lansaseră [un mod de a ancora pagina ta de un cont de Twitter](/2009/08/21/facebook-profita-de-twitter/), fără a mai fi nevoie să intri pe contul de Twitter ca să publici ceva. O poți face direct de pe Facebook. Strike one.
+
+Ca să explic puțin contextul, Facebook a pornit un război de concurență cu Twitter. Au [cumpărat Friendfeed](/posts/buzz-international-facebook-a-cumparat-friendfeed/) pentru real-time search și au început să implementeze funcții asemănătoare sau complementare celor de pe Twitter. Acum două săptămâni lansaseră [un mod de a ancora pagina ta de un cont de Twitter](/posts/facebook-profita-de-twitter/), fără a mai fi nevoie să intri pe contul de Twitter ca să publici ceva. O poți face direct de pe Facebook. Strike one.
 
 Apoi, mai înainte, Facebook transformase Wall într-un fel de Public Time line al Twitter. La care adăugaseră și real-time search cumpărat de la FriendFeed.
 
@@ -26,7 +26,7 @@ Apoi, mai înainte, Facebook transformase Wall într-un fel de Public Time line 
 
 La fel de bine, atât evenimente cât și pagini, le menționezi tot așa în status update-ul de pe Wall. Primesc automat link spre locul unde se află ele pe Facebook. Chestia asta pare să fie un vehicul foarte bun de promovare targetată gratuită, putând cu ușurință să selectezi cine va primi ce fel de mesaje, provocându-l eventual și la un dialog. Oricum, e un mare pas înainte pentru status updates, pentru că trebuia inițial să mergi să cauți linkul de introdus. Abia apoi îl introduceai, îl recunoștea și ți-l atașa. Acum apare direct hyperlink în conversație.
 
-[](/wp-content/uploads/2009/09/linksd.jpg)
+
 
 Funcționalitatea asta transformă statusurile Facebook din afirmații în conversații, pentru că te poți adresa direct unui prieten. Mult mai ușor decât sa dai mesaje 🙂 Mesajul tău apare automat pe peretele celui căruia i te-ai adresat. Nu e conversație privată, așa că aveți grijă ce și cui ziceți, pentru că rămâne pe Timeline și vede toată lumea 🙂 Exact ca în Twitter.
 
@@ -40,4 +40,4 @@ Vă recomand să încercați funcționalitatea asta și să îmi spuneți ce pă
 
 Facebook îți trimite notificare prin e-mail:
 
-[](/wp-content/uploads/2009/09/tag.jpg)
+

@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/05/tedxcluj-400x187.jpg
 ---
 
-[](/wp-content/uploads/2010/05/tedxcluj.jpg)
+
 
 In 21 mai are loc prima conferinta TEDxCluj. Tudor Giurgiu, presedintele TIFF, este amfitrionul zilei. Printre vorbitori sunt Katie Rizvi (Femeia ANului 2009 in Romania), Dan Cristea (campionul mondial la debate in 2009), Sorin MIsiriantu (actor si regizor la Teatrul National Cluj), Cor Geertsma (expat, antreprenor in Cluj) si altii, toti oameni extrem de interesanti.
 
@@ -23,4 +23,4 @@ Sunt doar 99 de locuri disponibile (limitare impusa de TED Global pentru prima e
 
 Ediția clujeană a TEDx e organizată tot de un fost AIESEC-er, în persoana lui Ștefan Teișanu, așa că putem să ne așteptăm la un eveniment foarte fain. Dacă ești din Cluj sau vrei să mergi în Cluj în perioada respectivă, înscrie-te la TEDx.
 
-Dacă vrei să vezi [cum a fost la TEDxBucharest 2009](/tag/tedx/), citește articolele pe care le-am scris despre eveniment. S-ar putea să îți dea un pic de insight asupra modului în care se desfășoară evenimentele astea și ce tip de conținut te poți aștepta să găsești.
+Dacă vrei să vezi [cum a fost la TEDxBucharest 2009](/tags/tedx/), citește articolele pe care le-am scris despre eveniment. S-ar putea să îți dea un pic de insight asupra modului în care se desfășoară evenimentele astea și ce tip de conținut te poți aștepta să găsești.

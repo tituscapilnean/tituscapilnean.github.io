@@ -22,7 +22,7 @@ si lista poate continua.
 
 Ce te faci dacă ești, să zicem PR online, și ajungi în lista de XXX sau în cea de boobies? Nu face bine imaginii tale online să stai cu stigmatul ăsta în contul de Twitter. Pe cale oficială, nu poți să scapi din liste nicicum, însă există o mică șmecherie, care funcționează și care te scoate din lista în care ai fost băgat pe nedrept(zici tu).
 
-[](/wp-content/uploads/2010/01/blockunblock.png)
+
 
 Mergi frumos pe **twitter.com/*id om care te-a băgat în listă*** și îi dai block, după care unblock(opțional).
 

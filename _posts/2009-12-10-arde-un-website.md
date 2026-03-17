@@ -12,7 +12,7 @@ author: titus_capilnean
 
 La ora 16:00 o să ardă un site.
 
-[](/wp-content/uploads/2009/12/ceapa.jpg)
+
 
 Să vă uitați!
 
@@ -21,8 +21,8 @@ Pun aici rezultatul.
 **Update: a ars**  
 
 
-[](/wp-content/uploads/2009/12/ceapa3.jpg)
+
 
 și ardeeeeee
 
-[](/wp-content/uploads/2009/12/ceapa2.jpg)
+

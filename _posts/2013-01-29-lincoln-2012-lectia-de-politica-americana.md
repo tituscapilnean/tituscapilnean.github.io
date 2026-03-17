@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2013/01/drama-lincoln-a-avut-premiera-la-new-york-vezi-cat-de-impresionati-au-fost-criticii-americani-de-noul_1_size3-198x300.jpg
 ---
 
-_[](/2013/01/lincoln-2012-lectia-de-politica-americana/drama-lincoln-a-avut-premiera-la-new-york-vezi-cat-de-impresionati-au-fost-criticii-americani-de-noul_1_size3/)Din motive obiective, aseară am absentat la avanpremiera Lincoln. Din câte mi-a povestit delegatul meu, filmul e o mostră de diplomație americană de excepție, în special la capitolul negocieri și discursuri. Vă las cu povestea lui Robert Lazăr, care a fost la fața locului._
+_Din motive obiective, aseară am absentat la avanpremiera Lincoln. Din câte mi-a povestit delegatul meu, filmul e o mostră de diplomație americană de excepție, în special la capitolul negocieri și discursuri. Vă las cu povestea lui Robert Lazăr, care a fost la fața locului._
 
 La invitația lui Titus am fost în Cinema City – Sun Plaza, cu girul _Odeon_ și _TVR2_ , să văd “Lincoln”, noul film al lui Spielberg, realizat după romanul biografic “Rivalii”, scris de Doris Kearns Goodwin. Filmul a fost pus la cale încă din 2005, iar filmările ar fi trebuit să înceapă în 2006, dar se pare că scenariul de atunci nu a fost satisfăcător pentru Spielberg, fiind necesari încă 5 ani pentru a începe filmările.
 

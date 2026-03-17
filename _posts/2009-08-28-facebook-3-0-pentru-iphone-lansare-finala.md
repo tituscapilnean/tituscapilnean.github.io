@@ -12,9 +12,9 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2009/08/IMG_0256-200x300.PNG
 ---
 
-[](/wp-content/uploads/2009/08/facebook_logo.jpg)
 
-Scriam acum câteva zile despre aplicația de Facebook 3.0 și despre faptul că are nevoie de ea ca să poată fi un [competitor serios pentru Twitter](/2009/08/21/facebook-profita-de-twitter/).
+
+Scriam acum câteva zile despre aplicația de Facebook 3.0 și despre faptul că are nevoie de ea ca să poată fi un [competitor serios pentru Twitter](/posts/facebook-profita-de-twitter/).
 
 Dacă atunci aplicația era doar preview, acum ea a fost oficial lansată pe AppStore și poate fi descărcată de pe acest link:  
 Facebook 3.0 for iPhone  
@@ -50,11 +50,11 @@ Singurul **neajuns major** al Facebook pentru iPhone este că în continuare nu 
 
 **Update:** Își cer și scuze pentru asta:
 
-[![IMG_0257\[1\]](/wp-content/uploads/2009/08/IMG_02571.PNG)](/wp-content/uploads/2009/08/IMG_02571.PNG)
+
 
 Am făcut câteva screenshots:
 
-[](/wp-content/uploads/2009/08/IMG_0254.PNG)[](/wp-content/uploads/2009/08/IMG_0255.PNG)[](/wp-content/uploads/2009/08/IMG_0256.PNG)
+
 
 Interfața e mult mai ușor de folosit acum, pe bună dreptate a meritat așteptarea pentru 3.0
 

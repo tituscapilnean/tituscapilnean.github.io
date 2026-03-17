@@ -9,14 +9,14 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/01/b6f6d9dc13ef2d93eb156398f70c15c3bd3e4e2e_m-400x281.jpg
 ---
 
-[](/wp-content/uploads/2010/01/Stupid-Vampire-Joke.jpg) O remarcă strălucită, aproape la fel de puternică în comparație cu unda solarului.    
+ O remarcă strălucită, aproape la fel de puternică în comparație cu unda solarului.    
 de pe wulffmorgenthaler.com 
 
 Vampiru care a confundat solarul cu sicriul. 🙂
 
 și reversul medalie
 
-[](/wp-content/uploads/2010/01/b6f6d9dc13ef2d93eb156398f70c15c3bd3e4e2e_m.jpg) Americani cu aparate foto, la țară.    
+ Americani cu aparate foto, la țară.    
 de pe fffound.com 
 
 – Îi dăm foc?  

@@ -10,8 +10,8 @@ author: titus_capilnean
 
 Îmi pare rău, dar cineva trebuie să le-o zică. Au dat-o de gard cu titlul ăsta:
 
-[](/wp-content/uploads/2012/10/zf-penibil.png)
 
-A cui este vina că [IAB Forum](/2012/10/piata-de-online-a-crescut-in-semestrul-1-cu-7-yoy-iab-forum-2012/) a fost în același timp cu ziua 1 a conferinței lor și că unii am ales să fim acolo?
+
+A cui este vina că [IAB Forum](/posts/piata-de-online-a-crescut-in-semestrul-1-cu-7-yoy-iab-forum-2012/) a fost în același timp cu ziua 1 a conferinței lor și că unii am ales să fim acolo?
 
 Una peste alta, cred că o publicație și o echipă quality cum e cea a ZF, ar trebui să evite exprimări de genul ăsta. Dau bine doar în echipele de creație, pentru restul e posibil să fie o mică jignire.

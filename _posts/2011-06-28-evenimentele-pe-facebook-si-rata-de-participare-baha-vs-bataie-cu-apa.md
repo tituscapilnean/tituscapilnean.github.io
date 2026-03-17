@@ -15,7 +15,7 @@ Urmăresc îndeaproape mecanismele de comunicare pe care le pune Facebook la dis
 
 _Hard facts:_ au fost invitați în jur de 30.000 de oameni, au dat Attending 5000 de oameni, au dat Maybe cam 2000 și au participat aprox. 2500- 3000.
 
-[](/2011/06/evenimentele-pe-facebook-si-rata-de-participare-baha-vs-bataie-cu-apa/baha/)
+
 
 Treaba asta s-a întâmplat nu pentru că au făcut spam ca demenții, ci pentru că au adunat în jurul conceptului o comunitate de petrecăreți.
 
@@ -35,7 +35,7 @@ Baha s-a poziționat ca activitatea nr.1 din noaptea aia pentru grupul respectiv
 
 _Hard facts:_ 110.000 de utilizatori de Facebook invitați, 35.000 au dat Attending, 10.500 au spus că poate vin, iar la eveniment au participat doar 400-500 de oameni(din mărturiile celor care au fost acolo).
 
-[](/2011/06/evenimentele-pe-facebook-si-rata-de-participare-baha-vs-bataie-cu-apa/bataieapa/)
+
 
 Bătaia cu apă poate să fie, întradevăr, fun, însă un eveniment de tipul ăsta are nevoie de un grup de oameni care să fi făcut deja treaba asta cel puțin o dată și care să creeze masa aia critică, cea care face diferența între un eveniment mișto și unul în care te simți stingher. Cea mai importantă întrebare din mintea potențialilor participanți a fost: ”oare o să mai fie lume sau o să fiu doar eu(și grupul meu) singurul penibil din Herăstrău care a venit să se bată cu apă după ce a citit despre asta pe Facebook?” Da, întrebarea a fost așa de lungă și așa de grea și cred că a cântărit decisiv la rata mică de participare.
 

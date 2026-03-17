@@ -12,12 +12,12 @@ S-a terminat săptămâna de lucrat de la mare și ne-am întors cu bine înapoi
 
 Săptămâna am descris-o în câteva articole, în care am surprins pitorescul mării noastre și specificului local ce se perindă în fiecare an pe nisipuri.
 
-[Plecarea la mare 2.0](/2009/07/24/plecare-la-mare-2-0/)  
-[Trenul spre mare 2.0](/2009/07/26/trenul-spre-mare-2-0/)  
-[Mare 2.0 – Ziua 1](/2009/07/27/mare-2-0-ziua-1/)  
-[Mare 2.0 – ziua 2](/2009/07/28/mare-2-0-ziua-2/)  
-[Marea 2.0 – ziua 3](/2009/07/29/marea-2-0-ziua-3/)  
-[Marea 2.0 – Melteni si coca in Eforie](/2009/07/30/marea-2-0-melteni-si-coca-in-eforie/)
+[Plecarea la mare 2.0](/posts/plecare-la-mare-2-0/)  
+[Trenul spre mare 2.0](/posts/trenul-spre-mare-2-0/)  
+[Mare 2.0 – Ziua 1](/posts/mare-2-0-ziua-1/)  
+[Mare 2.0 – ziua 2](/posts/mare-2-0-ziua-2/)  
+[Marea 2.0 – ziua 3](/posts/marea-2-0-ziua-3/)  
+[Marea 2.0 – Melteni si coca in Eforie](/posts/marea-2-0-melteni-si-coca-in-eforie/)
 
 În ziua a 5-a eram deja obosiți de munca la mare și am lucrat din nou de la vilă. Weekend-ul l-am petrecut alături de Visurât și Denisuca, plus câștigătorii de la concursul Ursus de pe blogul lui Visurât, cu care am colindat _plaja H2O_ și _plaja Leandri_ din Mamaia(unde în weekend nu există loc de parcare – cumva seamănă cu Bucureștiul la asta).
 
@@ -25,7 +25,7 @@ Nu puteam sa trec pe la mare fără să nu dau o tură și prin Vama Veche, mai 
 
 Dar, vama e din ce în ce mai schimbată de la an la an, în rău. De exemplu anul ăsta au pus un bancomat.
 
-[](/wp-content/uploads/2009/08/Photo-0084.jpg)
+
 
 Da, un bancomat în Vamă, locul unde mergeai cu banii numărați în buzunar, fără carduri, cecuri de călătorie sau alte conexe. Pe lângă asta, se pare că industria hotelieră din zonă a început să prospere, pentru că e plin mai nou de hoteluri în Vamă, desigur cu colecția de SUV-uri parcate în fața lor.
 

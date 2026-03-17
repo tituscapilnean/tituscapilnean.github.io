@@ -14,15 +14,15 @@ Organizatorii Internet & Mobile World au pus de-o aplicație cel puțin interesa
 
 _Pe social media, azi, s-au cheltuit cam 22 de milioane de dolari până la ora asta._
 
-[](/wp-content/uploads/2012/09/SM.png)
+
 
 _În România, anul ăsta, s-au vândut mai multe telefoane mobile deștepte decât laptopuri. La tablete încă stăm subțirel._
 
-[](/wp-content/uploads/2012/09/mobile.png)
+
 
 _3.6 Petabytes de informație digitală au fost uploadați în România anul ăsta._
 
-[](/wp-content/uploads/2012/09/gb.png)
+
 
 Și aplicația are multe alte date, pentru cam toate palierele industriei de comunicare digitală (online + mobile). Păcat că nu au pus sursele la fiecare, unele date fiind bazate doar pe estimări.
 

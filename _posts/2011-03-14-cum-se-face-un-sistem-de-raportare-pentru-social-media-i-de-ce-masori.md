@@ -9,7 +9,7 @@ author: titus_capilnean
 ![Social Media Landscape](http://farm4.static.flickr.com/3026/2564571564_70181a48b0_m.jpg)
     
 
-De mai multă vreme am în minte un serial despre cea mai grea componentă a unei [campanii online în social media](/2010/12/concluziile-dupa-al-doilea-training-de-social-media-pe-care-l-am-tinut/) – **sistemul de monitorizare și raportare**. Cred că e cea mai grea pentru că mulți o văd ca pe o obligație față de șef/client/partener, nu ca pe o unealtă foarte utilă în procesul de management al campaniei online.
+De mai multă vreme am în minte un serial despre cea mai grea componentă a unei [campanii online în social media](/posts/concluziile-dupa-al-doilea-training-de-social-media-pe-care-l-am-tinut/) – **sistemul de monitorizare și raportare**. Cred că e cea mai grea pentru că mulți o văd ca pe o obligație față de șef/client/partener, nu ca pe o unealtă foarte utilă în procesul de management al campaniei online.
 
 Și mai important, mulți văd sistemul ăsta implementat la finalul campaniei, când nu prea mai ai ce să mai schimbi, ci maxim să înveți pentru o campanie nouă. Cred că e inutil să insist asupra faptului că sistemul de monitorizare și raportare trebuie să fie pus la punct în **etapa de planificare** a campaniei, nu în timpul campaniei, ca să poți să folosești datele din mers.
 

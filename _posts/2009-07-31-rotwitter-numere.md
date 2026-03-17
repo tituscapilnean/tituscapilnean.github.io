@@ -20,7 +20,7 @@ Am strâns niște statistici mai jos din ZeTweety, care susțin ce afirmam mai s
 
 Comportamentul utilizatorului de Twitter din țara noastră nu diferă cu mult de statisticile internaționale de mai jos:
 
-[](/wp-content/uploads/2009/07/3706760751_091604080c_o.jpg)
+
 
 Mai avem de crescut 🙂
 
