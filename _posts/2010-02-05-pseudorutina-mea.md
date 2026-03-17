@@ -22,7 +22,7 @@ Programul de lucru nu are rost sa îl expun aici, așa că trec direct la seară
 
 Ajung să mă culc pe la 11-12 în zilele bune și nu, nu folosesc taskwriter sau alte tooluri, ci **sfântul Notepad** 🙂
 
-[](/wp-content/uploads/2010/02/19871129.gif)
+
 
 sursa comic-ului
 

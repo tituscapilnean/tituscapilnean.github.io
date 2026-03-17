@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2012/01/casa-150x150.jpg
 ---
 
-[](/wp-content/uploads/2012/01/casa.jpg)Contextul a făcut ca în ultimele zile să arunc un ochi pe site-urile companiilor de imobiliare, atât agregatoare cât și dezvoltatori cu site propriu. Dacă la primii, la care se vede clar pachetul de idei de marketing și usability, mai merg cât de cât, trecând peste anunțurile dublate, pozele proaste și anunțurile scrise ca la _Mica Publicitate în anii 90_ , la cea de-a doua categorie m-am speriat.
+Contextul a făcut ca în ultimele zile să arunc un ochi pe site-urile companiilor de imobiliare, atât agregatoare cât și dezvoltatori cu site propriu. Dacă la primii, la care se vede clar pachetul de idei de marketing și usability, mai merg cât de cât, trecând peste anunțurile dublate, pozele proaste și anunțurile scrise ca la _Mica Publicitate în anii 90_ , la cea de-a doua categorie m-am speriat.
 
 Am dat peste site-uri în Flash, site-uri neactualizate din 2009, site-uri într-un HTML sau ASP rudimentar, fără prețuri, fără poze calume, dar cu planuri, cu 3D-uri.
 

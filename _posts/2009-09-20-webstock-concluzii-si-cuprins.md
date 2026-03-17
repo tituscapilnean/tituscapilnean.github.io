@@ -14,40 +14,40 @@ I-am făcut un mic cuprins, ca să îl puteți folosi mai ușor, pe sesiuni și 
 
 09:00-11:00 S E S I U N E A I
 
-[WHAT’S NOW – A peek inside the Social Networks in Romania – Adina Madularea, Daedalus Millward Brown](/2009/09/18/webstock/#1)
+[WHAT’S NOW – A peek inside the Social Networks in Romania – Adina Madularea, Daedalus Millward Brown](/posts/webstock/)
 
-[WHAT’S HOT – Contradictions in Social Media – Bob Rapp, Vodafone Group](/2009/09/18/webstock/#2)
+[WHAT’S HOT – Contradictions in Social Media – Bob Rapp, Vodafone Group](/posts/webstock/)
 
-[WHAT WORKS – An user experience story – Michael Köster, Microsoft – Todi Pruteanu, Microsoft Romania](/2009/09/18/webstock/#3)
+[WHAT WORKS – An user experience story – Michael Köster, Microsoft – Todi Pruteanu, Microsoft Romania](/posts/webstock/)
 
-[WHAT’S NEXT – Today’s hidden dangers – Stefan Tanase, Kaspersky Lab](/2009/09/18/webstock/#4)
+[WHAT’S NEXT – Today’s hidden dangers – Stefan Tanase, Kaspersky Lab](/posts/webstock/)
 
 11:30-13:00 S E S I U N E A I I
 
 [WHAT’S NOW – Room raiders 24/7 – how your social persona lets everyone peek into your personal life – Bogdana Butnar, MRM Worldwide  
-](/2009/09/18/webstock/#5)  
-[WHAT’S HOT – Future of Social Media – Sharifah Amirah, Frost & Sullivan](/2009/09/18/webstock/#6)
+](/posts/webstock/)  
+[WHAT’S HOT – Future of Social Media – Sharifah Amirah, Frost & Sullivan](/posts/webstock/)
 
-[WHAT WORKS – Internet on your mobile. Beyond news and games – Stephanie Jackson, Vodafone](/2009/09/18/webstock/#7)
+[WHAT WORKS – Internet on your mobile. Beyond news and games – Stephanie Jackson, Vodafone](/posts/webstock/)
 
-[WHAT’S NEXT – Collaborative Web – Mihai Pricope, Adobe Romania](/2009/09/18/webstock/#8)
+[WHAT’S NEXT – Collaborative Web – Mihai Pricope, Adobe Romania](/posts/webstock/)
 
-[WHAT’S NEW – Brands and bloggers – Radu Ionescu, Kinecto](/2009/09/18/webstock/#9)
+[WHAT’S NEW – Brands and bloggers – Radu Ionescu, Kinecto](/posts/webstock/)
 
 14:00- 15:30 S E S I U N E A I I I
 
-[Blogging – Part 1](/2009/09/18/webstock/#10)  
-[Alex Cristache, Blogsessive.com – Organize your blog like an A-list blogger (15′)](/2009/09/18/webstock/#11)  
-[Alex Negrea, Buddha.Voce.ro – From Blogger.com to Pro Blogger (15′)](/2009/09/18/webstock/#12)  
-[Costin Cocioaba, IBU ProTV & Re:Fresh.ro – How to promote your blog brand (15′)](/2009/09/18/webstock/#13)  
-[Catalin Zorzini, Inspired Mag- Launching a niche blog (15′)](/2009/09/18/webstock/#14)
+[Blogging – Part 1](/posts/webstock/)  
+[Alex Cristache, Blogsessive.com – Organize your blog like an A-list blogger (15′)](/posts/webstock/)  
+[Alex Negrea, Buddha.Voce.ro – From Blogger.com to Pro Blogger (15′)](/posts/webstock/)  
+[Costin Cocioaba, IBU ProTV & Re:Fresh.ro – How to promote your blog brand (15′)](/posts/webstock/)  
+[Catalin Zorzini, Inspired Mag- Launching a niche blog (15′)](/posts/webstock/)
 
 16:00 – 18:00 S E S I U N E A I V
 
-[Blogging – Part 2](/2009/09/18/webstock/#15)  
-[Ionut Oprea, StandOut – Blogvertising (15′)](/2009/09/18/webstock/#16)  
-[Bobby Voicu, FTW – to be announced (15′)](/2009/09/18/webstock/#17)  
-[Radu Spineanu, 2 Parale – Affiliate Marketing (15′)](/2009/09/18/webstock/#18)
+[Blogging – Part 2](/posts/webstock/)  
+[Ionut Oprea, StandOut – Blogvertising (15′)](/posts/webstock/)  
+[Bobby Voicu, FTW – to be announced (15′)](/posts/webstock/)  
+[Radu Spineanu, 2 Parale – Affiliate Marketing (15′)](/posts/webstock/)
 
 În afară de sesiunile propriu-zise de la Webstock, în pauze ne-am mai întâlnit și cu alte evenimente menționabile.  
   

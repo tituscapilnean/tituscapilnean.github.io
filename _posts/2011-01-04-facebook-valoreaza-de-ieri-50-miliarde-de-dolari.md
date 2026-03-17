@@ -12,7 +12,7 @@ Facebook a mai făcut rost de încă 500 milioane de dolari din partea investito
 
 Ei au reevaluat compania și i-au ridicat estimările de la 41 de miliarde(noiembrie 2010) la 50 de miliarde de dolari. Evident, valoarea este una viitoare, la care Facebook va ajunge prin înglobarea investițiilor la care are acum acces datorită capitalului primit.
 
-[](/wp-content/uploads/2011/01/facebook_chart1.png)
+
 
 sursa graficului  
 

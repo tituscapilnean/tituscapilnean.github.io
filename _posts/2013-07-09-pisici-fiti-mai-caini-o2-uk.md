@@ -16,11 +16,11 @@ Telefonica UK a lansat o campanie foarte îndrăzneață, prin care provoacă pi
 
 Practic, jocul de Frisbee accesat prin QR code, pe mobil, e controlat printr-o aplicație care transmite trei tipuri de aruncari pisicii din ecranul calculatorului. Ea poate prinde sau nu frisbee-ul, în funcție de cum ai aruncat. M-am jucat un pic, e addictive, îți vine să îi dai share, colegii mei au apreciat și ei ideea, iar execuția nu e nici pe de parte rocket science.
 
-[](/2013/07/pisici-fiti-mai-caini-o2-uk/photo-1-3/)
 
-[](/2013/07/pisici-fiti-mai-caini-o2-uk/catdog1/)
 
-[](/2013/07/pisici-fiti-mai-caini-o2-uk/catdog2/)
+
+
+
 
 Mă înclin în fața englezilor pentru campania asta. Good job, sir.
 

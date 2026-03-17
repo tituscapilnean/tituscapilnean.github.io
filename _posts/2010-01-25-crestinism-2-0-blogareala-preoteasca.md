@@ -25,6 +25,6 @@ Eu știu de creștinism.net, sfaturiortodoxe.ro, torentcrestin.ro ( >:) ), crest
 
 În altă ordine de idei, pe iPhone este Biblia de vânzare, am văzut și calendarul ortodox și alte câteva aplicații religioase. Deci ne modernizăm și noi 🙂
 
-[](/wp-content/uploads/2010/01/273.jpg)[](/wp-content/uploads/2010/01/photo2.jpg)
+
 
 Ce ziceți? E bine ce se întâmplă 🙂 ?

@@ -20,7 +20,7 @@ Date statisitice:
 
 152 Tweeturi pe toată durata conferinței, distribuite așa:
 
-[](/wp-content/uploads/2010/05/chartcsr10.jpg)
+
 
 _  
 Neatza. Catalina Paslaru, CSR Officer la Orange, ne povesteste despre Orange 2012 si promisiunile CSR ale companiei. #csr10_

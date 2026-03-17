@@ -6,7 +6,7 @@ tags: ["spixii", "top-10", "total-tweets", "tweeturi", "twitter", "twitter-wall"
 author: titus_capilnean
 ---
 
-Am citit azi pe blogul lui Victor Dulu că Spixii a publicat datele despre hashtagul de la [Webstock 2009](/2009/09/18/webstock/).
+Am citit azi pe blogul lui Victor Dulu că Spixii a publicat datele despre hashtagul de la [Webstock 2009](/posts/webstock/).
 
 Sunt pe locul 9/10 cu 1,78% din totalul de tweeturi despre #webstock09. Se vede că am făcut live blogging și nu live tweeting – poate la următorul eveniment încerc asta 🙂
 

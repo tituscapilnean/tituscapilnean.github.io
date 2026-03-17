@@ -10,7 +10,7 @@ author: titus_capilnean
 
 _Guestpost scris de Mihnea Beldescu, viitor Phd, geek și twitterist._
 
-[](/wp-content/uploads/2012/09/security-web.jpg)Răspunsul scurt la aceasta intrebare e simplu: **Pentru ca să nu-ți fie furat contul.**
+Răspunsul scurt la aceasta intrebare e simplu: **Pentru ca să nu-ți fie furat contul.**
 
 Un pic mai pe larg, există o diferență importantă între HTTP și HTTPS: In primul caz datele sunt transmise în clar(de ex. Parolele sunt un câmp text simplu) iar în al doilea caz datele sunt criptate înainte de a fi transmise. În cazul Facebook și Twitter criptarea in discuție e pe 128 biți. Ca să vă faceți o idee despre durata de timp necesară pentru a sparge o astfel de criptare puteți arunca un ochi pe acest articol. Majoritatea criptării folosite în mod curent pe Internet este pe 128 biți iar pe unele site-uri de internet banking am observat că se folosește o criptare pe 256 biti, care este de multe ori mai greu de spart printr-o metodă de tip brute-force.
 

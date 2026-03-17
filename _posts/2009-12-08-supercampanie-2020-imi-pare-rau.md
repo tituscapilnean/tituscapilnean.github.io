@@ -9,12 +9,12 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2009/12/merkel-400x260.jpg
 ---
 
-[](/wp-content/uploads/2009/12/Obama.jpg)
 
-[](/wp-content/uploads/2009/12/merkel.jpg)
+
+
 
 E o campanie fără cuvinte.
 
-Vezi articolul [ăsta pentru explicație](/2009/12/08/ai-ratat-si-defrisarea/).
+Vezi articolul [ăsta pentru explicație](/posts/ai-ratat-si-defrisarea/).
 
 sursa pozelor

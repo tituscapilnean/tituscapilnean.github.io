@@ -6,6 +6,6 @@ tags: ["freejump", "snowpark", "zapada"]
 author: titus_capilnean
 ---
 
-Ziceam în articolul despre [expediția polară de pe A1](/2010/02/08/expeditia-de-aseara-pe-a1/), de ieri, că o să scriu și despre cum a fost la munte. Ei, am scris, e pe freejump.ro – cum m-am dat pentru prima dată în snowpark.
+Ziceam în articolul despre [expediția polară de pe A1](/posts/expeditia-de-aseara-pe-a1/), de ieri, că o să scriu și despre cum a fost la munte. Ei, am scris, e pe freejump.ro – cum m-am dat pentru prima dată în snowpark.
 
 Enjoy!(pictures included)

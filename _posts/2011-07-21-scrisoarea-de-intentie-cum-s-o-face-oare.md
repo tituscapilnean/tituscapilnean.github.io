@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/07/letter_of_intent_large-150x150.jpg
 ---
 
-[](/2011/07/scrisoarea-de-intentie-cum-s-o-face-oare/letter_of_intent_large/)Prin ianuarie am scris un articol despre cum să [te angajezi cu ajutorul profilului de Linkedin](www.concediaza-ti-seful.ro/2011/01/cum-sa-te-angajezi-folosind-profilul-de-linkedin/ "Angajat prin Linkedin"), care e, din punctul meu de vedere, cel mai important CV online. Dar un CV nu e niciodată complet fără o scrisoare de intenție foarte bine scrisă.
+Prin ianuarie am scris un articol despre cum să [te angajezi cu ajutorul profilului de Linkedin](https://www.concediaza-ti-seful.ro/2011/01/cum-sa-te-angajezi-folosind-profilul-de-linkedin/ "Angajat prin Linkedin"), care e, din punctul meu de vedere, cel mai important CV online. Dar un CV nu e niciodată complet fără o scrisoare de intenție foarte bine scrisă.
 
 Nu, nu vorbesc aici de mizeriile alea pe care le iei cu copy-paste de pe site-urile de recrutare, ci despre niște texte bine redactate, personalizate și cu obiective clare în minte. Genul de scrisoare de intenție care face omul de la resurse umane să își cheme șeful repede, să îți citească scrisoarea cu voce tare în birou și să zică: ”băiatul ăsta/fata asta știe ce vrea!”.
 

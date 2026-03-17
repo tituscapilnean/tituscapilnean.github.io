@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/01/troll_2-272x300.jpg
 ---
 
-[](/wp-content/uploads/2010/01/troll_2.jpg)Partea mai puţin frumoasă a internetului este că, pe lângă prieteni şi parteneri de conversaţie, după o vreme, ajungi să îţi faci şi **hateri**. Treaba asta se întâmplă în special în momentul în care începi să fii cât de cât cunoscut pe internet(trafic mult pe blog, followers mulţi pe Twitter, prieteni pe Facebook).
+Partea mai puţin frumoasă a internetului este că, pe lângă prieteni şi parteneri de conversaţie, după o vreme, ajungi să îţi faci şi **hateri**. Treaba asta se întâmplă în special în momentul în care începi să fii cât de cât cunoscut pe internet(trafic mult pe blog, followers mulţi pe Twitter, prieteni pe Facebook).
 
 Să definim cuvântul **hater** :
 

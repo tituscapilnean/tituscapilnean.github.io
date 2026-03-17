@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/06/ct_camp_refinantare_smart_bcr.jpg
 ---
 
-[](/2011/06/povestea-unui-client-fericit-face-cat-100-reviewuri-ipotetice/ct_camp_refinantare_smart_bcr/)Continuăm seria articolelor despre refinanțare. Cum nu mă pricep așa de bine la sisteme bancare, o să povestesc pe blog câteva din ideile mele de campanie pentru produsul BCR(și, pe de altă parte, pentru orice alt produs bancar similar). Prima dintre ele mi-a venit după prima săptămână de campanie – desfășurată în mare măsură pe Twitter și bloguri, mai puțin masiv pe Facebook.
+Continuăm seria articolelor despre refinanțare. Cum nu mă pricep așa de bine la sisteme bancare, o să povestesc pe blog câteva din ideile mele de campanie pentru produsul BCR(și, pe de altă parte, pentru orice alt produs bancar similar). Prima dintre ele mi-a venit după prima săptămână de campanie – desfășurată în mare măsură pe Twitter și bloguri, mai puțin masiv pe Facebook.
 
 ## Consultantul de refinanțare – prezent online
 

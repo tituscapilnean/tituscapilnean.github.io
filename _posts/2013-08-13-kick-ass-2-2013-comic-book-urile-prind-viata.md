@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2013/08/image003-150x150.jpg
 ---
 
-[](/2013/08/kick-ass-2-2013-comic-book-urile-prind-viata/image003-3/)Am fost aseară la filmul Kick-ass 2, realizat după un comic book. Cum nu sunt fan comic books, n-am de unde să știu cât de aproape sau departe a fost de povestea inițială, însă filmul e foarte greu de încadrat. N-a fost nici bun, nici prost.
+Am fost aseară la filmul Kick-ass 2, realizat după un comic book. Cum nu sunt fan comic books, n-am de unde să știu cât de aproape sau departe a fost de povestea inițială, însă filmul e foarte greu de încadrat. N-a fost nici bun, nici prost.
 
 M-am distrat tare bine, pentru că scenaristul a avut o minte destul de bolnavă când a scris replicile și a descris momentele ce au fost filmate.
 

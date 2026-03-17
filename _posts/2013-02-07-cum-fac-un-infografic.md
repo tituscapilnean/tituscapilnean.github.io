@@ -12,7 +12,7 @@ Cu grijă și cu multe date, ar spune unii. Prima condiție pentru orice infogra
 
 Dacă pentru prima parte nu prea există înlocuitori și facilitatori (în afară de Excel și Google Search), pentru a doua există multe tool-uri online cu care poți să te joci. Dintre uneltele date de SEOMoz, aș putea să aleg: Infogr.am, Visua.ly și TimelineJS, ale căror rezultate le puteți vedea aici(timeline interactiv) și aici(sample de infografic).
 
-[](/2013/02/cum-fac-un-infografic/infographics-vs-non-infographics_50290b4f51a97/)
+
 
 **Update:** mai multe informații despre conținut sunt și aici.
 

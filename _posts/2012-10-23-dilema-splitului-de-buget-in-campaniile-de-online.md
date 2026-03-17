@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2012/10/not-one-big-budget-hit_7-reasons-to-start-your-holiday-shopping-now-150x150.jpg
 ---
 
-[](/wp-content/uploads/2012/10/not-one-big-budget-hit_7-reasons-to-start-your-holiday-shopping-now.jpg)Una din cele mai frecvente greșeli pe care le fac marketerii în primele lor campanii de comunicare online este că ”aruncă” tot bugetul (mic, ca la început) în Google sau Facebook Ads (sau ambele, că așa au auzit de la experți), respectiv doar în ad-uri de tip Pay-Per-Click. Lor le spun, de regulă, următorul lucru:
+Una din cele mai frecvente greșeli pe care le fac marketerii în primele lor campanii de comunicare online este că ”aruncă” tot bugetul (mic, ca la început) în Google sau Facebook Ads (sau ambele, că așa au auzit de la experți), respectiv doar în ad-uri de tip Pay-Per-Click. Lor le spun, de regulă, următorul lucru:
 
 „Ce obiectiv aveți?”
 
@@ -16,7 +16,7 @@ Dacă îmi răspund că **nu vor decât să vândă repede și mult** , pentru c
 
 Dacă **vorbesc cumva și de notorietate sau de engagement** cu clienți și potențiali clienți, atunci le zic să facă un pas înapoi și să gândească în ansamblu. Problema lor nu începe de la ”unde comunic”, ci ”ce comunic” și, prin urmare, au nevoie de o idee creativă și o strategie de campanie (evident, alta decât împingerea diferențiatorului în față).
 
-Părerea mea este că, dacă de apuci acum de o campanie de comunicare online pentru un produs nou/relansat/rebranded, ar trebui să aloci **măcar 30% din bugetul de comunicare pentru[ideea creativă care poate să facă diferența](/2012/09/ideile-bune-sunt-scumpe/)** între CTR de 0,01% și 3-5-10%, respectiv între creșteri de vânzări cu 2% și cu 20%. Doar după ce au stabilit ideea pe care vor merge, abia atunci pot începe să o decline pe canale.
+Părerea mea este că, dacă de apuci acum de o campanie de comunicare online pentru un produs nou/relansat/rebranded, ar trebui să aloci **măcar 30% din bugetul de comunicare pentru[ideea creativă care poate să facă diferența](/posts/ideile-bune-sunt-scumpe/)** între CTR de 0,01% și 3-5-10%, respectiv între creșteri de vânzări cu 2% și cu 20%. Doar după ce au stabilit ideea pe care vor merge, abia atunci pot începe să o decline pe canale.
 
 Aici e iar un moment în care marketerii cu buget mai mic sunt tentați să bage bani doar în PPC. Dacă ideea lor creativă și strategia sunt formulate în direcția asta, ok. Dacă nu, aș merge de fiecare dată pe un split între PPC, Display tradițional (la mie) și o campanie dedicată de PR online, pe lângă administrarea canalelor de social media.
 

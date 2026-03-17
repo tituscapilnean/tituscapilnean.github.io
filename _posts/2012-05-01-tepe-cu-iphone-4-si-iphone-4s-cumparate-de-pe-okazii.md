@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2012/04/iphone-150x150.jpg
 ---
 
-[](/wp-content/uploads/2012/04/iphone.jpg)…și nu numai. De curând, am auzit o poveste foarte interesantă. Oareșcine cumpărase acum câteva săptămâni un iPhone 4 de pe un site de anunțuri(de data asta a fost okazii.ro, dar la fel de bine poate să fie oricare altul). Toate bune și frumoase, omul obținuse un preț ok, era fericit și mulțumit. Și-a pus abonamentul în telefon și a început să se poarte normal.
+…și nu numai. De curând, am auzit o poveste foarte interesantă. Oareșcine cumpărase acum câteva săptămâni un iPhone 4 de pe un site de anunțuri(de data asta a fost okazii.ro, dar la fel de bine poate să fie oricare altul). Toate bune și frumoase, omul obținuse un preț ok, era fericit și mulțumit. Și-a pus abonamentul în telefon și a început să se poarte normal.
 
 Într-o zi primește acasă o citație cum că ar fi martor în ceva proces. Om de bună credință, merge la tribunal, unde află că telefonul luat de pe net era, surpriză, furaaat. Și că omul păgubit dăduse în judecată hoțul pentru tîlhărie, dar și că l-au descoperit după IMEI-ul asociat cu abonamentul lui și așa i-au trimis citația acasă.
 

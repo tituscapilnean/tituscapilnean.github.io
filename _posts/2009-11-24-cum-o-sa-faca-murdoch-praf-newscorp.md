@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2009/11/news-400x65.png
 ---
 
-[](/wp-content/uploads/2009/11/news.png)
+
 
 Mai nou am aflat de un trend. Lumea vorbește (adică mai mult Rupert Murdoch vorbește) de conținut plătit pe ziarele online, de schimbarea modelului de business care are ca finalitate falimentul ziarelor clasice. El vrea să ne facă să plătim pentru știrile din corporația lui, cu orice preț.
 

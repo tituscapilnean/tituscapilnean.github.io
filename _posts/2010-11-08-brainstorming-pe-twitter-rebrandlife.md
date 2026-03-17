@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/11/god-300x247-150x150.jpg
 ---
 
-[](/wp-content/uploads/2010/11/god-300x247.jpg)Am amânat ce am amânat articolul ăsta, pentru că am vrut să aştept rezultatele oficiale de hashtag de la Friends Advertising. Ei le-au publicat pe blog săptămâna trecută, unde au povestit cum a decurs toată acțiunea.
+Am amânat ce am amânat articolul ăsta, pentru că am vrut să aştept rezultatele oficiale de hashtag de la Friends Advertising. Ei le-au publicat pe blog săptămâna trecută, unde au povestit cum a decurs toată acțiunea.
 
 > #rebrandLife sau povestea unei intrebari
 > 

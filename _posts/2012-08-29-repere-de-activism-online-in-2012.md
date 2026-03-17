@@ -14,6 +14,6 @@ Acum aflăm mai repede și despre cutremure, chiar în momentul în care se petr
 
 Cu toate astea, mai avem mult până la construcția unui internet care să ofere aceeași credibilitate unui mesaj publicat online, comparativ cu o declarație la TV sau prin viu-grai.
 
-[](/wp-content/uploads/2012/08/power-to-the-online-people.gif)
+
 
 Created by: Open-site.org

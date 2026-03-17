@@ -55,9 +55,9 @@ Nu uitați să aplicați pe http://recruitment.aiesec.ro, pânî pe 30 Iulie.
 
 V-am convins? 
 
-  * October 14, 2009 -- [Eu pot, am fost ONGist](/2009/10/eu-pot-am-fost-ongist/)
-  * March 11, 2012 -- [Bucuresti Mall a găzduit azi 20 de țări într-o singură zi](/2012/03/bucuresti-mall-a-gazduit-azi-20-de-tari-intr-o-singura-zi/)
-  * September 23, 2010 -- [Daca vrei sa te angajezi](/2010/09/daca-vrei-sa-te-angajezi/)
+  * October 14, 2009 -- [Eu pot, am fost ONGist](/posts/eu-pot-am-fost-ongist/)
+  * March 11, 2012 -- [Bucuresti Mall a găzduit azi 20 de țări într-o singură zi](/posts/bucuresti-mall-a-gazduit-azi-20-de-tari-intr-o-singura-zi/)
+  * September 23, 2010 -- [Daca vrei sa te angajezi](/posts/daca-vrei-sa-te-angajezi/)
 
 
 

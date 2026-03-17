@@ -14,7 +14,7 @@ Da, se apropie acel moment din viața oricărui mic antreprenor/angajat agitat, 
 
 Fără alte introduceri, vă prezint forumlarul fiscal de tip vampir:
 
-[](/wp-content/uploads/2010/01/hes-gonna-eat-your-moooooneeeey.jpg)
+
 
 p.s. parcă mi-e și groază de ziua aia când o să trec pe la administrația financiară a sectorului 3 și o să mă plimb cu hârtiile în brațe, de la ghișeu la ghișeu.
 

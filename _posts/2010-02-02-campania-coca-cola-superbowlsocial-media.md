@@ -11,11 +11,11 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/02/coca-cola-1-400x249.jpg
 ---
 
-Superbowl este ”the Mecca” pentru advertiserii americani, locul unde se bat cele mai tari, cele mai ingenioase și cele mai haioase clipuri publicitare din partea celor mai mari companii internaționale. Totuși, unii decid să nu mai participe. Cel mai mare absent de la Superbowl 2010 va fi Pepsi, care a decis să investească banii respectivi(20 mil. $) în social media(am zis asta [aici](/?s=pepsi+superbowl)).
+Superbowl este ”the Mecca” pentru advertiserii americani, locul unde se bat cele mai tari, cele mai ingenioase și cele mai haioase clipuri publicitare din partea celor mai mari companii internaționale. Totuși, unii decid să nu mai participe. Cel mai mare absent de la Superbowl 2010 va fi Pepsi, care a decis să investească banii respectivi(20 mil. $) în social media(am zis asta aici).
 
 Toate bune și frumoase până aici, un mare plus pentru Social Media.
 
-[](/wp-content/uploads/2010/02/pepsi.jpg)
+
 
 Problema apare când concurenții lor direcți – Coca Cola, se apucăsă investească în social media, pe lângă expunerea venită prin Superbowl. Să vă povestesc puțin despre cum arată campania lor integrată – Social Media + Superbowl.
 
@@ -34,13 +34,13 @@ Lăsând astea la o parte, cele două reclame de la superbowl sunt…………�
 
 Prima dintre ele – vector de imagine Denzel Washington – te îndeamnă să donezi. Și el a fost membru în club
 
-[](/wp-content/uploads/2010/02/coca-cola-2.jpg)
 
-[](/wp-content/uploads/2010/02/coca-cola-3.jpg)
+
+
 
 A doua reclamă folosește personaje din the Simpsons 🙂
 
-[](/wp-content/uploads/2010/02/coca-cola-1.jpg)
+
 
 …e șeful de fabrică rămas fără bani – Homer e fericit 🙂
 

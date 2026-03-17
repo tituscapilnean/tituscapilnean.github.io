@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/07/blog2-150x150.jpg
 ---
 
-[](/2011/07/cum-calculezi-pretul-unui-articol-pe-blog/blog2/)Una din întrebările pe care și le pune orice blogger la un moment dat(ăia care vor să facă bani cu blogul lor) este:
+Una din întrebările pe care și le pune orice blogger la un moment dat(ăia care vor să facă bani cu blogul lor) este:
 
 **”Cât să cer pe un articol la mine pe blog?”**
 

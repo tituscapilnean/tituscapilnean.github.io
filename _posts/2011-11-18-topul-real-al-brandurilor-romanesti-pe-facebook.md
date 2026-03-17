@@ -13,7 +13,7 @@ Am primit acum ceva vreme un material de direct mailing de la Evensys, legat de 
 
 Topul(greșit) al brandurilor românești pe Facebook:
 
-[](/wp-content/uploads/2011/11/branduri-romanesti.png)
+
 
 Acum vă rog să urmăriți motivul pentru care cred că topul ăsta e greșit. _Înțeleg că Pepsi e sponsorul principal al Social Networks Strategy, însă nu cred că ăsta e modul cel mai bun prin care poți să îl ”onorezi”, punându-l într-un top alterat. Riscul de a ajunge pe bloguri e mare, riscul de a ajunge în presă, la fel de mare._
 
@@ -21,7 +21,7 @@ Acum vă rog să urmăriți motivul pentru care cred că topul ăsta e greșit. 
 
 **Topul brandurilor românești pe Facebook – pe bune**
 
-[](/wp-content/uploads/2011/11/facebrands-top-brands1.png):
+:
 
 Cu toate că am scos vedetele, televiziunile și radiourile, Pepsi e locul 2, iar Lenor Parfumelle e doar pe locul 7. Am păstrat FunDeal, Kuponiada, GhidCroația.ro și Promotor pentru că sunt și ele branduri românești, chiar dacă nu au produs un suc/o cremă/o bere. Sunt site-uri și n-ar trebui separate de restul brandurilor consumer, pentru că împart în 2011 același target – pornind de la premisa că tindem spre 9-10 milioane de utilizatori de internet în România.
 

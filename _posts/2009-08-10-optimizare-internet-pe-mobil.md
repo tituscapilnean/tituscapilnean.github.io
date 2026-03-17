@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2009/08/carrington-350x300.jpg
 ---
 
-[](/wp-content/uploads/2009/08/carrington.jpg)
+
 
 Salutare,
 

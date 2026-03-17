@@ -24,7 +24,7 @@ Durata: **25-31 Iulie 2009**
 
 O să scriu şi de la mare, pentru că am pregătit câteva idei de articole interesante pentru săptămâna viitoare.
 
-Continuă [campania](/2009/07/22/facem-o-padure/) începută cu #TweetPlantarea prin articole și un badge care vi-l pregătesc.
+Continuă [campania](/posts/facem-o-padure/) începută cu #TweetPlantarea prin articole și un badge care vi-l pregătesc.
 
 Am făcut un **studiu de audiență** pe vârsta și data nașterii oamenilor de pe Twitter din România și am peste 100 de răspunsuri de procesat – 1 articol.
 

@@ -8,11 +8,11 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/07/domain-names-dice-150x150.jpg
 ---
 
-[](/2011/07/titusblog-net-devine-tituscapilnean-ro/domain-names-dice/)După mai mult de 2 ani de blogging, am decis că e timpul să trec pe domeniu .ro, domeniu care coincide cu numele meu. Normal și natural. Mă întreb de ce n-am făcut asta până acum.
+După mai mult de 2 ani de blogging, am decis că e timpul să trec pe domeniu .ro, domeniu care coincide cu numele meu. Normal și natural. Mă întreb de ce n-am făcut asta până acum.
 
 Acum, dincolo de motivele pentru care am făcut mutarea, vreau să vă zic două chestiuni:
 
-**Prima** – vă rog să vă reabonați la blogul meu, pentru că am trecut pe Feedburner, odată cu schimbarea de domeniu. În același timp, vă rog să schimbați linkurile din blogroll, așa încât ele să trimită spre **[tituscapilnean.ro](/ "Titus Capilnean")**.
+**Prima** – vă rog să vă reabonați la blogul meu, pentru că am trecut pe Feedburner, odată cu schimbarea de domeniu. În același timp, vă rog să schimbați linkurile din blogroll, așa încât ele să trimită spre **tituscapilnean.ro**.
 
 **A doua** – ce trebuie să faci atunci când îți schimbi domeniul blogului.
 

@@ -25,14 +25,14 @@ Nu-s eu mare povestitor de aventuri prin călătorii, așa că mă opresc aici, 
 
 Vă las la final cu niște poze (mai multe am pus pe Facebook și o să mai pun, le vedeți dacă suntem prieteni).
 
-[](/2013/05/prin-elvetia-mea/481691_10151482502840892_597024357_n/)
 
-[](/2013/05/prin-elvetia-mea/947164_10151482500450892_1476554406_n/)
 
-[](/2013/05/prin-elvetia-mea/481434_10151482502950892_2053954706_n/)
 
-[](/2013/05/prin-elvetia-mea/424998_10151484977640892_855506037_n/)
 
-[](/2013/05/prin-elvetia-mea/481461_10151482501995892_41382593_n/)
 
-[](/2013/05/prin-elvetia-mea/936386_10151484905170892_2008987574_n/)
+
+
+
+
+
+

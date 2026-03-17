@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2013/11/image010-150x150.jpg
 ---
 
-[](/2013/11/khumba-2013-fun-cu-animale-3d/image010/)Nimic nu merge mai bine la suflet după o zi lungă la muncă decât o animație 3D cu jumate de sală plină cu copii. Bine, din rândul 2 nu era așa de sesizabil și sunetul filmului a acoperit foarte bine țipetele din sală. Dar nu despre asta e vorba 🙂
+Nimic nu merge mai bine la suflet după o zi lungă la muncă decât o animație 3D cu jumate de sală plină cu copii. Bine, din rândul 2 nu era așa de sesizabil și sunetul filmului a acoperit foarte bine țipetele din sală. Dar nu despre asta e vorba 🙂
 
 Am fost luni la Khumba. Îl văzusem într-un promo la metrou și mă entuziasmasem un pic, dar văzusem și că e dublat. Eu, copil crescut cu Cartoon Network în engleză, n-am prea avut la inimă desenele dublate. Dar filmul de față e dublat bine, amuzant și cu stil. Dincolo de povestea ”drum inițiatic” în care sunt plasate tot felul de lecții pentru copii (e ok să fii diferit, de ex.), m-au amuzat teribil de tare anumite voci și personaje:
 

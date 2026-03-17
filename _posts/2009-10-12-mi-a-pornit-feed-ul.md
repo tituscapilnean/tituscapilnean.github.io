@@ -12,7 +12,7 @@ Azi am văzut că mi-a revenit la viață feed-ul în feedreader.
 
 Dacă vreți să vă abonați la blog:
 
-Articole: [articole tituscapilnean.ro](/feed/)  
-Comentarii: [comentarii tituscapilnean.ro](/comments/feed/)
+Articole: articole tituscapilnean.ro  
+Comentarii: comentarii tituscapilnean.ro
 
 Pe mai târziu!

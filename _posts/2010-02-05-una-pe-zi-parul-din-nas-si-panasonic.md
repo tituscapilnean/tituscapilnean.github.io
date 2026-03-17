@@ -12,6 +12,6 @@ Asta e una din marile probleme ale genului masculin. Uneori ne ies crengile p-af
 
 Fetelor, cu păr în nas sau fără? 🙂
 
-[](/wp-content/uploads/2010/02/tumblr_ktrsz2Rj2f1qz4s3wo1_500.jpg)
+
 
 via

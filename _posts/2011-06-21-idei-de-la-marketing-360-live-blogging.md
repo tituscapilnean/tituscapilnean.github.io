@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/06/marketing360_feat-150x150.jpg
 ---
 
-[](/2011/06/idei-de-la-marketing-360-live-blogging/marketing360_feat/)Azi sunt toată ziua la **Marketing 360** , conferință organizată de Manafu&Co(Evensys) și o să captez pe blog toate ideile bune pe care le aud aici. Tot ce trebuie să faci este să dai refresh din când în când și vor apărea informații noi.
+Azi sunt toată ziua la **Marketing 360** , conferință organizată de Manafu&Co(Evensys) și o să captez pe blog toate ideile bune pe care le aud aici. Tot ce trebuie să faci este să dai refresh din când în când și vor apărea informații noi.
 
 > Marketing 360 este cea mai importanta conferinta locala de marketing si advertising, ce reuneste profesionisti locali si internationali in marketing, advertising, online si research. Va invitam la o serie de conferinte si seminarii despre noile oportunitati de promovare in contextul mediului de afaceri actual.
 
@@ -26,7 +26,7 @@ Am trecut de la televizoare la mobile, unde Adam spune că oamenii vor să vorbe
 
 _Augmented Reality_ pe telefon deja e depășit. Acum deja sunt ochelari conectați la net care îți arată ce vizitezi în vacanță. Și citesc de pe Twitter despre Social Media Dating in real life.
 
-Și el vorbește despre cum [rețelele sociale influențează locul în motoarele de căutare](/2011/06/facebook-influenteaza-indirect-rezultatele-google/) ale site-urilor. Căutarea devine mai personalizată și mai relevantă.
+Și el vorbește despre cum [rețelele sociale influențează locul în motoarele de căutare](/posts/facebook-influenteaza-indirect-rezultatele-google/) ale site-urilor. Căutarea devine mai personalizată și mai relevantă.
 
 Și da, în 2016 ne vom juca mai mult. Vor fi 3 miliarde de jocuri. Și toată lumea va avea smartphones.
 
@@ -36,7 +36,7 @@ Toate astea **vor influența** modul în care agențiile și clienții își vor
 
 Pitchurile vor fi mai lungi și deciziile mai bine fundamentate.
 
-În Europa Centrală și de Est, țările baltice au o rată foarte mare de penetrare a internetului, Polonia crește foarte mult, la rându-i, în Slovenia creșterea internetului este de două cifre în procente, de la an la an. Sunt multe oportunități în piață. Ei încearcă să convingă Unilever să folosească [QR Codes](/2011/02/codurile-qr-ghid-de-utilizare/).
+În Europa Centrală și de Est, țările baltice au o rată foarte mare de penetrare a internetului, Polonia crește foarte mult, la rându-i, în Slovenia creșterea internetului este de două cifre în procente, de la an la an. Sunt multe oportunități în piață. Ei încearcă să convingă Unilever să folosească [QR Codes](/posts/codurile-qr-ghid-de-utilizare/).
 
 ## Paul Markovits – Marketing Director, Heineken Romania
 
@@ -56,7 +56,7 @@ Gata. _Bonus_ – trebuie să asculți ringtone-urile de pe Puternic și Amărui
 
 ## Adrian Alexandrescu – Interactions
 
-Deja știm că vorbește despre promoții, l-am ascultat și la [Digital Marketing Forum](/2011/02/exista-si-oameni-foarte-buni-si-foarte-profi-in-romania-digital-marketing-forum-2011-ziua-2/)(chiar prima dintre prezentări din ziua 2).
+Deja știm că vorbește despre promoții, l-am ascultat și la [Digital Marketing Forum](/posts/exista-si-oameni-foarte-buni-si-foarte-profi-in-romania-digital-marketing-forum-2011-ziua-2/)(chiar prima dintre prezentări din ziua 2).
 
 Acum sunt active _678 de promoții_ (după un research de 10 minute).
 

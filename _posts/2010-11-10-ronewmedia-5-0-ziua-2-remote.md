@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/11/photo-1-150x150.jpg
 ---
 
-[](/wp-content/uploads/2010/11/photo-1.jpg)N-ajung azi la RoNewMedia, mai ales din perspectiva faptului că doar jumătate din ziua de ieri mi-a fost utilă, iar Facebook, Google și Yahoo! nu mi-au adus atât de multe lucruri noi pe cât mă așteptam. Drept urmare, urmăresc din când în când evenimentul pe Twitter și mă bazez pe câțiva oameni de acolo ca să mai aflu ce se înâmplă.
+N-ajung azi la RoNewMedia, mai ales din perspectiva faptului că doar jumătate din ziua de ieri mi-a fost utilă, iar Facebook, Google și Yahoo! nu mi-au adus atât de multe lucruri noi pe cât mă așteptam. Drept urmare, urmăresc din când în când evenimentul pe Twitter și mă bazez pe câțiva oameni de acolo ca să mai aflu ce se înâmplă.
 
 Dan Dragomir am văzut că scrie de la workshop-ul Google, așa că e de urmărit. Pe acolo circulă o idee mai veche – bannerul util! Poate învață și oamenii de media de la noi câte ceva.
 

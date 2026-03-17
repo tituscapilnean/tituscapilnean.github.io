@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2009/09/2805077265_8e05204450_o-400x280.jpg
 ---
 
-[](/wp-content/uploads/2009/09/2805077265_8e05204450_o.jpg)
+
 
 Dacă poți să îți imaginezi cât de departe poate să te ducă **dependența de net** , nu cred că ți-a trecut prin cap că o să se întâmple așa ceva. Un hoț a fost prins după ce poliția a descoperit în calculatorul victimei niște date personale. Omul intrase pe Facebook și în graba de la părăsirea locului faptei(ca să ne exprimăm ca organul de ordine) a lăsat logat utilizatorul lui pe calculator.
 
@@ -20,7 +20,7 @@ Pe omul nostru prost îl cheamă **Jonathan Parker, e din Pennsylvania, are 19 a
 
 Nici nu furase cine știe ce – 2 inele cu diamant de **3500$** , în total. Se pare că dependența/prostia lui îl va ține departe de social media mai multă vreme. Sunt curios cum o să se descurce. :))
 
-Asta e latura Social Media periculoasă de care vorbea Bogdana în prezentarea atât de controversată de la [Webstock](/2009/09/18/webstock/) – Facebook e periculos pentru că poate să dea cuiva un set de informații ce te pot afecta grav. Chit că asta înseamnă un status despre șeful tău sau o poză de la o noapte de beție sau chiar un cont uitat în casa pe care tocmai ai jefuit-o, te poate înfunda personal sau profesional.
+Asta e latura Social Media periculoasă de care vorbea Bogdana în prezentarea atât de controversată de la [Webstock](/posts/webstock/) – Facebook e periculos pentru că poate să dea cuiva un set de informații ce te pot afecta grav. Chit că asta înseamnă un status despre șeful tău sau o poză de la o noapte de beție sau chiar un cont uitat în casa pe care tocmai ai jefuit-o, te poate înfunda personal sau profesional.
 
 Totuși, până la urmă depinde de inteligența fiecăruia cum alege să folosească social media. Dacă te gândești în momentul în care publici o poză/un text că e ca și cum ți-ai pune pe tricou și ai ieși cu el în stradă, poate te apuci să selectezi ce faci public.
 

@@ -10,7 +10,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/02/poiana-271x300.jpg
 ---
 
-[](/wp-content/uploads/2010/12/facebook_logo.jpg)Rețelele sociale **au crescut** foarte mult în ultimii 2 ani în România și treaba asta a schimbat peisajul online. Lumea nu mai pierde vremea pe portaluri și pe forumuri așa de mult, ci s-a mutat pe Facebook(celelalte rețele nu se ridică la numărul de utilizatori și intensitatea utilizării pe care le are rețeaua creată de Zuckerberg).
+Rețelele sociale **au crescut** foarte mult în ultimii 2 ani în România și treaba asta a schimbat peisajul online. Lumea nu mai pierde vremea pe portaluri și pe forumuri așa de mult, ci s-a mutat pe Facebook(celelalte rețele nu se ridică la numărul de utilizatori și intensitatea utilizării pe care le are rețeaua creată de Zuckerberg).
 
 ## Numerele importante
 
@@ -32,9 +32,9 @@ E destul de neplăcut și poate avea implicații și în offline, în viața rea
 
 E ca și cum cineva ar fi mers în firma în care lucrezi și s-ar fi apucat să împartă fluturași cu poze porno în care ai fost photoshopat.
 
-[Cum scapi de contul fals](/2010/11/ce-faci-daca-cineva-i%c8%9bi-fura-identitatea-pe-facebook/)(articolul cuprinde și o poveste de furt de poză pe Facebook)?
+[Cum scapi de contul fals](/posts/ce-faci-daca-cineva-i%c8%9bi-fura-identitatea-pe-facebook/)(articolul cuprinde și o poveste de furt de poză pe Facebook)?
 
-[](/wp-content/uploads/2011/02/pyuric-400x248.png)
+
 
 Simplu, faci un cont nou și dai report până Facebook închide contul.
 
@@ -46,7 +46,7 @@ Dacă ești o companie ok, cu un brand respectat, pagina/contul poate să adune 
 
 Tot haosul începe atunci când individul care vrea să îți creeze daune începe să comunice cum și ce vrea pe pagina/contul cu numele firmei tale. Citește aici povestea contului dubios Poiana de pe Facebook.
 
-[](/wp-content/uploads/2011/02/poiana.jpg)
+
 
 Kraft a dezmințit proprietatea asupra paginii și Facebook a dat jos contul fals:
 

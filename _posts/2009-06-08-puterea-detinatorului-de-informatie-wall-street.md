@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2009/06/WallStreet-400x160.jpg
 ---
 
-[](/wp-content/uploads/2009/06/WallStreet.jpg)
+
 
 Incep cu un citat reprezentativ pentru ce se intampla acum in economie: ”Du-te sa produci ceva, inceteaza sa mai faci bani pe vanzarile si cumpararile facute de altii.” – tatal lui Bud Fox
 

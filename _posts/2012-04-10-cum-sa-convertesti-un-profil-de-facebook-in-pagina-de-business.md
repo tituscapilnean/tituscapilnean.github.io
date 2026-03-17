@@ -10,7 +10,7 @@ author: titus_capilnean
 
 _**articol scris de fratele meu, Sergiu, expert online în devenire**_
 
-S-a întâmplat de multe ori: atunci când ți-ai făcut contul de Facebook pentru formație/website/afacere etc., ai pornit un profil personal în loc de o pagină de business (voit sau din greșeală) – _**nota Titus** – am mai scris despre [pagina vs. profil](/2011/02/brandurile-nu-mai-au-niciun-motiv-sa-ramana-pe-profil-si-sa-nu-treaca-la-pagina-de-facebook/)_.
+S-a întâmplat de multe ori: atunci când ți-ai făcut contul de Facebook pentru formație/website/afacere etc., ai pornit un profil personal în loc de o pagină de business (voit sau din greșeală) – _**nota Titus** – am mai scris despre [pagina vs. profil](/posts/brandurile-nu-mai-au-niciun-motiv-sa-ramana-pe-profil-si-sa-nu-treaca-la-pagina-de-facebook/)_.
 
 Acum, vrei să treci în rând cu lumea și să transformi profilul în pagină oficială, fie pentru că te apropii de limita de 5000 de prieteni, pentru că vrei să rulezi campanii de FacebookAds sau doar pentru a fi în regulă cu Facebook Terms of Service. Din fericire Facebook îți oferă această posibilitate.
 
@@ -22,7 +22,7 @@ Acum, chiar dacă procedeul de convertire este destul de simplu (vezi mai jos), 
 
 – Salvează-ți o copie a content-ului postat pe Facebook, deoarece la mutare se vor salva doar pozele de profil si prietenii și subscriber-ii (transformați în fani). Asta se poate face din secțiunea de Setări ale Contului, la secțiunea Setări Generale.
 
-[](/wp-content/uploads/2012/04/poza-1.png)
+
 
 – Fă-ți un plan post-conversie: ce content vrei să păstrezi din cel salvat, la ce interval vrei să îl repostezi, astfel încât să nu te părăsească fanii din cauza paginii goale sau din cauza supra-postărilor, cum să interacționezi cu fanii în noul format, ce campanii poți să lansezi pe FacebookAds, etc…
 

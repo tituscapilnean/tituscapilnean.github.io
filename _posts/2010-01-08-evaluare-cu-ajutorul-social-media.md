@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/01/johari.window.gif
 ---
 
-[](/wp-content/uploads/2010/01/johari.window.gif)Acum 2 zile am citit un articol pe blogul lui Bobby Voicu, despre Johari Window. Unealta de care vorbea Bobby în articolul respectiv te ajută să afli ce cred oamenii despre tine, printr-o serie de caracteristici cheie.
+Acum 2 zile am citit un articol pe blogul lui Bobby Voicu, despre Johari Window. Unealta de care vorbea Bobby în articolul respectiv te ajută să afli ce cred oamenii despre tine, printr-o serie de caracteristici cheie.
 
 **Cum funcționează?**
 

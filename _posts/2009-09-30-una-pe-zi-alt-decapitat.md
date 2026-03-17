@@ -14,7 +14,7 @@ Quique face parte din campania pentru căștile Diesel.
 
 Intrați pe quiquethehead.com și antrenați-vă limba, donați-vă corpul pentru Quique. Datorită evoluției tehnologice, el poate primi acum un transplant de corp.
 
-Gata, mă opresc aici. E campanie chiar mai ciudată decât [decapitatul de la Gusto](/2009/07/02/reclama-cu-cap-gusto-sau-pufuletele-optimist/), care avea mult mai mult haz.
+Gata, mă opresc aici. E campanie chiar mai ciudată decât [decapitatul de la Gusto](/posts/reclama-cu-cap-gusto-sau-pufuletele-optimist/), care avea mult mai mult haz.
 
 Asta e făcută în stil documentar. Vă convingeți singuri mai jos 😀
 

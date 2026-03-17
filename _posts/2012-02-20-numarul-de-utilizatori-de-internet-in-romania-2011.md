@@ -19,7 +19,7 @@ Numărul de utilizatori de internet în București: **1,19 milioane în 2011**(c
 
 Mai jos ai toate datele pe regiuni, precum și evoluția din ultimii ani:
 
-[](/wp-content/uploads/2012/02/numarul-utilizatorilor-de-internet.png)
+
 
 Regiune |  2008  |  2010  |  2011   
 ---|---|---|---  
@@ -35,4 +35,4 @@ Romania( % ) | 30.25 | 42.75 | 48.25
   
 Iar pentru cei mai vizuali am pus datele pe harta regiunilor:
 
-[](/wp-content/uploads/2012/02/harta_ro.png)
+

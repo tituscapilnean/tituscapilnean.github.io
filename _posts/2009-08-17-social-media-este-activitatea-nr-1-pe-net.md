@@ -56,7 +56,7 @@ _
 
 12\. 78% din consumatori au încredere în recomandările celorlalți. doar 14% au încredere în publicitate. 90% din utilizatorii care au posibilitatea să filtreze reclame o fac.
 
-_Am scris mai demult un articol despre[cum se schimbă publicitatea și marketingul](/2009/08/12/scoate-publicitatea-din-galeata/). În articol găsești și o prezentare foarte utilă și grăitoare._
+_Am scris mai demult un articol despre[cum se schimbă publicitatea și marketingul](/posts/scoate-publicitatea-din-galeata/). În articol găsești și o prezentare foarte utilă și grăitoare._
 
 13\. 25% din Americani au văzut un clip pe telefon în ultima lună.
 
@@ -68,7 +68,7 @@ _Se prevede sfârșitul cărților tipărite pe hârtie. Nu va mai fi nevoie pur
 
 16\. Campaniile pe social media arată mai mult a planificare de petrecere, agregare și producere de conținut decât a advertising. Modul de a face lucrurile seamănă mai mult cu consultanța – se ascultă, apoi se vinde.
 
-[](/wp-content/uploads/2009/08/3598356119_bd22769c3e_o.jpg)
+
 
 sursa FOTO
 

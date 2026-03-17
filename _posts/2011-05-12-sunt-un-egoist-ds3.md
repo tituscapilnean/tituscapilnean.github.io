@@ -14,11 +14,11 @@ Am avut mașina, am predat-o. Cine trebuie să știe, știe de ce. Da, știu, su
 
 Merci Cerecomand și Citroen pentru cei 200 km cât am condus DS3-ul. Poze și impresii mai jos:
 
-[](/2011/05/sunt-un-egoist-ds3/img_20110509_184807/)
 
-[](/2011/05/sunt-un-egoist-ds3/img_20110509_184816/)
 
-[](/2011/05/sunt-un-egoist-ds3/img_20110509_184826/)
+
+
+
 
 Părți bune:
 

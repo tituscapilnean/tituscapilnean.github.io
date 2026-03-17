@@ -14,7 +14,7 @@ Aceasta e mesajul care îl afişează Facebook atunci când intri pentru prima d
 
 L-au ciuntit pe vechiul Facebook de un sidebar şi multe meniuri şi funcţionalităţi neatinse de mine aproape niciodată. Acum ai 3 butoane – scrii, urci poze sau urci video, un sidebar cu reclame(_doar 1 în loc de 3_) şi oameni pe care s-ar putea să îi cunoşti, un search box, notificări la baza ecranului şi meniul de sus, pus şi el la cură de slăbire:
 
-[](/wp-content/uploads/2009/09/lite.jpg)
+
 
 Se mişcă mult mai repede şi mai uşor decât varianta full a aplicaţiei şi cred că o să o păstrez ca interfaţă principală pentru Facebook. Poate aşa nu o să se mai blocheze Firefox când se încarcă mai greu 🙂
 
@@ -22,6 +22,6 @@ Au uşurat şi profilul de toate cutiile, statisticile şi alte diverse miniapli
 
 Îmi mai place foarte mult segmentul de evenimente ordonate după momentul în care se întâmplă şi importanţă. Util şi fără alte linkuri în plus.
 
-Merge mult mai bine pe mobil acum, dacă n-ai [aplicaţia de iPhone pentru Facebook](/2009/08/28/facebook-3-0-pentru-iphone-lansare-finala/) 😀
+Merge mult mai bine pe mobil acum, dacă n-ai [aplicaţia de iPhone pentru Facebook](/posts/facebook-3-0-pentru-iphone-lansare-finala/) 😀
 
 *Facebook Blog spune că ar avea şi o funcţionalitate de @mention gen Twitter, dar încă n-am reuşit să o fac să meargă.

@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/03/DAYLIGHT-SAVING-check-your-condoms-guys-400x233.jpg
 ---
 
-[](/wp-content/uploads/2010/03/DAYLIGHT-SAVING-check-your-condoms-guys.jpg)
+
 
 Da, prezervativele au termen de valabilitate, cam ca un șampon, gel și alte porcării pe care le poți uita în sertar. Și vine acel moment fatidic, în care ai nevoie de el și, glorios, te întinzi spre locul în care știi că se află. Lumina e difuză, dar ea are prezență de spirit(sau e un pic mai trează decât tine) și îți zice cu o voce dulce:
 

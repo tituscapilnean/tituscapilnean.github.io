@@ -12,11 +12,11 @@ author: titus_capilnean
 
 Dacă ești ca mine și ai cont pe Facebook de mai mult de 4-5 ani, atunci ai adunat de-a lungul timpului sute de pagini cărora le-ai dat Like dintr-un motiv sau altul. Odată cu schimbările survenite de modul în care se afișează profilul tău, like-urile au început să fie aranjate pe interese și domenii și, astfel, te-ai trezit caracterizat de ele, chit că vrei sau nu.
 
-[](/wp-content/uploads/2012/02/likes.png)
+
 
 Ele se accesează de pe contul tău de Facebook, în partea dreaptă, printr-un link care duce spre sectiunea lor, unde sunt și detaliate.
 
-[](/wp-content/uploads/2012/02/likes2.png)
+
 
 De cele principale poți să scapi destul de ușor, dând click pe ele și folosind butonul de UNLIKE, din partea de stânga jos a fiecărei pagini.
 
@@ -26,7 +26,7 @@ Există o metodă mai simplă:
 
 Apeși _Edit_ și cobori la _Other pages:_
 
-[](/wp-content/uploads/2012/02/likes41.png)
+
 
 Ultimul pas e să alegi cu ce pagini vrei să rămâi la curent. Simplu.
 

@@ -9,7 +9,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/03/creativemokeyz-crestere-274x300.jpg
 ---
 
-[](/2011/03/miscarea-inteligenta-a-celor-de-la-creative-monkeyz-robotzii/robotzy/)Nu mi-a plăcut niciodată să mă grăbesc cu afirmaţii despre variile schimbări de pe internet. Cazul de faţă a fost cu atât mai bizară şi mai greu de înţeles, cu cât creatorii serialului Robotzii îşi tăiau, aparent, principală sursă de promovare: Youtube.
+Nu mi-a plăcut niciodată să mă grăbesc cu afirmaţii despre variile schimbări de pe internet. Cazul de faţă a fost cu atât mai bizară şi mai greu de înţeles, cu cât creatorii serialului Robotzii îşi tăiau, aparent, principală sursă de promovare: Youtube.
 
 Decizia lor de acum o săptămâna şi ceva a început să îşi arate justificarea aproape imediat.
 
@@ -31,7 +31,7 @@ Faptul că Robotzii s-au mutat exclusiv pe site-ul creativemonkeyz.com a generat
 
 În plus, aseară, odată cu lansarea episodului 7, şi **pagina lor de Facebook** a avut de câştigat din mişcarea asta. Într-o singură zi, pagină lor a crescut cât alte pagini într-un an, fără să investească în ad-uri – **au depăşit 18.000 de fani adunaţi într-o singură zi** , ajungând la peste **55.000 de fani pe Facebook**.
 
-[](/2011/03/miscarea-inteligenta-a-celor-de-la-creative-monkeyz-robotzii/creativemokeyz-crestere/)
+
 
 sursa: Facebrands.ro
 

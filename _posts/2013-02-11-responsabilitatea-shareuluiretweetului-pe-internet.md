@@ -12,7 +12,7 @@ Am citit acum o vreme articolul de pe Econsultancy, în care un italian n-a vrut
 
 Chiar dacă apus epoca chain-mailurilor corporatiste, cred că businessurile și brandurile văd singure că s-a schimbat modul în care circulă informațiile și „ _dezinformațiile_ ”.
 
-[](/2013/02/responsabilitatea-shareuluiretweetului-pe-internet/sopa-and-pipa-protest-takes-it-to-the-streets-in-nyc-video-2ed38c9bc2/)
+
 
 **Prostim poporul cu televizorul** s-a transformat în **prostim poporul cu internetul**
 

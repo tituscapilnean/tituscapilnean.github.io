@@ -10,7 +10,7 @@ author: titus_capilnean
 
 Am fost aseară la un film despre care aveam așteptări greșite. Când am primit invitația la Hansel și Gretel, la Cinema City, la Sun Plaza, în 3D, m-am gândit că o să mergem la un basm ușurel (cine a citit originalul știe) și o să fie drăguț.
 
-[](/2013/01/hansel-si-gretel-2013-macel-cu-vrajitoare/hansel-si-gretel/)
+
 
 Ei, a fost mișto, dar dintr-un total alt punct de vedere. Filmul urmărește aventurile celor doi frați, crescuți acum mari și ajunși vânători (mercenari) de vrăjitoare în întreaga lume. Ajung într-un sat bântuit de magia neagră și încep să caute copiii răpiți. Tot procesul și toată lupta sunt puse în scenă în modul cel mai explicit posibil, cu carne care zboară, sânge care se împrăștie și vrăjitoare care explodează.
 

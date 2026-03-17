@@ -27,6 +27,6 @@ Cold Mailing – clienți noi.
 
 Simplu, nu?
 
-  * July 9, 2009 -- [Promotiile Acum – Live – Ce vor femeile?](/2009/07/promotiile-acum-live-ce-vor-femeile/ "Promotiile Acum – Live – Ce vor femeile?")
-  * July 9, 2009 -- [Promotiile Acum – Live – Do-s and Dont-s](/2009/07/promotiile-acum-live-do-s-and-dont-s/ "Promotiile Acum – Live – Do-s and Dont-s")
-  * July 9, 2009 -- [Promotiile Acum – Live – Wieden + Kennedy si Ursus](/2009/07/promotiile-acum-live-wieden-kennedy-si-ursus/ "Promotiile Acum – Live – Wieden + Kennedy si Ursus")
+  * July 9, 2009 -- Promotiile Acum – Live – Ce vor femeile?
+  * July 9, 2009 -- Promotiile Acum – Live – Do-s and Dont-s
+  * July 9, 2009 -- Promotiile Acum – Live – Wieden + Kennedy si Ursus

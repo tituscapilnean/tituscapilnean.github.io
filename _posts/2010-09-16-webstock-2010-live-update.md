@@ -16,7 +16,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/09/302fe681-0fda-468b-8bcc-265e1b2d91b8-322x299.jpg
 ---
 
-Începe și ediția din 2010 a Webstock, conferință, gală și workshop-uri all-in-one, totul despre web și, în special, social media. Dacă nu ai apucat să te uiți peste lista de vorbitori, am scris [un articol precedent](/2010/09/cine-vorbeste-pregatiri-de-webstock-2010/) cu întreaga agendă, pe ore. Aici voi ține pasul cu ideile care merită păstrate, idei pe care le vor vehicula atât invitații, cât și cei din sală.
+Începe și ediția din 2010 a Webstock, conferință, gală și workshop-uri all-in-one, totul despre web și, în special, social media. Dacă nu ai apucat să te uiți peste lista de vorbitori, am scris [un articol precedent](/posts/cine-vorbeste-pregatiri-de-webstock-2010/) cu întreaga agendă, pe ore. Aici voi ține pasul cu ideile care merită păstrate, idei pe care le vor vehicula atât invitații, cât și cei din sală.
 
 Webstock se transmite live și pe site-ul conferinței – aici
 
@@ -34,7 +34,7 @@ Pe blog voi încerca să fac diferența față de fluxul de Twitter, unde exist�
 
 —
 
-[](/wp-content/uploads/2010/09/photo9.jpg)Urmează **Mădălin Vladcu** – Daedalus Millward Brown, care povestește despre studiul făcut în rețelele sociale. Ei au studiat activitățile din rețelele sociale din România, detalii socio-demografice și peisajul social media de la noi.
+Urmează **Mădălin Vladcu** – Daedalus Millward Brown, care povestește despre studiul făcut în rețelele sociale. Ei au studiat activitățile din rețelele sociale din România, detalii socio-demografice și peisajul social media de la noi.
 
 În sfârșit, am început să discutăm despre **Facebook și Hi5** , nu despre Hi5 și Facebook.
 
@@ -80,7 +80,7 @@ _întrebarea 1: Ce facem cu prețurile de Roaming?
 întrebarea 2: Cât la sută din bugetul de marketing e alocat pe social media?  
 întrebarea 3: Cum facem bani în social media?_
 
-[](/wp-content/uploads/2010/09/photo10.jpg)Oamenii vin pe rețelele sociale să se conecteze cu prietenii și cu brandurile pe care le cunoști și le iubești. Social Media nu se potrivește foarte bine pentru retail.
+Oamenii vin pe rețelele sociale să se conecteze cu prietenii și cu brandurile pe care le cunoști și le iubești. Social Media nu se potrivește foarte bine pentru retail.
 
 Nu iubești un brand, ci îl admiri și ești stimulat de el, deci cea mai bună strategie pe rețelele sociale, pentru marketing este să creezi admirație.
 
@@ -114,7 +114,7 @@ Vedem și reclamele cele mai noi Vodafone – cu Maximia…oh dear
 
 N-am să povestesc despre caracteristicile femeilor, irelevante în context de Webstock. Le știm deja.
 
-[](/wp-content/uploads/2010/09/photo11.jpg)
+
 
 *offtopic – Avon are card parfumat, primul din sud-estul Europei, cu GMoney și Garanti Bank
 
@@ -132,7 +132,7 @@ Pentru bărbați – comunitatea oferă accesul la muuuulte femei, evident
 
 **Radu Ionescu** – Kinecto – vorbește, desigur, despre LG și campaniile lor pe social medi și despre faptul că social media nu înseamnă doar A-List Bloggers.
 
-[](/wp-content/uploads/2010/09/photo12.jpg)
+
 
 N-ar trebui să ne fie frică să provocăm utilizatorii de rețele sociale să fie creativi.
 
@@ -177,7 +177,7 @@ Lucrurile serioase:
 – oamenii au impresia că drepturile de autor sunt mai importante decât simplitatea cu care poți să faci lucrurile cu ajutor din afară  
 – costurile reduse nu sunt întotdeauna cea mai bună soluție – raport cost/beneficii
 
-[](/wp-content/uploads/2010/09/photo13.jpg)
+
 
 Ce mi-e mie foarte clar din discursul lui Dragoș, e că nu trebuie să te îndrăgostești de modul tău de lucru sau de ideile tale, pentru că există mereu loc de îmbunătățire.
 
@@ -195,7 +195,7 @@ VORBITORI
 
 Începem partea a 3-a.
 
-[](/wp-content/uploads/2010/09/photo14.jpg)
+
 
 **Lidia** de la Vodafone ne vorbește despre cum a integrat Social Media în comunicarea companiei. Să vedem dacă va fi corporate talk sau nu. Numele de cod(de cont) al Vodafone pe social media în România este **VodafoneBuzz**.
 
@@ -211,7 +211,7 @@ Sunt prezenți pe toate canalele de rețele sociale(2000 followers pe Twitter, 4
 
 Silviu, omul din spatele contului de Twitter @VodafoneBuzz:
 
-[](/wp-content/uploads/2010/09/photo15.jpg)
+
 
 Ei încearcă să fie friendly și să se adreseze fără limbaj de lemn când vorbesc cu consumatorul.
 
@@ -273,7 +273,7 @@ si **Adrian Soare**
 
 Dragoş Bucurenci moderează toată treaba.
 
-[](/wp-content/uploads/2010/09/photo16.jpg)Începem cu **Bogdana** , care e răcită şi vrea să scriem de bine despre ea. Ne povesteşte despre cum ea a vorbit despre moderaţie pe Facebook, faţă de Bobby Voicu, de exemplu, care le spune oamenilor ce vrea să audă – că reţelele sociale şi comunităţile sunt bune şi tari şi cool.
+Începem cu **Bogdana** , care e răcită şi vrea să scriem de bine despre ea. Ne povesteşte despre cum ea a vorbit despre moderaţie pe Facebook, faţă de Bobby Voicu, de exemplu, care le spune oamenilor ce vrea să audă – că reţelele sociale şi comunităţile sunt bune şi tari şi cool.
 
 Bogdana are 45 de poze pe Facebook, niciuna încărcată de ea şi peste 800 de prieteni pe care nu i-a adăugat ea.
 
@@ -339,6 +339,6 @@ Hai, mă, treaba cu pozele cu fosta mi se pare trasă de păr. Cum adică să ș
 
 Să citim deci niște Failbook.com, că tot despre asta e vorba aici:
 
-[](/wp-content/uploads/2010/09/302fe681-0fda-468b-8bcc-265e1b2d91b8.jpg)
+
 
 Urmează gala. De acolo nu mai fac live blogging 🙂

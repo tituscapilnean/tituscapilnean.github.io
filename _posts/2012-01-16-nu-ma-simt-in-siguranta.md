@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2012/01/mmln25l-291x300.png
 ---
 
-[](/wp-content/uploads/2012/01/mmln25l.png)Asist și asistăm de câteva zile la niște mișcări de stradă cel puțin bizare. Nu intru în detaliile desfășurării acțiunii, ci vă invit să citiți întreaga poveste, mai la final. Problema mea, în momentul de față, ca locuitor al Bucureștiului, este că nu mă mai simt în siguranță în orașul meu.
+Asist și asistăm de câteva zile la niște mișcări de stradă cel puțin bizare. Nu intru în detaliile desfășurării acțiunii, ci vă invit să citiți întreaga poveste, mai la final. Problema mea, în momentul de față, ca locuitor al Bucureștiului, este că nu mă mai simt în siguranță în orașul meu.
 
 Nu mai pot să ies în oraș seara, în centru, nu mai pot să îmi parchez mașina fără să mă gândesc că există posibilitatea ca niște huligani sau golani să îi dea foc sau mai știu eu ce.
 

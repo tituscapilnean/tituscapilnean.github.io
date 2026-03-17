@@ -10,7 +10,7 @@ author: titus_capilnean
 
 Gata, am lăsat alegerile deoparte și mă reconcentrez pe chestiile mișto de pe online, mai specific de pe social media. Săptămâna trecută m-am băgat într-o campanie a CyberMonday. Practic nu prea aveam mari șanse să câștig, însă mecanismul era prea simplu ca să nu încerc măcar.
 
-[](/wp-content/uploads/2009/12/aaa.jpg)
+
 
 Ei au oferit un MacBook Pro pentru unul din utilizatorii de Twitter care a dat următorul mesaj: _Win a new Macbook Pro on Cyber Monday 2009. Details here: http://bit.ly/29rFES_ Nimic special, nimic complicat. Nu spuneau că trebuie să îl dai de mai multe ori, că dacă îl dai doar o dată sau de mai multe e același lucru, ci doar că trebuie să dai un Tweet cu asta. Perfect.
 

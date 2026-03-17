@@ -18,7 +18,7 @@ Părerea asta a făcut înconjorul lumii, ajungând inclusiv pe Financial Times.
 
 După numai 2 săptămâni, subiectul e din nou abordat pe Mashable, de data asta cu un studiu în spate – făcut de cei de la Nielsen.(mai jos)
 
-[](/wp-content/uploads/2009/08/twitterteens.gif)
+
 
 Din păcate, studiul **a fost atacat** mai ales pe segmentarea grupurilor țintă – 2-24 fiind mult prea larg pentru adolescenți – însă dacă ar fi detaliat grupul, adolescenții ar fi avut un procent și **mai mic din cei 16%** alocați grupei. În plus, cei de la Nielsen au afirmat că studiul s-a desfășurat luând în considerare utilizatorii care accesează Twitter.com, fără a calcula aplicațiile terțe.
 
@@ -48,6 +48,6 @@ Unii comentatori au mers mai departe și au spus că Twitter s-ar transforma în
 
 Cred că e nevoie de un grad de maturitate și un scop al comunicării ca să poți comunica pe Twitter cu succes. Altfel vei rămâne în scurt timp doar cu spammeri în Followers.
 
-Revenind la România, am spus și în [recensământul utilizatorilor](/2009/07/28/studiu-de-audienta-pe-twitter/) de Twitter în România, că doar **5% din românii de pe Twitter dun adolescenți.**
+Revenind la România, am spus și în [recensământul utilizatorilor](/posts/studiu-de-audienta-pe-twitter/) de Twitter în România, că doar **5% din românii de pe Twitter dun adolescenți.**
 
 Este sau nu este Twitter și pentru adolescenți? Eu zic că nu.

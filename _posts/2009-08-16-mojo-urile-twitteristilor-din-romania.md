@@ -21,7 +21,7 @@ Adrian Soare și Ionuț Oprea sunt Tweethead – expert în RT, trebuie să dai 
 Zoso este Partyanimal – are o mulțime de prieteni și este sufletul petrecerii pe Twitter  
 Piticu și Arhi sunt Name Droppers – conversează activ cu menționarea numelor celor pe care îi urmărește și nu numai.
 
-[](/wp-content/uploads/2009/08/picture-133-630x372.png)
+
 
 Site-ul face parte din campania de promovare a noului design al Yahoo.com
 

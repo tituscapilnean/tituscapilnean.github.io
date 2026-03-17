@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2012/05/gm-logo-going-up-150x150.png
 ---
 
-[](/wp-content/uploads/2012/05/gm-logo-going-up.png)Acum 3 zile, General Motors anunța că renunță la reclamele pe Facebook, motivând că nu sunt relevante pentru business-ul lor(nu aduc vânzările scontate). (detalii aici)
+Acum 3 zile, General Motors anunța că renunță la reclamele pe Facebook, motivând că nu sunt relevante pentru business-ul lor(nu aduc vânzările scontate). (detalii aici)
 
 Anunțul venea cu câteva zile înainte de încheierea IPO-ului pentru Facebook. Partea interesantă e că General Motors deține locul 2 cu IPO-ul din Noiembrie 2010, când a reușit să strângă 18,1 miliarde de dolari de pe bursă. Facebook a strâns doar 16 miliarde, clasându-se pe locul….3. (detalii aici)
 

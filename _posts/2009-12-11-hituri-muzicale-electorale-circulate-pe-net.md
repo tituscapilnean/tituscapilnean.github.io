@@ -6,7 +6,7 @@ tags: ["basescu", "caterinca-proasta", "geoana", "melodii", "muzica", "social-me
 author: titus_capilnean
 ---
 
-Dacă tot am ars-o [dubios și electoral](/2009/12/10/centralizator-bancuri-cu-si-despre-geoana/) ieri, continuăm în același ton, însă un pic mai muzical. Am primit pe o listă, de la Vlad un top, completat de inegalabilul Florin. Din top 7 melodii electorale a ajuns **top 8**.
+Dacă tot am ars-o [dubios și electoral](/posts/centralizator-bancuri-cu-si-despre-geoana/) ieri, continuăm în același ton, însă un pic mai muzical. Am primit pe o listă, de la Vlad un top, completat de inegalabilul Florin. Din top 7 melodii electorale a ajuns **top 8**.
 
 Enjoy mai jos:  
 _îmi cer scuze pentru manele, dar sunt de efect în contextul dat 😀_  

@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/06/iphone_upright_2-252x300.jpg
 ---
 
-[](/wp-content/uploads/2010/06/iphone_upright_2.jpg)N-am mai scris nimic de foarte multă vreme despre iPhone-ul meu 3G, pe care îl posed de prin Iulie 2009. Asta pentru că până acum a mers destul de bine, din toate punctele de vedere. Asta până acum 1 lună, când a început să facă figuri.
+N-am mai scris nimic de foarte multă vreme despre iPhone-ul meu 3G, pe care îl posed de prin Iulie 2009. Asta pentru că până acum a mers destul de bine, din toate punctele de vedere. Asta până acum 1 lună, când a început să facă figuri.
 
 Semne că trebuie să reinstalezi softul pe iPhone:
 

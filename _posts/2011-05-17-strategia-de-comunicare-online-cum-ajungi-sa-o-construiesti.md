@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - [iframe] http://www.slideshare.net/slideshow/embed_code/7991560
 ---
 
-Am scris puțin despre [strategia de comunicare online](/2011/01/cum-construiesti-o-strategie-anuala-de-online/) la începutul anului. Acum, la invitația lui Vali Sava, am mers la Congresul Național AIESEC România, unde am ținut un **training de comunicare online pentru echipa națională de vicepreședinți de comunicare în comitetele locale**.
+Am scris puțin despre [strategia de comunicare online](/posts/cum-construiesti-o-strategie-anuala-de-online/) la începutul anului. Acum, la invitația lui Vali Sava, am mers la Congresul Național AIESEC România, unde am ținut un **training de comunicare online pentru echipa națională de vicepreședinți de comunicare în comitetele locale**.
 
 De data asta am pus accentul pe **integrare, strategie** și **echipă**.
 
@@ -24,6 +24,6 @@ Dincolo de detaliile și exemplele pe care le-am dat la fața locului și pe car
 2\. Grupul țintă trebuie definit cât mai bine posibil – dacă îi faci un profil de tip fișă de personaj, e perfect – așa scoți insighturi, idei de mesaje, cauți mai ușor canalele și iei decizii  
 3\. Online-ul trebuie să fie canal central în campanie, dacă vrei să colectezi date/să abonezi oamenii la mesajele tale.  
 4\. Like-ul de Facebook e foarte important(cel pentru pagina ta) – e ca un accept de înscriere în baza de date pentru newsletter, cu toate demograficele deja atașate  
-5\. [Cei 3 CO](/2011/05/branding-personal-la-bizcamp-going-digital/) se aplică și aici – Coerență, Constanță, Consecvență.
+5\. [Cei 3 CO](/posts/branding-personal-la-bizcamp-going-digital/) se aplică și aici – Coerență, Constanță, Consecvență.
 
 Sper că le-am fost de ajutor și că vor construi campanii frumoase în mandatul lor pe perioada 2011 – 2012.

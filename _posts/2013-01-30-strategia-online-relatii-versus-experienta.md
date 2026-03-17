@@ -11,7 +11,7 @@ author: titus_capilnean
 #   - [iframe] http://www.slideshare.net/slideshow/embed_code/15664129
 ---
 
-[](/2013/01/strategia-online-relatii-versus-experienta/goldfish/) N-am mai scris de multicel un articol despre modul în care construiești o [strategie de comunicare online](/2011/05/strategia-de-comunicare-online-cum-ajungi-sa-o-construiesti/). Lucruri fundamentale nu s-au schimbat din anii trecuți, însă contează din ce în ce mai mult adordările pe care le alege un director de strategie/manager/director de marketing sau PR, comparativ cu rezultatele pe care se așteaptă să le obțină. Da, iar vorbesc de rezultate de business ([acel ROI](/2013/01/roi-ul-excursiilor-cu-bloggeri/), nu de reach, număr de articole sau mai știu eu ce metrics numai bune de luat ochiul clientului).
+ N-am mai scris de multicel un articol despre modul în care construiești o [strategie de comunicare online](/posts/strategia-de-comunicare-online-cum-ajungi-sa-o-construiesti/). Lucruri fundamentale nu s-au schimbat din anii trecuți, însă contează din ce în ce mai mult adordările pe care le alege un director de strategie/manager/director de marketing sau PR, comparativ cu rezultatele pe care se așteaptă să le obțină. Da, iar vorbesc de rezultate de business ([acel ROI](/posts/roi-ul-excursiilor-cu-bloggeri/), nu de reach, număr de articole sau mai știu eu ce metrics numai bune de luat ochiul clientului).
 
 **1\. Concentrarea pe managementul relațiilor**
 

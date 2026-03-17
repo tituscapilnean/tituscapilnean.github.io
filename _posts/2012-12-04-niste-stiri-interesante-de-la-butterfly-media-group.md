@@ -8,10 +8,10 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2012/12/promoted-posts-abuse-600x600-400x276.png
 ---
 
-Acum ceva vreme descopeream un nou blog de agenție. Se pare că, spre deosebire de mulți alții, s-au ținut de el și dau [știri interesante despre social media](/2012/10/stiri-saptamanale-despre-social-media/) și o fac săptămânal.
+Acum ceva vreme descopeream un nou blog de agenție. Se pare că, spre deosebire de mulți alții, s-au ținut de el și dau [știri interesante despre social media](/posts/stiri-saptamanale-despre-social-media/) și o fac săptămânal.
 
 De data asta vorbesc de spam prin Promoted posts, ROI, de inutilitatea SEO, despre faptul că Facebook a început să șteargă cover photos care nu-s conforme cu termenii și condițiile rețelei. Lucruri de citit, din punctul meu de vedere.
 
 Mai multe aici.
 
-[](/2012/12/niste-stiri-interesante-de-la-butterfly-media-group/promoted-posts-abuse-600x600/)
+

@@ -9,7 +9,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/11/flow-300x300.jpg
 ---
 
-[](/wp-content/uploads/2010/11/social-media-landscape.jpg)Toată lumea se pricepe mai nou la fotbal, femei, religie, politică **și social media**.
+Toată lumea se pricepe mai nou la fotbal, femei, religie, politică **și social media**.
 
 Asta e noua paradigmă după care acționează plutoanele de divizii de marketing mici și medii ale companiilor care nu au bani de externalizare și aleg soluții de compromis saaaau ONG-urile care pornesc de la premisa că Facebook e cam la fel de ușor de folosit ca și atunci când comunici cu prietenii.
 
@@ -30,7 +30,7 @@ Așa că mi-am început training-ul cu un mod de lucru în comunicare, pe care f
 
 
 
-[](/wp-content/uploads/2010/11/flow.jpg)
+
 
 Dacă știi lucrurile de mai sus, atunci jumătate din problemă e rezolvată. Acum că am stabilit bazele, concluziile pe care le-am tras(împreună cu ei) în urma training-ului au fost următoarele:
 

@@ -13,7 +13,7 @@ Am ajuns azi la birou abia la ora 13 pentru că am fost la film ( 🙂 ) cu Arhi
 
 Filmul G.I. Joe, care va avea **premiera pe 28 August** în cinematografe, are ca subiect de inspirație jucăriile acelea din copilărie cu soldați, care apar acum în film.
 
-[](/wp-content/uploads/2009/08/gijoe25th0zf.jpg)
+
 
 _Scurt istoric:_ Jucăriile G.I. Joe au apărut în 1960, în perioada în care America se bătea cu Rusia în plin Război Rece, iar soldatul american era văzut ca o mașină de luptă indestructibilă.  
 _/Scurt istoric_
@@ -35,7 +35,7 @@ Trailer :
 
 P.s.s. : Ambele fete din rolurile principale sunt bune – toți care am văzut filmul suntem de aceeași părere 😀
 
-[](/wp-content/uploads/2009/08/3749826822_dbbb4c2c52_o.jpg)
+
 
 Sienna Miller și Rachel Nichols
 

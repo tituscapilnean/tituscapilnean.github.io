@@ -16,15 +16,15 @@ De regulă, nu scriu în weekend mai mult de pauza de reclame, însă de data as
 
 Pe drum înspre magazin am dat peste un fast food cu un branding inspirat, ca să nu zic copiat de-a dreptul Bucharest Fried Chicken.
 
-[](/wp-content/uploads/2009/09/IMG_0375.JPG)
+
 
 Acuma nu pot să nu mă gândesc că oamenii s-au inspirat de la colegii un pic mai mari de mai spre imtersectie, KFC 🙂  
   
-[](/wp-content/uploads/2009/09/IMG_0376.JPG)
+
 
 Dacă tot suntem la capitolul copiat de branduri, lângă blocul meu din buza Sălăjeanului, se va deschide în curând o șaormerie și fast food MC Chicken
 
-[](/wp-content/uploads/2009/09/IMG_0379.JPG)
+
 
 Nu cred că Mc Chicken vine de la Chicane sau ceva de genul, ci cred că vine de la celebrul deja sandwich de la McDonalds – M c Chicken :))
 

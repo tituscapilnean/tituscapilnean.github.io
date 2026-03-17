@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2013/01/speed_reading_1-150x150.jpg
 ---
 
-[](/2013/01/citire-rapida-esentiala-pentru-web-2-0/speed_reading_1/)Dacă tot am început anul cu predicții, ar trebui să mă ating un pic și de capitalul uman al internetului, cei cu care facem campanii, cei care ne citesc blogurile, ne dau like-uri, tweeturi și mai știu eu ce. Adică voi, deci și tu.
+Dacă tot am început anul cu predicții, ar trebui să mă ating un pic și de capitalul uman al internetului, cei cu care facem campanii, cei care ne citesc blogurile, ne dau like-uri, tweeturi și mai știu eu ce. Adică voi, deci și tu.
 
 **Problema:** viteza cu care produce internetul conținut a crescut în ultimii ani exponențial și va continua să crească, pe măsură ce adăugăm noi și noi utilizatori, noi și noi rețele sociale.
 

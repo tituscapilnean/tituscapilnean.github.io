@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2009/09/black-ppt-logo.jpg
 ---
 
-[](/wp-content/uploads/2009/09/black-ppt-logo.jpg)
+
 
 Probabil că vă întrebați de ce i-am zis așa articolului – sună mai bine în engleză. Definește exact ceea ce este TEDx Bucharest în acest moment pentru mine și pentru noi, cei 12+ nebuni, adunați timp de câteva luni.
 

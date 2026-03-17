@@ -36,43 +36,43 @@ Mi-a plăcut mult modul în care s-au coordonat toți actorii și acrobații la 
 
 Am făcut și câteva poze:
 
-[](/2011/06/teatru-in-aer-la-sibiu/img_20110603_234133/)
 
-[](/2011/06/teatru-in-aer-la-sibiu/img_20110603_234138/)
 
-[](/2011/06/teatru-in-aer-la-sibiu/img_20110603_234158/)
 
-[](/2011/06/teatru-in-aer-la-sibiu/img_20110603_234212/)
 
-[](/2011/06/teatru-in-aer-la-sibiu/img_20110603_234229/)
 
-[](/2011/06/teatru-in-aer-la-sibiu/img_20110603_234331/)
 
-[](/2011/06/teatru-in-aer-la-sibiu/img_20110603_234335/)
 
-[](/2011/06/teatru-in-aer-la-sibiu/img_20110603_234746/)
 
-[](/2011/06/teatru-in-aer-la-sibiu/img_20110603_234751/)
 
-[](/2011/06/teatru-in-aer-la-sibiu/img_20110603_234757/)
 
-[](/2011/06/teatru-in-aer-la-sibiu/img_20110603_235058/)
 
-[](/2011/06/teatru-in-aer-la-sibiu/img_20110603_235118/)
 
-[](/2011/06/teatru-in-aer-la-sibiu/img_20110603_235346/)
 
-[](/2011/06/teatru-in-aer-la-sibiu/img_20110603_235351/)
 
-[](/2011/06/teatru-in-aer-la-sibiu/img_20110603_235419/)
 
-[](/2011/06/teatru-in-aer-la-sibiu/img_20110603_235423/)
 
-[](/2011/06/teatru-in-aer-la-sibiu/img_20110603_235431/)
 
-[](/2011/06/teatru-in-aer-la-sibiu/img_20110603_235443/)
 
-[](/2011/06/teatru-in-aer-la-sibiu/img_20110603_235448/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Știu, nu e vorba de social media sau de online aici, dar mi s-a părut mișto să vă povestesc despre teatrul în aer de la Sibiu. O să revin mâine cu prima dintre prezentările de la Marketing 24/7.
 

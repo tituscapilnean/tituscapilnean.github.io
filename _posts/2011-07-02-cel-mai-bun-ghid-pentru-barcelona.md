@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/07/city-barcelona-7-150x150.jpg
 ---
 
-[](/2011/07/cel-mai-bun-ghid-pentru-barcelona/city-barcelona-7/)Am o provocare destul de mare pentru weekendul viitor. Plec în Citybreak, cu Paravion, la Barcelona și am nevoie ca, **în patru zile, să pot vizita cele mai importante și interesante locuri din oraș** și de pe litoral. Timpul e scurt, așa că nu vreau să merg și să orbecăi pe-acolo, ca să descopăr locurile faine, ci caut un ghid turistic, cel mai bun ghid turistic.
+Am o provocare destul de mare pentru weekendul viitor. Plec în Citybreak, cu Paravion, la Barcelona și am nevoie ca, **în patru zile, să pot vizita cele mai importante și interesante locuri din oraș** și de pe litoral. Timpul e scurt, așa că nu vreau să merg și să orbecăi pe-acolo, ca să descopăr locurile faine, ci caut un ghid turistic, cel mai bun ghid turistic.
 
 Nu mă interesează locurile clișeice ale orașului, cele pe care pot să le văd în poze pe net. Vreau să văd o altă față a Barcelonei, una pe care să o simt, să o trăiesc și să v-o povestesc. Caut Barcelona ascunsă, Barcelona cu buticuri, cu oameni simpli, cu liniste, cu siesta lungă, departe de soare. De aceea aplez la blog pentru un pic de ajutor.
 

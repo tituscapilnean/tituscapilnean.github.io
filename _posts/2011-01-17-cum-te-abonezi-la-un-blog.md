@@ -16,7 +16,7 @@ Ca să ne înțelegem de la început, **RSS-ul e o modalitate** prin care blogul
 
 Feed-ul RSS nu se poate citi de unul singur, așa că ai nevoie de un cititor care să interpreteze articolele trimise de blog. Cel mai simplu și la îndemână reader este **Google Reader** , pe care îl poți accesa cu ajutorul **contului de Gmail** sau a celui de **Youtube**. 
 
-Acolo alegi să adaugi un blog nou și introduci adresa blogului(în cazul meu: [tituscapilnean.ro](/)) sau direct adresa feed-ului RSS(în cazul meu: [http://tituscapilnean.ro/feed](/feed)) și te-ai abonat.
+Acolo alegi să adaugi un blog nou și introduci adresa blogului(în cazul meu: [tituscapilnean.ro](/)) sau direct adresa feed-ului RSS(în cazul meu: http://tituscapilnean.ro/feed) și te-ai abonat.
 
 Da, există și alte readere, offline și online, însă Google îl are pe cel mai ușor de accesat(din punct de vedere al conturilor deja existente pe Gmail sau Youtube).
 

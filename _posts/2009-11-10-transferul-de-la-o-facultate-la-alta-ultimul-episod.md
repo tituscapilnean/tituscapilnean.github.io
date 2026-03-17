@@ -9,8 +9,8 @@ author: titus_capilnean
 ![](http://farm3.static.flickr.com/2312/2328879637_c0d2e376ff.jpg)  
 sursa foto
 
-[Episodul 1 – începuturile](/2009/07/15/transfer-de-la-o-facultate-la-alta/)  
-[Episodul 2 – ultimul document](/2009/08/04/transferul-de-la-o-facultate-la-alta-episodul-2/)
+[Episodul 1 – începuturile](/posts/transfer-de-la-o-facultate-la-alta/)  
+[Episodul 2 – ultimul document](/posts/transferul-de-la-o-facultate-la-alta-episodul-2/)
 
 V-am povestit în episoadele anterioare cât de mult este de alergat și de umblat pentru un transfer de la o specializare la alta. Ei, de data asta, concluzia nu e una nici pe departe pozitivă. Nu am reușit să mă transfer de la Finanțe la Marketing – nu pentru că nu mi-ar fi echivalat aproape tot anul 1 și o parte din anul 2, ci pentru că ân anul 3 trebuie să îndeplinești(mai nou) niște condiții extraspeciale.
 

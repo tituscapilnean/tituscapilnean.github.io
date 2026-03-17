@@ -15,7 +15,7 @@ atât de _Cabral_ ish din partea mea 😀
 
 Zilele trecute am fost în vamă, ca tot omul, de 1 Mai, ca să ciocnesc un mic, să mușc o bere, la soare, pe frig. Nu-s prea multe detalii de povestit despre asta în sine, pentru că, de câțiva ani, s-a produs o mică mutație, care eclipsează orice poveste. E prea de tot. Da, deşi vama tot dă semne că moare de câţiva ani, se încăpăţânează să nu îşi dea obştescul sfâşit. Nici mult nu mai are.
 
-[](/wp-content/uploads/2010/05/3156303991_87012cd7c0_b.jpg)N-am aproape o jumătate de secol, ca să pot zice cu mândrie că ”pe vremea mea, vama era un sat cu câteva baruri cu oameni și muzică deosebită”, un sanctuar. _până la urmă mi-a ieșit parafrază_( e din adevărul de seară).
+N-am aproape o jumătate de secol, ca să pot zice cu mândrie că ”pe vremea mea, vama era un sat cu câteva baruri cu oameni și muzică deosebită”, un sanctuar. _până la urmă mi-a ieșit parafrază_( e din adevărul de seară).
 
 Mutația a început cam de când umblu pe acolo, de când s-au mutat cluburile bucureștene pe plajă, de când a ajuns să fie cool să povestești pe blog cât de praf te-ai făcut în vamă.
 

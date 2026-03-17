@@ -10,7 +10,7 @@ author: titus_capilnean
 #   - [iframe] http://player.vimeo.com/video/15841377
 ---
 
-[](/wp-content/uploads/2010/12/skateistan.jpg)Am dat peste Skateistan din întâmplare, când căutam ceva clipuri cu skateboarderi și m-a impresionat foarte mult ideea pe care oamenii ăștia au pus-o în aplicare.
+Am dat peste Skateistan din întâmplare, când căutam ceva clipuri cu skateboarderi și m-a impresionat foarte mult ideea pe care oamenii ăștia au pus-o în aplicare.
 
 În Afganistan, unde se petrece întreaga acțiune, ca în orice țară prin care a trecut un război, nu prea mai are școli ca să acopere întreaga populație.
 

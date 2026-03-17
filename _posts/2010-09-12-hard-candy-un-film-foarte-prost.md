@@ -14,7 +14,7 @@ Nici acum nu pot să îmi dau seama de ce peste 40.000 de oameni au considerat u
 
 Nu zic mai multe. Nu te uita la el. E pierdere de vreme.
 
-[](/wp-content/uploads/2010/09/2006_hard_candy_002.jpg)
+
 
 #movie #fail
 

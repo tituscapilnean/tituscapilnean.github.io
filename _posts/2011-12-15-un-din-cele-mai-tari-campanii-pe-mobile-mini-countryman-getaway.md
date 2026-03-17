@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/12/campaigns-mobile.png
 ---
 
-[](/wp-content/uploads/2011/12/campaigns-mobile.png)Astăzi am aflat de una din cele mai tari campanii de mobile + offline din ultima vreme. S-a întâmplat în Stockholm, în 2010, și am implicat 11.000 de oameni cu iPhone, o leapșă cu un Mini virtual și un premiu.
+Astăzi am aflat de una din cele mai tari campanii de mobile + offline din ultima vreme. S-a întâmplat în Stockholm, în 2010, și am implicat 11.000 de oameni cu iPhone, o leapșă cu un Mini virtual și un premiu.
 
 Oamenii au fugit efectiv unii după alții pe străzile orașului, timp de o săptămână.
 

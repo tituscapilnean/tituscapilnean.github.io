@@ -11,7 +11,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/11/149842_10150091440021204_757311203_7189185_3201115_n-400x225.jpg
 ---
 
-[](/wp-content/uploads/2010/11/ipad4.jpg)_Așa se face un eveniment de lansare_
+_Așa se face un eveniment de lansare_
 
 Miercuri seară am fost la unul din cele mai bune evenimente de lansare din ultima vreme – **PUMA Creative Factory**. Hai să începem cu începutul.
 
@@ -21,7 +21,7 @@ Dacă mergi în AFI Palace Cotroceni le sfârșitul lunii, îți personalizezi o
 
 Treaba asta se face destul de simplu, printr-un soft de iPad, fără să fie nevoie să știi design.
 
-[](/wp-content/uploads/2010/11/P1060900-010.jpg)
+
 
 Trebuie doar să îți alegi culorile, materialele și să le îmbini cum știi tu mai bine.
 
@@ -33,13 +33,13 @@ Acum, lăsând la o parte asta, să povestesc un pic despre eveniment în sine.
 
 Ne-au întâmpinat organizatorii la intrarea in Kristal Glam Club(undeva în Pipera, lângă pod) cu niște ochelari uriași, cu care ne-am făcut și poze – **fun moment #1**
 
-**[](/wp-content/uploads/2010/11/IMG_0642.jpg)**
+****
 
 Apoi am intrat și, pentru că am venit mai devreme, am putut să ne jucăm în voie cu iPad-urile și să ne facem încălțări personalizate. Eu mi-am făcut unii cu negru și albastru, dar am uitat să le fac poză – **fun moment #2**
 
 Guess Who și Andi Moisescu au desenat câte 10 perechi de pumeți și i-au expus în mijlocul eveniementului – i-am văzut pe toți și mi-au plăcut cel mai mult ăștia(făcuți de _Guess Who_):
 
-[](/wp-content/uploads/2010/11/149842_10150091440021204_757311203_7189185_3201115_n.jpg)
+
 
 Ai lui Andi Moisescu erau un pic mai colorați și nu neapărat pe gustul meu. Oricum, ăsta a fost **fun moment #3**
 

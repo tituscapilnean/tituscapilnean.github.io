@@ -6,4 +6,4 @@ tags: ["seminte"]
 author: titus_capilnean
 ---
 
-cam ăsta e publicul extins de Vama Veche de anul ăsta. Am mai scris despre el şi în [articolul despre mamaistul în Vamă](/2010/06/mamaistul-de-vama-o-contradictie-reala/), îl vezi la Stuff, cu paiete şi alte marchaje specifice 🙂 Trist, nu?
+cam ăsta e publicul extins de Vama Veche de anul ăsta. Am mai scris despre el şi în [articolul despre mamaistul în Vamă](/posts/mamaistul-de-vama-o-contradictie-reala/), îl vezi la Stuff, cu paiete şi alte marchaje specifice 🙂 Trist, nu?

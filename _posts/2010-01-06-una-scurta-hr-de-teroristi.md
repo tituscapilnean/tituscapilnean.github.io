@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/01/diviz-400x137.jpg
 ---
 
-[](/wp-content/uploads/2010/01/diviz.jpg)
+
 
 de la wulffie
 

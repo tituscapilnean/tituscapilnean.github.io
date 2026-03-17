@@ -26,7 +26,7 @@ Kung Fu Panda 2 from Titus Capilnean on Vimeo.
 
 _Vocile_ : Jack Black, **Angelina Jolie** , **Dustin Hoffman** , **Jackie Chan** , Seth Rogen, **Lucy Liu** , David Cross, James Hong, Gary Oldman, Michelle Yeoh, **Jean-Claude Van Damme** , Victor Garber
 
-[](/2011/05/un-preview-pentru-kung-fu-panda-2-%c8%99i-sneak-preview-pentru-puss-in-boots/mantis/)
+
 
 Ah, da și personajul meu preferat e deja **Călugărițul** :
 
@@ -38,23 +38,23 @@ Stilul tradiţional al Călugăriţei e rapid, calculat, prompt şi precis. Stat
 
 Restul de personaje:
 
-[](/2011/05/un-preview-pentru-kung-fu-panda-2-%c8%99i-sneak-preview-pentru-puss-in-boots/mantis/)
 
-[](/2011/05/un-preview-pentru-kung-fu-panda-2-%c8%99i-sneak-preview-pentru-puss-in-boots/image001/)
 
-[](/2011/05/un-preview-pentru-kung-fu-panda-2-%c8%99i-sneak-preview-pentru-puss-in-boots/image003-2/)
 
-[](/2011/05/un-preview-pentru-kung-fu-panda-2-%c8%99i-sneak-preview-pentru-puss-in-boots/image005/)
 
-[](/2011/05/un-preview-pentru-kung-fu-panda-2-%c8%99i-sneak-preview-pentru-puss-in-boots/image007/)
 
-[](/2011/05/un-preview-pentru-kung-fu-panda-2-%c8%99i-sneak-preview-pentru-puss-in-boots/image011/)
 
-[](/2011/05/un-preview-pentru-kung-fu-panda-2-%c8%99i-sneak-preview-pentru-puss-in-boots/image013/)
 
-[](/2011/05/un-preview-pentru-kung-fu-panda-2-%c8%99i-sneak-preview-pentru-puss-in-boots/image015/)
 
-[](/2011/05/un-preview-pentru-kung-fu-panda-2-%c8%99i-sneak-preview-pentru-puss-in-boots/113843149tt002_puss_in_boot/)
+
+
+
+
+
+
+
+
+
 
 Ție care îți place?
 
@@ -62,4 +62,4 @@ _p.s. toate informațiile astea le-am obținut de la Ro Film, pentru că am înt
 
 _p.p.s uite și sneak preview-ul la Puss in Boots, revin cu detalii în alt articol:_
 
-_[](/2011/05/un-preview-pentru-kung-fu-panda-2-%c8%99i-sneak-preview-pentru-puss-in-boots/113843149tt002_puss_in_boot/)_
+__

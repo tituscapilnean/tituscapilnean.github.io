@@ -8,17 +8,17 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2012/11/freeadvice1-400x300.jpg
 ---
 
-În general, nu mă dau înapoi de la a da [sfaturi și soluții](/intreaba-ma-si-iti-raspund/) oricui mă întreabă. Îmi place să contribui cu perspectiva mea asupra unei probleme la care omul cu întrebarea a considerat că aș avea competența să răspund. Nu contează dacă nu ne cunoaștem foarte bine sau ne știm de o viață. Nu numai că îmi dă acel ”warm, fuzzy feeling inside”, ci mă ajută să îmi exersez gândirea pentru treburile pe care le am în propria mea ogradă profesională, așa că e win-win.
+În general, nu mă dau înapoi de la a da sfaturi și soluții oricui mă întreabă. Îmi place să contribui cu perspectiva mea asupra unei probleme la care omul cu întrebarea a considerat că aș avea competența să răspund. Nu contează dacă nu ne cunoaștem foarte bine sau ne știm de o viață. Nu numai că îmi dă acel ”warm, fuzzy feeling inside”, ci mă ajută să îmi exersez gândirea pentru treburile pe care le am în propria mea ogradă profesională, așa că e win-win.
 
 Și mai pot să câștig un prieten, dacă e cazul.
 
-[](/wp-content/uploads/2012/11/freeadvice1.jpg)
+
 
 (sursa foto)
 
 Problema e că uneori, atunci când dai un deget, te poți trezi că ți se ia toată mâna. Înțeleg când vine cineva la mine pentru o problemă, un capăt, un început, însă atunci când ai pretenția să îți zic, pe gratis, exact ce ai de făcut pentru ca afacerea ta să meargă, atunci începem să avem câteva divergențe:
 
-  1. [Ideile bune costă mult](/2012/09/ideile-bune-sunt-scumpe/), pentru că sunt bazate pe experiență, care e construită cu timp și efort 
+  1. [Ideile bune costă mult](/posts/ideile-bune-sunt-scumpe/), pentru că sunt bazate pe experiență, care e construită cu timp și efort 
   2. Soluțiile trebuie ajustate din mers, ceea ce costă timp, deci bani și e deja consultanță
 
 

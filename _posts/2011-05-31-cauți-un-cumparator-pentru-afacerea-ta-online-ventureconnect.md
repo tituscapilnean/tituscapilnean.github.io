@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/06/venture-logo-400x218.png
 ---
 
-[](/2011/06/cau%c8%9bi-un-cumparator-pentru-afacerea-ta-online-ventureconnect/venture-logo/)Să zicem că ești antreprenor online și îți merge destul de bine afacerea. Toate verzi și ok până îți vin niște idei de dezvoltare, dar nu orice idei. Idei din alea de tipul RDS(cuceresc toată țara, cumpăr tot ce pot, mă extind masiv), pentru care ai nevoie de **peste 250.000 EUR** finanțare.
+Să zicem că ești antreprenor online și îți merge destul de bine afacerea. Toate verzi și ok până îți vin niște idei de dezvoltare, dar nu orice idei. Idei din alea de tipul RDS(cuceresc toată țara, cumpăr tot ce pot, mă extind masiv), pentru care ai nevoie de **peste 250.000 EUR** finanțare.
 
 Banii ăștia cu greu o să îi poți obține de la bănci, prin împrumuturi de afaceri. Ai mult mai multe șanse să găsești un investitor la Venture Connect.
 

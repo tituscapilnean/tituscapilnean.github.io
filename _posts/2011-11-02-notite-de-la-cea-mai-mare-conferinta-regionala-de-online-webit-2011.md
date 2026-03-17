@@ -10,7 +10,7 @@ author: titus_capilnean
 #   - [iframe] http://www.slideshare.net/slideshow/embed_code/9738677
 ---
 
-[](/wp-content/uploads/2011/11/logo.gif)Săptămâna trecută am fost la _Webit Congress 2011, în Sofia_. Mi-am notat cele mai importante lucururi auzite din cele două zile, așa că vă urez lectură plăcută.
+Săptămâna trecută am fost la _Webit Congress 2011, în Sofia_. Mi-am notat cele mai importante lucururi auzite din cele două zile, așa că vă urez lectură plăcută.
 
 N-are rost sa povestesc despre venitul cu avionul, faptul ca baiatul de la hotel m-a intrebat daca nu cumva vreau “ceva special, o fata?” si ajung direct la introducerea in conferinta, tinuta de **Alain Heureux** – IAB Europe CEO.
 

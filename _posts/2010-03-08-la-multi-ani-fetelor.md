@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/03/smiley_big_grin_sticker-p217878688010588288qjcl_400-150x150.jpg
 ---
 
-[](/wp-content/uploads/2010/03/smiley_big_grin_sticker-p217878688010588288qjcl_400.jpg)
+
 
 La Mulți Ani de 8 Martie, pentru fete, fetițe, femei, doamne, domnișoare, mai puțin domnișoare, ce să mai 🙂
 

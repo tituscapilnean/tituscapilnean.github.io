@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/02/logo_SDV-_fonts-400x77.png
 ---
 
-Dacă până acum am vorbit despre strategii și ghiduri, e timpul să povestim și despre oameni(inspirația mi-a venit [de aici](/2011/02/4-pasi-pentru-o-prezenta-solida-in-social-media/comment-page-1/#comment-4609)).
+Dacă până acum am vorbit despre strategii și ghiduri, e timpul să povestim și despre oameni(inspirația mi-a venit de aici).
 
 Fiecare echipă de social media trebuie să aibă un anumit mix, ca să poată performa la nivel maxim. Ca să înțelegi cât mai bine la ce mă refer, lansez o provocare pentru oamenii activi în social media, care se indentifică în profilurile de mai jos. E vorba despre Școala de Valori:
 

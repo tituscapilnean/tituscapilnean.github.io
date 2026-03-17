@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/12/111207-lg-23a2011rev-150x150.jpg
 ---
 
-[](/wp-content/uploads/2010/12/111207-lg-23a2011rev.jpg)Am decis să răspund la lepșele care mi se pasează. Ultima, ca și cea de dinaintea ei, a venit de la Haotik și presupune să scriu cam ce îmi doresc sau îmi propun să fac cu blogul în 2011.
+Am decis să răspund la lepșele care mi se pasează. Ultima, ca și cea de dinaintea ei, a venit de la Haotik și presupune să scriu cam ce îmi doresc sau îmi propun să fac cu blogul în 2011.
 
 După ce m-am tot gândit și am analizat ce e cel mai important pentru Titusblog.net în 2011, dincolo de creșteri pe trafic, comentarii, campanii, vreau să cresc influența pe care o are blogul pe domeniul comunicării online.
 
@@ -24,7 +24,7 @@ Articolul trebuie să aibă **o idee centrală și cel puțin 2-3 argumente** pe
 
 Adaugă cel puțin un link către o **imagine** pe care vrei să o introduci în articol – face cât 1000 de cuvinte.
 
-Nu propune **articole – reclamă**. Astea costă și [vorbim pe privat](/contact/) despre cât și cum.
+Nu propune **articole – reclamă**. Astea costă și vorbim pe privat despre cât și cum.
 
 Pentru 2011 nu-mi propun mai mult trafic, mai mulți followeri, mai mulți prieteni pe Facebook.
 

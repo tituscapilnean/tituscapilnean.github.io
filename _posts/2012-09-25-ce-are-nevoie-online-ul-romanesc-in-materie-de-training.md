@@ -10,7 +10,7 @@ author: titus_capilnean
 
 > ”Webit Congress is an international event for **the digital, technology and entrepreneurial** ecosystem with special focus on **EMEA** emerging markets in Central-Eastern Europe, Middle East and Africa.”
 
-Deși anul trecut a fost foarte bine și instructiv (vezi [aici ce și cum](/2011/11/notite-de-la-cea-mai-mare-conferinta-regionala-de-online-webit-2011/)), din motive obiective, anul ăsta nu pot să mă duc la Webit, în Istanbul.
+Deși anul trecut a fost foarte bine și instructiv (vezi [aici ce și cum](/posts/notite-de-la-cea-mai-mare-conferinta-regionala-de-online-webit-2011/)), din motive obiective, anul ăsta nu pot să mă duc la Webit, în Istanbul.
 
 Cu toate astea, n-aș vrea să las România fără un blogger/un pasionat de online care să scrie aici toate ideile bune și soluțiile de comunicare prezentate la una din cele mai mari conferințe din regiune.
 
@@ -18,6 +18,6 @@ De aceea, dau o invitație GOLD la Webit, pe 10-11 Octombrie, cu condiția să �
 
 _p.s. invitațiile valorează 380 Euro/bucată._
 
-[](/wp-content/uploads/2012/09/The_training_cycle.png)
+
 
 (sursa foto)

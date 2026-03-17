@@ -10,7 +10,7 @@ author: titus_capilnean
 
 Totul a pornit de aici:
 
-[](/wp-content/uploads/2010/01/comm.jpg)
+
 
 > PS: Ca tot era vorba de Twitter, daca aveai un buton pe aici pe undeva, ii trageam si un ReTweet, dar asa…
 

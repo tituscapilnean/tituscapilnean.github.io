@@ -12,7 +12,7 @@ Deși era în prim plan pe afară, la noi nu prea a prins Pinterest. Am auzit de
 
 Cu toate astea, mi-am instalat butonul de **[Pin It](javascript:void\(\(function\(\){var%20e=document.createElement\('script'\);e.setAttribute\('type','text/javascript'\);e.setAttribute\('charset','UTF-8'\);e.setAttribute\('src','http://assets.pinterest.com/js/pinmarklet.js?r='+Math.random\(\)*99999999\);document.body.appendChild\(e\)}\)\(\)\);)** și, citind Google Reader ieri dimineață, mi-am dat seama de utilitatea pe care ar putea-o avea Pinterest. Nu știu dacă ai citit, dar în 2012, informația cu cea mai mare trecere va fi cea prezentată în format infografic. Ei, exact **pentru filtrarea și colecționarea de infografice** o să folosesc eu Pinterest.
 
-[](/wp-content/uploads/2012/02/pinterest.png)
+
 
 Îi zic Pinblogging.
 

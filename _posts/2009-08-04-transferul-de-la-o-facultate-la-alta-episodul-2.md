@@ -8,9 +8,9 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2009/08/Photo-0084-342x300.png
 ---
 
-[](/wp-content/uploads/2009/08/Photo-0084.png)
 
-Acum 2 săptămâni am scris un articol cu cei [7 pași pentru un transfer de la o facultate la alta](/2009/07/15/transfer-de-la-o-facultate-la-alta/), studiu de caz pe transferul meu de la Finanțe-Bănci, ASE, la Româno-Americană – Marketing.
+
+Acum 2 săptămâni am scris un articol cu cei [7 pași pentru un transfer de la o facultate la alta](/posts/transfer-de-la-o-facultate-la-alta/), studiu de caz pe transferul meu de la Finanțe-Bănci, ASE, la Româno-Americană – Marketing.
 
 Am ajuns azi la pasul 6, în care mi-am completat dosarul cu ultimul document – programa analitică pe cele 4 semestre absolvite, care se iau în considerare la transfer.
 

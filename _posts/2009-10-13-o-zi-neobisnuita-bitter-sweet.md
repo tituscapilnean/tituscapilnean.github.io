@@ -6,7 +6,7 @@ tags: ["echipa", "generatia-y", "money", "money-express", "prima-pagina", "revis
 author: titus_capilnean
 ---
 
-Abia acum am reușit să mă reașez la laptopul meu și să scriu. Am zis în articolul despre [comicul care m-a inspirat](/2009/10/13/de-ce-sa-nu-ii-asculti-pe-cei-din-jur/) că ceva m-a făcut fericit azi.
+Abia acum am reușit să mă reașez la laptopul meu și să scriu. Am zis în articolul despre [comicul care m-a inspirat](/posts/de-ce-sa-nu-ii-asculti-pe-cei-din-jur/) că ceva m-a făcut fericit azi.
 
 Am apărut în revista Money Express – articol principal, copertă, 6 pagini(dintre care 2 spread) și am apărut și la TV. Totul la 22 de ani 🙂 Nice.
 

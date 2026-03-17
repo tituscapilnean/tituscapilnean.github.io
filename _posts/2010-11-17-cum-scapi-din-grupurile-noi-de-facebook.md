@@ -24,7 +24,7 @@ Toate bune și frumoase până aici. Evident că lucrurile nu au mers așa cum e
 
 1\. Leave Group:
 
-[](/wp-content/uploads/2010/11/leave.jpg)
+
 
 Nu mai poți fi adăugat după aia la loc.
 
@@ -32,11 +32,11 @@ Nu mai poți fi adăugat după aia la loc.
 
 Dacă nu vrei să ieși din grup, însă vrei să scapi de SPAM-ul de pe email și de Group Chat-ul enervant, atunci setează-ți grupul așa:
 
-[](/wp-content/uploads/2010/11/settings.jpg)
+
 
 și alege setările:
 
-[](/wp-content/uploads/2010/11/settings2.jpg)
+
 
 E destul de simplu și nu-ți ia mai mult de 20 de secunde ca să scapi de nervi.
 

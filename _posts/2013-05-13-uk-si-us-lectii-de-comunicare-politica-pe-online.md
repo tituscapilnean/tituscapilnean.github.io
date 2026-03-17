@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2013/05/vote-150x150.jpg
 ---
 
-[](/2013/05/uk-si-us-lectii-de-comunicare-politica-pe-online/vote/)Uneori găsesc resurse foarte mișto pe internet, unde sunt lăsate pentru posteritate niște insight-uri din marile campanii sau de la conferințe sau evenimente la care nu am ajuns și nici nu aș fi ajuns în mod normal.
+Uneori găsesc resurse foarte mișto pe internet, unde sunt lăsate pentru posteritate niște insight-uri din marile campanii sau de la conferințe sau evenimente la care nu am ajuns și nici nu aș fi ajuns în mod normal.
 
 Materialul de mai jos, din care am extras câteva idei, despre comunicare politică în mediul online (produs ca urmare a unei întâlniri cu echipa lui Obama din 2012) e de păstrat.
 

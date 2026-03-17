@@ -16,12 +16,12 @@ Concursul este organizat de Cabral și sustinut de Photo Magazine + Webfactor. P
 
 1.
 
-[](/wp-content/uploads/2010/02/DSC00413.jpg) În vârful lumii, deasupra norilor, unde soarele e prietenul meu. 
+ În vârful lumii, deasupra norilor, unde soarele e prietenul meu. 
 
 2.
 
-[](/wp-content/uploads/2010/02/DSC00414.jpg) Viscolul a împietrit totul, a sculptat peste ceea ce omul a lăsat neprotejat, afară. 
+ Viscolul a împietrit totul, a sculptat peste ceea ce omul a lăsat neprotejat, afară. 
 
 3.
 
-[](/wp-content/uploads/2010/02/DSC00454.jpg) Mă joc cu vântul, norii și soarele. Mă ajută sforile, kite-ul și Marian.
+ Mă joc cu vântul, norii și soarele. Mă ajută sforile, kite-ul și Marian.

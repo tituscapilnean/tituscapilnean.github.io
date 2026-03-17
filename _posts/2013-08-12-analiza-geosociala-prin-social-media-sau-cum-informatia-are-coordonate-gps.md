@@ -12,7 +12,7 @@ author: titus_capilnean
 
 Acum vreo două săptămâni am dat peste o prezentare (aici) a lui Arie Croitoru, doctor în Mapping and GeoInformation Engineering la Israel Institute of Technology. Ea s-a concentrat pe faptul că mare parte din informația care circulă acum pe internet și pe telefoanele mobile conține și informații legate de geolocație (de la fotografii, check-in-uri, la status updates pe Facebook șamd). Totuși, informația e nestructurată și diversă, iar analiza ei e, deocamdată greoaie.
 
-[](/2013/08/analiza-geosociala-prin-social-media-sau-cum-informatia-are-coordonate-gps/location-analytics/)
+
 
 Nu contextualizez și eu povestea asta cu recentele acțiuni ale lui Snowden sau cu faptul că NSA are servere de spionaj digital prin lume (inclusiv, se pare, la noi), ci cu faptul că toate informațiile astea (publice) pot fi folosite de către businessuri pentru segmentare și comunicare mai targetata, respectiv pentru descoperirea de modificări în nevoile oamenilor, în obiceiuri și în aspirații. Mai departe, ar putea folosi informațiile pentru a crește valoarea adăugată pe care o aduc în societate, de la rezolvarea problemelor cu _customer service_ -ul, până la introducerea de inovații.
 

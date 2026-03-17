@@ -33,7 +33,7 @@ Femei: **92.929**
 
 Distribuția pe vârste e și mai interesantă:
 
-[](/wp-content/uploads/2010/11/Be-Found-on-LinkedIn1.jpg)
+
 
 **154.882** utilizatori au între 25 și 34 ani – adică **56%**
 

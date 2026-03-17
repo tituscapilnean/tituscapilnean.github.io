@@ -14,6 +14,6 @@ Un mare ”thumbs-up” pentru Twitter.
 
 Nu scriu mai multe, mai am un pic și plec la teatru 🙂 Vă povestesc ce și cum.
 
-[](/wp-content/uploads/2009/11/twitterUntitled.jpg)
+
 
 *click pe poză ca să o mărești

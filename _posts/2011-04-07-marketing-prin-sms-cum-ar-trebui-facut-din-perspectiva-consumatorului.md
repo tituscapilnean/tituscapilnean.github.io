@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/04/sms-uri-amuzante-150x150.gif
 ---
 
-Am de mai multă vreme în draft titlul acestui articol. Ideea mi-a venit, inițial, [de pe Twitter](/2011/01/cum-sa-faci-o-campanie-basic-pe-twitter/), pentru că 140 de caractere este fix aproape de dimensiunea SMS-ului(160). Din pricina asta, marketerii mobili ar avea multe de învățat de la interacțiunile pe care cei câteva mii de utilizatori de Twitter le au în fiecare zi în România.
+Am de mai multă vreme în draft titlul acestui articol. Ideea mi-a venit, inițial, [de pe Twitter](/posts/cum-sa-faci-o-campanie-basic-pe-twitter/), pentru că 140 de caractere este fix aproape de dimensiunea SMS-ului(160). Din pricina asta, marketerii mobili ar avea multe de învățat de la interacțiunile pe care cei câteva mii de utilizatori de Twitter le au în fiecare zi în România.
 
 ## Așa nu
 
@@ -22,7 +22,7 @@ Când colo – o promoție. Cei mai mulți nu numai că ignoră mesajul, ba mai 
 
 Nu pretind din capul locului că aș ști cum se face mobile marketing-ul ăsta prin SMS-uri, însă am observat reacțiile la tipurile de mesaje descrise mai sus, în comparație cu SMS-urile care oferă ceva **util** sau ceva **amuzant** celui care îl primește. Cazul cel mai fericit este când poți să livrezi ceva **util și amuzant în același timp** – dar nu e cazul de fiecare dată.
 
-Dacă stai puțin și îți analizezi grupul țintă(așa cum faci la o [campanie în social media](/2010/12/concluziile-dupa-al-doilea-training-de-social-media-pe-care-l-am-tinut/), de exemplu), descoperi destul de repede care îi sunt obiceiurile de comunicare și comportamentele la care reacționează.
+Dacă stai puțin și îți analizezi grupul țintă(așa cum faci la o [campanie în social media](/posts/concluziile-dupa-al-doilea-training-de-social-media-pe-care-l-am-tinut/), de exemplu), descoperi destul de repede care îi sunt obiceiurile de comunicare și comportamentele la care reacționează.
 
 De exemplu, dacă ești **o firmă de catering** , poți să faci marketing prin SMS dând **remindere corporatiștilor** să servească masa(pe la ora 11, respectiv pe la ora 15), eventual, oferind și un **cod de discount** din când în când, prin mesajele pe care le trimit.
 

@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2013/03/5153103aec8d8302df000072.jpeg
 ---
 
-[](/2013/03/transport-gratuit-in-bucuresti-sectoarele-2-si-3/5153103aec8d8302df000072/)Am primit azi un mesaj de la _Alex Bobes_ în care îmi povestea despre www.taxigratis.ro. Proiectul reprezintă, conform autorilor, un ajutor necondiționat și va dura atat timp cât își vor permite. Ei încearcă să ajute lumea în limita posibilităților, deci serviciul gratuit e pentru cei care **chiar au nevoie**.
+Am primit azi un mesaj de la _Alex Bobes_ în care îmi povestea despre www.taxigratis.ro. Proiectul reprezintă, conform autorilor, un ajutor necondiționat și va dura atat timp cât își vor permite. Ei încearcă să ajute lumea în limita posibilităților, deci serviciul gratuit e pentru cei care **chiar au nevoie**.
 
 Părerea mea este că ar trebui să apeleze la o platformă de crowd-funding și să promită X curse celor care donează mai mult de Y lei. Might work.
 

@@ -16,16 +16,16 @@ Goolah(monstrulețul verde de pe site) se transformă, în funcție de cât de m
 
 Site-ul se numește meetordie.com și arată așa:
 
-[](/wp-content/uploads/2010/02/meetordie.jpg)
+
 
 Am făcut un mic experiment, pe baza experiențelor mele anterioare cu AIESEC și cu alte echipe, în care ne adunam câte 7 lideri de decizie, pentru fiecare subarie în parte, iar ședințele de genul ăsta ajungeau să dureze câteodată și 4 ore(dacă aveam de luat o decizie, ceva).
 
-[](/wp-content/uploads/2010/02/1ebmeeting.jpg)
+
 
 Mai jos am și rezultatul de bani 🙂  
 
 
-[](/wp-content/uploads/2010/02/2.jpg)
+
 
 peste $3000 🙂 bun așa.
 

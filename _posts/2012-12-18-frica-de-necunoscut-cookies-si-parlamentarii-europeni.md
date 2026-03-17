@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2012/12/cookiepolicy.jpg
 ---
 
-[](/2012/12/frica-de-necunoscut-cookies-si-parlamentarii-europeni/cookiepolicy/)De când cu expansiunea internetului, autoritățile de toate calibrele sunt din ce în ce mai preocupate de tema protecției datelor cu caracter personal. Da, e o temă pe care marketerii și PR-iștii online ar trebui să o stăpânească – e acel _terms of service_ pe care nu-l prea citește nimeni, dar care te poate scăpa de procese costisitoare și clienți supărați.
+De când cu expansiunea internetului, autoritățile de toate calibrele sunt din ce în ce mai preocupate de tema protecției datelor cu caracter personal. Da, e o temă pe care marketerii și PR-iștii online ar trebui să o stăpânească – e acel _terms of service_ pe care nu-l prea citește nimeni, dar care te poate scăpa de procese costisitoare și clienți supărați.
 
 **Ce vor parlamentarii europeni?**
 
@@ -16,7 +16,7 @@ Pe scurt, vor să restricționeze modul în care se colectează datele despre ut
 
 **Ce vrea IAB Europe?**
 
-și aș completa eu…marea majoritate a companiilor care lucrează cu internetul într-un fel sau altul. Vor să păstreze, pe cât posibil, [modul de lucru actual](/2012/01/ce-ti-doresc-eu-tie-dulce-adserver/), cu ajutorul cookie-urilor, pentru că acesta e, totuși, cel mai mare avantaj competitiv al online-ului în fața TV-ului.
+și aș completa eu…marea majoritate a companiilor care lucrează cu internetul într-un fel sau altul. Vor să păstreze, pe cât posibil, [modul de lucru actual](/posts/ce-ti-doresc-eu-tie-dulce-adserver/), cu ajutorul cookie-urilor, pentru că acesta e, totuși, cel mai mare avantaj competitiv al online-ului în fața TV-ului.
 
 Evident că sunt de partea IAB + industria de online vs. parlamentari, nu doar din motive strict profesionale (vezi explicațiile de mai sus), ci și din convingerea că parlamentarii europeni, în marea lor majoritate, **nu înțeleg foarte bine sistemul prin care se colectează și utilizează aceste date prin cookies** și, de aceea, le consideră greu de controlat și, prin urmare, periculoase. Logic, orice lucru periculos în ochii lor trebuie reglementat strict, în sensul interzicerii sau restricționării.
 

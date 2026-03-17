@@ -25,8 +25,8 @@ Adică legea protecției datelor personale din România și directiva europeană
 
 3\. Trimite și așteaptă la ușă CD-ul/DVD-ul cu datele tale personale
 
-[](/wp-content/uploads/2011/09/fbhelp.jpg)
+
 
 Ghidul original e aici:
 
-[](/wp-content/uploads/2011/09/facebook-trolling.jpg)
+
