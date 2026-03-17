@@ -20,7 +20,7 @@ People fail to remember the 30s, which gave rise to nationalist regimes and even
 
 People also fail to remember or ignore what communism did in Eastern Europe and other places in the world. There, up until 1989, the government and their cronies dictated who could do what, when, how much you could buy and from where, what to think, do, publish, travel etc.
 
-[Retrospectives](/posts/retrospectives-these-powerful-tools-for-growth) with and for those who lived through those times might help with remembering all of this.
+Retrospectives with and for those who lived through those times might help with remembering all of this.
 
 I hope this time we’ll look back and not allow narrow-minded, aggressive leaders to pit country vs country based on COVID-19 responses, quarantine measures and numbers of infections.
 

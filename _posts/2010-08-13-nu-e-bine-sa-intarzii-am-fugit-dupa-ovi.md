@@ -12,7 +12,7 @@ Aseară am fost la prima goană după Ovi 2.0, de la Tineretului, până la Avia
 
 
 
-M-am luat cu introducerea și n-am povestit care e treaba cu goana asta. Nokia a pus și anul trecut și anul ăsta la bătaie niște telefoane mobile(în 2010 e un **Nokia N900** , de pe care am făcut live blogging la [Mobile Marketing Conference](/posts/mobile-marketing-conference-live-blogging/)). Telefoanele poți să le câștigi dacă îl găsești pe Ovi, un tip misterios, despre care afli doar indicii.
+M-am luat cu introducerea și n-am povestit care e treaba cu goana asta. Nokia a pus și anul trecut și anul ăsta la bătaie niște telefoane mobile(în 2010 e un **Nokia N900** , de pe care am făcut live blogging la Mobile Marketing Conference). Telefoanele poți să le câștigi dacă îl găsești pe Ovi, un tip misterios, despre care afli doar indicii.
 
 Așa, acum că am clarificat treaba cu goana, să îți povestesc ce ar fi trebuit să fac, ca să am vreo șansă la telefonul din etapa asta(e prima etapă, pentru următoarele urmărește site-ul de concurs).
 

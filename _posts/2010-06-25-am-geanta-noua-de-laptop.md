@@ -6,7 +6,7 @@ tags: ["concurs"]
 author: titus_capilnean
 ---
 
-Azi am ajuns mai târziu la laptop şi am aflat abia acum – am câştigat o geantă de laptop Crumpler de la laptopnews.ro . Merci, merci. Am scris articolul [ăsta](/posts/laptop-de-156-in-rucsac-de-12/) pentru concurs.
+Azi am ajuns mai târziu la laptop şi am aflat abia acum – am câştigat o geantă de laptop Crumpler de la laptopnews.ro . Merci, merci. Am scris articolul ăsta pentru concurs.
 
 Mai jos e extragerea prin care am câştigat 😛
 

@@ -38,4 +38,4 @@ Dacă vrei să păstrezi chestiile de mai sus, care dispar, Facebook recomandă 
 
 Grupurile revin astfel la destinația lor inițială, adică să ajute grupurile mici de oameni să țină legături mai strânse între ei. Deci caracteristica lor principală este intimitatea.
 
-Dacă ai folosit grupurile vechi ca să îți promovezi afacerea, acum chiar **[nu mai ai niciun motiv să nu treci la pagină de Facebook](/posts/brandurile-nu-mai-au-niciun-motiv-sa-ramana-pe-profil-si-sa-nu-treaca-la-pagina-de-facebook/)**.
+Dacă ai folosit grupurile vechi ca să îți promovezi afacerea, acum chiar **nu mai ai niciun motiv să nu treci la pagină de Facebook**.

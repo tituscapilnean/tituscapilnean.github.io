@@ -13,7 +13,7 @@ author: titus_capilnean
 
 _Articol scris de Sergiu Capilnean, public affairs expert cu experienta in cadrul German Marshall Fund, Aspen Institute, Petrom si EIR, initial postat pe Facebook. L-am editat putin si adapta pentru blog._
 
-_Face parte dintr-o[serie pre-alegeri](/posts/analiza-serial-programul-de-guvernare-al-usr-plus-pentru-alegerile-parlamentare-2020/)._
+_Face parte dintr-oserie pre-alegeri._
 
 # Ziua 1 + Ziua 2: Structura programului de guvernare USR Plus!
 

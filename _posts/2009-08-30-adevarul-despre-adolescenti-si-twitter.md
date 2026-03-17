@@ -10,7 +10,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2009/08/text_messaging_charges-400x242.jpg
 ---
 
-Acum ceva vreme în urmă, am scris că în [România nu sunt mai mult de 5% adolescenți pe Twitter](/posts/romania-5-din-cei-de-pe-twitter-sunt-adolescenti/)(adică 13-18 ani). Între timp, lumea din online s-a mobilizată să afle răspunsul real și definitiv la întrebarea care a generat multe controverse:
+Acum ceva vreme în urmă, am scris că în România nu sunt mai mult de 5% adolescenți pe Twitter(adică 13-18 ani). Între timp, lumea din online s-a mobilizată să afle răspunsul real și definitiv la întrebarea care a generat multe controverse:
 
 ”Adolescenții stau pe Twitter?”
 

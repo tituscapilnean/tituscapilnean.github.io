@@ -12,9 +12,9 @@ Clipul are în jur de 500.000 de views și pe Twitter a strâns peste 6000 de cl
 
 În care din persoanje te recunoști?
 
-  * January 5, 2011 -- [Prof. Dr. Leonida Bucium s-a luptat impotriva serpilienilor, reptilienilor, balaurienilor si vulturienilor](/posts/prof-dr-leonida-bucium-s-a-luptat-impotriva-serpilienilor-reptilienilor-balaurienilor-si-vulturienilor/)
-  * March 19, 2010 -- [Cand poti spune ca o actiune a fost virala?](/posts/cand-poti-spune-ca-o-actiune-a-fost-virala/)
-  * May 22, 2009 -- [Esti fata si iti cade parul?](/posts/esti-fata-si-iti-cade-parul/)
+  * January 5, 2011 -- Prof. Dr. Leonida Bucium s-a luptat impotriva serpilienilor, reptilienilor, balaurienilor si vulturienilor
+  * March 19, 2010 -- Cand poti spune ca o actiune a fost virala?
+  * May 22, 2009 -- Esti fata si iti cade parul?
 
 
 

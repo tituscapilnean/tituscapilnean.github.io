@@ -100,7 +100,7 @@ Presa are două funcții: Searching și Browsing – caută și mai vede ce se m
 
 S-a lăsat cu distracție – nu se poate reproduce pe blog – s-au luat unii de alții – new media de old media, moșul de adolescent și invers(vorba lui Bobby)
 
-Îmi amintește de dezbaterea [Bloggeri vs. Jurnaliști](/posts/ronewmedia-3-0-jurnalism-sau-blogging/) de la RoNewMedia de anul trecut, când discuția o luase spre calitatea jurnaliștilor, traficul pe site-uri de știri, bloguri. Inidicatorii cei mai buni sunt cei de interacțiune și de ”engagement”, nu cei de trafic, pentru că traficul poate fi falsificat destul de ușor – clickfarms, roboței, etc.
+Îmi amintește de dezbaterea Bloggeri vs. Jurnaliști de la RoNewMedia de anul trecut, când discuția o luase spre calitatea jurnaliștilor, traficul pe site-uri de știri, bloguri. Inidicatorii cei mai buni sunt cei de interacțiune și de ”engagement”, nu cei de trafic, pentru că traficul poate fi falsificat destul de ușor – clickfarms, roboței, etc.
 
 **Ce înseamnă engagement?**  
 – reacții: comentarii, articole pe alte bloguri, tweet-uri, apariții pe Facebook

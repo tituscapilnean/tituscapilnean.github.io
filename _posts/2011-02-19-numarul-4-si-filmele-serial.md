@@ -22,6 +22,6 @@ E un film de văzut cu băieții dau like blondelor(sunt două în film, a vorbi
 
 Numărul 4 a fost făcut ca să poată duce 3-4 părți viitoare, în cazul în care filmul va avea succes(și are deja). Acum se întâlnesc doar 4 cu 6, deci mai sunt de găsit 7,8 și 9, pentru că 1, 2 și 3 au murit. Dacă n-ai înțeles despre ce e vorba, vezi trailerul de mai jos:
 
-Filmul a avut premiera pe 18.02.2011, așa că îl poți vedea la cinema deja. [Din nou](/posts/cum-a-fost-la-the-green-hornet-la-imax-3d-afi-palace-cotroceni/), filmul e mai mult de văzut cu copiii.
+Filmul a avut premiera pe 18.02.2011, așa că îl poți vedea la cinema deja. Din nou, filmul e mai mult de văzut cu copiii.
 
 Au scris mai bine decât mine: Nihasa,Maldita, Auras, Marie-Jeanne, Raluxa, Costin, Piticu, Auraș și Chinezu

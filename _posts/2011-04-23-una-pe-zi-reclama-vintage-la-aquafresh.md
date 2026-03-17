@@ -12,4 +12,4 @@ Era foarte bun pentru copiii care nu iubeau datul cu peria dimineața și seara,
 
 Parcă mi l-aș pune ringtone.
 
-p.s. am mai scris aici despre un [jingle istoric – Coca Cola](/posts/una-pe-zi-cel-mai-tare-jingle-de-reclama/)
+p.s. am mai scris aici despre un jingle istoric – Coca Cola

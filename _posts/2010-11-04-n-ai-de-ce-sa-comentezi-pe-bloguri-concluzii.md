@@ -43,4 +43,4 @@ Restul răspunsurilor au luat prea puține voturi, așa că nu le voi mai menți
 Concluzia o trage fiecare de aici, **cu entuziasm cu tot**!
 
 > Articolul lui Ionuț despre entuziasmul pe bloguri – aici  
->  Articolul inițial, în care e activ sondajul, dacă vrei să participi – [aici](/posts/top-10-motive-pentru-care-oamenii-nu-comenteaza-pe-blogurifacebook/)
+>  Articolul inițial, în care e activ sondajul, dacă vrei să participi – aici

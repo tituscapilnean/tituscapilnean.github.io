@@ -31,4 +31,4 @@ Cum ţi se par ideile?
 
 p.s. am filmat grupul:
 
-*nu da cu parul pentru calitatea clipului – [telefonul meu](/tags/iphone/) e de vină
+*nu da cu parul pentru calitatea clipului – telefonul meu e de vină

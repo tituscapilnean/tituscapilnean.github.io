@@ -11,7 +11,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2012/10/20121025_105807-400x300.jpg
 ---
 
-_În 2010 am fost la un eveniment al Puma,[cu ocazia lansării Creative Factory](/posts/puma-graffitti-creative-factory-pantofi-sport-personalizati-in-6-saptamani/). De atunci și până acum, experiența aia a rămas de referință din punct de vedere al modului în care au implicat invitații de la lansare și modul în care au gestionat și livrat „brand experience”-ul._
+_În 2010 am fost la un eveniment al Puma,cu ocazia lansării Creative Factory. De atunci și până acum, experiența aia a rămas de referință din punct de vedere al modului în care au implicat invitații de la lansare și modul în care au gestionat și livrat „brand experience”-ul._
 
 _De aceea, când am primit invitația de la Standout și eram deja cu bagajele făcute, l-am delegat tot pe Robert Lazăr să meargă, să vadă și să scrie. În curând va trebui să îl fac co-autor, cine știe? Bănuiam că va fi un eveniment mișto, fapt confirmat de experiența lui Robert._
 

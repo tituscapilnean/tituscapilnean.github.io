@@ -24,7 +24,7 @@ Să trecem, deci, la lucruri mai serioase. Am lucrat mai bine de un an și jumă
 
 **Pe cine contactez de la toate acele agenţii ca să le spun “uite am şi eu blogul acesta, scriu în principal despre asta şi asta, poate mă aveţi în vedere pentru vreo campanie”?**
 
-E simplu, iei legătura cu un account manager dintr-o agenție sau cu un Online PR/Manager. Ia [lista de agenții care fac campanii pe bloguri](/posts/cine-face-campanii-pe-bloguri-in-romania/) sau vorbește cu un consultant din aceeași listă. Prima întrebare pe care poți să i-o pui este: ”Dacă mi-ai citit blogul, ce părere ai, s-ar potrivi pe campaniile pe care le derulezi tu/le derulați voi?”. De aici poți să primești primul feedback în legătură cu blogul tău și campaniile online.
+E simplu, iei legătura cu un account manager dintr-o agenție sau cu un Online PR/Manager. Ia lista de agenții care fac campanii pe bloguri sau vorbește cu un consultant din aceeași listă. Prima întrebare pe care poți să i-o pui este: ”Dacă mi-ai citit blogul, ce părere ai, s-ar potrivi pe campaniile pe care le derulezi tu/le derulați voi?”. De aici poți să primești primul feedback în legătură cu blogul tău și campaniile online.
 
 De regulă, ai mari șanse să candidezi la campanii dacă **nu ai înjurat pe blog** , dacă **argumentezi civilizat** și dacă **scrii corect**. Asta dincolo de trafic, de care vorbim mai jos.
 

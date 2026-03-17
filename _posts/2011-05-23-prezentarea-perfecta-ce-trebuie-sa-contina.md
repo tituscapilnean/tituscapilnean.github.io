@@ -18,6 +18,6 @@ Ai și un discount de 10% dacă ești membru al grupului de LinkedIn.
 
 Bun, toate frumoase până aici. De la majoritatea evenimentelor la care merg încerc să învăț câte un pic din stilul de prezentare al celui mai bun vorbitor din listă. Eu, unul, m-am săturat de vorbitori care scriu mic pe slide-uri, care nu au o structură sau care nu sunt coerenți și nu transmit un mesaj central în prezentarea lor.
 
-Drept urmare am făcut [o listă(prin 2009) de lucruri pe care trebuie să le faci ca să ai o prezentare bună](/posts/ce-lipseste-la-evenimentele-din-bucuresti/).
+Drept urmare am făcut o listă(prin 2009) de lucruri pe care trebuie să le faci ca să ai o prezentare bună.
 
 Cine mă ajută să **completez lista?**

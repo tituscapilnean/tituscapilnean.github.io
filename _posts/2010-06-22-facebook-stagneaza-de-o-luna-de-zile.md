@@ -10,7 +10,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/06/pie_countriesRO__3-400x190.png
 ---
 
-Ultima dată când am scris despre [numărul de utilizatori români de pe Facebook](/posts/facebook-se-apropie-de-900-000-de-utilizatori/), era în plină creștere, susținut de reclamele TV ale Vodafone(în principal, care a și introdus ulterior serviciul 0.facebook.com accesibil doar din rețeaua lor , prin care nu consumi date dacă stai pe Facebook).
+Ultima dată când am scris despre numărul de utilizatori români de pe Facebook, era în plină creștere, susținut de reclamele TV ale Vodafone(în principal, care a și introdus ulterior serviciul 0.facebook.com accesibil doar din rețeaua lor , prin care nu consumi date dacă stai pe Facebook).
 
 Acum Facebook numără **1.302.000 de utilizatori localizați în România** , în stagnare de peste 30 de zile(chiar în ușoară scădere, cu 10-20 de mii, față de luna Aprilie).
 
@@ -61,12 +61,12 @@ Pe Facebook, în schimb, pe lângă faptul că nu ești limitat de numărul de c
 
 _Dacă vrei să urmărești evoluția utilizatorilor de Facebook în România, îți recomand să citești câteva articole:_
 
-[Statistici Facebook din August 2009](/posts/statistici-facebook-la-zi/)
+Statistici Facebook din August 2009
 
-[Statistici Facebook din 7 Septembrie 2009](/posts/statisitici-facebook-la-zi-septembrie-2009/)
+Statistici Facebook din 7 Septembrie 2009
 
-[Statistici Facebook din 15 Septembrie 2009](/posts/facebook-sare-de-300-000-de-utilizatori-romani/)
+Statistici Facebook din 15 Septembrie 2009
 
-[Statistici Facebook din Noiembrie 2009](/posts/facebook-a-depasit-400-000-de-utilizatori-romani/)
+Statistici Facebook din Noiembrie 2009
 
-[Statistici Facebook din Martie 2010](/posts/facebook-se-apropie-de-900-000-de-utilizatori/)
+Statistici Facebook din Martie 2010

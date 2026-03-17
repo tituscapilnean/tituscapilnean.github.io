@@ -16,7 +16,7 @@ Am citit pe site-ul Magazinul Progresiv următoarea afirmație:
 
 Sursa citatului e în linkul de mai sus.
 
-Nu e prima dată când la o conferință Evensys se prezintă date incorecte. (vezi locurile din top)Am mai zis-o și [aici](/posts/topul-real-al-brandurilor-romanesti-pe-facebook/).
+Nu e prima dată când la o conferință Evensys se prezintă date incorecte. (vezi locurile din top)Am mai zis-o și aici.
 
 Online-ul românesc stagnează nu din cauza scandalurilor blogosferice pe care nu le urmărește nimeni sau că X s-a supărat pe Y și nu-l mai citește, ci din cauza datelor confuze și discrepante pe care le difuzează diverse companii/softuri.
 

@@ -10,7 +10,7 @@ author: titus_capilnean
 
 Am văzut la Manafu o poză din revista Biz, unde apare topul celo mai bine reprezentate branduri în Social Media în România în 2011. Pe prima pagină avem **Vodafone, BCR, Microsoft, Petrom, Avon, Nokia** și **Orange** , primele 6 branduri de la noi. Ele sunt active pe Facebook, Twitter, prezente pe bloguri – dincolo de asta nu prea mai știu ce prezențe au – poate pe Youtube, dar mai timid acolo.
 
-Am mai scris aici despre cum ar trebui să arate o [prezență online a unei companii/a unui brand](/posts/4-pasi-pentru-o-prezenta-solida-in-social-media/) și unde apar câțiva actori din top.
+Am mai scris aici despre cum ar trebui să arate o prezență online a unei companii/a unui brand și unde apar câțiva actori din top.
 
 Una peste alta, ele s-au văzut cel mai bine până acum pe cele mai traficate rețele sociale de la noi. Îmi pare rău că n-am reușit să ajung la eveniment, dar sunt plecat din București cu treburi.
 

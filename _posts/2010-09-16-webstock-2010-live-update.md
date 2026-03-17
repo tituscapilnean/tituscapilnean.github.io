@@ -16,7 +16,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/09/302fe681-0fda-468b-8bcc-265e1b2d91b8-322x299.jpg
 ---
 
-Începe și ediția din 2010 a Webstock, conferință, gală și workshop-uri all-in-one, totul despre web și, în special, social media. Dacă nu ai apucat să te uiți peste lista de vorbitori, am scris [un articol precedent](/posts/cine-vorbeste-pregatiri-de-webstock-2010/) cu întreaga agendă, pe ore. Aici voi ține pasul cu ideile care merită păstrate, idei pe care le vor vehicula atât invitații, cât și cei din sală.
+Începe și ediția din 2010 a Webstock, conferință, gală și workshop-uri all-in-one, totul despre web și, în special, social media. Dacă nu ai apucat să te uiți peste lista de vorbitori, am scris un articol precedent cu întreaga agendă, pe ore. Aici voi ține pasul cu ideile care merită păstrate, idei pe care le vor vehicula atât invitații, cât și cei din sală.
 
 Webstock se transmite live și pe site-ul conferinței – aici
 

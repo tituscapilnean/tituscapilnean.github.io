@@ -26,7 +26,7 @@ Primele informații interesante – **1/3 din utilizatorii de mobil** au fost ex
 
 Ca de obicei, **România nu e la fel de sofisticată** în comparație în alte țări – folosesc smartphone-urile cum folosesc și netul acasă, mai nimic în plus. Ce-i bine e că folosim mult aplicațiile mobile.
 
-A fost Steve Dallas (Interactions), urmează Maia Novolan (Syscom Digital). Maia lucrează de 15 ani în mobile marketing, încă de la începuturi. La noi în piață, [SMS](/posts/marketing-prin-sms-cum-ar-trebui-facut-din-perspectiva-consumatorului/)-ul încă este principalul canal de marketing, așa cum am scris și eu mai acum câteva zile.
+A fost Steve Dallas (Interactions), urmează Maia Novolan (Syscom Digital). Maia lucrează de 15 ani în mobile marketing, încă de la începuturi. La noi în piață, SMS-ul încă este principalul canal de marketing, așa cum am scris și eu mai acum câteva zile.
 
 Știm că piața e în creștere, e subdezvoltată, e loc de intrare, din ce în ce mai mulți oameni folosesc telefoanele mobile.
 
@@ -114,7 +114,7 @@ Revenim la statistici – cică 60% din aplicații sunt șterse în prima lună 
 
 **Ștefan Chirițescu – BBDO** – vorbește despre _Juicy Fruit_(Wrigleys) – cunoscut pentru gumă în anii 90, rebranduit pe bomboane în România. Subiectul e interesant, însă ne-a omorât cu introducerea la introducere.
 
-[JuicyVille](/posts/mobile-marketing-conference-2011-un-fel-de-live/)
+JuicyVille
 
 Conceptul campaniei – _”Vreau să fiu mare”_ – care se transformă apoi în _”vreau să fiu iar mic”_(ironia mindsetului de copil)
 

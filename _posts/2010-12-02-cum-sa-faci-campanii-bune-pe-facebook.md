@@ -9,7 +9,7 @@ author: titus_capilnean
 ![Image representing Facebook as depicted in Cru...](http://www.crunchbase.com/assets/images/resized/0000/4561/4561v1-max-450x450.png)
     Image via CrunchBase
 
-Când am scris articolul despre [cum să faci o campanie basic pe Facebook](/posts/cum-sa-faci-o-campanie-basic-pe-facebook/), am vorbit despre un cadru, am dat niște unelte, însă am intrat prea puțin în mecanica de bază a folosirii lor pe rețelele sociale.
+Când am scris articolul despre cum să faci o campanie basic pe Facebook, am vorbit despre un cadru, am dat niște unelte, însă am intrat prea puțin în mecanica de bază a folosirii lor pe rețelele sociale.
 
 E ca și cum **i-aș da unui om undiță, momeală, i-aș zice cum arată peștele, însă nu i-aș zice la ce baltă să se ducă și de la ce oră**.
 

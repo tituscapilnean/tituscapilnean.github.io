@@ -10,7 +10,7 @@ author: titus_capilnean
 
 Nu trece luna fără o găselniță a Facebook și nu zic asta în sensul cel mai bun. Dacă Timeline, până la urmă, e o chestiune destul de bună, cel puțin în privința online stalking-ului și al prezenței brandurilor (care a devenit mai colorată), treaba asta cu paginile globale de brand e o mână pierzătoare.
 
-Nu e pierzătoare doar din perspectiva comunicării pe canalul de socializare a brandurilor respective, cât din punct de vedere al veniturilor generate de Ads, această majoră și disporporționată sursă de venituri a companiei cu [cel mai prost IPO din IT](/posts/general-motors-a-anuntat-taierea-reclamelor-pe-facebook-in-timpul-ipo-ului/) din ultima vreme.
+Nu e pierzătoare doar din perspectiva comunicării pe canalul de socializare a brandurilor respective, cât din punct de vedere al veniturilor generate de Ads, această majoră și disporporționată sursă de venituri a companiei cu cel mai prost IPO din IT din ultima vreme.
 
 De ce zic asta? Păi brandurile mari, odată văzându-se cu sute de mii, dacă nu milioane de fani, nu o să mai verifice cu aceeași rigurozitate faptul că au reach de 1% în țara România și de 10 % în țara Statele Unite, iar comunicarea lor cu restul consumatorilor din România va avea de suferit, ea putând să nu se întâmple niciodată.
 

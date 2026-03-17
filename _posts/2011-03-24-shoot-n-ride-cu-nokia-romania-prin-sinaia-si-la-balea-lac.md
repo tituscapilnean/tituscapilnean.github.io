@@ -9,7 +9,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/03/200440_10150165731078973_309382398972_8355825_4106327_n-400x266.jpg
 ---
 
-În afara programului meu corporatist, mai am timp să și evadez din București în weekenduri și când o fac, vreau să o fac bine, pentru că trebuie să mă [dezinternetizez](/posts/cura-de-dez-internetizare-leapsa-chinezeasca/).
+În afara programului meu corporatist, mai am timp să și evadez din București în weekenduri și când o fac, vreau să o fac bine, pentru că trebuie să mă dezinternetizez.
 
 De data asta, m-au invitat cei de la **Nokia România**(merci și lor și Cristinei de la DC) la Bâlea Lac, unde s-a filmat a doua parte din **Shoot N Ride**.
 

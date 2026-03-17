@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2012/02/smile-400x266.jpg
 ---
 
-Am scris vinerea trecută despre campania [Re-Zâmbește](/posts/o-fapta-buna-un-zambet-nou/) a Dentestet, prin care te invitam să faci o faptă bună. Reiterez invitația să te înscrii în echipa mea cu ajutorul formularului. Împreună redăm zâmbetul cuiva care are nevoie de implanturi dentare.
+Am scris vinerea trecută despre campania Re-Zâmbește a Dentestet, prin care te invitam să faci o faptă bună. Reiterez invitația să te înscrii în echipa mea cu ajutorul formularului. Împreună redăm zâmbetul cuiva care are nevoie de implanturi dentare.
 
 Prima etapă ține până pe **11 Martie** , așa că ai timp să îți convingi și prietenii să ajute echipa să intre în finală.
 

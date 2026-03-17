@@ -17,7 +17,7 @@ Un alt exemplu de succes este **utilizatorul de Facebook creat special pentru SP
 
 Nu în ultimul rând, să nu uităm **brandurile care se mută de pe contul – profil** pe pagină proprie, pentru că n-au știu de la început că vor depăși 5000 de prieteni pe Facebook. Aici e scuzabil, însă nu de 3-4 ori, că înțelegem din prima și dăm like dacă vrem să ținem legătura. Altfel cade drept în categoria de SPAM.
 
-Cred că deja cele trei exemple acoperă cam **90%** din cazurile în care primești invitații să dai Like la cine știe ce pagini. Despre concursuri și [concursomani](/posts/uitilizatorul-jucator-vs-utilizatorul-cumparator-din-campaniile-online/) am vorbit deja, ei cad într-o categorie separată.
+Cred că deja cele trei exemple acoperă cam **90%** din cazurile în care primești invitații să dai Like la cine știe ce pagini. Despre concursuri și concursomani am vorbit deja, ei cad într-o categorie separată.
 
 **Cum foloseșt Suggest Page – ghid de bun simț**
 

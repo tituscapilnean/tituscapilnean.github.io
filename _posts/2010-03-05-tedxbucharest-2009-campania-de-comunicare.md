@@ -103,4 +103,4 @@ _
 
 Nic Sârbu, **Academia Cațavencu** , ”Generația Y not?”
 
-În plus faţă de articolul din Caţavencu, cred că merită să închei articolul ăsta cu [**apariţia echipei TEDxBucharest în Money Express**](/posts/o-zi-neobisnuita-bitter-sweet/).
+În plus faţă de articolul din Caţavencu, cred că merită să închei articolul ăsta cu **apariţia echipei TEDxBucharest în Money Express**.

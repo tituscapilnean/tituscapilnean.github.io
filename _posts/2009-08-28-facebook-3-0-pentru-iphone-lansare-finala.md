@@ -14,7 +14,7 @@ author: titus_capilnean
 
 
 
-Scriam acum câteva zile despre aplicația de Facebook 3.0 și despre faptul că are nevoie de ea ca să poată fi un [competitor serios pentru Twitter](/posts/facebook-profita-de-twitter/).
+Scriam acum câteva zile despre aplicația de Facebook 3.0 și despre faptul că are nevoie de ea ca să poată fi un competitor serios pentru Twitter.
 
 Dacă atunci aplicația era doar preview, acum ea a fost oficial lansată pe AppStore și poate fi descărcată de pe acest link:  
 Facebook 3.0 for iPhone  

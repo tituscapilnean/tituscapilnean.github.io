@@ -14,4 +14,4 @@ Avem și noi topul paginilor de Facebook din România, Facebrands, însă aștep
 
 
 
-Despre topurile anterioare am mai scris [aici](/posts/topul-real-al-brandurilor-romanesti-pe-facebook/) și [aici](/posts/cum-s-a-facut-de-ras-daedalus-la-allthingsfacebook/).
+Despre topurile anterioare am mai scris aici și aici.

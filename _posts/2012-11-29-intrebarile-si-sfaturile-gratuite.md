@@ -18,7 +18,7 @@ author: titus_capilnean
 
 Problema e că uneori, atunci când dai un deget, te poți trezi că ți se ia toată mâna. Înțeleg când vine cineva la mine pentru o problemă, un capăt, un început, însă atunci când ai pretenția să îți zic, pe gratis, exact ce ai de făcut pentru ca afacerea ta să meargă, atunci începem să avem câteva divergențe:
 
-  1. [Ideile bune costă mult](/posts/ideile-bune-sunt-scumpe/), pentru că sunt bazate pe experiență, care e construită cu timp și efort 
+  1. Ideile bune costă mult, pentru că sunt bazate pe experiență, care e construită cu timp și efort 
   2. Soluțiile trebuie ajustate din mers, ceea ce costă timp, deci bani și e deja consultanță
 
 

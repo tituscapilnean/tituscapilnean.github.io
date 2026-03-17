@@ -37,4 +37,4 @@ Tehnologia pe care o folosesc ei este bazată pe Silverlight, alternativa la Fla
 – și-a irosit buzzworthiness-ul când nu mergea  
 – are nevoie de o aplicație terță ca să meargă
 
-Sunt curios cât de repede o să ajungă și la noi. [@Replys de la Facebook](/posts/conversatie-pe-peretele-facebook/) a ajuns în 4 zile 🙂
+Sunt curios cât de repede o să ajungă și la noi. @Replys de la Facebook a ajuns în 4 zile 🙂

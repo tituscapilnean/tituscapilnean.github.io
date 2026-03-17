@@ -10,7 +10,7 @@ author: titus_capilnean
 
 Am făcut ieri o nouă ieșire, de data asta la ”Noaptea devoratorilor de publicitate”, deși la Patria rula noaptea animațiilor creepy de la Anim’est(unde au mai mers niște prieteni și mi-au zis că a fost genial). N-a fost pe gratis la **Sala Polivalentă** , am dat 25 de lei pentru privilegiul popular de a fi acolo.
 
-Să nu mă înțelegeți greșit. Nu îmi place să critic, chiar îmi doresc un eveniment de la care să spun ”mi-a plăcut tot”, așa cum a fost la [Webstock](/posts/webstock/), acu ceva vreme :). Dar de atunci, am fost martor la niște chestii care nu mi-au plăcut din toate punctele de vedere. Noaptea devoratorilor de publicitate este unul din ele.
+Să nu mă înțelegeți greșit. Nu îmi place să critic, chiar îmi doresc un eveniment de la care să spun ”mi-a plăcut tot”, așa cum a fost la Webstock, acu ceva vreme :). Dar de atunci, am fost martor la niște chestii care nu mi-au plăcut din toate punctele de vedere. Noaptea devoratorilor de publicitate este unul din ele.
 
 Reclamele au fost tari, dar concertul Vama, așteptarea, scaunele, oamenii din jur, atmosfera au stricat evenimentul…
 

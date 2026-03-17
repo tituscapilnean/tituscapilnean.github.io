@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/04/im-godless-and-i-can-eat-it-all-day-400x294.jpg
 ---
 
-A trecut un an de când scriam articolul cu primele [urări de Paști](/posts/paste-fericit-tuturor/) de pe blog. Anul ăsta sărbătorile m-au prins în partea de sud a țării, la o carne, un cozonac, o pască și un vin cu rudele. Îți doresc sărbători faine, un #fieca tradițional și toate cele bune.
+A trecut un an de când scriam articolul cu primele urări de Paști de pe blog. Anul ăsta sărbătorile m-au prins în partea de sud a țării, la o carne, un cozonac, o pască și un vin cu rudele. Îți doresc sărbători faine, un #fieca tradițional și toate cele bune.
 
 N-am fost la bisercă azinoapte, dar am urmărit live pe Twitter slujba, transmisă de Piticu. A pus și poze + câteva păreri legate de noapte de Înviere(a ajuns să fie planificată la fel ca una de revelion). Personal, cred că e mai important să petreci timpul cu familia și prietenii, nu neapărat unde și cum 😀
 

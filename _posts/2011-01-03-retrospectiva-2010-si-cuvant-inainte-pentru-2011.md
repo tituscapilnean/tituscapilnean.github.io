@@ -17,7 +17,7 @@ Recitind un articol mai vechi de pe blog, mi-am găsit promisiunile pentru 2010.
 
   * lucrez la STANDOUT, unde abia aștept noile campanii, pe 2010
   * voi face promovarea online și probabil câteva strategii de marketing, din nou, pentru Snow Explosion 2 și Beach Explosion – în derulare și campania pe 2011
-  * voi face campania de social media pentru **[TEDxBucharest 2010 – 600 de participanți](/posts/povestea-tedxbucharest-2010-asa-cum-a-fost/)**
+  * voi face campania de social media pentru **TEDxBucharest 2010 – 600 de participanți**
   * am de făcut câteva site-uri în wordpress
   * voi scrie mai bine pe blog, mai de calitate și cu informații mai interesante
   * voi învăța să scriu și să desenez mai bine decât o fac acum
@@ -28,13 +28,13 @@ Recitind un articol mai vechi de pe blog, mi-am găsit promisiunile pentru 2010.
 
 În plus, în 2010 am mai punctat câteva reușite mișto de tot:
 
-  * primul meul clip publicitar – viral pentru [Social Networks Strategy](/posts/reteaua-sociala-de-bucuresti/)
-  * singurul român [blogger oficial la Golden Drum 2010](/tags/golden-drum/)
-  * am ținut primele mele traininguri de Social Media pentru [Școala de Valori](/posts/cateva-idei-de-la-primul-meu-training-de-comunicare-in-social-media/) și pentru [ASER](/posts/concluziile-dupa-al-doilea-training-de-social-media-pe-care-l-am-tinut/)
-  * am fost [de 8 ori la mare](/tags/mare/), în vamă, și de 2 ori la munte, cu oameni foarte faini și dragi 
-  * am participat la peste 10 evenimente de online și marketing, de unde am făcut [live blogging](/tags/live-blog/) sau [live tweeting](/tags/live-twitter/)
+  * primul meul clip publicitar – viral pentru Social Networks Strategy
+  * singurul român blogger oficial la Golden Drum 2010
+  * am ținut primele mele traininguri de Social Media pentru Școala de Valori și pentru ASER
+  * am fost de 8 ori la mare, în vamă, și de 2 ori la munte, cu oameni foarte faini și dragi 
+  * am participat la peste 10 evenimente de online și marketing, de unde am făcut live blogging sau live tweeting
   * mi-au trecut prin mână undeva la 100 de campanii online(unele doar la nivel de raportare, altele cap coadă)
-  * am făcut câteva mici [sondaje despre comportamentul utilizatorului de internet](/tags/concluzii/)
+  * am făcut câteva mici sondaje despre comportamentul utilizatorului de internet
 
 
 

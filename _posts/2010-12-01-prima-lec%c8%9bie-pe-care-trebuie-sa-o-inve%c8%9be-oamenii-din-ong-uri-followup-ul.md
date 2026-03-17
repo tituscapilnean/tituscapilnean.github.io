@@ -28,9 +28,9 @@ Adu contactul tău la o întâlnire cu ONG-ul, pune-l într-o listă de emailuri
 
 Ține minte asta.
 
-  * April 13, 2011 -- [2 ore de consultanta la Impact Marketing School – 14 Aprilie](/posts/2-ore-de-consultanta-la-impact-marketing-school-14-aprilie/)
-  * September 3, 2009 -- [Cum a fost la Online Meetup](/posts/cum-a-fost-la-online-meetup/)
-  * August 9, 2011 -- [De ce campania Raiffeisen cu bloggeri va avea impact limitat](/posts/de-ce-campania-raiffeisen-cu-bloggeri-va-avea-impact-limitat/)
+  * April 13, 2011 -- 2 ore de consultanta la Impact Marketing School – 14 Aprilie
+  * September 3, 2009 -- Cum a fost la Online Meetup
+  * August 9, 2011 -- De ce campania Raiffeisen cu bloggeri va avea impact limitat
 
 
 

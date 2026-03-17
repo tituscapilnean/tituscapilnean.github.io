@@ -21,7 +21,7 @@ author: titus_capilnean
 
 Cu ocazia asta dau și **numerele de Facebook** , defalcate pe grupe de vârstă și sexe, la zi, așa cum vă obișnuisem din vară 🙂
 
-Acum 47 de zile am scris că [Facebook depășea 300.000 de utilizatori](/posts/facebook-sare-de-300-000-de-utilizatori-romani/). În doar **47 de zile** , numărul de utilizatori români a mai crescut cu **114.000** , ajungând la **414.020 de utilizatori**.
+Acum 47 de zile am scris că Facebook depășea 300.000 de utilizatori. În doar **47 de zile** , numărul de utilizatori români a mai crescut cu **114.000** , ajungând la **414.020 de utilizatori**.
 
 Așa cum am făcut-o în rândurile trecute, am analizat din nou ratele de creștere și am văzut că numărul de utilizatori români pe Facebook a crescut de pe 15 septembrie, când s-a depășit numărul de 300.000, cu **25%, până la 414.020 utilizatori** , rata de creștere redresându-se.
 

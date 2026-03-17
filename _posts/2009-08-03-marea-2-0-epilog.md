@@ -12,12 +12,12 @@ S-a terminat săptămâna de lucrat de la mare și ne-am întors cu bine înapoi
 
 Săptămâna am descris-o în câteva articole, în care am surprins pitorescul mării noastre și specificului local ce se perindă în fiecare an pe nisipuri.
 
-[Plecarea la mare 2.0](/posts/plecare-la-mare-2-0/)  
-[Trenul spre mare 2.0](/posts/trenul-spre-mare-2-0/)  
-[Mare 2.0 – Ziua 1](/posts/mare-2-0-ziua-1/)  
-[Mare 2.0 – ziua 2](/posts/mare-2-0-ziua-2/)  
-[Marea 2.0 – ziua 3](/posts/marea-2-0-ziua-3/)  
-[Marea 2.0 – Melteni si coca in Eforie](/posts/marea-2-0-melteni-si-coca-in-eforie/)
+Plecarea la mare 2.0  
+Trenul spre mare 2.0  
+Mare 2.0 – Ziua 1  
+Mare 2.0 – ziua 2  
+Marea 2.0 – ziua 3  
+Marea 2.0 – Melteni si coca in Eforie
 
 În ziua a 5-a eram deja obosiți de munca la mare și am lucrat din nou de la vilă. Weekend-ul l-am petrecut alături de Visurât și Denisuca, plus câștigătorii de la concursul Ursus de pe blogul lui Visurât, cu care am colindat _plaja H2O_ și _plaja Leandri_ din Mamaia(unde în weekend nu există loc de parcare – cumva seamănă cu Bucureștiul la asta).
 

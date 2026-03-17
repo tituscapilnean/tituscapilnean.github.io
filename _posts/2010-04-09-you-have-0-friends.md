@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/04/southpark-400x79.jpg
 ---
 
-Cam în același timp cu [articolul meu despre cum un copil a spart banii familiei în Farmville](/posts/un-copil-a-cheltuit-1400-pe-farmville/), a apărut și episodul Southpark despre Facebook, Farmville și Chatroulette.
+Cam în același timp cu articolul meu despre cum un copil a spart banii familiei în Farmville, a apărut și episodul Southpark despre Facebook, Farmville și Chatroulette.
 
 Merită văzut!
 

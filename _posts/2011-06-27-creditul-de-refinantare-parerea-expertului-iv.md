@@ -36,7 +36,7 @@ Dacă doriţi refinanţarea într-o altă monedă, trebuie să luaţi în calcul
 
 **Un ultim sfat:** Odată cu opţiunea de refinanţare a unui credit trebuie să ne asigurarăm că vechiul credit a fost închis la cealaltă bancă şi că a fost radiat creditul la Arhiva Electronică. Băncile nu au obligaţia să facă asta şi deşi majoritatea o fac, e bine să nu descoperim că am strâns taxe de administrare la carduri pe care le considerăm închise.
 
-Și o idee de la mine – _folosiți cu încredere[calculatorul de refinanțare](/posts/calculatorul-de-refinantare-widget-pe-bloguri-si-site-uri-iii/)_.
+Și o idee de la mine – _folosiți cu încrederecalculatorul de refinanțare_.
 
 _p.s. Beneficiile refinanțării de la BCR sunt:_
 

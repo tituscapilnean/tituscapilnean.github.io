@@ -10,6 +10,6 @@ author: titus_capilnean
 
 Ca în fiecare an, asociatia EUPRERA strânge date pentru cercetarea privind monitorizarea evolutiei profesiei de relatii publice din ultima perioada. Completați **editia din 2013 a chestionarului** până pe**31 martie 2013.**
 
-Voi publica rezultatele pe blog, [exact ca anul trecut](/posts/studiu-industria-de-comunicare-in-europa/), însă pentru ca datele să reflecte și situația din țara noastră, studiul are nevoie de cât mai multe răspunsuri din partea specialiștilor în comunicare din România.
+Voi publica rezultatele pe blog, exact ca anul trecut, însă pentru ca datele să reflecte și situația din țara noastră, studiul are nevoie de cât mai multe răspunsuri din partea specialiștilor în comunicare din România.
 
 Spread the word!

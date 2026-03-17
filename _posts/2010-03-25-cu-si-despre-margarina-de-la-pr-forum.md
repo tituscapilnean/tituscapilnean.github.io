@@ -17,13 +17,13 @@ Campania despre care a vorbit, pentru produsele de margarină Unilever: Rama, De
 
 Am aflat un lucru foarte fain – margarina se poate face și acasă – din ulei vegetal, ulei de palmier, apă și lecitină(deci nu prea are de unde să iasă plasticul de care ni se spunea în copilărie).
 
-Ideea la care vroiam să ajung este că Image PR și Liliana Stănculescu au avut foarte multe de câștigat din prezentarea respectivă pentru că au arătat **cât de bine s-au pregătit pentru campanie**. Nu cred să existe prea multe agenții în care accounții ajung să cunoască atât de bine produsul și devin ambasadori atât de buni ai brandului. Până la urmă e extrem de important să îți cunoști foarte bine clientul, pentru că informația este mama inspirației(de care tot vorbeam articolul în [articolul precedent](/posts/cum-arata-inspiratia-pentru-creativi/)).
+Ideea la care vroiam să ajung este că Image PR și Liliana Stănculescu au avut foarte multe de câștigat din prezentarea respectivă pentru că au arătat **cât de bine s-au pregătit pentru campanie**. Nu cred să existe prea multe agenții în care accounții ajung să cunoască atât de bine produsul și devin ambasadori atât de buni ai brandului. Până la urmă e extrem de important să îți cunoști foarte bine clientul, pentru că informația este mama inspirației(de care tot vorbeam articolul în articolul precedent).
 
 Nu poți să promovezi ceva, cu atît mai mult să construiești o întreagă campanie de PR, dacă nu ești tu convins de produsul sau serviciul respectiv. Îți vine mult mai ușor să susții o idee, când susținerea e sinceră și convinsă, pentru că argumentele nu trebuie ambalate și reformulate, vin mult mai natural. De aceea ai nevoie în agenție și de fete și de băieți, cu gusturi cât mai variate, ca să poți să faci niște campanii faine pentru clienții tăi.
 
 _Reseachul e mama creativității_
 
-[mai multe despre PR Forum, citești aici](/posts/prforum-2010-live-blogging/) _  
+mai multe despre PR Forum, citești aici _  
 _
 
 *sursa foto

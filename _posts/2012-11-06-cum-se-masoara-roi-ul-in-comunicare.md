@@ -44,7 +44,7 @@ Ne-a povestit apoi despre indexul de lizibilitate și modul în care se calculea
 
 În ultima parte, ne-a povestit de impactul comunicării cu angajații la nivel de productivitate, profitabilitate și performanță. **Echipele cele mai performante sunt cele care înțeleg cel mai bine strategia companiei. Cele care nu înțeleg, nu sunt la fel de performante, ceea ce e și normal.** Mulți manageri din România ar trebui să citească și să înțeleagă treaba asta.
 
-Iar apare în discuție Net Promoter Score, de care [am auzit prima dată](/posts/cum-am-castigat-un-ipod-shuffle/) în 2009. Ține tot de cercetare.
+Iar apare în discuție Net Promoter Score, de care am auzit prima dată în 2009. Ține tot de cercetare.
 
 Ultimul exemplu e ilustrativ pentru ceea ce poate face o campanie de comunicare internă.
 

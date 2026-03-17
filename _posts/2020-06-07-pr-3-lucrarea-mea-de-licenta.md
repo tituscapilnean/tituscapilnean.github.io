@@ -50,19 +50,19 @@ Ghidul prezentat în paginile ce urmează reprezintă o sumă a experiențelor p
 
 ## Cuprins
 
-### [CAPITOLUL 1: Relațiile publice – fundamente și teorii](/posts/relatii-publice-fundamente)
+### CAPITOLUL 1: Relațiile publice – fundamente și teorii
 
 1.1. Rolul comunicării și al relațiilor publice  
 1.2. Locul relațiilor publice în funcțiunile organizației  
 1.3. Tipuri de organizare a activităților de relații publice
 
-### [CAPITOLUL 2: Relațiile publice online ca instrument de influențare](/posts/relatiile-publice-online-ca-instrument-de-influentare)
+### CAPITOLUL 2: Relațiile publice online ca instrument de influențare
 
 2.1. Procesul de influențare în mediul online  
 2.2. Media proprii, Media cumpărate și Media dobândite  
 2.3. Canale de comunicare online în 2012 – România și context internațional
 
-### [CAPITOLUL 3: Construcția prezenței online 3.0](/posts/constructia-prezentei-online-3.0)
+### CAPITOLUL 3: Construcția prezenței online 3.0
 
 3.1. Argument  
 3.2. Obiectivele cercetării  
@@ -70,4 +70,4 @@ Ghidul prezentat în paginile ce urmează reprezintă o sumă a experiențelor p
 3.4. Soluții de implementare. Execuție.  
 3.5. Măsurare și Raportare
 
-## [Cuvânt de final și Bibliografie](/posts/cuvant-de-final-si-bibliografie)
+## Cuvânt de final și Bibliografie

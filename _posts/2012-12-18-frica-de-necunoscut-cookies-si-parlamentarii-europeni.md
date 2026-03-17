@@ -16,7 +16,7 @@ Pe scurt, vor să restricționeze modul în care se colectează datele despre ut
 
 **Ce vrea IAB Europe?**
 
-și aș completa eu…marea majoritate a companiilor care lucrează cu internetul într-un fel sau altul. Vor să păstreze, pe cât posibil, [modul de lucru actual](/posts/ce-ti-doresc-eu-tie-dulce-adserver/), cu ajutorul cookie-urilor, pentru că acesta e, totuși, cel mai mare avantaj competitiv al online-ului în fața TV-ului.
+și aș completa eu…marea majoritate a companiilor care lucrează cu internetul într-un fel sau altul. Vor să păstreze, pe cât posibil, modul de lucru actual, cu ajutorul cookie-urilor, pentru că acesta e, totuși, cel mai mare avantaj competitiv al online-ului în fața TV-ului.
 
 Evident că sunt de partea IAB + industria de online vs. parlamentari, nu doar din motive strict profesionale (vezi explicațiile de mai sus), ci și din convingerea că parlamentarii europeni, în marea lor majoritate, **nu înțeleg foarte bine sistemul prin care se colectează și utilizează aceste date prin cookies** și, de aceea, le consideră greu de controlat și, prin urmare, periculoase. Logic, orice lucru periculos în ochii lor trebuie reglementat strict, în sensul interzicerii sau restricționării.
 

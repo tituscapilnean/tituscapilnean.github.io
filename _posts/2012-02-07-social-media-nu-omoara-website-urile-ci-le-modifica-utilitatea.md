@@ -10,7 +10,7 @@ author: titus_capilnean
 
 Din ce în ce mai mulți bani intră în Facebook, Google, Twitter advertising și din ce în ce mai mult trafic migrează spre rețelele sociale. Cu ocazia asta, mulți marketeri și piariști ar fi tentață să zică – gata, renunțăm la website și ne mutăm cu totul în rețelele sociale, pentru că acolo stă publicul nostru țintă.
 
-Am scris anul trecut despre cele [3 tipuri de media pe online](/posts/cum-construiesti-o-strategie-anuala-de-online/). Nu reiau subiectul. Redau însă mai jos o mostră de user experience în secolul 21.
+Am scris anul trecut despre cele 3 tipuri de media pe online. Nu reiau subiectul. Redau însă mai jos o mostră de user experience în secolul 21.
 
 ## Diferența dintre prezența pe social media și site
 

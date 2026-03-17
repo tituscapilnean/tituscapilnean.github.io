@@ -10,7 +10,7 @@ author: titus_capilnean
 
 _**articol scris de fratele meu, Sergiu, expert online în devenire**_
 
-S-a întâmplat de multe ori: atunci când ți-ai făcut contul de Facebook pentru formație/website/afacere etc., ai pornit un profil personal în loc de o pagină de business (voit sau din greșeală) – _**nota Titus** – am mai scris despre [pagina vs. profil](/posts/brandurile-nu-mai-au-niciun-motiv-sa-ramana-pe-profil-si-sa-nu-treaca-la-pagina-de-facebook/)_.
+S-a întâmplat de multe ori: atunci când ți-ai făcut contul de Facebook pentru formație/website/afacere etc., ai pornit un profil personal în loc de o pagină de business (voit sau din greșeală) – _**nota Titus** – am mai scris despre pagina vs. profil_.
 
 Acum, vrei să treci în rând cu lumea și să transformi profilul în pagină oficială, fie pentru că te apropii de limita de 5000 de prieteni, pentru că vrei să rulezi campanii de FacebookAds sau doar pentru a fi în regulă cu Facebook Terms of Service. Din fericire Facebook îți oferă această posibilitate.
 

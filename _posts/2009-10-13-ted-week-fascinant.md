@@ -12,8 +12,8 @@ Vă las să urmăriți clipul! Tipa face parte din echipa care a capturat imagin
 
 Celelalte clipuri TED Week
 
-  * [inspiraționale](../2009/10/12/una-pe-zi-ted-week-inspiratie/)
-  * [curajoase](/posts/una-pe-zi-ted-talks-week-restanta-curaj/)
-  * [fascinante](../2009/10/13/ted-week-fascinant/)
-  * [informative](../2009/10/14/una-pe-zi-ted-week-informativ/)
-  * și [amuzante](/posts/una-pe-zi-ted-week-funny/)
+  * inspiraționale
+  * curajoase
+  * fascinante
+  * informative
+  * și amuzante

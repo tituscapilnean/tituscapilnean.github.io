@@ -16,7 +16,7 @@ Dacă **vrei să faci bani** din promovarea Snow Explosion II, lasă un comentar
 
 Dacă **vrei să cumperi bilet** la Snow Explosion II(pentru că te-am convins că e o excursie tare), dă click aici.
 
-p.s. E [pe bune](/posts/snow-explosion-e-pe-bune/), se dau și contracte și tot tacâmul.
+p.s. E pe bune, se dau și contracte și tot tacâmul.
 
 Cazare hotel la cel mai bun pret!  
 p.p.s Linkurile tale vor fi de tipul : bit.ly/nume(aici e putem să negociem, pun orice vrei tu în loc de nume 🙂 )

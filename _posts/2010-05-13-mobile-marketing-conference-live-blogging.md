@@ -23,19 +23,19 @@ author: titus_capilnean
 
 Cuprins(click și te duce direct la secțiunea respectivă de live-blog):
 
-  1. [Dimensiunile Mobile Web în România, oportunitățile pentru advertiseri – Dragoș Stanca – F5](/posts/mobile-marketing-conference-live-blogging/)
-  2. [Mecanisme, tactici și bune practici pentru optimizare campaniilor – Maia Novolan – Syscom Digital](/posts/mobile-marketing-conference-live-blogging/)
-  3. [Interacțiunea dintre branduri și consumatori – Dan Vârtopeanu – Voxline Communication](/posts/mobile-marketing-conference-live-blogging/)
-  4. [Studiu mobile marketing – Andrei Tudose – Unlock Research](/posts/mobile-marketing-conference-live-blogging/)
-  5. [Distribuția cartelelor pre-pay – Michalis Kontos – Cosmos](/posts/mobile-marketing-conference-live-blogging/)
-  6. [Mobile marketing magic – Dan Boabeș – Simplus](/posts/mobile-marketing-conference-live-blogging/)
-  7. [Fidelizarea clienților prin soluții mobile – Carmen Holotescu – Timsoft](/posts/mobile-marketing-conference-live-blogging/)
-  8. [Cum poți să folosești codurile 2D într-o campanie de mobile – Bogdan Apostol – Voxline](/posts/mobile-marketing-conference-live-blogging/)
-  9. [Murfatlar – Maia Novoloan](/posts/mobile-marketing-conference-live-blogging/)
-  10. [Casino Palace – Andrei Frimescu și Alina Constantinescu](/posts/mobile-marketing-conference-live-blogging/)
-  11. [PartyTv – Dan Boabeș](/posts/mobile-marketing-conference-live-blogging/)
-  12. [Petrom – Mugur Pătrașcu](/posts/mobile-marketing-conference-live-blogging/)
-  13. [Nokia și Ursus – Aurora Enghiș](/posts/mobile-marketing-conference-live-blogging/)
+  1. Dimensiunile Mobile Web în România, oportunitățile pentru advertiseri – Dragoș Stanca – F5
+  2. Mecanisme, tactici și bune practici pentru optimizare campaniilor – Maia Novolan – Syscom Digital
+  3. Interacțiunea dintre branduri și consumatori – Dan Vârtopeanu – Voxline Communication
+  4. Studiu mobile marketing – Andrei Tudose – Unlock Research
+  5. Distribuția cartelelor pre-pay – Michalis Kontos – Cosmos
+  6. Mobile marketing magic – Dan Boabeș – Simplus
+  7. Fidelizarea clienților prin soluții mobile – Carmen Holotescu – Timsoft
+  8. Cum poți să folosești codurile 2D într-o campanie de mobile – Bogdan Apostol – Voxline
+  9. Murfatlar – Maia Novoloan
+  10. Casino Palace – Andrei Frimescu și Alina Constantinescu
+  11. PartyTv – Dan Boabeș
+  12. Petrom – Mugur Pătrașcu
+  13. Nokia și Ursus – Aurora Enghiș
 
 
 

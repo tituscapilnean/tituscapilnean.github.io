@@ -20,7 +20,7 @@ Pe omul nostru prost îl cheamă **Jonathan Parker, e din Pennsylvania, are 19 a
 
 Nici nu furase cine știe ce – 2 inele cu diamant de **3500$** , în total. Se pare că dependența/prostia lui îl va ține departe de social media mai multă vreme. Sunt curios cum o să se descurce. :))
 
-Asta e latura Social Media periculoasă de care vorbea Bogdana în prezentarea atât de controversată de la [Webstock](/posts/webstock/) – Facebook e periculos pentru că poate să dea cuiva un set de informații ce te pot afecta grav. Chit că asta înseamnă un status despre șeful tău sau o poză de la o noapte de beție sau chiar un cont uitat în casa pe care tocmai ai jefuit-o, te poate înfunda personal sau profesional.
+Asta e latura Social Media periculoasă de care vorbea Bogdana în prezentarea atât de controversată de la Webstock – Facebook e periculos pentru că poate să dea cuiva un set de informații ce te pot afecta grav. Chit că asta înseamnă un status despre șeful tău sau o poză de la o noapte de beție sau chiar un cont uitat în casa pe care tocmai ai jefuit-o, te poate înfunda personal sau profesional.
 
 Totuși, până la urmă depinde de inteligența fiecăruia cum alege să folosească social media. Dacă te gândești în momentul în care publici o poză/un text că e ca și cum ți-ai pune pe tricou și ai ieși cu el în stradă, poate te apuci să selectezi ce faci public.
 

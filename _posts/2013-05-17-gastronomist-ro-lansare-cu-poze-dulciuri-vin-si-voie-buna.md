@@ -25,4 +25,4 @@ Dacă nu știați asta despre mine, v-o zic acum – sunt un foodlover. Nu în s
 
 Laura ne-a povestit un pic despre ceea ce vor să facă, cum echipa tânără, formată din doi fotografi talentați, un cofetar și un bucătar, vor prezenta cele mai apreciate restaurante din țară (și cred cu tărie că e nevoie să vedem mai departe de micii și grătarul din meniu) si din străinatate (deh, public premium, plimbăreț), chef-ii din spatele meniurilor, tips and tricks pentru acasă și mult, mult content.
 
-Le urez baftă, trafic mult și inspirație într-o piață care va migra spre platformele de tipul ăsta, care pot fi o bază foarte bună pentru strategia de [content marketing](/posts/reach-si-engagement-masurare-in-content-marketing/).
+Le urez baftă, trafic mult și inspirație într-o piață care va migra spre platformele de tipul ăsta, care pot fi o bază foarte bună pentru strategia de content marketing.

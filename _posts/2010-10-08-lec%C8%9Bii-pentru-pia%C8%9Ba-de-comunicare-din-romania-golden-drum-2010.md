@@ -45,7 +45,7 @@ Modul ăsta de gândire se potrivește cu o idee pe care o am despre schimbare: 
 
 **Pepsi – refresh everything**
 
-Campania pe rețelele sociale de 20 milioane de dolari a fost derulată de Pepsi cu banii pe care i-ar fi investit în reclamele din timpul SuperBowl 2010. Am scris [aici](/posts/una-pe-zi-pentru-dimineata-la-micul-dejun/) despre campanie. A fost pentru prima dată după 23 de ani când Pepsi a renunțat la reclama TV.
+Campania pe rețelele sociale de 20 milioane de dolari a fost derulată de Pepsi cu banii pe care i-ar fi investit în reclamele din timpul SuperBowl 2010. Am scris aici despre campanie. A fost pentru prima dată după 23 de ani când Pepsi a renunțat la reclama TV.
 
 Rezultatul a fost 1 miliard de afișări în 3 luni. Și milioane de idei, trimise de oameni. În fiecare lună, 1000 de proiecte primeau bani ca să transforme ideile în practică. A fost unul din cele mai de succes proiecte de UGC din lume.
 
@@ -91,7 +91,7 @@ Casele mari de comunicare(care oferă media, PR, advertising şi digital) nu fun
 
 Oamenii te urmăresc dacă în spatele campaniei există o idee care să inspire. În PR nu se lucrează c ghost-uri, ci cu crize şi idei reale.
 
-Campania de PR favorită a Elizei – [Hunger strike for hunger](/posts/ziua-1-la-golden-drum-2010-wrap-up/) – a implicat 10% din populaţie, iar Naţiunile Unite vor să o extindă la nivel local. Totuşi, campania nu a fost shortlisted.
+Campania de PR favorită a Elizei – Hunger strike for hunger – a implicat 10% din populaţie, iar Naţiunile Unite vor să o extindă la nivel local. Totuşi, campania nu a fost shortlisted.
 
 PR-ul a depăşit stadiul de scris comunicate de presă şi discursuri pentru că agenţiile au adus clienţii la festivalurile de industrie şi au văzut studiile de caz.
 

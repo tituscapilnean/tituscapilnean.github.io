@@ -10,13 +10,13 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2009/09/tag-400x171.jpg
 ---
 
-Acum câteva zile am scris despre [Facebook Lite și despre faptul că anunțaseră pe blogul lor că vor lansa o funcționalitate gen Twitter.](/posts/facebook-la-cura-de-slabire/)
+Acum câteva zile am scris despre Facebook Lite și despre faptul că anunțaseră pe blogul lor că vor lansa o funcționalitate gen Twitter.
 
 Inițial, @replys a fost funcțional doar în SUA, iar de azi-noapte funcțioanează și la noi.
 
 
 
-Ca să explic puțin contextul, Facebook a pornit un război de concurență cu Twitter. Au [cumpărat Friendfeed](/posts/buzz-international-facebook-a-cumparat-friendfeed/) pentru real-time search și au început să implementeze funcții asemănătoare sau complementare celor de pe Twitter. Acum două săptămâni lansaseră [un mod de a ancora pagina ta de un cont de Twitter](/posts/facebook-profita-de-twitter/), fără a mai fi nevoie să intri pe contul de Twitter ca să publici ceva. O poți face direct de pe Facebook. Strike one.
+Ca să explic puțin contextul, Facebook a pornit un război de concurență cu Twitter. Au cumpărat Friendfeed pentru real-time search și au început să implementeze funcții asemănătoare sau complementare celor de pe Twitter. Acum două săptămâni lansaseră un mod de a ancora pagina ta de un cont de Twitter, fără a mai fi nevoie să intri pe contul de Twitter ca să publici ceva. O poți face direct de pe Facebook. Strike one.
 
 Apoi, mai înainte, Facebook transformase Wall într-un fel de Public Time line al Twitter. La care adăugaseră și real-time search cumpărat de la FriendFeed.
 

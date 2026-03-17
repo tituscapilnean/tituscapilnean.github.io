@@ -14,4 +14,4 @@ Campanie: EOS Photochains
 Agentie: Leo Burnett Sidney  
 An: 2010
 
-**update:** campania a câștigat Golden Watch Award la [Golden Drum 2010](/tags/golden-drum/)
+**update:** campania a câștigat Golden Watch Award la Golden Drum 2010

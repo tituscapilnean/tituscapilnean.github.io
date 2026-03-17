@@ -64,37 +64,37 @@ Există 3 dimensiuni:
 300px lățime:
 
 ![TEDxBucharest](http://farm3.static.flickr.com/2609/3901669288_3f08424eea_o.png)  
-[Get code](/posts/tedxbucharest-16-octombrie-mare-concurs/)
+Get code
     
     
     ![TEDxBucharest](http://farm3.static.flickr.com/2609/3901669288_3f08424eea_o.png) 
       
     
-    [Get code](/posts/tedxbucharest-16-octombrie-mare-concurs/)
+    Get code
 
 200px lățime:
 
 ![TEDxBucharest](http://farm4.static.flickr.com/3452/3900887625_60b60f4606_o.png)  
-[Get code](/posts/tedxbucharest-16-octombrie-mare-concurs/)
+Get code
     
     
     ![TEDxBucharest](http://farm4.static.flickr.com/3452/3900887625_60b60f4606_o.png) 
       
     
-    [Get code](/posts/tedxbucharest-16-octombrie-mare-concurs/)
+    Get code
 
 și 125px lățime:
 
   
 ![TEDxBucharest](http://farm3.static.flickr.com/2566/3901669224_12f80cdcf5_o.png)  
   
-[Get code](/posts/tedxbucharest-16-octombrie-mare-concurs/)
+Get code
     
     
     ![TEDxBucharest](http://farm3.static.flickr.com/2566/3901669224_12f80cdcf5_o.png) 
       
     
-    [Get code](/posts/tedxbucharest-16-octombrie-mare-concurs/)
+    Get code
 
 **Cum se instalează:**
 

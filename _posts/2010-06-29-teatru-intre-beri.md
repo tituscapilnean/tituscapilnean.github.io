@@ -19,7 +19,7 @@ După ce am început așa de filosofic totul, nu puteam să stric starea în car
 
 _– pauză de duș și mâncat –_
 
-Pe la 9 am scos din nou capul din cameră și am luat-o la plajă. În loc să ne apucăm de petrecere, ne-am apucat să **ne amintim** de cei 3 ani de AIESEC, apropo de [articolul pe care l-am scris vineri](/posts/eu-acum-3-ani-o-leapsa-ce-faceai-acum-3-ani/), de momentele cele mai faine pe care le-a trăit pe acolo, de alegerile pe care le-am făcut și de locurile în care am ajuns.
+Pe la 9 am scos din nou capul din cameră și am luat-o la plajă. În loc să ne apucăm de petrecere, ne-am apucat să **ne amintim** de cei 3 ani de AIESEC, apropo de articolul pe care l-am scris vineri, de momentele cele mai faine pe care le-a trăit pe acolo, de alegerile pe care le-am făcut și de locurile în care am ajuns.
 
 Era să pierdem piesa de teatru de la care am pornit cu articolul ăsta. E vorba despre **Ursul, de Cehov** , o piesă scurtă, la care am impresia că am intrat pe la jumate. Nu contează asta, contează faptul că am stat la Bibi, împreună cu alți oameni interesați de o bucată de cultură înainte să înceapă marele chef de noapte.
 

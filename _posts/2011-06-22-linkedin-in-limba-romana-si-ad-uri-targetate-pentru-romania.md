@@ -9,7 +9,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/06/withage-400x258.jpg
 ---
 
-Acum 8 luni, [LinkedIn avea aproximativ 280.000 utilizatori](/posts/statistici-linkedin-pentru-romania/). Întrebam atunci cine și-a făcut campanie de display și ce rezultate a avut cu sistemul lor de CPC/CPM destul de scump, comparativ cu Facebook sau Google.
+Acum 8 luni, LinkedIn avea aproximativ 280.000 utilizatori. Întrebam atunci cine și-a făcut campanie de display și ce rezultate a avut cu sistemul lor de CPC/CPM destul de scump, comparativ cu Facebook sau Google.
 
 Între timp, a sărit de 420.000 și crește în continuare. Mai mult, acum are și opțiune de limba română, pe care mulți au salutat-o azi(vezi Orlando, Manafu, Piticu + site-uri de știri). Totuși, LinkedIn are încă o problemă majoră, utilizatorii nu și-au completat datele demografice, așa că nu poți să faci ad-uri foarte bine targetate.
 

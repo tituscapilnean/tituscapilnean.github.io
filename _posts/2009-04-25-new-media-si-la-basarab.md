@@ -6,7 +6,7 @@ tags: ["metrou", "new-media", "ooh"]
 author: titus_capilnean
 ---
 
-Una rece([vezi post ul trecut](/posts/un-print-slab-de-tot-mama-ue.html/)), alta calda. Acum 2 saptamani am scris un post laudativ la [noua campanie ASPIRIN – dureri de cap?](/posts/new-media-la-unirii-si-universitate.html/)
+Una rece(vezi post ul trecut), alta calda. Acum 2 saptamani am scris un post laudativ la noua campanie ASPIRIN – dureri de cap?
 
 Intre timp am fost rugat sa mai vanez cateva printuri similare si am mai gasit cateva:
 

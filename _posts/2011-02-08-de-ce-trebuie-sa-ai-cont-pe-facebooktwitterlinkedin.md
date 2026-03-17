@@ -32,7 +32,7 @@ E destul de neplăcut și poate avea implicații și în offline, în viața rea
 
 E ca și cum cineva ar fi mers în firma în care lucrezi și s-ar fi apucat să împartă fluturași cu poze porno în care ai fost photoshopat.
 
-[Cum scapi de contul fals](/posts/ce-faci-daca-cineva-i%c8%9bi-fura-identitatea-pe-facebook/)(articolul cuprinde și o poveste de furt de poză pe Facebook)?
+Cum scapi de contul fals(articolul cuprinde și o poveste de furt de poză pe Facebook)?
 
 
 

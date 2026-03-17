@@ -6,7 +6,7 @@ tags: [strategy, venture-capital]
 author: titus_capilnean
 ---
 
-I wrote an extensive article on [how to choose the right VC](/posts/how-to-choose-the-right-investors) as a founder after a few very direct and intense experiences and significant research. Recently, I have been advising a few founders and one of the most important topic they bring up is raising money. They have to go out and talk to VCs all the time, if they want their startups to grow. Sure, they could build and scale organically, and kudos to the ones that do, but for deep tech, more often than not, you need deep investments.
+I wrote an extensive article on how to choose the right VC as a founder after a few very direct and intense experiences and significant research. Recently, I have been advising a few founders and one of the most important topic they bring up is raising money. They have to go out and talk to VCs all the time, if they want their startups to grow. Sure, they could build and scale organically, and kudos to the ones that do, but for deep tech, more often than not, you need deep investments.
 
 The first rule of VC meetings as a founder should be: **don’t meet everyone who wants to meet with you**. It’s the same as reaching out to VCs—not all of them will want to talk to you. And that’s ok.
 

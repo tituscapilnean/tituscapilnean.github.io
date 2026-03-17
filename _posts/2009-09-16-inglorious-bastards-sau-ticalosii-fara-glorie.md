@@ -13,7 +13,7 @@ _*ăsta e un poste de care am făcut rost de la cinema, pentru prietenu Oanei, c
 
 _Mulțumesc Pask și Corina pentru invitație 🙂_
 
-Analizatul este **Inglourious Basterds** , de Quentin Tarantino și cu Brad Pitt în rolul principal. Filmul se petrece în [al doilea război mondial](/posts/explicatie-scurta-al-2-lea-razboi-mondial/)(despre care am mai scris un articol) , mai precis în Franța aflată sub ocupație nazistă.  
+Analizatul este **Inglourious Basterds** , de Quentin Tarantino și cu Brad Pitt în rolul principal. Filmul se petrece în al doilea război mondial(despre care am mai scris un articol) , mai precis în Franța aflată sub ocupație nazistă.  
   
 În mod normal aș fi zis, **unu** , că subiectul e fumat de mult și, **doi** , că nu îmi plac filmele cu război. Dar ăsta e altfel. E brutal și amuzant în același timp, într-un stil foarte original pentru Tarantino. Personajele toate sângerează, bune și rele, unii mor, se scalpează oameni cu zâmbetul pe buze. Nu e deloc brutal în stil horror, ci are un umor fin, care face o scalpare de german simpatică.
 

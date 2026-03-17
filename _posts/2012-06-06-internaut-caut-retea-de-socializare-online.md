@@ -24,6 +24,6 @@ Facebook nu mai e la fel de folosit de utilizatorii de internet din cauza listă
 > 
 > Link studiu 
 
-Acestea fiind zise, reitereze ce ziceam în [articolul precedent despre IPO](/posts/general-motors-a-anuntat-taierea-reclamelor-pe-facebook-in-timpul-ipo-ului/)(a mai scăzut acțiunea de la ultimul update) și încep să caut următoarea rețea de socializare(care poate nu a fost inventată încă). Parcă în 2006-2007 începea o migrație similară, de la Hi5 spre Facebook. Atunci erau încă sub 100.000 de utilizatori în România. Acum sunt către 5 milioane. Nu spun că o să se întâmple peste noapte trecerea, ci doar că trebuie să ne pregătim de migrație. 
+Acestea fiind zise, reitereze ce ziceam în articolul precedent despre IPO(a mai scăzut acțiunea de la ultimul update) și încep să caut următoarea rețea de socializare(care poate nu a fost inventată încă). Parcă în 2006-2007 începea o migrație similară, de la Hi5 spre Facebook. Atunci erau încă sub 100.000 de utilizatori în România. Acum sunt către 5 milioane. Nu spun că o să se întâmple peste noapte trecerea, ci doar că trebuie să ne pregătim de migrație. 
 
 Voi ce rețele de socializare mai folosiți(în afară de Linkedin, Twitter, Pinterest, Google Plus)?

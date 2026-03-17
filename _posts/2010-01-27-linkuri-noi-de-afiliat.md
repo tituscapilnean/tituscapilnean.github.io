@@ -12,5 +12,5 @@ Au venit linkurile noi de pentru Snow Explosion.
 
 Eu mi-am setat deja http://icanhaz.me/partie
 
-Vreți și voi? Dacă nu mi-ați scri [data trecută](/posts/snow-explosion-ii-promoveaza-l-si-castigi-bani/), lăsați un comentariu și vă dau link personalizat.
+Vreți și voi? Dacă nu mi-ați scri data trecută, lăsați un comentariu și vă dau link personalizat.
 

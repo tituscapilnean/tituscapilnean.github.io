@@ -10,7 +10,7 @@ author: titus_capilnean
 
 
 
-Pe modelul Foursquare, despre care am scris acum ceva timp([pleaserobme.com](/posts/social-media-pentru-hoti/)), Facebook va dezvolta o facilitate prin care utilizatorii vor putea să anunțe prin sistemul de localizare al telefonului, locul din care trimit mesaje, urcă poze sau clipuri. Facilitatea se pare că va fi dezvăluită la f8, conferința dezvoltatorilor de aplicații Facebook de luna viitoare(21-22 Aprilie, la San Francisco).
+Pe modelul Foursquare, despre care am scris acum ceva timp(pleaserobme.com), Facebook va dezvolta o facilitate prin care utilizatorii vor putea să anunțe prin sistemul de localizare al telefonului, locul din care trimit mesaje, urcă poze sau clipuri. Facilitatea se pare că va fi dezvăluită la f8, conferința dezvoltatorilor de aplicații Facebook de luna viitoare(21-22 Aprilie, la San Francisco).
 
 Funcția asta va avea dublu rol, de aplicație pentru utilizatorii comuni de Facebook(tu, eu, majoritatea dintre cei 400 de milioane aflați în întreaga lume) și de API pentru ca alte servicii de localizare să poată fi folosite, la rândul lor, în cadrul Facebook.
 

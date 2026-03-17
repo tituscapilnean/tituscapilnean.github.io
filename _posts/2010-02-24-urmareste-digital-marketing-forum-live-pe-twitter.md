@@ -10,6 +10,6 @@ Astăzi și mâine are loc Digital Marketing Forum, la Crowne Plaza. N-am ajuns,
 
 Câțiva invitați la DMF: Wim Vermeulen, Director of Digital Innovation Ogilvy Group CEE Europe. Grant McKenzie, Marketing Vice-President, Ursus Breweries. Adrian Stanescu, Country Manager, Think Digital. Bogdan Naumovici, Creative Director, 23 Communication. Ray Moore, Creative Director, Kondiment. Steffen Ehrhardt, Product Specialist, Google EMEA. Vlad Ionescu, Online Research Consultant, Gemius Research. Bogdan Nitu, General Manager, Webstyler. Costin Radu, Managing Partner, IQ Ads & Smark. Mike Stapelfeld, Digital Director, Omnicom Media Group și alții.
 
-Pe o parte dintre ei am avut ocazia să îi aud și în cadrul altor evenimente( Bogdan Naumovici la [TEDxBucharest](/posts/povestea-tedxbucharest-asa-cum-a-fost/) , Costin Radu la AIESEC University 2008 ).
+Pe o parte dintre ei am avut ocazia să îi aud și în cadrul altor evenimente( Bogdan Naumovici la TEDxBucharest , Costin Radu la AIESEC University 2008 ).
 
 Urmărește mai jos ce se scrie pe Twitter.

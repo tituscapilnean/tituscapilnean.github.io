@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2012/11/Experts2_Fotolia_8872776_XS-150x150.jpg
 ---
 
-Încă un articol despre cum poți să [te ferești de țepe](/posts/ghid-anti-teapa-pentru-clientii-de-online/), despre cum [se cumpără fani](/posts/s-a-dus-dracului-afacerea-cu-cumparatul-de-fani/) și ce consecințe are acțiunea asta asupra activității brandului pe Facebook. De data asta vorbim de alt tânăr care vinde fani la ofertă. Ce relevanță pentru brand, ce [ROI](/posts/cum-se-masoara-roi-ul-in-comunicare/)?
+Încă un articol despre cum poți să te ferești de țepe, despre cum se cumpără fani și ce consecințe are acțiunea asta asupra activității brandului pe Facebook. De data asta vorbim de alt tânăr care vinde fani la ofertă. Ce relevanță pentru brand, ce ROI?
 
 Cititori, faceți cunoștință cu **Bucur Cosmin**.
 
@@ -40,6 +40,6 @@ Aceeași concluzie, o să te trezești cu o pagină cu 10.000 de fani și  _talk
 
 Dacă mai știți din ăștia pe net, hai să îi dăm în public. Ochii mari, internetul e plin de deștepți.
 
-p.s. citiți și articolul despre celălalt [comerciant de fani](/posts/teapa-pe-facebook-cu-lupencea-alexandru-lucian/).
+p.s. citiți și articolul despre celălalt comerciant de fani.
 
 (sursa foto)

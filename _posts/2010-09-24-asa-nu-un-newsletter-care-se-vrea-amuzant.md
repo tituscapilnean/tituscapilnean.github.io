@@ -20,7 +20,7 @@ _click to zoom_
 
 Am tot încercat să îmi dau seama ce urmăresc cei care au făcut newsletter-ul ăsta, nepersonalizat în niciun fel şi căruia îi lipseşte complet “fairy dust”-ul.  
   
-Acum un an de zile am participat la [un training ţinut de Michael Conrad](/posts/leadership-in-creatie-michael-conrad/), prin gărdiniţa Cannes, despre standardele în creaţie(descrise pentru întreaga publicitate, însă aplicabile şi în online). În cazul în care nu ştii, Michael Conrad este Preşedintele **Berlin School of Creative Leadership Worldwide, Zürich**.
+Acum un an de zile am participat la un training ţinut de Michael Conrad, prin gărdiniţa Cannes, despre standardele în creaţie(descrise pentru întreaga publicitate, însă aplicabile şi în online). În cazul în care nu ştii, Michael Conrad este Preşedintele **Berlin School of Creative Leadership Worldwide, Zürich**.
 
 > Metoda de stabilire a standardelor, care ne-a aratat-o Michael Conrad, e bazata pe 4 elemente:
 > 

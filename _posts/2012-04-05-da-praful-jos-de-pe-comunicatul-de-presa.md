@@ -6,7 +6,7 @@ tags: ["comunicat", "idei", "pr"]
 author: titus_capilnean
 ---
 
-Instrumentul preferat al PRistului de pretutindeni a fost și rămânie încă istoricul comunicat de presă. El nu și-a prea schimbat forma în ultimii 20-30 de ani, respectă aceleași [reguli](/posts/cum-ar-fi-trebuit-sa-arate-comunicatul-de-presa-despre-rotld/) clare, cu care jurnaliștii și, mai nou, bloggerii(deși mulți nu prea le digeră), s-au obișnuit deja.
+Instrumentul preferat al PRistului de pretutindeni a fost și rămânie încă istoricul comunicat de presă. El nu și-a prea schimbat forma în ultimii 20-30 de ani, respectă aceleași reguli clare, cu care jurnaliștii și, mai nou, bloggerii(deși mulți nu prea le digeră), s-au obișnuit deja.
 
 Articolul pe care l-am colecționat aici vorbește de 3 moduri simple prin care să îți crești șansele de naștere a măcar unui articol ca urmare a trimiterii comunicatului de presă:
 

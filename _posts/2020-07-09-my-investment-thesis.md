@@ -6,7 +6,7 @@ tags: [investment, thesis, startup, fintech, blockchain, ai]
 author: titus_capilnean
 ---
 
-I realized I joined Republic in early 2018, and I have used that time to invest in a few of companies. This was just one of the ways I managed to beat the [accredited investor limitation](/posts/not-rich-enough-accredited-investor) in the US, which keeps less wealthy people from gaining wealth as fast as rich people.
+I realized I joined Republic in early 2018, and I have used that time to invest in a few of companies. This was just one of the ways I managed to beat the accredited investor limitation in the US, which keeps less wealthy people from gaining wealth as fast as rich people.
 
 Between now and then, I have tried to form an educated opinion on every company that I was interested in from an investment perspective and I wanted to formalize that in this article. I talked with a more experienced investor lately and he mentioned how writing down your investment thesis will keep you accountable and focused.
 

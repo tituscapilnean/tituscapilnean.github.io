@@ -13,7 +13,7 @@ author: titus_capilnean
 
 În primul rând, vreau să fie clar. Nu se zice font, ci typeface, ca să vorbim pe limba designerilor. Am folosit cuvântul font ca să înțeleagă toată lumea despre ce e vorba.
 
-Sâmbătă am fost la sediul Fundației Friends For Friends sau FFFF(punct ro), la **invitația lui Sorin Bechira și a lui Sorin Trâncă** , doi timișoreni mișto pe care i-am cunoscut în circumstanțe foarte diferite. Nu despre asta e vorba, ci despre faptul că la sediul FFFF a avut loc **vernisajul[Trisec Type](/posts/trisec-type-friends-vernisaj/)**(despre care am scris).
+Sâmbătă am fost la sediul Fundației Friends For Friends sau FFFF(punct ro), la **invitația lui Sorin Bechira și a lui Sorin Trâncă** , doi timișoreni mișto pe care i-am cunoscut în circumstanțe foarte diferite. Nu despre asta e vorba, ci despre faptul că la sediul FFFF a avut loc **vernisajulTrisec Type**(despre care am scris).
 
 Am fost în grup restrâns, între prieteni, într-o atmosferă foarte faină.
 

@@ -10,7 +10,7 @@ author: titus_capilnean
 
 Trecerea KitKat de la pagină locală la pagină globală, cu toți fanii la un loc, ca să zic așa, și cu postări individualizate pe țară/limbă a stârnit azi mari dezbateri în online. Inițial, pe Facebrands, ai fi putut zice că au cumpărat 10 milioane de fani și că de aia au ajuns în topul paginilor din România.
 
-Am [mai scris](/posts/paginile-globale-de-brand-pe-facebook-o-greseala/) de ce e o greșeală să aduni toate ouăle în același coș.
+Am mai scris de ce e o greșeală să aduni toate ouăle în același coș.
 
 
 

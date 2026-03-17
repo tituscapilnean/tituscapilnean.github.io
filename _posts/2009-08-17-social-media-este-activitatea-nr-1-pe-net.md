@@ -56,7 +56,7 @@ _
 
 12\. 78% din consumatori au încredere în recomandările celorlalți. doar 14% au încredere în publicitate. 90% din utilizatorii care au posibilitatea să filtreze reclame o fac.
 
-_Am scris mai demult un articol despre[cum se schimbă publicitatea și marketingul](/posts/scoate-publicitatea-din-galeata/). În articol găsești și o prezentare foarte utilă și grăitoare._
+_Am scris mai demult un articol desprecum se schimbă publicitatea și marketingul. În articol găsești și o prezentare foarte utilă și grăitoare._
 
 13\. 25% din Americani au văzut un clip pe telefon în ultima lună.
 

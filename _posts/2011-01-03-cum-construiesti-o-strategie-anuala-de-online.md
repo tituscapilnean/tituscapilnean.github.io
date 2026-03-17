@@ -17,7 +17,7 @@ E început de 2011, anul în care Social Media își ia locul de onoare în fiec
 
 Ai nevoie de ea pentru direcție și sens în toată activitatea ta de comunicator, dar și pentru că trebuie să se integreze cu toate celelalte strategii din firma pentru care prestezi. Altfel efectele muncii tale scad puternic.
 
-Strategia asta o construiești pornind tot de la obiective, așa cum povesteam în rândurile trecute, când am ținut [traniningurile de social media](/posts/cateva-idei-de-la-primul-meu-training-de-comunicare-in-social-media/).
+Strategia asta o construiești pornind tot de la obiective, așa cum povesteam în rândurile trecute, când am ținut traniningurile de social media.
 
 După ce ai clarificat ce ai de făcut, începi să construiești drumul spre comoară, cu ajutorul instrumentelor pe care le ai la dispoziție.
 

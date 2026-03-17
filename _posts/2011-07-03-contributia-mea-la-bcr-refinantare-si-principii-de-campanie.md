@@ -12,23 +12,23 @@ Pe 4 iulie se închid urnele campaniei BCR Refinanțare, prima campanie făcută
 
 ### Consistență, coerență, constanță
 
-Îmi păstrez convingerea că, pentru construcția unui [brand(fie el personal](/posts/branding-personal-la-bizcamp-going-digital/) sau nu) ai nevoie de o comunicare și un comportament ce dau dovadă de consistență, coerență și constanță. Ce înseamnă asta? Însemană că e nevoie de un flux constant de mesaje, care au aceeași direcție, același sens și au suficientă substanță individuală, încât să contribuie atât la un buzz de moment, cât și la construcția edificiului de brand(cărămidă cu cărămidă – mesaj cu mesaj).
+Îmi păstrez convingerea că, pentru construcția unui brand(fie el personal sau nu) ai nevoie de o comunicare și un comportament ce dau dovadă de consistență, coerență și constanță. Ce înseamnă asta? Însemană că e nevoie de un flux constant de mesaje, care au aceeași direcție, același sens și au suficientă substanță individuală, încât să contribuie atât la un buzz de moment, cât și la construcția edificiului de brand(cărămidă cu cărămidă – mesaj cu mesaj).
 
 ### Campania mea pentru BCR Refinanțare
 
-Având în vedere principiile de mai sus, campania mea pentru BCR Refinanțare s-a conturat ca un pitch strategic pentru o comunicare online completă și cu rezultate pentru produsul promovat. Am început cu [un anunț de campanie](/posts/bani-din-blog-cu-bcr-pe-blogalinitiative-ro/)(I), ca să nu intrăm direct în articolele despre produs. Trebuie să facem un pic de pregătire înaite, nu?
+Având în vedere principiile de mai sus, campania mea pentru BCR Refinanțare s-a conturat ca un pitch strategic pentru o comunicare online completă și cu rezultate pentru produsul promovat. Am început cu un anunț de campanie(I), ca să nu intrăm direct în articolele despre produs. Trebuie să facem un pic de pregătire înaite, nu?
 
 Acestea fiind zise, următorul nivel la care am abordat campania a fost cel de **pârghii de influență pentru cititori**. Atenție, influența asta nu se referă la cumpărarea efectivă a produsului, ci la convingerea omului să facă o vizită la bancă pentru o analiză de refinanțare.
 
 Am abordat partea asta din **3 perspective** :
 
-  1. _Testimoniale_ – [Povestea clientului fericit face cât 100 de recenzii de bloggeri](/posts/povestea-unui-client-fericit-face-cat-100-reviewuri-ipotetice/) (II) 
-  2. _Sfaturi avizate_ – [Expertul convinge, bloggerul promovează](/posts/idei-de-campanie-pentru-banci-care-vand-refinantare-i-consultantul/) (IV) 
-  3. _Testarea beneficiului_ – [Calculatorul de refinanțare pe bloguri și site-uri](/posts/calculatorul-de-refinantare-widget-pe-bloguri-si-site-uri-iii/) (III) 
+  1. _Testimoniale_ – Povestea clientului fericit face cât 100 de recenzii de bloggeri (II) 
+  2. _Sfaturi avizate_ – Expertul convinge, bloggerul promovează (IV) 
+  3. _Testarea beneficiului_ – Calculatorul de refinanțare pe bloguri și site-uri (III) 
 
 
 
-Combinația celor 3 tipuri de contact cu produsul bancar creează o premisă pentru pasul de final, momentul în care implici personalele interesate de educație financiară într-o serie de seminarii online, din care pot să învețe câteva trucuri prin care pot să scape de ratele mari și creditele multiple pe care le-au contractat de-a lungul timpului. **Ultima etapă** a campaniei constă în [Webinariile de educație financiară](/posts/webinarii-de-educatie-financiara-v/) (V).
+Combinația celor 3 tipuri de contact cu produsul bancar creează o premisă pentru pasul de final, momentul în care implici personalele interesate de educație financiară într-o serie de seminarii online, din care pot să învețe câteva trucuri prin care pot să scape de ratele mari și creditele multiple pe care le-au contractat de-a lungul timpului. **Ultima etapă** a campaniei constă în Webinariile de educație financiară (V).
 
 #### Refinanțare în Social Media
 

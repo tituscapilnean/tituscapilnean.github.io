@@ -25,6 +25,6 @@ Un sex shop online a cumpărat serviciul ăsta, însă a aterizat direct în spa
 
 
 
-Vedeți ultimul comentariu de [aici](/posts/un-din-cele-mai-tari-campanii-pe-mobile-mini-countryman-getaway/).
+Vedeți ultimul comentariu de aici.
 
 **Concluzia:** aveți grijă ce servicii online(SEO și nu numai) cumpărați ieftin de pe net. S-ar putea să vă treziți cu site-ul delistat de pe motoarele de căutare din motiv de spam.

@@ -8,7 +8,7 @@ author: titus_capilnean
 
 Pe parcursul următoarelor zile, voi publica pe blog mai multe poveşti despre oamenii care vor veni să vorbească la TEDx Bucharest pe 16 Octombrie, la Centrul Naţional Al Dansului. 🙂
 
-Am scris un articol anterior despre [ce este TEDx in Bucuresti](/posts/tedxbucharest-16-octombrie-mare-concurs/). Citeşte-l dacă vrei să afli mai multe. Tot de acolo poţi să afli cum poţi să ne ajuţi(bannere de susţinere, concursul, promovare pe blog, etc)
+Am scris un articol anterior despre ce este TEDx in Bucuresti. Citeşte-l dacă vrei să afli mai multe. Tot de acolo poţi să afli cum poţi să ne ajuţi(bannere de susţinere, concursul, promovare pe blog, etc)
 
 Revenind însă la ce vroiam să zic, azi vă las în compania lui Mugur Ciumăgeanu, aşa cum a fost văzut prin ochii **Alexandrei Dinu** , parte a echipei de organizare TEDx Bucharest.  
 
