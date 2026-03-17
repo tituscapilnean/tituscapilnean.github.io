@@ -9,7 +9,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/12/plata-400x217.jpg
 ---
 
-![](/wp-content/uploads/2010/12/logo.png)Când începi să te gândești la vacanța la ski sau snowboard de iarna asta, primul lucru la care îți zboară mintea este prețul. **Toate vacanțele low-cost** ajung cam la 500 Euro/7 zile de persoană(cu toate cheltuielile incluse). Cam la suma asta ajunge și un sejur la _Snow Explosion 2011_.
+Când începi să te gândești la vacanța la ski sau snowboard de iarna asta, primul lucru la care îți zboară mintea este prețul. **Toate vacanțele low-cost** ajung cam la 500 Euro/7 zile de persoană(cu toate cheltuielile incluse). Cam la suma asta ajunge și un sejur la _Snow Explosion 2011_.
 
 Nu-i mult, având în vedere că valea Prahovei te duce cam la aceleași costuri, dacă e să iei în calcul cât dai pe pârtie, cât cheltuiești pe mâncare și pe alte prostii. Dacă mai pui și diferențele de calitate față de afară, dă cu virgulă.
 
@@ -31,6 +31,5 @@ Ai timp să strângi bani până la sfârșitul lui Ianuarie pentru mâncare și
 
 Plățile se fac foarte ușor, tot ce trebuie să faci e să îți alegi modul cel mai convenabil pentru tine, din tabelul de mai jos:
 
-![](/wp-content/uploads/2010/12/plata-400x217.jpg)
 
 Cazare hotel la cel mai bun pret!

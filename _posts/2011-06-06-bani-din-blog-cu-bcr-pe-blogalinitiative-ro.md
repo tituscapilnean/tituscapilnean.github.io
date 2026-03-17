@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/06/logo.png
 ---
 
-[![](/wp-content/uploads/2011/06/logo.png)](/2011/06/bani-din-blog-cu-bcr-pe-blogalinitiative-ro/logo-6/)Vă semnalez și eu că se poate să faci bani pe blog și fără să fii invitat de agenții în mediaplanuri de online.
+[](/2011/06/bani-din-blog-cu-bcr-pe-blogalinitiative-ro/logo-6/)Vă semnalez și eu că se poate să faci bani pe blog și fără să fii invitat de agenții în mediaplanuri de online.
 
 Chinezu a lansat săptămânile trecute Blogal Initiative, o platformă de concurso-campanii pe bloguri, prin care bloggerii pot să pitchuiască articolele, comentariile, like-urile și RT-urile pentru campaniile de la parteneri. Nu, nu e o altă agenție care face [campanii pe bloguri](/2011/01/cine-face-campanii-pe-bloguri-in-romania/).
 

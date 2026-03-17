@@ -9,7 +9,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/02/animatiearist-400x278.gif
 ---
 
-![](/wp-content/uploads/2011/02/animatiearist-150x150.gif)Am fost sâmbătă seară la Prometheus, un clubuleț la Piața Națiunilor Unite, la invitația domnului Chinezu, căruia îi și mulțumesc pe această cale. Îi mulțumesc și pentru că m-a lăsat să întind coarda și să mă prezint cu alai la acest eveniment de standup comedy – prestat cu drag și spor de Aristocrații(performeri regulați sâmbăta în clubul mai sus menționat).
+Am fost sâmbătă seară la Prometheus, un clubuleț la Piața Națiunilor Unite, la invitația domnului Chinezu, căruia îi și mulțumesc pe această cale. Îi mulțumesc și pentru că m-a lăsat să întind coarda și să mă prezint cu alai la acest eveniment de standup comedy – prestat cu drag și spor de Aristocrații(performeri regulați sâmbăta în clubul mai sus menționat).
 
 **Bloggerii nu-s oameni serioși** pentru că se dau la standup-uri și chiar râd. Râd și atunci când gluma nu a fost așa de reușită sau când glumețul de pe scenă le zice într-un flegmatism rar și greu de apreciat pentru profani.
 
@@ -21,7 +21,7 @@ O femeie, în momentul în care se urcă la volan, aude o voce în cap. Vocea î
 
 Autor: _Sorin_
 
-_![](/wp-content/uploads/2011/02/animatiearist-400x278.gif)_
+__
 
 Revenind la faptul că **bloggerii nu-s oameni serioși** , dau un titusleak aici – băi, când ești invitat la evenimente de genul ăsta, nu confirma și apoi să te trezești că nu vii. Nu dă bine nici pentru tine și îi strici și organizatorului combinația, pentru că ar fi putut chema pe altcineva care chiar ar fi venit.
 

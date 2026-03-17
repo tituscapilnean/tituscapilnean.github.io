@@ -18,8 +18,7 @@ Deci dacă vrei performanță maximă, ține cel puțin un om pe comunicare (da,
 
 **In-house vs. Agenție – Avantaje și dezavantaje**
 
-****![](/wp-content/uploads/2013/02/Agentie-vs.-inhouse-390x300.png)
-
+****
 Dincolo de listele de mai sus, provenite atât din experiența mea, cât și din sursele 1, 2, 3, 4, cel mai important e ca fiecare companie să își facă propria analiză _**cost-beneficiu**_ și să decidă mixul potrivit de oameni pentru comunicare (fie ea și doar online). Nu există rețeta perfectă.
 
 Lista e deschisă, așa că aștept și experiențele voastre.

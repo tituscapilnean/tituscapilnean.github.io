@@ -8,7 +8,6 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/06/TerryBorder30-372x300.jpg
 ---
 
-![](/wp-content/uploads/2010/06/TerryBorder30-372x300.jpg)
 
 și vine un alt chips din spate și zice:
 

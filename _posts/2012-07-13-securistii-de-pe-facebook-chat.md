@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2012/07/SystemMonitoring_01-150x150.jpg
 ---
 
-[![](/wp-content/uploads/2012/07/SystemMonitoring_01-150x150.jpg)](/wp-content/uploads/2012/07/SystemMonitoring_01.jpg)Mă mir că nu a observat încă și nu a punctat nimeni faptul că Facebook monitorizează conversațiile private de pe chat mai ceva ca tovarășii securiști de pe vremuri. Cică se uită după cuvinte cheie care indică activități ilegale sau înjurături.
+[](/wp-content/uploads/2012/07/SystemMonitoring_01.jpg)Mă mir că nu a observat încă și nu a punctat nimeni faptul că Facebook monitorizează conversațiile private de pe chat mai ceva ca tovarășii securiști de pe vremuri. Cică se uită după cuvinte cheie care indică activități ilegale sau înjurături.
 
 Deci data viitoare când vrei să îți înjuri fosta sau vreun hater pe Facebook Chat, mai bine te abții, pentru că îți pot veni acasă băieții cu ochi albaștri. Programul se uită cu mare atenție mai ales la conturile noi, fără istoric sau care postează mai rar.
 

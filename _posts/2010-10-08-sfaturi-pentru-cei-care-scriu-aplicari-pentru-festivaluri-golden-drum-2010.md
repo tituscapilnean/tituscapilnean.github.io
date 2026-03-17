@@ -12,7 +12,7 @@ Golden Drum Open Awards Ceremony – la categoriile Interactive, Advertising Cam
 
 – cu **Olivier Altman** , Pubicis (advertising campaigns) – venit mai tarziu, **Bram de Rooij** , Euro RSCG (interactive), **Roger Kennedy** , Saatchi & Saatchi (design in art direction and Piran Portoroz Poster Award), **Yonathan Dominitz** , Mindscapes (media) și **Eliza Rogalski** , Tempo (PR) – în ordinea de mai jos:
 
-[![](/wp-content/uploads/2010/10/DSC01810-400x300.jpg)](/wp-content/uploads/2010/10/DSC01810.jpg)
+[](/wp-content/uploads/2010/10/DSC01810.jpg)
 
 _Jurizarea – cum a decurs?_
 

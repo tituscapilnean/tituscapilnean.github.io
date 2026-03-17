@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/12/v4fBC-150x150.png
 ---
 
-[![](/wp-content/uploads/2010/12/v4fBC-150x150.png)](/wp-content/uploads/2010/12/v4fBC.png)Știți zumzi, fundeals și alte site-uri similare? Toate s-au inspirat de la Groupon(din conceptul de shopping social – oferte speciale pentru grupuri mai mari de oameni).
+[](/wp-content/uploads/2010/12/v4fBC.png)Știți zumzi, fundeals și alte site-uri similare? Toate s-au inspirat de la Groupon(din conceptul de shopping social – oferte speciale pentru grupuri mai mari de oameni).
 
 Partea mișto cu modelul ăsta de business e că e destul de ieftin să configurezi o aplicație online de genul grouponului, promiți să aduci mulți clienți, deci faci rost de oferte bune și profiți de spammerii autohtoni obișnuiți să dea mass-uri, emailuri fără număr sau mesaje pe Facebook.
 

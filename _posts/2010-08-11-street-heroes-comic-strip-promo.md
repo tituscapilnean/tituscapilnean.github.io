@@ -12,15 +12,14 @@ author: titus_capilnean
 
 Se întîmplă în zilele următoare. Mi-a plăcut foarte mult modul în care au comunicat prin Newsletter-e. N-au folosit clasicul text+html, ci au mers mai departe și au făcut niște comic strips.
 
-![](/wp-content/uploads/2010/08/newsletter-intro-400x264.jpg)
 
 Primul newsletter:
 
-[![](/wp-content/uploads/2010/08/newsletter-273x1024.jpg)](/wp-content/uploads/2010/08/newsletter.jpg)
+[](/wp-content/uploads/2010/08/newsletter.jpg)
 
 și al doilea:
 
-[![](/wp-content/uploads/2010/08/newsletter-2-406x1024.jpg)](/wp-content/uploads/2010/08/newsletter-2.jpg)
+[](/wp-content/uploads/2010/08/newsletter-2.jpg)
 
 Îi găsești pe net și pe Facebook.
 

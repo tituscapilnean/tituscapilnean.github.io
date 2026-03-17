@@ -18,7 +18,7 @@ Bun, acum care-i faza? Vreau să vorbesc despre 2 aspecte:
 
 Principalul motiv pentru care t.co există este să protejeze utilizatorii de likuri malefice, în principal împotriva atacurilor de phishing de care s-a tot plâns lumea în ultima vreme. Practic, fiecare link trimis prin t.co va fi verificat și vei fi avertizat în cazul în care site-ul pe care urmează să intri a fost marcat ca site de atac:
 
-[![Picture_42](/wp-content/uploads/2010/06/Picture_42-400x177.png)](/wp-content/uploads/2010/06/Picture_42.png)
+[](/wp-content/uploads/2010/06/Picture_42.png)
 
 Întrebarea mea legitimă e – cine decide că site-ul respectiv e malițios? Google, desigur, cu ajutorul serviciului de safebrowsing.
 

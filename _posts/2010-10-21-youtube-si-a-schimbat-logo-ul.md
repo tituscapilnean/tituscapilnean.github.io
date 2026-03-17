@@ -12,7 +12,7 @@ Azi dimineață am deschis Youtube.com și am observat că în colțul din dreap
 
 Youtube și-a schimbat logo-ul ca să promoveze **Youtube Play – Bienala de Filme Creative de la Guggenheim** :
 
-[![](/wp-content/uploads/2010/10/youtube-316x300.jpg)](/wp-content/uploads/2010/10/youtube.jpg)
+[](/wp-content/uploads/2010/10/youtube.jpg)
 
 Dacă intri pe secțiunea de Youtube, aici, poți să vezi toate clipurile înscrise.
 

@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/05/mkt24t.jpg
 ---
 
-[![](/wp-content/uploads/2011/05/mkt24t.jpg)](/2011/05/prezentarea-perfecta-ce-trebuie-sa-contina/mkt24t/)Peste câteva zile o să vorbesc la **Marketing 24/7** (mai precis pe **2 și 3 Iunie**), una din cele mai mari și mai importante conferințe regionale de profil. Ea se desfășoară la Sibiu și o să aibă printre invitați pe Marius Ghenea, plus alți 20 de speakeri pe care îi vei putea întâlni în cele două zile.
+[](/2011/05/prezentarea-perfecta-ce-trebuie-sa-contina/mkt24t/)Peste câteva zile o să vorbesc la **Marketing 24/7** (mai precis pe **2 și 3 Iunie**), una din cele mai mari și mai importante conferințe regionale de profil. Ea se desfășoară la Sibiu și o să aibă printre invitați pe Marius Ghenea, plus alți 20 de speakeri pe care îi vei putea întâlni în cele două zile.
 
 O să te întâlnești mai mulți antreprenori: Mihai Seceleanu (InternetCorp), Dragoș Roua, Eusebiu Burcaș (Burcash), Antonio Eram (Netopia), Dorel Grigore (Ascendis), Dorin Boerescu (2Parale), Ciprian Gavriliu (Play the Balls) și Ionuț Boldizsar (n-Tech) moderați de Bogdan Ungureanu (editura Publica).
 

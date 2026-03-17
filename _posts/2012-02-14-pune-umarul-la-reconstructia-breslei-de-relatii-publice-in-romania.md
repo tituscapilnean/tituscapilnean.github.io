@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2012/02/logo-arrp.gif
 ---
 
-[![](/wp-content/uploads/2012/02/logo-arrp.gif)](/wp-content/uploads/2012/02/logo-arrp.gif)Am primit pe email un chestionar de la ARRP(Asociația Română de Relații Publice). Mă invită să iau parte la studiul lor privind activitatea pe care ar trebui să o aibă în viitor.
+[](/wp-content/uploads/2012/02/logo-arrp.gif)Am primit pe email un chestionar de la ARRP(Asociația Română de Relații Publice). Mă invită să iau parte la studiul lor privind activitatea pe care ar trebui să o aibă în viitor.
 
 Vă invit și eu, la rândul meu, **dacă lucrați în PR, atât în agenții, cât și în companii, la stat sau în mediul universitar** , să completați chestionarul lor și să puneți umărul la reconstrucția asociației ce reprezintă breasla relațiilor publice la noi în țară.
 

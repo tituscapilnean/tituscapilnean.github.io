@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/05/logo_BizCamp.png
 ---
 
-[![](/wp-content/uploads/2011/05/logo_BizCamp.png)](/2011/05/lunea-viitoare-vorbesc-la-bizcamp-despre-branding-personal-mai-precis-pe-online/logo_bizcamp/)De când am început să țin iar [training-uri și prezentări despre comunicare online](/tag/training/), a început iar să îmi placă la fel de mult ca pe vremea când eram în [AIESEC](/tag/aiesec/) și făceam asta cel puțin lunar. Nu despre asta e vorba, ci despre faptul că lunea viitoare, pe 9 Mai, fix de Ziua Europei, vorbesc la Bizcamp despre branding personal.
+[](/2011/05/lunea-viitoare-vorbesc-la-bizcamp-despre-branding-personal-mai-precis-pe-online/logo_bizcamp/)De când am început să țin iar [training-uri și prezentări despre comunicare online](/tag/training/), a început iar să îmi placă la fel de mult ca pe vremea când eram în [AIESEC](/tag/aiesec/) și făceam asta cel puțin lunar. Nu despre asta e vorba, ci despre faptul că lunea viitoare, pe 9 Mai, fix de Ziua Europei, vorbesc la Bizcamp despre branding personal.
 
 **BizCamp** creaza mediul potrivit de interactiune a studentilor cu modele din businessul local, dispuse sa impartaseasca din experienta lor. Cea de-a V-a editie a evenimentului raspunde nevoii tinerilor de informare, alaturi de reprezentanti din companii care incearca sa arate ca prin exercitiul unei provocari continue se ajunge la performanta, se dobandeste increderea si se obtin rezultatele dorite.
 

@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2012/11/5500.232135404-150x150.jpg
 ---
 
-[![](/wp-content/uploads/2012/11/5500.232135404-150x150.jpg)](/wp-content/uploads/2012/11/5500.232135404.jpg)Dacă tot vine sezonul campaniilor și promoțiilor, am zis să dau un mic checklist pe care îl folosesc în momentul în care particip la producția de materiale de promovare:
+[](/wp-content/uploads/2012/11/5500.232135404.jpg)Dacă tot vine sezonul campaniilor și promoțiilor, am zis să dau un mic checklist pe care îl folosesc în momentul în care particip la producția de materiale de promovare:
 
   * Titlul trebuie să se vadă **de la cel puțin**
     * 5 m (poster/rollup/outdoor)

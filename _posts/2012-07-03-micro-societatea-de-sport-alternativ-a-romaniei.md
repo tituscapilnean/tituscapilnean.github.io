@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2012/07/282759_10150979667853153_362743026_n-150x150.jpg
 ---
 
-[![](/wp-content/uploads/2012/07/282759_10150979667853153_362743026_n-150x150.jpg)](/wp-content/uploads/2012/07/282759_10150979667853153_362743026_n.jpg)Mă dau pe snowboard din 2007, m-am dat pe skateboard câțiva ani prin Baia Mare, m-am dat și mă voi mai da cu bicicleta(inclusiv pe coclauri, chiar dacă mai rar în ultima vreme), așa că am tot avut contact cu oamenii pasionați de sporturi extreme/alternative în România. Spun alternative pentru că nu sunt considerate sporturi olimpice și nu pun accent pe competitivitate/competiție, ci pe plăcerea de a face sport și de a socializa.
+[](/wp-content/uploads/2012/07/282759_10150979667853153_362743026_n.jpg)Mă dau pe snowboard din 2007, m-am dat pe skateboard câțiva ani prin Baia Mare, m-am dat și mă voi mai da cu bicicleta(inclusiv pe coclauri, chiar dacă mai rar în ultima vreme), așa că am tot avut contact cu oamenii pasionați de sporturi extreme/alternative în România. Spun alternative pentru că nu sunt considerate sporturi olimpice și nu pun accent pe competitivitate/competiție, ci pe plăcerea de a face sport și de a socializa.
 
 Chestia asta mi-a povestit-o, pe drum spre Piatra Neamț, Bogdan Coman de la Switch Ski’n’Surf, care ne-a dus la _Balkan Dirt Masters_ , concursul internațional de mountainboard.
 

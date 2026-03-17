@@ -30,13 +30,13 @@ Un client vrea o evoluție, nu o revoluție, o schimbare mică, pas cu pas. Ulri
 
 Modul ăsta de gândire se potrivește cu o idee pe care o am despre schimbare: Cu cât îți construiești mai multe plase de siguranță, cu atât ai mai puțin timp pentru construcția principală, pentru care îți asumi riscul. Mai bine investești toată energia posibilă în obiectivul principal, pe care să îl atingi, în loc să cazi pe una din plasele întinse din teama de schimbare.
 
-[![DSC01873](/wp-content/uploads/2010/10/DSC01873-150x150.jpg)](/2010/10/lec%c8%9bii-pentru-pia%c8%9ba-de-comunicare-din-romania-golden-drum-2010/dsc01873/)
+[](/2010/10/lec%c8%9bii-pentru-pia%c8%9ba-de-comunicare-din-romania-golden-drum-2010/dsc01873/)
 
-[![DSC01877](/wp-content/uploads/2010/10/DSC01877-150x150.jpg)](/2010/10/lec%c8%9bii-pentru-pia%c8%9ba-de-comunicare-din-romania-golden-drum-2010/dsc01877/)
+[](/2010/10/lec%c8%9bii-pentru-pia%c8%9ba-de-comunicare-din-romania-golden-drum-2010/dsc01877/)
 
-[![DSC01880](/wp-content/uploads/2010/10/DSC01880-150x150.jpg)](/2010/10/lec%c8%9bii-pentru-pia%c8%9ba-de-comunicare-din-romania-golden-drum-2010/dsc01880/)
+[](/2010/10/lec%c8%9bii-pentru-pia%c8%9ba-de-comunicare-din-romania-golden-drum-2010/dsc01880/)
 
-[![DSC01883](/wp-content/uploads/2010/10/DSC01883-150x150.jpg)](/2010/10/lec%c8%9bii-pentru-pia%c8%9ba-de-comunicare-din-romania-golden-drum-2010/dsc01883/)
+[](/2010/10/lec%c8%9bii-pentru-pia%c8%9ba-de-comunicare-din-romania-golden-drum-2010/dsc01883/)
 
 **Feed the passion – McDonalds World Cup 2010 sponsorship**
 
@@ -82,7 +82,6 @@ Revenind la PR, specialiştii din acest moment trebuie să se integreze – digi
 
 **Diferenţa dintre agenţiile de PR şi cele interactive** : primele lucrează cu mediile şi tehnologiile pe care le au la dispoziţie, Faceboo, bloguri, Twitter, etc. iar agenţiile de interactive creează tehnologii noi pentru comunicare.
 
-![](/wp-content/uploads/2010/10/DSC01937-e1286550936814.jpg)
 
 Casele mari de comunicare(care oferă media, PR, advertising şi digital) nu funcţionează din cauza faptului că un client nu va lucra cu compania care are deja competitorul lui direct în portofoliu pe unul din paliere.
 

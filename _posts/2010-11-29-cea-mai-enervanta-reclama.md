@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/11/noid2-130x120.gif
 ---
 
-**UPDATE:** merg și reclamele din anii 90 sau din comunism, care te enervau la culme. N-am limită la ani.[![](/wp-content/uploads/2010/11/noid2-130x120.gif)](/wp-content/uploads/2010/11/noid2-130x120.gif)
+**UPDATE:** merg și reclamele din anii 90 sau din comunism, care te enervau la culme. N-am limită la ani.[](/wp-content/uploads/2010/11/noid2-130x120.gif)
 
 Da, caut **cea mai enervantă reclamă**. Reclama aia care te face să zgârii masa, să îți pui căștile mai bine în urechi în autobuz.
 

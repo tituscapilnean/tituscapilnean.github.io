@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2013/09/jobs-logo-apply-now-150x150.jpg
 ---
 
-[![jobs-logo-apply-now](/wp-content/uploads/2013/09/jobs-logo-apply-now-150x150.jpg)](/2013/09/mistery-shopping-si-in-romania-faci-bani-la-cumparaturi/jobs-logo-apply-now/)E criză, lumea nu prea are locuri de muncă, iar tinerii sub 25 de ani sunt cel mai loviți de problema asta. Întrebați orice părinte cu copii mari cât de ok o duc și ei și ai lor. Unii fac internships, alții studiază în continuare, alții protestează anti orice sau pur și simplu se plictisesc acasă.
+[](/2013/09/mistery-shopping-si-in-romania-faci-bani-la-cumparaturi/jobs-logo-apply-now/)E criză, lumea nu prea are locuri de muncă, iar tinerii sub 25 de ani sunt cel mai loviți de problema asta. Întrebați orice părinte cu copii mari cât de ok o duc și ei și ai lor. Unii fac internships, alții studiază în continuare, alții protestează anti orice sau pur și simplu se plictisesc acasă.
 
 Am primit un mail săptămâna trecută în care mi se povestea despre jobul de client misterios, treabă care se face pe afară de ani buni și, se pare, există și în România de ceva vreme.
 

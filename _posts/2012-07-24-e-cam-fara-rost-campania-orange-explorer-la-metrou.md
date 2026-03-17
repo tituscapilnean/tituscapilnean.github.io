@@ -12,11 +12,11 @@ author: titus_capilnean
 
 Discutam ieri cu o colegă la metrou despre campania Orange Explorer, cea cu expoziția de graffiti. Ea este, fără îndoială, un PR Stunt mișto, care a fost susținut de o activare BTL în ziua lansării, de bloggeri și jurnaliști de tehnologie și a generat cât de cât buzz. Nu contest treaba asta.
 
-[![](/wp-content/uploads/2012/07/Orange-Explorer-metrou-150x150.jpg)](/wp-content/uploads/2012/07/Orange-Explorer-metrou.jpg)
+[](/wp-content/uploads/2012/07/Orange-Explorer-metrou.jpg)
 
-[![](/wp-content/uploads/2012/07/photo_large-23620-150x150.png)](/wp-content/uploads/2012/07/photo_large-23620.png)
+[](/wp-content/uploads/2012/07/photo_large-23620.png)
 
-[![](/wp-content/uploads/2012/07/metrou-150x150.jpg)](/wp-content/uploads/2012/07/metrou.jpeg)
+[](/wp-content/uploads/2012/07/metrou.jpeg)
 
 Problema e că panourile respective au rămas la metrou, în marile stații, promovând utilizarea de smartphone-uri și de internet pe mobil. Paradoxul lor este că trebuie să ai un smartphone ca să te bucuri de graffiti-uri, altfel te lasă indiferent, prea puțin curios, neînțelegând conceptul de augmented reality sau de coduri QR. Deci dacă n-ai smartphone, n-ai motiv să cumperi.
 

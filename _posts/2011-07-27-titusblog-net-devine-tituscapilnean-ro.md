@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/07/domain-names-dice-150x150.jpg
 ---
 
-[![](/wp-content/uploads/2011/07/domain-names-dice-150x150.jpg)](/2011/07/titusblog-net-devine-tituscapilnean-ro/domain-names-dice/)După mai mult de 2 ani de blogging, am decis că e timpul să trec pe domeniu .ro, domeniu care coincide cu numele meu. Normal și natural. Mă întreb de ce n-am făcut asta până acum.
+[](/2011/07/titusblog-net-devine-tituscapilnean-ro/domain-names-dice/)După mai mult de 2 ani de blogging, am decis că e timpul să trec pe domeniu .ro, domeniu care coincide cu numele meu. Normal și natural. Mă întreb de ce n-am făcut asta până acum.
 
 Acum, dincolo de motivele pentru care am făcut mutarea, vreau să vă zic două chestiuni:
 

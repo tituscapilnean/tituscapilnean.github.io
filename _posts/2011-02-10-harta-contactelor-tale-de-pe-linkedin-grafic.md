@@ -19,7 +19,7 @@ Dincolo de aspectul utilitar al rețelei, inginerii de la LinkedIn au construit 
 
 ## Harta contactelor mele
 
-[![](/wp-content/uploads/2011/02/inmap-355x300.gif)](/wp-content/uploads/2011/02/inmap.gif)
+[](/wp-content/uploads/2011/02/inmap.gif)
 
 Oricine care are cont de LinkedIn poate să își genereze harta(de fapt _un sistem de grafuri_ , pentru pasionați) proprie aici – Harta LinkedIn. Uite mai jos un clip în care ți se explică mai clar despre ce e vorba.
 

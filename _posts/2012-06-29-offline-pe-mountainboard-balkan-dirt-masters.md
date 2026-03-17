@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2012/06/254842_192591594121266_2314645_n-199x300.jpg
 ---
 
-[![](/wp-content/uploads/2012/06/254842_192591594121266_2314645_n-199x300.jpg)](/wp-content/uploads/2012/06/254842_192591594121266_2314645_n.jpg)Weekendul ăsta las marea în pace, plaja în liniște și îmi iau la spinare picioarele spre Piatra Neamț, împreună cu băieții de la The Switch, la Balkan Dirt Masters, primul concurs internațional de mountainboard de la noi.
+[](/wp-content/uploads/2012/06/254842_192591594121266_2314645_n.jpg)Weekendul ăsta las marea în pace, plaja în liniște și îmi iau la spinare picioarele spre Piatra Neamț, împreună cu băieții de la The Switch, la Balkan Dirt Masters, primul concurs internațional de mountainboard de la noi.
 
 Mountainboard-ul este un sport derivat din snowboarding, doar că de vară. Iei o placă metalică mai scurtă, îi instalezi suspensii, atașezi roți cu cauciucuri groase şi montezi niște legături. Ai obținut un mountainboard. Te poți da cu el cam pe oriunde este o pantă mai abruptă, de la dealuri sau pante pe munți, până la denivelarea din parc. Trebuie neapărat să porți protecție, pentru că impactul cu pământul e cam dur.
 

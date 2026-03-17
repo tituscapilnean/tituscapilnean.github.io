@@ -25,7 +25,7 @@ Nici nu mă gândesc să compar Quora cu TPU.ro(care face cam același lucru, î
 **Primul lucru pe care îl faci pe Quora.com**
 
 După ce ți-ai înregistrat contul, ți-ai găsit prietenii de pe Facebook și Twitter care folosesc Quora, platforma îți recomandă niște domenii pe care să le urmărești. Ele sunt colecții de întrebări și răspunsuri date de utilizatori. Nu-ți recomand să urmărești mai mult de 5-6 topic-uri, pentru că devine greoi să ții pasul cu informațiile. Începe cu domeniul tău de activitate, cu pasiunile tale, cu online-ul.  
-![](/wp-content/uploads/2011/01/quora2-400x243.jpg)  
+  
 **La ce îmi folosește Quora.com?**
 
 Ție, sincer, nu știu.
@@ -38,7 +38,7 @@ Quora are funcția de _Follow_ și pentru întrebări, așa că vei fi anunțat 
 
 Comunitatea se autoreglează, în sensul în care dacă publici o inepție sau pur și simplu răspunsul tău nu e folositor sau conține informații false, el poate fi marcat ca Nefolositor sau poate fi propus spre editare. E un pic asemănător cu modelul Wikipedia.
 
-**![](/wp-content/uploads/2011/01/quora1-398x300.jpg)**
+****
 
 **Cine deține puterea?**
 

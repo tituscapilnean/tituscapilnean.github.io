@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/03/wow-classes-dog-tag-2-150x150.jpg
 ---
 
-![](/wp-content/uploads/2011/03/wow-classes-dog-tag-2-150x150.jpg)Mi-a aruncat săptămâna trecută **Chinezu o leapșă interesantă** , și anume ce fac eu atunci când vreau să mă dez-internetizez. Înainte să trec la soluțiile în sine, trebuie să menționez că de vreo 1 an și ceva am reușit să respect un program foarte bun de dezintoxicare cu internet și rețelele sociale seara și în weekend.
+Mi-a aruncat săptămâna trecută **Chinezu o leapșă interesantă** , și anume ce fac eu atunci când vreau să mă dez-internetizez. Înainte să trec la soluțiile în sine, trebuie să menționez că de vreo 1 an și ceva am reușit să respect un program foarte bun de dezintoxicare cu internet și rețelele sociale seara și în weekend.
 
 Lucrez zilnic cu internetul și cu varii rețele sociale, așa că în timpul zilei nu prea am ce să fac ca să **mă dezinternetizez**. Pur și simplu depind de el, îmi câștig pâinea cu el, deci minim 8 ore sunt conectat. Deși nu pare, treaba asta e un lucru bun, pentru că pur și simplu nu îmi mai vine, după ce părăsesc biroul, să mă pun imediat pe altă conexiune de internet și să rămân online.
 

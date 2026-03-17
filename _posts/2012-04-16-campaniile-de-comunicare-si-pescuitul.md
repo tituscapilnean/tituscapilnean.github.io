@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2012/04/6615532-0-large-150x150.jpg
 ---
 
-[![](/wp-content/uploads/2012/04/6615532-0-large-150x150.jpg)](/wp-content/uploads/2012/04/6615532-0-large.jpg)În vremuri în care toată lumea stă cu mielul pe masă mie îmi zboară mintea la pește, deși cine mă cunoaște știe că nu sunt un mare mâncător de viețuitoare acvatice. Nu m-am apucat de vreo pasiune nouă, ci mă gândeam la modul în care ar trebui să fie făcută o campanie de comunicare ca la carte.
+[](/wp-content/uploads/2012/04/6615532-0-large.jpg)În vremuri în care toată lumea stă cu mielul pe masă mie îmi zboară mintea la pește, deși cine mă cunoaște știe că nu sunt un mare mâncător de viețuitoare acvatice. Nu m-am apucat de vreo pasiune nouă, ci mă gândeam la modul în care ar trebui să fie făcută o campanie de comunicare ca la carte.
 
 Din start, ai două posibilități:
 

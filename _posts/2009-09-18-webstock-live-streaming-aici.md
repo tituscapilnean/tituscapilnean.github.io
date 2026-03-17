@@ -10,7 +10,7 @@ author: titus_capilnean
 #   - [iframe] http://assets.whispercast.ro/player/events/player.html?event_id=2009_09_WebStock
 ---
 
-[![webstock](/wp-content/uploads/2009/09/webstock.jpg)](/wp-content/uploads/2009/09/webstock.jpg)
+[](/wp-content/uploads/2009/09/webstock.jpg)
 
 _Webstock_
 

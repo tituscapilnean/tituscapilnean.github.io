@@ -2,7 +2,7 @@
 title: Take the meeting after doing due diligence for VC expertise
 date: 2019-09-04 10:00:00 +0800
 categories: [English, Startups]
-tags: [strategy, venture capital]
+tags: [strategy, venture-capital]
 author: titus_capilnean
 ---
 

@@ -37,49 +37,49 @@ Radu ne-a povestit despre experiețele lui cu fotografia prin alte țări și de
 
 Am aflat și despre marea regulă a treimilor, regulă care te ajută să încadrezi o poză cât de cât decent., iar George ne-a arătat câteva lucrări ale lui Henri Cartier – Bresson, Martin Parr, Miroslav Tichy, Kevin van Aelst, Michael Wesley, Egyed Ufo Zoltan, Jamie Beck, și Marian Pislaru, așa pentru inspirație.
 
-[![](/wp-content/uploads/2012/10/image-150x150.jpg)](/2012/10/fotografii-mai-bune-cu-scoalaf64/image-3/)
+[](/2012/10/fotografii-mai-bune-cu-scoalaf64/image-3/)
 
-[![](/wp-content/uploads/2012/10/photo-150x150.jpg)](/2012/10/fotografii-mai-bune-cu-scoalaf64/photo-10/)
+[](/2012/10/fotografii-mai-bune-cu-scoalaf64/photo-10/)
 
-[![](/wp-content/uploads/2012/10/treimi-150x150.jpg)](/2012/10/fotografii-mai-bune-cu-scoalaf64/treimi/)
+[](/2012/10/fotografii-mai-bune-cu-scoalaf64/treimi/)
 
-[![](/wp-content/uploads/2012/10/DSC03819-150x150.jpg)](/2012/10/fotografii-mai-bune-cu-scoalaf64/dsc03819/)
+[](/2012/10/fotografii-mai-bune-cu-scoalaf64/dsc03819/)
 
-[![](/wp-content/uploads/2012/10/DSC03826-150x150.jpg)](/2012/10/fotografii-mai-bune-cu-scoalaf64/dsc03826/)
+[](/2012/10/fotografii-mai-bune-cu-scoalaf64/dsc03826/)
 
-[![](/wp-content/uploads/2012/10/DSC03830-150x150.jpg)](/2012/10/fotografii-mai-bune-cu-scoalaf64/dsc03830/)
+[](/2012/10/fotografii-mai-bune-cu-scoalaf64/dsc03830/)
 
-[![](/wp-content/uploads/2012/10/DSC03834-150x150.jpg)](/2012/10/fotografii-mai-bune-cu-scoalaf64/dsc03834/)
+[](/2012/10/fotografii-mai-bune-cu-scoalaf64/dsc03834/)
 
-[![](/wp-content/uploads/2012/10/DSC03836-150x150.jpg)](/2012/10/fotografii-mai-bune-cu-scoalaf64/dsc03836/)
+[](/2012/10/fotografii-mai-bune-cu-scoalaf64/dsc03836/)
 
-[![](/wp-content/uploads/2012/10/DSC03843-150x150.jpg)](/2012/10/fotografii-mai-bune-cu-scoalaf64/dsc03843/)
+[](/2012/10/fotografii-mai-bune-cu-scoalaf64/dsc03843/)
 
-[![](/wp-content/uploads/2012/10/DSC03844-150x150.jpg)](/2012/10/fotografii-mai-bune-cu-scoalaf64/dsc03844/)
+[](/2012/10/fotografii-mai-bune-cu-scoalaf64/dsc03844/)
 
-[![](/wp-content/uploads/2012/10/DSC03855-150x150.jpg)](/2012/10/fotografii-mai-bune-cu-scoalaf64/dsc03855/)
+[](/2012/10/fotografii-mai-bune-cu-scoalaf64/dsc03855/)
 
-[![](/wp-content/uploads/2012/10/DSC03857-150x150.jpg)](/2012/10/fotografii-mai-bune-cu-scoalaf64/dsc03857/)
+[](/2012/10/fotografii-mai-bune-cu-scoalaf64/dsc03857/)
 
-[![](/wp-content/uploads/2012/10/DSC03865-150x150.jpg)](/2012/10/fotografii-mai-bune-cu-scoalaf64/dsc03865/)
+[](/2012/10/fotografii-mai-bune-cu-scoalaf64/dsc03865/)
 
-[![](/wp-content/uploads/2012/10/DSC03867-150x150.jpg)](/2012/10/fotografii-mai-bune-cu-scoalaf64/dsc03867/)
+[](/2012/10/fotografii-mai-bune-cu-scoalaf64/dsc03867/)
 
-[![](/wp-content/uploads/2012/10/DSC03871-150x150.jpg)](/2012/10/fotografii-mai-bune-cu-scoalaf64/dsc03871/)
+[](/2012/10/fotografii-mai-bune-cu-scoalaf64/dsc03871/)
 
-[![](/wp-content/uploads/2012/10/DSC03872-150x150.jpg)](/2012/10/fotografii-mai-bune-cu-scoalaf64/dsc03872/)
+[](/2012/10/fotografii-mai-bune-cu-scoalaf64/dsc03872/)
 
-[![](/wp-content/uploads/2012/10/DSC03880-150x150.jpg)](/2012/10/fotografii-mai-bune-cu-scoalaf64/dsc03880/)
+[](/2012/10/fotografii-mai-bune-cu-scoalaf64/dsc03880/)
 
-[![](/wp-content/uploads/2012/10/DSC03881-150x150.jpg)](/2012/10/fotografii-mai-bune-cu-scoalaf64/dsc03881/)
+[](/2012/10/fotografii-mai-bune-cu-scoalaf64/dsc03881/)
 
-[![](/wp-content/uploads/2012/10/DSC03890-150x150.jpg)](/2012/10/fotografii-mai-bune-cu-scoalaf64/dsc03890/)
+[](/2012/10/fotografii-mai-bune-cu-scoalaf64/dsc03890/)
 
-[![](/wp-content/uploads/2012/10/DSC03891-150x150.jpg)](/2012/10/fotografii-mai-bune-cu-scoalaf64/dsc03891/)
+[](/2012/10/fotografii-mai-bune-cu-scoalaf64/dsc03891/)
 
-[![](/wp-content/uploads/2012/10/DSC03892-150x150.jpg)](/2012/10/fotografii-mai-bune-cu-scoalaf64/dsc03892/)
+[](/2012/10/fotografii-mai-bune-cu-scoalaf64/dsc03892/)
 
-[![](/wp-content/uploads/2012/10/DSC03898-150x150.jpg)](/2012/10/fotografii-mai-bune-cu-scoalaf64/dsc03898/)
+[](/2012/10/fotografii-mai-bune-cu-scoalaf64/dsc03898/)
 
 Pentru practică, am fost până sus la capătul telegondolei din Azuga, apoi prin pădure, pe un drum forestier, către cabana Susai, unde ne-am oprit pentru un ultim popas înainte de drumul pe DN1 înapoi spre Sinaia.
 

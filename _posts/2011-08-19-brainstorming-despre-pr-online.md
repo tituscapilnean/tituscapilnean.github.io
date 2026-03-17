@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/08/1-150x150.jpg
 ---
 
-![](/wp-content/uploads/2011/08/1-150x150.jpg)…sau mai bine zis blogstorming. Vă rog să mă ajutați un pic cu câteva idei.
+…sau mai bine zis blogstorming. Vă rog să mă ajutați un pic cu câteva idei.
 
 În perioada următoare încep cercetările pentru o lucrare despre PR și Marketing Online în România, mai precis în sectorul IMM-urilor. Înainte să mă apuc de treabă întreb aici pe blog – **Care sunt cele mai mari probleme/provocări în PR-ul online sau în prezența online a unei companii mici sau medii?**
 

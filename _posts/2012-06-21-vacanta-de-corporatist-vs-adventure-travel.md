@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2012/06/2038-all-inclusive-150x150.jpg
 ---
 
-[![](/wp-content/uploads/2012/06/2038-all-inclusive-150x150.jpg)](/wp-content/uploads/2012/06/2038-all-inclusive.jpg)Se știe că marea masă a corporatiștilor, când nu merge în vamă, la hipstăreală, merge la all-inclusive în Bulgaria, Grecia sau Turcia. Cei mai avuți merg în alte all-inclusive-uri în Rep. Dominicană, Cuba sau Jamaica. Acolo totul e asigurat, superlux, mâncare la botul calului, ce să mai, de vis. Asta e pe de-o parte.
+[](/wp-content/uploads/2012/06/2038-all-inclusive.jpg)Se știe că marea masă a corporatiștilor, când nu merge în vamă, la hipstăreală, merge la all-inclusive în Bulgaria, Grecia sau Turcia. Cei mai avuți merg în alte all-inclusive-uri în Rep. Dominicană, Cuba sau Jamaica. Acolo totul e asigurat, superlux, mâncare la botul calului, ce să mai, de vis. Asta e pe de-o parte.
 
 Pe de altă parte, există o categorie de oameni altfel. Ei vor vacanțe combinate cu aventură, vor să vadă peșteri, să se dea pe coclauri, să facă scufundări, să meargă la cort, să experimenteze micile atracții locale, mâncarea sau băutura, fără să le aleagă dintr-un meniu. Nici nu trebuie să mergi prea departe ca să te delectezi cu senzații noi – Doru, Andrei, Ivo și Mircea pleacă în Balcaniadă.
 

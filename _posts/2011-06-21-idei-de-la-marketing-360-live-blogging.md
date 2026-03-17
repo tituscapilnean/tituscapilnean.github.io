@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/06/marketing360_feat-150x150.jpg
 ---
 
-[![](/wp-content/uploads/2011/06/marketing360_feat-150x150.jpg)](/2011/06/idei-de-la-marketing-360-live-blogging/marketing360_feat/)Azi sunt toată ziua la **Marketing 360** , conferință organizată de Manafu&Co(Evensys) și o să captez pe blog toate ideile bune pe care le aud aici. Tot ce trebuie să faci este să dai refresh din când în când și vor apărea informații noi.
+[](/2011/06/idei-de-la-marketing-360-live-blogging/marketing360_feat/)Azi sunt toată ziua la **Marketing 360** , conferință organizată de Manafu&Co(Evensys) și o să captez pe blog toate ideile bune pe care le aud aici. Tot ce trebuie să faci este să dai refresh din când în când și vor apărea informații noi.
 
 > Marketing 360 este cea mai importanta conferinta locala de marketing si advertising, ce reuneste profesionisti locali si internationali in marketing, advertising, online si research. Va invitam la o serie de conferinte si seminarii despre noile oportunitati de promovare in contextul mediului de afaceri actual.
 

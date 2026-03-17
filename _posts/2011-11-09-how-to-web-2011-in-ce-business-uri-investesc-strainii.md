@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/11/how-to-web-2010-logo-400x271.jpg
 ---
 
-[![](/wp-content/uploads/2010/11/how-to-web-2010-logo-400x271.jpg)](/wp-content/uploads/2010/11/how-to-web-2010-logo.jpg)Deși ajung un pic mai târziu la How To Web, deja mi-am făcut temele și vreau să aflu în ce investesc străinii capitalul, care e profilul afacerilor, maturitatea lor, la ce se uită, ce condiții trebuie să îndeplinești pentru un aport de capital.
+[](/wp-content/uploads/2010/11/how-to-web-2010-logo.jpg)Deși ajung un pic mai târziu la How To Web, deja mi-am făcut temele și vreau să aflu în ce investesc străinii capitalul, care e profilul afacerilor, maturitatea lor, la ce se uită, ce condiții trebuie să îndeplinești pentru un aport de capital.
 
 Până ajung, citește mai multe despre [How To Web aici](/2011/09/how-to-web-2011-bigger-longer-and-uncut/) și vizitează ceilalți bloggeri oficiali(pe care îi găsești [aici](/2011/10/5-bloggeri-romani-la-how-to-web-2011/)).
 

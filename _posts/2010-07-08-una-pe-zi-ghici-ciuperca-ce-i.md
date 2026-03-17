@@ -8,7 +8,6 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/07/1269913896_13-most-unique-and-smartest-ads-you-ve-never-seen.jpg
 ---
 
-![](/wp-content/uploads/2010/07/1269913896_13-most-unique-and-smartest-ads-you-ve-never-seen.jpg)
 
 Asta e una din reclamele la care trebuie să fi avut experienţe similare anterioare, cu aripioare sau shaorme. Nu zic mai multe pe front page, te las să te prinzi singur.
 

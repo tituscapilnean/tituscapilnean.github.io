@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/01/expert-150x150.png
 ---
 
-[![](/wp-content/uploads/2011/01/expert-150x150.png)](/wp-content/uploads/2011/01/expert.png)N-am putut să mă abțin să scriu nu despre subiectul ăsta, de care mă simt destul de aproape.
+[](/wp-content/uploads/2011/01/expert.png)N-am putut să mă abțin să scriu nu despre subiectul ăsta, de care mă simt destul de aproape.
 
 Însă nu vreau să mai vorbesc despre bani, experiență, bla bla despre protofolii și campanii, ci despre cum îți dai seama că nu ești expert și n-ar trebui să îți treci titulatura asta pe conturile de online și, mai rău, pe CV-urile pe care le trimiți.
 

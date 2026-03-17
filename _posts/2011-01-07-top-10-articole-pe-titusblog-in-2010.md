@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/01/micro-bloggingsites2-150x150.jpg
 ---
 
-[![](/wp-content/uploads/2011/01/micro-bloggingsites2-150x150.jpg)](/wp-content/uploads/2011/01/micro-bloggingsites2.jpg)După ce am văzut la Piticu și la Simona articolele care făceau retrospectiva anului trecut pe blog, am zis că ar fi util să mă uit și eu care au fost cele mai citite articole de pe blogul meu.
+[](/wp-content/uploads/2011/01/micro-bloggingsites2.jpg)După ce am văzut la Piticu și la Simona articolele care făceau retrospectiva anului trecut pe blog, am zis că ar fi util să mă uit și eu care au fost cele mai citite articole de pe blogul meu.
 
 Lista arată în felul următor:
 

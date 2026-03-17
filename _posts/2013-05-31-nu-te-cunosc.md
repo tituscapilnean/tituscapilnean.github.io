@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2013/05/32651228-150x150.jpg
 ---
 
-[![32651228](/wp-content/uploads/2013/05/32651228-150x150.jpg)](/2013/05/nu-te-cunosc/attachment/32651228/)Dragă adăugător de prieteni pe Facebook,
+[](/2013/05/nu-te-cunosc/attachment/32651228/)Dragă adăugător de prieteni pe Facebook,
 
 Dragă trimițător de cereri de conectare pe Linkedin,
 

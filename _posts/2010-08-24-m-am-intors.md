@@ -16,7 +16,7 @@ Au făcut o mare bâlbă, numită procedura de impozitare a drepturilor de autor
 
 În altă ordine de idei, o să povestesc aici, dacă o sa am timp de cozi și taxe, despre cât de bine știu turcii să își vândă marfa și cum e mai important să iei 15 lire decât să pierzi 25 sau cum te pot face niște chelneri să te simți bine într-un local departe de a fi deosebit.
 
-[![](/wp-content/uploads/2010/08/gokceada_aydincik_sahili_2-400x300.jpg)](/wp-content/uploads/2010/08/gokceada_aydincik_sahili_2.jpg)
+[](/wp-content/uploads/2010/08/gokceada_aydincik_sahili_2.jpg)
 
 _Revin!_
 

@@ -14,7 +14,7 @@ _Live blogging – refresh pentru update-uri_
 
 **LE:** Mai jos ai evenimentul povestit pas cu pas.
 
-_[![header](/wp-content/uploads/2010/03/header-400x43.jpg)](/wp-content/uploads/2010/03/header.jpg)  
+_[](/wp-content/uploads/2010/03/header.jpg)  
 _
 
 Am ajuns la fix în sala PR Forum de la JW Marriot, după ce am parcurs un fel de labirint prin hotel, direcționați de cam toată lumea care ne vedea. Lăsând lucrurile astea la o parte, intru în pâine cu un mic citat de pe PRForum.ro/2010:
@@ -123,7 +123,7 @@ Workshop – Eficiență și creativitate în campanii de comunicare
 
 **Lansarea Lipton Ice Tea de Zmeură în România**
 
-[![2465-1](/wp-content/uploads/2010/03/2465-1.jpg)](/wp-content/uploads/2010/03/2465-1.jpg)
+[](/wp-content/uploads/2010/03/2465-1.jpg)
 
 > Noul sortiment de Lipton Ice Tea a fost lansat printr-un eveniment care a prezentat beneficiile consumului de ceai: „sursă de antioxidanţi şi flavonoizi”, „fără conservanţi şi fără coloranţi”, zmeura oferă un conţinut bogat în fibre, mangan, fier şi foarte multă vitamina C”.
 
@@ -152,7 +152,7 @@ Amintiri anticipate = așteptările omului față de o experiență viitoare. Oa
 
 Renault – 2009 – întinerirea gamei
 
-[![2009-renault-megane-coupe-2_1600x0w](/wp-content/uploads/2010/03/2009-renault-megane-coupe-2_1600x0w-399x300.jpg)](/wp-content/uploads/2010/03/2009-renault-megane-coupe-2_1600x0w.jpg)
+[](/wp-content/uploads/2010/03/2009-renault-megane-coupe-2_1600x0w.jpg)
 
 Campania a fost contruită pe șablonul de povestire cadru, cu mici povestiri pentru fiecare campanie de lansare a fiecărui model Renault din 2009. Punchline: ”Tata spune că e o mașină nervoasă”(fiica lui Dan Petrescu) – pentru Laguna. Pentru Clio III – povestea a 3 vedete care conduc mașina. Au construit o poveste despre familie și design – film de 15 minute cu lumini și umbre – la conferința de lansare.
 

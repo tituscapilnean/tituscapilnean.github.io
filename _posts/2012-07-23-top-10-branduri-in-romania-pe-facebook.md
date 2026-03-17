@@ -12,6 +12,6 @@ Pentru că întotdeauna lucrurile mai bune vin prima dată ”de afară”, am v
 
 Avem și noi topul paginilor de Facebook din România, Facebrands, însă aștept de la ei să scoată pe blog măcar lunar câte un raport care arată ca mostra de mai jos:
 
-[![](/wp-content/uploads/2012/07/TopFacebook2012RomaniaIunie.png)](/wp-content/uploads/2012/07/TopFacebook2012RomaniaIunie.png)
+[](/wp-content/uploads/2012/07/TopFacebook2012RomaniaIunie.png)
 
 Despre topurile anterioare am mai scris [aici](/2011/11/topul-real-al-brandurilor-romanesti-pe-facebook/) și [aici](/2012/03/cum-s-a-facut-de-ras-daedalus-la-allthingsfacebook/).

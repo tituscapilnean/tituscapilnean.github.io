@@ -36,7 +36,7 @@ E și mai cool faptul că în AFI Palace Cotroceni se deschide un magazin PUMA u
 
 Preview:
 
-[![](/wp-content/uploads/2010/11/Puma-Creative-Factory-Andi-Moisescu-Guess-Who-13-225x300.jpg)](/wp-content/uploads/2010/11/Puma-Creative-Factory-Andi-Moisescu-Guess-Who-13.jpg)
+[](/wp-content/uploads/2010/11/Puma-Creative-Factory-Andi-Moisescu-Guess-Who-13.jpg)
 
 foto Monden.info
 

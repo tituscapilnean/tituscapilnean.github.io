@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/11/professional-blogger_id3720781_size480_2row-150x150.jpg
 ---
 
-[![](/wp-content/uploads/2010/11/professional-blogger_id3720781_size480_2row-150x150.jpg)](/wp-content/uploads/2010/11/professional-blogger_id3720781_size480_2row.jpg)Am pus o întrebare acum vreo 2 săptămâni, care între timp, cu ajutorul cititorilor, s-a transformat în sondaj. Am vrut să ştiu de ce nu comentează lumea pe bloguri în special, însă nu numai. I-am întrebat şi de Facebook, Twitter şi alte reţele de socializare pe care mai au conturi, pentru că, în esenţă, e vorba de acelaşi lucru: **reacții**.
+[](/wp-content/uploads/2010/11/professional-blogger_id3720781_size480_2row.jpg)Am pus o întrebare acum vreo 2 săptămâni, care între timp, cu ajutorul cititorilor, s-a transformat în sondaj. Am vrut să ştiu de ce nu comentează lumea pe bloguri în special, însă nu numai. I-am întrebat şi de Facebook, Twitter şi alte reţele de socializare pe care mai au conturi, pentru că, în esenţă, e vorba de acelaşi lucru: **reacții**.
 
 Mi-a plăcut foarte tare că 63 dintre cititorii mei au răspuns la acest sondaj și m-au ajutat să trag concluzia din titlu:
 

@@ -29,7 +29,7 @@ Pentru stream le **mulțumesc** celor care au avut răbdare cu noi și au înțe
 
 Am pornit să vorbesc despre **unul din candidatele la evenimentul anului** , din punctul meu de vedere(și zic asta cu multe evenimente în spate în ultimele 12 luni, de la care am și scris, de cele mai multe ori). Am **reușit**(echipa) să strângem o mulțime de oameni frumoși, care au ales să își dea o zi pentru idei. Am reușit să **creștem** evenimentul TEDxBucharest **cu 500% față de anul trecut** și am reușit **să aducem 13 oameni extraordinari** , care au dat mai departe din ideile lor către noi, cei din sală și către voi cei care urmăriți acest articol.
 
-[![](/wp-content/uploads/2010/10/D7X_9095-400x266.jpg)](/wp-content/uploads/2010/10/D7X_9095.jpg)
+[](/wp-content/uploads/2010/10/D7X_9095.jpg)
 
 _*foto Alex Spineanu_
 
@@ -37,7 +37,7 @@ Ei, ca și mine, șitu că **ideile se combină, fac copii** , idei noi, mai bun
 
 La TEDxBucharest e foarte, foarte dificil să faci live blogging și să poți surprinde esența discursurilor, pentru că multe din idei trebuie procesate și apoi expuse în text. Am vorbit la TED despre **chimie și cancer, tineri și potențialul lor, telepoziționare, fericire, cultură, design natural, un maraton la Polul Nord, mișcare pentru sănătate, design utilitar, reușite personale, contribuție umanitară și sport extrem, emoții și viață, antreprenoriat social văzut ca model de business sustenabil.**.
 
-[![](/wp-content/uploads/2010/10/D7X_8762-150x150.jpg)](/wp-content/uploads/2010/10/D7X_8762.jpg)Totul a început(ce-i drept cu o mică întârziere, ca să ajungă toată lumea în sală) cu **Raluca van Staden** , inventatoarea unui dispozitiv care poate detecta din timp cancerul, chiar dacă acesta încă nu a început să se manifeste.
+[](/wp-content/uploads/2010/10/D7X_8762.jpg)Totul a început(ce-i drept cu o mică întârziere, ca să ajungă toată lumea în sală) cu **Raluca van Staden** , inventatoarea unui dispozitiv care poate detecta din timp cancerul, chiar dacă acesta încă nu a început să se manifeste.
 
 Ea este inventatoarea anului 2010 pentru că a reușit să vadă ce au văzutși alții, însă a pus elementele ecuației în altă ordine și înarmată cu idei noi. Așa cum poți crea muzică extraordinară la pian, așa poți construi formule chimice destinate salvării a milioane de vieți.
 
@@ -55,7 +55,7 @@ Pe Twitter:
 
 
 
-**[![](/wp-content/uploads/2010/10/D7X_8776-150x150.jpg)](/wp-content/uploads/2010/10/D7X_8776.jpg)Radu Tătucu** i-a urmat Ralucăi pe scenă. El e unul din tinerii români care studiază în străinătate. A făcut facultatea în Statele Unite și acum studiaza la Master la Harvard. 
+**[](/wp-content/uploads/2010/10/D7X_8776.jpg)Radu Tătucu** i-a urmat Ralucăi pe scenă. El e unul din tinerii români care studiază în străinătate. A făcut facultatea în Statele Unite și acum studiaza la Master la Harvard. 
 
 Radu ne-a povestit despre modul în care România ar trebui să se schimbe prin tinerii pe care încă îi are în țară. Noi putem să schimbăm cîte ceva, începând din mediul nostru social și de lucru, continuând apoi cu alegerile pe care le facem în viața de zi cu zi și locurile în care contribuim. 
 
@@ -90,7 +90,7 @@ Pe Twitter:
 
 
 
-**[![](/wp-content/uploads/2010/10/D7X_8796-150x150.jpg)](/wp-content/uploads/2010/10/D7X_8796.jpg)Adrian Stoica** , cercetător la NASA, a intrat în scenă vorbind despre teleprezență și despre cum am micșorat lumea extrem de mult în ultimii ani cu ajutorul tehnologiilor care ne dau voie să ne proiectăm parțial sau total prezența pe diferite puncte ale globului.
+**[](/wp-content/uploads/2010/10/D7X_8796.jpg)Adrian Stoica** , cercetător la NASA, a intrat în scenă vorbind despre teleprezență și despre cum am micșorat lumea extrem de mult în ultimii ani cu ajutorul tehnologiilor care ne dau voie să ne proiectăm parțial sau total prezența pe diferite puncte ale globului.
 
 În sens larg, teleprezența înseamnă telefonul mobil, înseamnă emailul, înseamnă internetul, înseamnă webcam.
 
@@ -109,7 +109,7 @@ Pe Twitter:
 
 
 
-**[![](/wp-content/uploads/2010/10/D7X_8810-150x150.jpg)](/wp-content/uploads/2010/10/D7X_8810.jpg)Eric Weiner** , un reputat reporter și scriitor, a construit un discurs în jurul conceptului de fericire.
+**[](/wp-content/uploads/2010/10/D7X_8810.jpg)Eric Weiner** , un reputat reporter și scriitor, a construit un discurs în jurul conceptului de fericire.
 
 Da, e un subiect important, atâta timp cât majoritatea oamenilor din lume aleargă după fericire, însă nu ajung la ea.
 
@@ -141,7 +141,7 @@ Pe Twitter:
 
 
 
-**[![](/wp-content/uploads/2010/10/D7X_8837-150x150.jpg)](/wp-content/uploads/2010/10/D7X_8837.jpg)Cătălin Ștefănescu** ne-a ținut un discurs, după pauză, despre cultură, definiții și importanța ei în dezvoltarea unui popor și a unei țări.
+**[](/wp-content/uploads/2010/10/D7X_8837.jpg)Cătălin Ștefănescu** ne-a ținut un discurs, după pauză, despre cultură, definiții și importanța ei în dezvoltarea unui popor și a unei țări.
 
 Cultura este mult mai mult decât suma artelor, muzicii sau a literaturii unei țări, este un mod de viață, pe care fiecare țară și popor trebuie să și-l asume și să și-l dezvolte.
 
@@ -163,7 +163,7 @@ Pe Twitter:
 **  
 **
 
-**[![](/wp-content/uploads/2010/10/D7X_8860-150x150.jpg)](/wp-content/uploads/2010/10/D7X_8860.jpg)Adrian Bejan** a ținut cu siguranță cea mai tehnică prezentare de la TEDxBucharest 2010. Ne-a vorbit de legea constructalistă în design, prin analogii și exemple care au ținut loc de descifrare pentru multele formule pe care le-am văzut în discursul lui.
+**[](/wp-content/uploads/2010/10/D7X_8860.jpg)Adrian Bejan** a ținut cu siguranță cea mai tehnică prezentare de la TEDxBucharest 2010. Ne-a vorbit de legea constructalistă în design, prin analogii și exemple care au ținut loc de descifrare pentru multele formule pe care le-am văzut în discursul lui.
 
 Mesajul principal: Mai mare înseamnă mai rapid, totul în natură este relativ și proporțional.
 
@@ -184,7 +184,7 @@ Pe Twitter:
 
 
 
-[![](/wp-content/uploads/2010/10/D7X_8908-150x150.jpg)](/wp-content/uploads/2010/10/D7X_8908.jpg)După prânz și o sesiune de Drum Cafe energizantă, **Andrei Roșu** a urcat pe scenă și ne-a vorbit despre cum a ajuns el, corporatist de meserie, să alerge la maratonul de la Polul Nord.
+[](/wp-content/uploads/2010/10/D7X_8908.jpg)După prânz și o sesiune de Drum Cafe energizantă, **Andrei Roșu** a urcat pe scenă și ne-a vorbit despre cum a ajuns el, corporatist de meserie, să alerge la maratonul de la Polul Nord.
 
 Pentru el, totul a început cu o nevoie de a deven un model de viață pentru fiul lui. Nu vroia ca și cel mic să ajungă să lenevească pe canapea, așa că a decis că trebuie să se schimbe.
 
@@ -211,7 +211,7 @@ Pe Twitter:
 
 
 
-**[![](/wp-content/uploads/2010/10/D7X_8915-150x150.jpg)](/wp-content/uploads/2010/10/D7X_8915.jpg)Magnus Scheving** , the father of ‘Oraselul Lenes’ a urmat pe scenă. A intrat energic, cu multă putere pe scenă. Primele lui mesaje au ținut de faptul că ar trebui să nu ne mai construim atât de multe griji și să se bucurăm mai mult de viață.
+**[](/wp-content/uploads/2010/10/D7X_8915.jpg)Magnus Scheving** , the father of ‘Oraselul Lenes’ a urmat pe scenă. A intrat energic, cu multă putere pe scenă. Primele lui mesaje au ținut de faptul că ar trebui să nu ne mai construim atât de multe griji și să se bucurăm mai mult de viață.
 
 Generația următoare este în fața unui paradox – va trăi mai puțin decât noi, pentru că stilul de viață a devenit din ce în ce mai dăunător pentru om.
 
@@ -239,7 +239,7 @@ Pe Twitter:
 
 
 
-[![](/wp-content/uploads/2010/10/D7X_9000-150x150.jpg)](/wp-content/uploads/2010/10/D7X_9000.jpg)Ne-am întors din pauză și ne-am jucat din nou cu tobele, am energizat lumea și am continuat TEDxBucharest 2010 cu **Mihai Panaitescu** , unul din cei mai tineri si mai talentați designeri români.
+[](/wp-content/uploads/2010/10/D7X_9000.jpg)Ne-am întors din pauză și ne-am jucat din nou cu tobele, am energizat lumea și am continuat TEDxBucharest 2010 cu **Mihai Panaitescu** , unul din cei mai tineri si mai talentați designeri români.
 
 La 24 de ani, Mihai desenează și proiectează mașini pentru Lotus. Totuși, el ne-a vorbit despre o paradigma nouă în design: utilitatea.
 
@@ -260,7 +260,7 @@ Pe Twitter:
 
 
 
-[![](/wp-content/uploads/2010/10/D7X_9013-150x150.jpg)](/wp-content/uploads/2010/10/D7X_9013.jpg)Cea mai atipică prezentare din întreg TEDxBucharest 2010 a avut-o **Nik Halik** , The Thrillionare, omul care și-a făcut la 8 ani o listă de lucruri pe care vrea să și le împlinească.
+[](/wp-content/uploads/2010/10/D7X_9013.jpg)Cea mai atipică prezentare din întreg TEDxBucharest 2010 a avut-o **Nik Halik** , The Thrillionare, omul care și-a făcut la 8 ani o listă de lucruri pe care vrea să și le împlinească.
 
 A reușit 9/10 și încă mai are timp. A ajuns milionar, a ajuns în spațiu, a fost star rock, a luat prânzul pe Titanic, a călătorit în peste 100 de țări, totul pentru că și-a propus și apoi a muncit ca să realizeze fiecare vis.
 
@@ -281,7 +281,7 @@ Pe Twitter:
 
 
 
-[![](/wp-content/uploads/2010/10/D7X_9045-150x150.jpg)](/wp-content/uploads/2010/10/D7X_9045.jpg)Am trecut în extrema cealaltă, la un om care dă totul ca să îi ajute pe alții: **Roland Hermann** , un stomatolog român membru a numeroase expediții umanitare în țări care au nevoie de ajutor în oferirea de asistență medicală pentru locuitori.
+[](/wp-content/uploads/2010/10/D7X_9045.jpg)Am trecut în extrema cealaltă, la un om care dă totul ca să îi ajute pe alții: **Roland Hermann** , un stomatolog român membru a numeroase expediții umanitare în țări care au nevoie de ajutor în oferirea de asistență medicală pentru locuitori.
 
 Roland a pus totul într-o perspectivă foarte interesantă – ei ajută oamenii din toate colțurile lumii, fără fonduri externe, fără echipamente uriașe, ci cu un set de echipamente ultramobile și practicând uneori sporturi extreme ca să ajungă la locurile unde trebuie să intervină.
 
@@ -307,7 +307,7 @@ Pe Twitter:
 
 
 
-[![](/wp-content/uploads/2010/10/D7X_9078-150x150.jpg)](/wp-content/uploads/2010/10/D7X_9078.jpg)După ultima pauză, **Oana Pellea** a impresionat publicul cu sigurul discurs în limba română, în care ne-a povestit despre viziunea ei asupra vieții.
+[](/wp-content/uploads/2010/10/D7X_9078.jpg)După ultima pauză, **Oana Pellea** a impresionat publicul cu sigurul discurs în limba română, în care ne-a povestit despre viziunea ei asupra vieții.
 
 Ăsta e singurul discurs pe care nu pot să îl reproduc. Trebui să vezi înregistrarea pe site.
 
@@ -341,7 +341,7 @@ Pe Twitter:
 
 
 
-[![](/wp-content/uploads/2010/10/D7X_9099-150x150.jpg)](/wp-content/uploads/2010/10/D7X_9099.jpg)Ultimul, dar nu și cel din urmă discurs i-a aparținut lui **Arnoud Raskin** , inventatorul conceptului de școală mobilă, menită să îi educe pe copiii străzii din țările în curs de dezvoltare. La origine designer de produs, Arnoud a dezvoltat conceptul de școală mobilă ca proiect de licență.
+[](/wp-content/uploads/2010/10/D7X_9099.jpg)Ultimul, dar nu și cel din urmă discurs i-a aparținut lui **Arnoud Raskin** , inventatorul conceptului de școală mobilă, menită să îi educe pe copiii străzii din țările în curs de dezvoltare. La origine designer de produs, Arnoud a dezvoltat conceptul de școală mobilă ca proiect de licență.
 
 El a mers în Columbia să lucreze direct cu copiii de pe străzi și s-a lovit de o realitate dură a lipsurilor, a violenței, a drogurilor și a supraviețuirii. Deși la început a fost dificil, totul s-a limpezit când a ajuns la următoarea concluzie:
 
@@ -393,7 +393,7 @@ Pe Twitter:
 
 
 
-[![](/wp-content/uploads/2010/10/D7X_8764-150x150.jpg)](/wp-content/uploads/2010/10/D7X_8764.jpg)Nu în ultimul rând, îi mulțumim lui **Bassam** , care a fost un moderator foarte mișto!
+[](/wp-content/uploads/2010/10/D7X_8764.jpg)Nu în ultimul rând, îi mulțumim lui **Bassam** , care a fost un moderator foarte mișto!
 
 Așa a curs povestea TEDxBucharest 2010. Cel puțin văzută din spatele tastaturii pe care am înroșit-o, stând pe Twitter și publicând pe contul TEDx toată ziua.
 
@@ -403,4 +403,4 @@ Toată ideea este acum ca fiecare dintre cei care citesc articolul ăsta sau alt
 
 Bonus: **ofer o sacoșă cu TEDxBucharest 2010** pentru comentatorul/comentatoarea care îmi spune care este cea mai bună idee pe care și-a extras-o din discursurile vorbitorilor, așa, la primă mână. Comentariile se pot lăsa până pe 25 Octombrie.
 
-[![](/wp-content/uploads/2010/10/photo-400x300.jpg)](/wp-content/uploads/2010/10/photo.jpg)
+[](/wp-content/uploads/2010/10/photo.jpg)

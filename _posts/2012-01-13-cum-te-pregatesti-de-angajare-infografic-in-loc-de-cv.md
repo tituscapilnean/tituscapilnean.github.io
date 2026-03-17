@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2012/01/6344267aab735733b10e718e3638bd3c.jpg
 ---
 
-[![](/wp-content/uploads/2012/01/6344267aab735733b10e718e3638bd3c.jpg)](/wp-content/uploads/2012/01/6344267aab735733b10e718e3638bd3c.jpg)După succesul răsunător al infograficului Facebook Timeline în România, în 2011, am explorat puțin o nișă a infograficelor pe care nu am văzut-o foarte des în primplan – cea a CV-urilor. Fiind criză și locurile de muncă fiind puține, în mod evident, e o bătaie mai mare pe pozițiile deschise, deci concurezi cu alte 10-20-50-100-1000 de CV-uri de fiecare dată când trimiți și îți exprimi intenția de candidatură.
+[](/wp-content/uploads/2012/01/6344267aab735733b10e718e3638bd3c.jpg)După succesul răsunător al infograficului Facebook Timeline în România, în 2011, am explorat puțin o nișă a infograficelor pe care nu am văzut-o foarte des în primplan – cea a CV-urilor. Fiind criză și locurile de muncă fiind puține, în mod evident, e o bătaie mai mare pe pozițiile deschise, deci concurezi cu alte 10-20-50-100-1000 de CV-uri de fiecare dată când trimiți și îți exprimi intenția de candidatură.
 
 Cred că toți, dar ABSOLUT toți hr-ii s-au săturat de CV-ul standard Europass, care nu spune nimic despre personalitatea candidatului, ba din contră spune mai multe de rău decât de bine(evident nu pentru toate pozițiile). 
 

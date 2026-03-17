@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/11/18702_101_001-3W-LED-Indestructible-Light-3C-201x300.jpg
 ---
 
-[![](/wp-content/uploads/2011/11/18702_101_001-3W-LED-Indestructible-Light-3C-201x300.jpg)](/wp-content/uploads/2011/11/18702_101_001-3W-LED-Indestructible-Light-3C.jpg)Da, chiar este, așa că nu te chinui, n-ai cum să îl distrugi. Poți, cel mult, să comentezi și să încerci să îl faci praf. Tot nu o să reușești.
+[](/wp-content/uploads/2011/11/18702_101_001-3W-LED-Indestructible-Light-3C.jpg)Da, chiar este, așa că nu te chinui, n-ai cum să îl distrugi. Poți, cel mult, să comentezi și să încerci să îl faci praf. Tot nu o să reușești.
 
 Acum lăsând gluma la o parte, aseară am fost la reveal-ul campaniei #indestructibila, unde am aflat că VARTA a adus în România lanterna lor indestructibilă(duh).
 

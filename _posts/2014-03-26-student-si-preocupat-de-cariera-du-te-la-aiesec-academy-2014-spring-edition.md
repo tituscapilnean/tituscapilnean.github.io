@@ -18,7 +18,7 @@ Sună bine. **Înscrierile pentru studenţi** sunt deschise până pe 31 Martie,
 
 **Partenerii principali:** P&G, ACCA, Nestlé, Ortec și Link Academy. Evenimentul este susţinut de INTACT Media Group.
 
-[![1904057_655340947835114_1872752826_n](/wp-content/uploads/2014/03/1904057_655340947835114_1872752826_n.jpg)](/2014/03/student-si-preocupat-de-cariera-du-te-la-aiesec-academy-2014-spring-edition/1904057_655340947835114_1872752826_n/)
+[](/2014/03/student-si-preocupat-de-cariera-du-te-la-aiesec-academy-2014-spring-edition/1904057_655340947835114_1872752826_n/)
 
 _Despre AIESEC Bucureşti_
 

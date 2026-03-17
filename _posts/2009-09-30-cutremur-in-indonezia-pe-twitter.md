@@ -11,7 +11,7 @@ author: titus_capilnean
 
 Deși s-a întâmplat acum 30 minute, prima dată au apărut știri pe Twitter despre cutremurul de peste 7 grade pe scara Richter.
 
-[![twitmaptrendcutremur](/wp-content/uploads/2009/09/twitmaptrendcutremur-399x255.jpg)](/wp-content/uploads/2009/09/twitmaptrendcutremur.jpg)
+[](/wp-content/uploads/2009/09/twitmaptrendcutremur.jpg)
 
 de pe Trendsmap.com
 
@@ -25,6 +25,6 @@ Articol: despre cutremurul din Indonezia
 
 Ulterior, s-a mai produs un cutremur și se poate urmări live pe Twitter, sub tagul #indonezia ce se întâmplă în zonă.
 
-[![twittercutremur2](/wp-content/uploads/2009/09/twittercutremur2-400x177.jpg)](/wp-content/uploads/2009/09/twittercutremur2.jpg)
+[](/wp-content/uploads/2009/09/twittercutremur2.jpg)
 
 Cutremurul numărul 2 s-a produs în Padang și a avut magnitudine de **7,9** pe scara Richter

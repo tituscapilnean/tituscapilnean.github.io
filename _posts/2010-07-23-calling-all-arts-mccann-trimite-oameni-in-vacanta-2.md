@@ -16,4 +16,4 @@ Dacă vrei să ajungi la ei, trimite un e-mail la şi rezervă un loc la cazare 
 
 Dacă ştii vreun art/designer care vrea să încerce cazarea McCann, dă-i linkul de la articolul ăsta. O să îţi mulţumească 🙂
 
-[![](/wp-content/uploads/2010/07/image003-213x300.jpg)](/wp-content/uploads/2010/07/image003.jpg)
+[](/wp-content/uploads/2010/07/image003.jpg)

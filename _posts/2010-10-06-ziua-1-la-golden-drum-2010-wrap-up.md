@@ -20,7 +20,7 @@ Mi-am ales câteva campanii pe care le-am considerat că merită să le prezint 
 **Lotus – Umbrella bag**
 
   
-[![Golden Drum](/wp-content/uploads/2010/10/lotusumbrella-400x282.jpg)](/wp-content/uploads/2010/10/lotusumbrella.jpg)
+[](/wp-content/uploads/2010/10/lotusumbrella.jpg)
 
 Campania s-a derulat în China, unde oamenii puteau să își scuture umbrelele în niște saci speciali. În momentul în care sacul se umplea, mesajul campaniei apărea pe suport, atenționând trecătorii despre lipsa apei potabile din multe regiuni din lume.  
 **  
@@ -123,4 +123,4 @@ Concluzia zilei – e criză și campaniile sociale au abundat pe tot parcursul 
 
 Să vedem de mâine încolo ce mai aflăm. Întrebări?
 
-[![](/wp-content/uploads/2010/10/aIMAG0058-226x300.jpg)](/wp-content/uploads/2010/10/aIMAG0058.jpg)
+[](/wp-content/uploads/2010/10/aIMAG0058.jpg)

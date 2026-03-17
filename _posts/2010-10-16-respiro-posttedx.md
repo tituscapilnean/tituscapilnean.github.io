@@ -14,6 +14,6 @@ Pe livestream nici nu știu încă numărul, dar sunt convins că au fost foarte
 
 Am auzit povești foarte faine despre antreprenoriat social, călătorii, responsabilitate, succes și bogăție, fericire, viață, obiective depășite, un maraton polar, cultură și tehnologii avansate.
 
-[![](/wp-content/uploads/2010/10/ddd-316x300.jpg)](/wp-content/uploads/2010/10/ddd.jpg)
+[](/wp-content/uploads/2010/10/ddd.jpg)
 
 Revin.

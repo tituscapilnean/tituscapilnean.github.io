@@ -9,7 +9,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/10/IMG-20111013-00033-e1318592063672-400x189.jpg
 ---
 
-**[![](/wp-content/uploads/2011/10/IMG-20111013-00027-e1318592644111-150x150.jpg)](/wp-content/uploads/2011/10/IMG-20111013-00027.jpg)Stop**. Dacă ai sub 18 ani, închide pagina. Nu, serios. Închide.
+**[](/wp-content/uploads/2011/10/IMG-20111013-00027.jpg)Stop**. Dacă ai sub 18 ani, închide pagina. Nu, serios. Închide.
 
 ——-
 
@@ -27,7 +27,7 @@ Lăsând politica la o parte, am fost foarte plăcut surprins de modul în care 
 
 Lui George îi povesteam chiar la fața locului(mersi de invitație, apropo) despre faptul că lansarea Absolut Blank se înscrie în linia celor mai bune evenimente la care am mai fost, ca blogger([Lansarea Puma Creative Factory din 2010](/2010/11/puma-graffitti-creative-factory-pantofi-sport-personalizati-in-6-saptamani/), [Karting-ul cu bloggeri](/2011/07/cel-mai-bun-sofer-din-grand-prix-ul-blogosferei/)), cu toate că singurul element de interactivitate a fost dat de baruri, unde băutura curgea rânduri după rânduri.
 
-[![](/wp-content/uploads/2011/10/IMG-20111013-00033-e1318592063672-400x189.jpg)](/wp-content/uploads/2011/10/IMG-20111013-00033.jpg)
+[](/wp-content/uploads/2011/10/IMG-20111013-00033.jpg)
 
 Cu toate astea, toată lumea a consumat responsabil, că deh, eram toți artiști,bloggeri, vedete, șefi de agenții, oameni din industria de băuturi alcoolice sau organizatori de evenimente.
 

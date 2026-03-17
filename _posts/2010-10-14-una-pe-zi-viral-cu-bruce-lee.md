@@ -17,5 +17,5 @@ Campania a fost făcută în 2008, când nu erau așa de mulți utilizatori pe F
 
 **Tare, nu?**
 
-**[![](/wp-content/uploads/2010/10/nokia-n96-bruce-lee-accessories-400x266.jpg)](/wp-content/uploads/2010/10/nokia-n96-bruce-lee-accessories.jpg)  
+**[](/wp-content/uploads/2010/10/nokia-n96-bruce-lee-accessories.jpg)  
 **

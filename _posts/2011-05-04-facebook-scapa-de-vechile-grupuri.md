@@ -10,7 +10,7 @@ author: titus_capilnean
 
 Dacă ai intrat recent pe un grup de Facebook, ai văzut asta:
 
-[![](/wp-content/uploads/2011/05/facebookGroups-400x113.jpg)](/2011/05/facebook-scapa-de-vechile-grupuri/facebookgroups/)
+[](/2011/05/facebook-scapa-de-vechile-grupuri/facebookgroups/)
 
 Hai să clarificăm care-i treaba: grupul vechi, atunci când acesta e arhivat, va fi convertit la noul format grupuri. Aproape tot de la grupul vechi va fi disponibil în grupul arhivat, cu câteva excepţii.
 

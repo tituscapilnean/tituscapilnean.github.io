@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/08/6a00d834204f4c53ef00e54f654fe58833-800wi-278x300.jpg
 ---
 
-[![](/wp-content/uploads/2011/08/6a00d834204f4c53ef00e54f654fe58833-800wi-278x300.jpg)](/2011/08/blogosfera-nu-poate-creste-de-micile-scandaluri-intre-bloggeri/6a00d834204f4c53ef00e54f654fe58833-800wi/)N-am mai zis-o până acum pentru că nu eram sigur cât de mult pot să afecteze percepția clientului scandalurile din blogosferă. Nu contează că ele nu te implică pe tine ca brand/client/produs ci sunt doar o fricțiune minoră între doi sau mai mulți bloggeri.
+[](/2011/08/blogosfera-nu-poate-creste-de-micile-scandaluri-intre-bloggeri/6a00d834204f4c53ef00e54f654fe58833-800wi/)N-am mai zis-o până acum pentru că nu eram sigur cât de mult pot să afecteze percepția clientului scandalurile din blogosferă. Nu contează că ele nu te implică pe tine ca brand/client/produs ci sunt doar o fricțiune minoră între doi sau mai mulți bloggeri.
 
 Contează că se întâmplă și că oamenii cu mai puțină experiență în relația cu bloggerii pot să se sperie ușor de conflictele de genul ăsta. Reacția e de ”dacă se supără și pe mine și mă dă pe blog, ce mă fac?”. Și treaba asta nu vine de la account/executive, ci poate să vină de mai sus și atunci, dacă ai dat-o de gard într-o campanie/ai dat cu un alt blogger de pământ, s-ar putea să nu mai vezi campanii de la un anumit segment de client.
 

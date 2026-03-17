@@ -9,7 +9,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2014/02/Wiad-37_audienta-400x266.jpg
 ---
 
-[![WIAD-event-agenda-01-570x407](/wp-content/uploads/2014/02/WIAD-event-agenda-01-570x407-150x150.png)](/2014/02/world-information-architecture-day-in-romania/wiad-event-agenda-01-570x407/)Pe 15 februarie, la cafeneaua Tete-a-Tete din București, Grapefruit organizează ediția românească a World Information Architecture Day, eveniment inițiat, la nivel internațional, de Information Architecture Institute (SUA) și se desfășoară simultan în 25 de orașe și 15 țări. Tema de anul ăsta este **modificarea comportamentului utilizatorilor prin UX, strategii de conținut și arhitectura informației (cu studii de caz).**
+[](/2014/02/world-information-architecture-day-in-romania/wiad-event-agenda-01-570x407/)Pe 15 februarie, la cafeneaua Tete-a-Tete din București, Grapefruit organizează ediția românească a World Information Architecture Day, eveniment inițiat, la nivel internațional, de Information Architecture Institute (SUA) și se desfășoară simultan în 25 de orașe și 15 țări. Tema de anul ăsta este **modificarea comportamentului utilizatorilor prin UX, strategii de conținut și arhitectura informației (cu studii de caz).**
 
 Organizatorii așteaptă **120 de participanți** (project și product manageri din companii, experți în marketing și digital, generatori de conținut, designeri sau copywriteri).  __
 
@@ -23,7 +23,7 @@ Până la urmă, un proiect digital fără o arhitectură clară a informației 
 
 Mai jos am publicat rezumatul prezentărilor de la WIAD 2014 – România, unde, din păcate, lipsa tehnologiei de teleportare m-a împiedicat să ajung 🙂
 
-[![Wiad-37_audienta](/wp-content/uploads/2014/02/Wiad-37_audienta-400x266.jpg)](/2014/02/world-information-architecture-day-in-romania/wiad-37_audienta/)
+[](/2014/02/world-information-architecture-day-in-romania/wiad-37_audienta/)
 
 > Pentru a demonstra importanța arhitecturii informaționale (AI) și a conținutului în orice situație, membrii Grapefruit au propus o **soluție online de completare a Declarației 200** de la Agenția Națională de Administrare Fiscală (ANAF). Formularul tipărit a fost reorganizat din punct de vedere al AI, astfel încât completarea acestuia să fie mai ușor de făcut de către persoane care nu dețin noțiuni juridice avansate sau de fiscalitate. Cu ajutorul noii soluții, utilizatorii primesc informații și exemple concrete, afișate în mod **contextual**. Prototipul prezentat la WIAD 2014 beneficiază de **responsive design** , fapt care îl face ușor de accesat de pe mobil și tabletă. Formularul este disponibil online la adresa www.d200.grapefruit.ro și **poate fi tipărit, semnat și depus la ANAF**.
 > 

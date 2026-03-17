@@ -36,7 +36,6 @@ Fie el în stare naturală, fie faker, PETistul este una din cele mai întâlnit
 
 Acum să vedem dacă poți să identifici corect un PETist:
 
-![](/wp-content/uploads/2010/06/img_01481-400x300.jpg)
 
 Lasă un comentariu cu părerea ta – **PETist autentic sau faker?**
 

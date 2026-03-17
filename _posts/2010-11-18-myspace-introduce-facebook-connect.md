@@ -21,6 +21,6 @@ Deci și mai mult conținut pentru Facebook.
 
 Cum îți dai seama că o rețea socială va fi înghițită de Facebook?
 
-[![](/wp-content/uploads/2010/11/myspace-305x300.jpg)](/wp-content/uploads/2010/11/myspace.jpg)
+[](/wp-content/uploads/2010/11/myspace.jpg)
 
 Când acceptă așa ceva.

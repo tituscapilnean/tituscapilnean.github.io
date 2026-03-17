@@ -9,7 +9,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/07/IMG_20110713_155704-400x300.jpg
 ---
 
-[![](/wp-content/uploads/2011/07/evz_ro_-__cel_mai_bun_portal_de_stiri_.jpg)](/2011/07/interviu-in-evenimentul-zilei-cum-isi-pot-spori-companiile-numarul-de-fani-pe-facebook/evz_ro_-__cel_mai_bun_portal_de_stiri_/)Săptămâna trecută am răspuns la câteva întrebări pentru un articol în Evenimentul Zilei, despre Facebook. Am apărut atât online, cât și în print(pe **12 Iulie**).
+[](/2011/07/interviu-in-evenimentul-zilei-cum-isi-pot-spori-companiile-numarul-de-fani-pe-facebook/evz_ro_-__cel_mai_bun_portal_de_stiri_/)Săptămâna trecută am răspuns la câteva întrebări pentru un articol în Evenimentul Zilei, despre Facebook. Am apărut atât online, cât și în print(pe **12 Iulie**).
 
 Sper să văd din ce în ce mai des citate și de la oameni din online, nu doar de la A-listeri și șefi de agenții.
 
@@ -31,4 +31,4 @@ iar aici poți citi tot articolul.
 
 p.s. și varianta de print:
 
-[![](/wp-content/uploads/2011/07/IMG_20110713_155704-400x300.jpg)](/2011/07/interviu-in-evenimentul-zilei-cum-isi-pot-spori-companiile-numarul-de-fani-pe-facebook/img_20110713_155704/) Articolul din Evenimentul Zilei, in care am aparut
+[](/2011/07/interviu-in-evenimentul-zilei-cum-isi-pot-spori-companiile-numarul-de-fani-pe-facebook/img_20110713_155704/) Articolul din Evenimentul Zilei, in care am aparut

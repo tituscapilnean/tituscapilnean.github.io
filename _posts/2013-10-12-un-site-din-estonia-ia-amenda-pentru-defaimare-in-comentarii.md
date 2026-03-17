@@ -14,7 +14,7 @@ Inclusiv (aș zice, mai ales) comentariile anonime se încadrează aici.
 
 Problema ridicată de curte este că site-ul DELFI a fost pasiv și permisiv față de niște comportamente evident malițioase la adresa companiei în discuție.
 
-[![delfi](/wp-content/uploads/2013/10/delfi-394x300.png)](/2013/10/un-site-din-estonia-ia-amenda-pentru-defaimare-in-comentarii/delfi/)
+[](/2013/10/un-site-din-estonia-ia-amenda-pentru-defaimare-in-comentarii/delfi/)
 
 Treaba asta sper **să creeze un precedent pentru toate site-urile de știri din Europa** și, prin urmare, **din România** , pentru că zona de comentarii a ajuns să fie un spațiu de spam, minciună, violență verbală și propagandă. Violența verbală, diseminarea de informații false și spam-ul ar trebui să fie **filtrate de TOATE site-urile** , prin lege, indiferent de afiliere.
 

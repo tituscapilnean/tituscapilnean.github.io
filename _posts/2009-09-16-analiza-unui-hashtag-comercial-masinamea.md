@@ -28,7 +28,7 @@ Tipul ăsta de evoluţie se datorează faptului că oamenii cel mai probabili s�
 
 Am analizat cele 215 tweets şi am extras 138 de răspunsuri în care utilizatorii declarau marca şi modelul maşinii lor. Pe baza acestor date a reieşit următorul grafic:
 
-[![maspie](/wp-content/uploads/2009/09/maspie-356x300.jpg)](/wp-content/uploads/2009/09/maspie.jpg)
+[](/wp-content/uploads/2009/09/maspie.jpg)
 
 Top 5(e un fel de top 3, pentru că locurile 2 şi 3 au câte doi ocupanţi) arată în felul următor:
 
@@ -46,11 +46,11 @@ Cea mai extravagantă maşină a fost de departe Infinity-ul, fiind, alături de
 
 @PIA_romania a şi oferit nişte premii pentru câţiva respondenţi. Premiile sunt, la alegere:
 
-[![VW Motorsport Cap](/wp-content/uploads/2009/09/VW-Motorsport-Cap.jpg)](/wp-content/uploads/2009/09/VW-Motorsport-Cap.jpg)
+[](/wp-content/uploads/2009/09/VW-Motorsport-Cap.jpg)
 
 – şapcă branded Audi , VW , Skoda sau Seat + ultimul număr din revista **Audi Magazine, AutoEmocion**
 
-[![povestea_unei_pasiuni](/wp-content/uploads/2009/09/povestea_unei_pasiuni-317x300.jpg)](/wp-content/uploads/2009/09/povestea_unei_pasiuni.jpg)
+[](/wp-content/uploads/2009/09/povestea_unei_pasiuni.jpg)
 
 – cartea **“Povestea unei pasiuni” – Istoria Volkswagen** \+ ultimul număr din revista **Audi Magazine, AutoEmocion**
 

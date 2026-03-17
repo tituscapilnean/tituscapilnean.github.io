@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/11/how-to-web-2010-logo-150x150.jpg
 ---
 
-[![](/wp-content/uploads/2010/11/how-to-web-2010-logo-150x150.jpg)](/wp-content/uploads/2010/11/how-to-web-2010-logo.jpg)Am văzut de dimineaţă, pe Twitter, că se înghesuie lumea la How To Web să facă live blogging.
+[](/wp-content/uploads/2010/11/how-to-web-2010-logo.jpg)Am văzut de dimineaţă, pe Twitter, că se înghesuie lumea la How To Web să facă live blogging.
 
 N-am ajuns la eveniment, aşa că le dau linkuri cu mare drag. Dar înainte de asta, hai să contextualizăm un pic evenimentul, pentru că niciunul dintre bloggerii care scriu live de acolo n-a pus o introducere în care să povestească puţin despre ce e vorba în eveniment:
 

@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2009/09/black-ppt-logo.jpg
 ---
 
-[![black-ppt-logo](/wp-content/uploads/2009/09/black-ppt-logo.jpg)](/wp-content/uploads/2009/09/black-ppt-logo.jpg)
+[](/wp-content/uploads/2009/09/black-ppt-logo.jpg)
 
 După fix o lună de la eveniment, TEDxBucharest se poate vedea și pe internet. Am urcat clipurile prelucrate unul câte unu, ca să puteți să vedeți înregistrarea ideilor transmise de vorbitori în ziua de 16 Octombrie 2009.  
 Dacă vreți să retrăiți TEDxBucharest la toată intensitatea lui, luați-vă o zi, un bol mare de popcorn, suc, un pix și o foaie și urmăriți clip cu clip. Experiența de la fața locului poate fi simulată cu ajutorul agendei de mai jos – așa s-au întâmplat lucrurile la TEDxBucharest.

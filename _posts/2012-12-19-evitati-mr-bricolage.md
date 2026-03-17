@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2012/12/mr_Bricolge-150x150.jpg
 ---
 
-[![](/wp-content/uploads/2012/12/mr_Bricolge-150x150.jpg)](/2012/12/evitati-mr-bricolage/mr_bricolge/)Nu-mi face plăcere să scriu articole de genul ăsta, am mai spus-o și în alte rânduri, dar cred că e necesar ca brandurile să știe și de genul ăsta de feedback.
+[](/2012/12/evitati-mr-bricolage/mr_bricolge/)Nu-mi face plăcere să scriu articole de genul ăsta, am mai spus-o și în alte rânduri, dar cred că e necesar ca brandurile să știe și de genul ăsta de feedback.
 
 Povestea mea cu **Mr. Bricolage (cel din Vitan)** a fost una destul de rece și distantă, rar întâlnindu-ni-se drumurile până ieri, când am asistat la, probabil ultima interacțiune cu ei în magazin. Totul a început cu un set de beculețe de Crăciun cumpărate pe culoarea greșită pe care am vrut să le returnăm. Având în vedere că trăim în secolul 21, pot să presupun cu succes (de cele mai multe ori) că există și o gestiune electronizată și nu trebuie să vin obligatoriu(sic!) cu bonul de casă, cu atât mai mult în forma lui originală și neîntinată de un copiator malefic. Mai mult, dacă vin cu bonul de casă, pot să vin și cu o copie, în cazul în care, spre exemplu, bonul a ajuns la contabilitate, cu factura aferentă. O mai făcusem de atâtea ori la Cora, Bicostore, Carrefour etc.
 

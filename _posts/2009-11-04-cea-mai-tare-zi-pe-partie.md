@@ -12,7 +12,7 @@ Concursul pentru desemnarea **bloggerului oficial Snow Explosion** continua cu t
 
 Daca saptamana trecuta am pus vizualul la incercare, **taskul pentru a doua saptamana** te pune putin la scris. Cautam **cele mai tari zile de partie Read More**
 
-pe ![logo](/wp-content/uploads/2009/11/logo.png)**  
+pe **  
 **
 
 Cazare hotel la cel mai bun pret!

@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/04/media-buying-150x150.jpg
 ---
 
-[![](/wp-content/uploads/2011/04/media-buying-150x150.jpg)](/2011/04/problema-e-la-departamentul-de-marketing-si-comunicare/media-buying/)Prima persoană responsabilă de modul în care o companie se promovează online este chiar omul de marketing/comunicare online din companie, cel care dă comandă, aprobă și modifică toate campaniile online pe care compania le derulează. **Agențiile** sunt, de regulă, **executantele** deciziilor pe care le ia clientul, cu toate că, în mod normal, ar trebui să ofere analiza și expertiza lor în analiza mediaplanului și în alegerea celor mai bune mixuri de bugete.
+[](/2011/04/problema-e-la-departamentul-de-marketing-si-comunicare/media-buying/)Prima persoană responsabilă de modul în care o companie se promovează online este chiar omul de marketing/comunicare online din companie, cel care dă comandă, aprobă și modifică toate campaniile online pe care compania le derulează. **Agențiile** sunt, de regulă, **executantele** deciziilor pe care le ia clientul, cu toate că, în mod normal, ar trebui să ofere analiza și expertiza lor în analiza mediaplanului și în alegerea celor mai bune mixuri de bugete.
 
 Din păcate, in real life, nu se întâmplă întotdeauna așa, iar omul de marketing/comunicare online trebui să fie pregătit **să învețe** și să **ia deciziile** bazate pe proprii indicatori și pe propriile analize, pentru că tot el va ajunge să justifice sumele cheltuite și să prezinte rezultatele campaniilor derulate.
 

@@ -35,18 +35,18 @@ N-a fost [prima întâlnire](/2012/10/ymens-ro-cloud-services-pentru-toti/) cu e
 
 _Foto via Mihai Baboi_
 
-[![](/wp-content/uploads/2012/11/DSC0022-150x150.jpg)](/2012/11/scalabilitate-in-cloud-cu-ymens-si-ibm/_dsc0022/)
+[](/2012/11/scalabilitate-in-cloud-cu-ymens-si-ibm/_dsc0022/)
 
-[![](/wp-content/uploads/2012/11/DSC0035-150x150.jpg)](/2012/11/scalabilitate-in-cloud-cu-ymens-si-ibm/_dsc0035/)
+[](/2012/11/scalabilitate-in-cloud-cu-ymens-si-ibm/_dsc0035/)
 
-[![](/wp-content/uploads/2012/11/DSC0109-150x150.jpg)](/2012/11/scalabilitate-in-cloud-cu-ymens-si-ibm/_dsc0109/)
+[](/2012/11/scalabilitate-in-cloud-cu-ymens-si-ibm/_dsc0109/)
 
-[![](/wp-content/uploads/2012/11/DSC0111-150x150.jpg)](/2012/11/scalabilitate-in-cloud-cu-ymens-si-ibm/_dsc0111/)
+[](/2012/11/scalabilitate-in-cloud-cu-ymens-si-ibm/_dsc0111/)
 
-[![](/wp-content/uploads/2012/11/DSC0082-150x150.jpg)](/2012/11/scalabilitate-in-cloud-cu-ymens-si-ibm/_dsc0082/)
+[](/2012/11/scalabilitate-in-cloud-cu-ymens-si-ibm/_dsc0082/)
 
-[![](/wp-content/uploads/2012/11/DSC0085-150x150.jpg)](/2012/11/scalabilitate-in-cloud-cu-ymens-si-ibm/_dsc0085/)
+[](/2012/11/scalabilitate-in-cloud-cu-ymens-si-ibm/_dsc0085/)
 
-[![](/wp-content/uploads/2012/11/DSC0092-150x150.jpg)](/2012/11/scalabilitate-in-cloud-cu-ymens-si-ibm/_dsc0092/)
+[](/2012/11/scalabilitate-in-cloud-cu-ymens-si-ibm/_dsc0092/)
 
-[![](/wp-content/uploads/2012/11/DSC0101-150x150.jpg)](/2012/11/scalabilitate-in-cloud-cu-ymens-si-ibm/_dsc0101/)
+[](/2012/11/scalabilitate-in-cloud-cu-ymens-si-ibm/_dsc0101/)

@@ -16,4 +16,4 @@ Pentru asta ai nevoie de un client SCP, ca să intri în măruntaiele 3G-ului ş
 
 Mişto reclama, foarte mişto 😀
 
-[![](/wp-content/uploads/2010/08/targetare-400x289.jpg)](/wp-content/uploads/2010/08/targetare.jpg)
+[](/wp-content/uploads/2010/08/targetare.jpg)

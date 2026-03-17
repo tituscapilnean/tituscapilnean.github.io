@@ -36,7 +36,7 @@ Are 8 topicuri de conversație, deschise în legătură cu micile chestii pe car
 
 S-au strâns peste 1100 de poze și peste 1600 de comentarii, cu produse, jocuri, mesaje, autocolante, reviste, albume, jucării și alte scene de care ne amintim 🙂
 
-[![n683138083_2468834_7044600](/wp-content/uploads/2010/01/n683138083_2468834_7044600.jpg)](/wp-content/uploads/2010/01/n683138083_2468834_7044600.jpg)
+[](/wp-content/uploads/2010/01/n683138083_2468834_7044600.jpg)
 
 De exemplu, eu mi-am amintit cu ronțăiam de zor la guma Turbo(aia turcească, cu gust dulce, de la care făceam carii). O făceam cu așa sârg, că reușisem să umplu vreo 2 albume cu autocolante. Vroiam să câștig o jucărie Action Man. Acum copiii nu se mai uită cu așa entuziasm la jucării, ci mai degrabă la jocurile pe calculator sau de pe mobil.
 

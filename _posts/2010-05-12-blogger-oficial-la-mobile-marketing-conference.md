@@ -9,7 +9,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/05/photo52-378x300.jpg
 ---
 
-[![mmc](/wp-content/uploads/2010/05/mmc-400x134.jpg)](/wp-content/uploads/2010/05/mmc.jpg)
+[](/wp-content/uploads/2010/05/mmc.jpg)
 
 Incepand de azi am primit in teste un minunat Nokia N900, cu care trebuie sa ma obisnuiesc sa scriu pana joi, cand o sa fac live blogging de pe el, la Mobile Marketing Conference 2010.
 
@@ -19,7 +19,7 @@ Trebuie sa ii instalez diseara niste aplicatii, sa vad ce poate.
 
 Pana atunci, te las sa imi admiri noua jucarie 🙂
 
-[![Nokia N900](/wp-content/uploads/2010/05/photo52-378x300.jpg)](/wp-content/uploads/2010/05/photo52.jpg)
+[](/wp-content/uploads/2010/05/photo52.jpg)
 
 **Later edit:**
 

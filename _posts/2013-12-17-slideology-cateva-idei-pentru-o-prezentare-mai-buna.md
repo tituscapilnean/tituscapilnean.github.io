@@ -26,7 +26,7 @@ Bine de știut pentru când planifici pregătirea pentru prezentare.
 
 > Use grids to arrange – 3, 4 5 columns, Fibonacci
 > 
-> [![101](/wp-content/uploads/2013/12/101-353x300.jpg)](/2013/12/slideology-cateva-idei-pentru-o-prezentare-mai-buna/attachment/101/)
+> [](/2013/12/slideology-cateva-idei-pentru-o-prezentare-mai-buna/attachment/101/)
 
 Aranjarea în pagină dă bătăi de cap.
 

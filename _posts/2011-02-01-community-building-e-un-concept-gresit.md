@@ -34,19 +34,15 @@ Comunitatea, în sine, este un grup de oameni. Nu se bazează pe produse, brandu
 
 Concret, chestia asta **se reflectă** în câteva dintre produsele și serviciile cu notorietate maximă în lume:
 
-![](/wp-content/uploads/2010/12/facebook_logo-400x150.jpg)
 
 Facebook ajută oamenii să comunice mai bine cu prietenii lor. Ei făceau asta oricum, însă Facebook le-a dat posibilitatea să o facă mai ușor și mai rapid, cu mai mulți oameni. **Rezultatul** – Facebook are 600 milioane de utilizatori.
 
-![](/wp-content/uploads/2011/02/youtube-logo2-400x282.jpg)
 
 Youtube ajută oamenii să se exprime video mult mai ușor, să dea clipurile cu copiii, pisicile și câinii lor către toți prietenii. Dacă înainte mergeai în vizită să vezi caseta de la nuntă sau de la botez, acum te poți duce pe Youtube. **Rezultatul** – Youtube are peste 2 miliarde de vizualizări pe zi pentru clipuri.
 
-![](/wp-content/uploads/2011/02/apple-logo1-248x300.jpg)
 
 Apple satisface simultan nevoia oamenilor de gadget-uri și de accesorii care să le dea un statut social. Îi ajută să fie mai cool cu aparaturi utile și interesante. **Rezultatul** – Apple valorează 25 miliarde de dolari.
 
-![](/wp-content/uploads/2011/02/google_logo1-400x166.jpg)
 
 Google nu și-a propus să reinventeze internetul, în schimb, ei și-au propus să îl organizeze, pe gratis, urmând să facă bani din alte servicii (publicitate contextuală). **Rezultatul** – Google a devenit verb sinonim pentru căutarea pe internet.
 

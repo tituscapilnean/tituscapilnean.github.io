@@ -10,7 +10,7 @@ author: titus_capilnean
 
 Academia Cațavencu și Vodafone s-au sincronizat la vizualuri de data asta.
 
-[![](/wp-content/uploads/2010/10/sesizati-asemanarea-349x300.jpg)](/wp-content/uploads/2010/10/sesizati-asemanarea.jpg)
+[](/wp-content/uploads/2010/10/sesizati-asemanarea.jpg)
 
 Screenshot-ul e luat de pe catavencu.ro. Superb, nu lasă loc de mai multe explicații.
 

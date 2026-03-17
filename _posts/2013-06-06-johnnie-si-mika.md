@@ -9,7 +9,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2013/06/53d41ee4ce1811e283f722000a1fbd91_7-300x300.jpg
 ---
 
-[![294261_10151701349706204_1168350814_n](/wp-content/uploads/2013/06/294261_10151701349706204_1168350814_n-150x150.jpg)](/2013/06/johnnie-si-mika/294261_10151701349706204_1168350814_n/)
+[](/2013/06/johnnie-si-mika/294261_10151701349706204_1168350814_n/)
 
 Ieri l-am văzut live pe unul din oamenii pe care îi urmăream cu sufletul la gură pe circuitele de formula 1, pe vremea când se bătea roată la roată cu Schumacher pentru titlul mondial. Mika Hakkinen, finlandezul dublu campion mondial, a fost în Barletto, după o demonstrație de condus la Băneasa Shopping City, pe care am urmărit-o, din păcate, doar pe Facebook și Instagram.
 
@@ -19,4 +19,4 @@ Pe la eveniment i-am mai văzut pe Victor Ponta (mare pasionat de condus), pe Mi
 
 Cheers!
 
-[![53d41ee4ce1811e283f722000a1fbd91_7](/wp-content/uploads/2013/06/53d41ee4ce1811e283f722000a1fbd91_7-300x300.jpg)](/2013/06/johnnie-si-mika/53d41ee4ce1811e283f722000a1fbd91_7/)
+[](/2013/06/johnnie-si-mika/53d41ee4ce1811e283f722000a1fbd91_7/)

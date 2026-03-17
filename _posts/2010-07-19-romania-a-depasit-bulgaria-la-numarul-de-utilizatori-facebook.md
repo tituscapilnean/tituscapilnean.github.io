@@ -14,7 +14,6 @@ Așa cum am promis, revin cu câteva idei după connect FB, conferința cu și d
 
 Cea mai importantă observație nespusă la connect FB a fost cea din titlu. **România a depășit Bulgaria** la numărul de utilizatori de Facebook, lucru care părea destul de greu de crezut acum 6-7 luni.
 
-![Romania vs Bulgaria Facebook](/wp-content/uploads/2010/07/diferenta-400x153.png)
 
 49\. Romania (RO) | 1 555 360 | 253 360 | 16.29 % |  729 640  |  754 560  | ![User grow: 253 360](http://www.facebakers.com/_data/up.png) | 7 %  
 ---|---|---|---|---|---|---|---  

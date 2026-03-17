@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2012/09/bloggers-blog-150x150.gif
 ---
 
-[![](/wp-content/uploads/2012/09/bloggers-blog-150x150.gif)](/wp-content/uploads/2012/09/bloggers-blog.gif)Chiar în perioada asta sunt la Internet & Mobile World, unde particip ca blogger si nu e primul, nici ultimul eveniment la care particip în calitate de așa ceva.
+[](/wp-content/uploads/2012/09/bloggers-blog.gif)Chiar în perioada asta sunt la Internet & Mobile World, unde particip ca blogger si nu e primul, nici ultimul eveniment la care particip în calitate de așa ceva.
 
 De ceva vreme, în blogosferă, dacă e să o numim așa, umblă zvonul că o serie de bloggeri și influenceri (aici, aici, aici și aici, respectiv aici) nu mai vin și nu mai scriu de evenimente fără bani, respectiv că e nașpa să mergi la evenimente și să scrii de bine, pe gratis.
 

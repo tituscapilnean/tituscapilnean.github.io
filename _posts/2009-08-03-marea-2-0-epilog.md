@@ -25,7 +25,7 @@ Nu puteam sa trec pe la mare fără să nu dau o tură și prin Vama Veche, mai 
 
 Dar, vama e din ce în ce mai schimbată de la an la an, în rău. De exemplu anul ăsta au pus un bancomat.
 
-[![Photo-0084](/wp-content/uploads/2009/08/Photo-0084-400x300.jpg)](/wp-content/uploads/2009/08/Photo-0084.jpg)
+[](/wp-content/uploads/2009/08/Photo-0084.jpg)
 
 Da, un bancomat în Vamă, locul unde mergeai cu banii numărați în buzunar, fără carduri, cecuri de călătorie sau alte conexe. Pe lângă asta, se pare că industria hotelieră din zonă a început să prospere, pentru că e plin mai nou de hoteluri în Vamă, desigur cu colecția de SUV-uri parcate în fața lor.
 

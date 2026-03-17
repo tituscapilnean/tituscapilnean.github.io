@@ -16,7 +16,7 @@ Una peste alta, azi n-am mai ignorat una din invitații și am făcut niște inv
 
 Mai jos am dat un printscreen la grupul cu pricina, pentru nedeținătorii de cont pe Facebook.
 
-[![fbshit](/wp-content/uploads/2010/01/fbshit-400x292.jpg)](/wp-content/uploads/2010/01/fbshit.jpg)
+[](/wp-content/uploads/2010/01/fbshit.jpg)
 
 Așadar, tot ce trebuie să faci ca să obții acea pernă este să trimiți invitații către toți, dar absolut toți prietenii tăi. Bulls**t. Sunt curios dacă va primi cineva ceva vreodată de la ei. Probabil că nu.
 

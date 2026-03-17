@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/01/13655_101263799902012_100000551783066_33405_365111_s.jpg
 ---
 
-[![](/wp-content/uploads/2011/01/13655_101263799902012_100000551783066_33405_365111_s.jpg)](/wp-content/uploads/2011/01/13655_101263799902012_100000551783066_33405_365111_s.jpg)Eclipsa de soare de astăzi a dat naștere unui fenomen natural extrem de interesant. O parte din oamenii cu care trăim în fiecare zi s-au transformat în adevărata lor natură – șerpilieni, reptilieni, balaurieni și vultureni. Din păcate, nu au putut fi fotografiați, pentru că tehnologiile lor speciale nu permit aparatelor foto să captureze formele lor reale.
+[](/wp-content/uploads/2011/01/13655_101263799902012_100000551783066_33405_365111_s.jpg)Eclipsa de soare de astăzi a dat naștere unui fenomen natural extrem de interesant. O parte din oamenii cu care trăim în fiecare zi s-au transformat în adevărata lor natură – șerpilieni, reptilieni, balaurieni și vultureni. Din păcate, nu au putut fi fotografiați, pentru că tehnologiile lor speciale nu permit aparatelor foto să captureze formele lor reale.
 
 Mi-am dat seama de asta uitându-mă în oglindă. Îți mărturisesc aici faptul că sunt vulturian.
 

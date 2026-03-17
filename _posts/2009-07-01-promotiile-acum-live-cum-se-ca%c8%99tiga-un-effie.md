@@ -14,8 +14,7 @@ Live blogging de la Rin Grand Hotel – Conferința Smark despre promoții – p
 
 Speaker – Gabriela Terchilă – Director Proximity
 
-A început cu sala deja pe jumătate goală, asta cred pentru că în România funcționează evenimentele de maxim 4-5 ore, 3 sesiuni. Aici suntem deja la a 4-a sesiune ![:\) ](/wp-content/plugins/ym_smilies/images/yahoo_smiley.gif)
-
+A început cu sala deja pe jumătate goală, asta cred pentru că în România funcționează evenimentele de maxim 4-5 ore, 3 sesiuni. Aici suntem deja la a 4-a sesiune 
 Vodafone
 
 ![](http://www.technotalks.com/wp-content/uploads/2009/02/vodafone-logo.jpg)

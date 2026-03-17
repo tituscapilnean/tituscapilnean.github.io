@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2012/05/1-150x150.jpg
 ---
 
-[![](/wp-content/uploads/2012/05/1-150x150.jpg)](/wp-content/uploads/2012/05/1.jpg)Mă uit la televizor. Prin natura jobului, ajung să trec pe la toate trusturile de mare angajament, ce servesc cu drag și spor spre informarea întregului popor(na că a ieșit!). Fără excepție, cu toții au început să promoveze masiv prezențele pe Facebook. Toți au comunități, toți invită la comentarii.
+[](/wp-content/uploads/2012/05/1.jpg)Mă uit la televizor. Prin natura jobului, ajung să trec pe la toate trusturile de mare angajament, ce servesc cu drag și spor spre informarea întregului popor(na că a ieșit!). Fără excepție, cu toții au început să promoveze masiv prezențele pe Facebook. Toți au comunități, toți invită la comentarii.
 
 Toate bune până aici, încurajează social media, sunt avangardiști, educă poporul să interacționeze cu experții de la TV. Cu toate că au crescut comunitățile pe Facebook, duduie like-urile și share-urile, cresc volumele de comentarii, regiile care vând site-urile trusturilor, managerii trusturilor, IAB-ul vorbesc de stagnare-scădere în piață pentru 2012.
 

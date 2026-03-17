@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/08/less_is_more-150x150.jpg
 ---
 
-[![](/wp-content/uploads/2011/08/less_is_more-150x150.jpg)](/2011/08/un-feedback-pentru-blogalinitiative-ro-campanii-mari-vs-campanii-mici/less_is_more/)Au trecut mai mult de două luni de la lansarea inițiativei lui Chinezu împreună cu Revista Biz(și anume Blogal Intiative) și cred că le-ar prinde bine un mic feedback de la unul din participanții de la prima lor campanie – [BCR Refinanțare](/tag/refinantare/).
+[](/2011/08/un-feedback-pentru-blogalinitiative-ro-campanii-mari-vs-campanii-mici/less_is_more/)Au trecut mai mult de două luni de la lansarea inițiativei lui Chinezu împreună cu Revista Biz(și anume Blogal Intiative) și cred că le-ar prinde bine un mic feedback de la unul din participanții de la prima lor campanie – [BCR Refinanțare](/tag/refinantare/).
 
 N-are rost să intru într-o polologhie despre cât de bine e să implici în campanii( altele decât cele strict de PR) și bloggeri mai mici, dar mai mulți, că treaba asta crește blogosfera și impulsionează oamenii să crească și să scrie mai bine. Asta-i foarte bine și din punctul ăsta salut inițiativa.
 

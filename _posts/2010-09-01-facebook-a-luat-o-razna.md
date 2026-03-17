@@ -10,6 +10,6 @@ author: titus_capilnean
 
 Ieri cam o oră, o oră și ceva, Facebook a fost picat. Nu se mai încărca deloc, ba se încărca pe jumătate, ba rămânea înghețat în diverse stadii. Normal că lumea s-a panicat 🙂 . Și-a revenit între timp, dar nu înainte să livreze niște erori de-a dreptul interesante:
 
-[![](/wp-content/uploads/2010/09/fb-400x218.png)](/wp-content/uploads/2010/09/fb.png)
+[](/wp-content/uploads/2010/09/fb.png)
 
 asta a fost una dintre ele. Ai mai văzut și alte erori de genul ăsta?

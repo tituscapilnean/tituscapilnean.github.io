@@ -16,7 +16,7 @@ Acum ceva vreme în urmă, am scris că în [România nu sunt mai mult de 5% ado
 
 Înainte să intru în pâine cu articolul ăsta, vreau să stabilesc ceva de la început. Există un grafic care a urmărit evoluția principalelor grupe de vârstă pe Twitter și care poate fi folosit să demonteze argumentația e mai jos dacă e privit singuri și superficial:
 
-[![f](/wp-content/uploads/2009/08/f-399x299.gif)](/wp-content/uploads/2009/08/f.gif) sursa businessinsider.com  
+[](/wp-content/uploads/2009/08/f.gif) sursa businessinsider.com  
   
 Pe grafic, putem să vedem cum grupele de vârstă 12-24 și sub 11 ani au crescut din punct de vedere al accesărilor Twitter în ultima vreme, pe când toate celelalte grupe au stagnat sau au scăzut ușor. Graficul este datat pe 26 August, deci e destul de proaspăt. Faptul că grupele de vârstă despre care am zis mai sus au atins comScore 121, înseamnă că au fost cu 21% mai mulți între 12-24 de ani pe Twitter, ca pondere din numărul total, decât ponderea grupei 12-24 pe întreg internetul.
 
@@ -26,13 +26,13 @@ Adevărul despre adolescenții pe Twitter arată însă total diferit decât se 
 
 Nimic mai greșit.
 
-[![eventually_account](/wp-content/uploads/2009/08/eventually_account-400x242.jpg)](/wp-content/uploads/2009/08/eventually_account.jpg)
+[](/wp-content/uploads/2009/08/eventually_account.jpg)
 
 83% din cei care au participat la studiul din SUA nu cred că își vor face cont pe Twitter vreodată. Destul de trist pentru aplicația de 140 de caractere.
 
 Una din obiecțiile argumentațiilor anterioare ar fi fost costul mare al planurilor tarifare de SMS și de internet pe mobil, precum și a unor terminale care să suporte aplicații de Twitter. Studiul a vizat și verificarea obiecției, pe care a demolat-o complet:
 
-[![text_messaging_charges](/wp-content/uploads/2009/08/text_messaging_charges-400x242.jpg)](/wp-content/uploads/2009/08/text_messaging_charges.jpg)
+[](/wp-content/uploads/2009/08/text_messaging_charges.jpg)
 
 **peste 90%** din cei care au răspuns spun că oricum nu ar folosit Twitter, chiar dacă ar fi mai ieftin. de pe mobil să o facă.
 

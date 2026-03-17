@@ -12,7 +12,7 @@ Așa, pe ultima sută de metri, am solicitat și am și primit o invitație _pen
 
 **Despre Webstock:**
 
-[![](/wp-content/uploads/2010/09/webstock-400x103.jpg)](/wp-content/uploads/2010/09/webstock.jpg)
+[](/wp-content/uploads/2010/09/webstock.jpg)
 
 Evenimentul toamnei pentru online-ul românesc și locul în care se trage linie și se vede evoluția pe ultimele 12 luni, Webstock Awards adună anul ăsta aproape 150 de proiecte, printre care Goana după Ovi, în care am fost implicat și eu, și Taurs, un proiect simpatic pentru viitori brokeri.
 

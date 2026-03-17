@@ -15,11 +15,11 @@ Acum 8 luni, [LinkedIn avea aproximativ 280.000 utilizatori](/2010/11/statistici
 
 **Să luăm un exemplu:** Vreau să promovez un produs pentru managerii din România – premium. Am la dispoziție 56.953 de conturi care au trecute la poziție Manager/Partener/Owner etc.
 
-[![](/wp-content/uploads/2011/06/noage-400x257.jpg)](/2011/06/linkedin-in-limba-romana-si-ad-uri-targetate-pentru-romania/noage/)
+[](/2011/06/linkedin-in-limba-romana-si-ad-uri-targetate-pentru-romania/noage/)
 
 Dar nu am selectat o defalcare și pe vârste. Când aleg să țin cont și de vârsta utilizatorului, cu toate că am selectat toate grupele de vârstă, LinkedIn îmi afișează abia 17.901 conturi în target.
 
-[![](/wp-content/uploads/2011/06/withage-400x258.jpg)](/2011/06/linkedin-in-limba-romana-si-ad-uri-targetate-pentru-romania/withage/)
+[](/2011/06/linkedin-in-limba-romana-si-ad-uri-targetate-pentru-romania/withage/)
 
 Eu, dacă aș fi manager responsabil de România la LinkedIn, aș face o **campanie masivă de completare a profilurilor de utilizatori, acum și în limba română, explicându-le beneficiile unui profil complet**. Având în vedere că emailul/mesajele vor fi în limba utilizatorului, ei vor reacționa mai bine decât la mesajele în engleză.
 

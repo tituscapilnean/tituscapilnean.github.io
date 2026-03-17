@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2012/02/Journey-2-The-Mysterious-Island-150x150.jpg
 ---
 
-[![](/wp-content/uploads/2012/02/Journey-2-The-Mysterious-Island-150x150.jpg)](/wp-content/uploads/2012/02/Journey-2-The-Mysterious-Island.jpg)Am fost la avampremiera filmului Călătoria 2 – Insula Misterioasă, o adaptare după poveștile lui Jules Verne. Mersi Oxygen PR pentru invitație, sunteți niște drăguțe, ca întotdeauna. M-am mai întâlnit p-acolo cu Corina, Andra, Arhi și consoarta lui, Bunescu și Roxana.
+[](/wp-content/uploads/2012/02/Journey-2-The-Mysterious-Island.jpg)Am fost la avampremiera filmului Călătoria 2 – Insula Misterioasă, o adaptare după poveștile lui Jules Verne. Mersi Oxygen PR pentru invitație, sunteți niște drăguțe, ca întotdeauna. M-am mai întâlnit p-acolo cu Corina, Andra, Arhi și consoarta lui, Bunescu și Roxana.
 
 Dacă treci peste scenariul ușurel și cei doi actori de balast(o să îți dai seama care cam din prima), filmul e o bijuterie de animații 3D. Da, Vanessa Hudgens arată mișto în 3D.Te poartă într-o lume scoasă din paginile lui Verne, unde ce e mic ajunge să fie mare, iar ce era mare apare ca fiind mic – minirechini, albinoace sau păsăroaie și elefănței.
 

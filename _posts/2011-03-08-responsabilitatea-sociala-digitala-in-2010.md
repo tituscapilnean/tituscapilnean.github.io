@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/03/csr20lightbulbmedium-150x150.jpg
 ---
 
-![](/wp-content/uploads/2011/03/csr20lightbulbmedium-150x150.jpg)Corina m-a invitat acum ceva vreme să scriu despre responsabilitate socială(aka CSR), mai precis ce campanii din 2010 mi-au sărit în ochi. Având în vedere că data limită pentru articole este 14 martie, m-am pus jos, am stat 10 minute și am răspuns la întrebările de mai jos:
+Corina m-a invitat acum ceva vreme să scriu despre responsabilitate socială(aka CSR), mai precis ce campanii din 2010 mi-au sărit în ochi. Având în vedere că data limită pentru articole este 14 martie, m-am pus jos, am stat 10 minute și am răspuns la întrebările de mai jos:
 
 > 1\. Care sunt primele 3 companii pe care le apreciezi cel mai mult pentru cum s-au implicat in societate in 2010 si de ce?
 

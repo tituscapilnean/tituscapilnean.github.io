@@ -16,7 +16,7 @@ Filmul e plin de scene foarte amuzante, are niște povești de dragoste, are bă
 
 Agnes are, din nou, cea mai tare replică din film, când compară capul lui Gru cu un ou din care iese un pui. Priceless.
 
-[![despicable-me-2-picture01](/wp-content/uploads/2013/07/despicable-me-2-picture01-400x214.jpg)](/2013/07/despicable-me-2-2013-sunt-un-ticalos-si-am-minioni-galbeni/despicable-me-2-picture01/)
+[](/2013/07/despicable-me-2-2013-sunt-un-ticalos-si-am-minioni-galbeni/despicable-me-2-picture01/)
 
 Filmul rulează de **vineri, 5 Iunie** , la Cinema City și cred că e un must, fie că ai 5 sau 45 de ani.
 

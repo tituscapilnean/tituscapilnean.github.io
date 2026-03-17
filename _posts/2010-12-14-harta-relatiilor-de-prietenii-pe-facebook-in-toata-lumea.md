@@ -13,7 +13,7 @@ Un intern de la Facebook s-a gândit să folosească sistemul de baze de date(Op
 
 A ieșit imaginea de mai jos:
 
-[![](/wp-content/uploads/2010/12/fb-relationships-full-400x199.jpg)](/wp-content/uploads/2010/12/fb-relationships-full.jpg)
+[](/wp-content/uploads/2010/12/fb-relationships-full.jpg)
 
 Uitându-mă la imagine pot să trag câteva concluzii rapide:
 
@@ -31,4 +31,4 @@ Harta asta seamănă foarte bine cu situația geopolitică din lume, cu SUA și 
 
 Seamănă cumva cu harta electricității:
 
-[![](/wp-content/uploads/2010/12/earthlights_dmsp_big-400x200.jpg)](/wp-content/uploads/2010/12/earthlights_dmsp_big.jpg)
+[](/wp-content/uploads/2010/12/earthlights_dmsp_big.jpg)

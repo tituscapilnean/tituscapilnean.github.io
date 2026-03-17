@@ -9,7 +9,6 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/02/184284_165509403500853_100001253841892_364757_7189451_n-400x295.jpg
 ---
 
-![](/wp-content/uploads/2011/02/brancusi11-hp-400x154.jpg)
 
 > Logo-ul Google cuprinde şapte lucrări realizate de Constantin Brâncuşi.
 > 
@@ -23,4 +22,3 @@ Restul logo-urilor Google de-a lungul timpului le găsești aici.
 
 Pagina de Wikipedia a lui Brâncuși a strâns ieri peste 900.000 de vizualizări:
 
-![](/wp-content/uploads/2011/02/184284_165509403500853_100001253841892_364757_7189451_n-400x295.jpg)

@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/01/2070660933_a000e1582d_o-150x150.jpg
 ---
 
-![](/wp-content/uploads/2011/01/2070660933_a000e1582d_o-150x150.jpg)Acum câteva zile, Vali mi-a împins o leapșă interesantă. Trebuie să scriu ce produse sau ce branduri nu primesc pe blog drept reclamă de orice fel.
+Acum câteva zile, Vali mi-a împins o leapșă interesantă. Trebuie să scriu ce produse sau ce branduri nu primesc pe blog drept reclamă de orice fel.
 
 Treaba asta pare ușoară la prima vedere, însă mi-a dat niște bătăi de cap, până am pus pe listă lucrurile cu care nu vreau să mă asociez pe blogul ăsta. Nici n-am vrut să dau impresia că nu prea poate nimeni să își facă reclamă pe blog, dar nici că e liber la orice. Are și blogul o imagine, ce naiba.
 

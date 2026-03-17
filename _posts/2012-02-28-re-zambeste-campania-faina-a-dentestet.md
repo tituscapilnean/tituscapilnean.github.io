@@ -23,4 +23,4 @@ Dar mai multe despre etapa 2 și etapa 3 la momentul potrivit.
 
 Zâmbiți, vă rog!
 
-[![](/wp-content/uploads/2012/02/smile-400x266.jpg)](/wp-content/uploads/2012/02/smile.jpg)
+[](/wp-content/uploads/2012/02/smile.jpg)

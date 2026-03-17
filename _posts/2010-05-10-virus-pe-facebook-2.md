@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/05/virus-pe-Facebook-400x282.jpg
 ---
 
-[![virus pe Facebook](/wp-content/uploads/2010/05/virus-pe-Facebook-400x282.jpg)](/wp-content/uploads/2010/05/virus-pe-Facebook.jpg)
+[](/wp-content/uploads/2010/05/virus-pe-Facebook.jpg)
 
 Din rubrica “nu dați clickuri pe linkuri suspecte”, îți prezint un nou sample de virus pe Facebook. Probabil că utilizatorului respectiv i s-a spart contul, un bot l-a preluat și de atunci împarte viruși în stânga și în dreapte.
 

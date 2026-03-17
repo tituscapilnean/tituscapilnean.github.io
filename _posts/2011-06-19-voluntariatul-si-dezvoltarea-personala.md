@@ -10,7 +10,7 @@ author: titus_capilnean
 
 > _Cu ocazia studiilor mele de comunicare, am scris un proiect ce conține considerații personale despre influența voluntariatului asupra dezvoltării personale. Nu pun de obicei pe blog lucrări de la facultate, însă, de data asta, am zis că e păcat să îl las să se prăfuiască într-un dosar de grupă._
 
-## [![](/wp-content/uploads/2011/06/volunteer-150x150.jpg)](/2011/06/voluntariatul-si-dezvoltarea-personala/volunteer/)Situația tânărului student în contextul sistemului educațional din România
+## [](/2011/06/voluntariatul-si-dezvoltarea-personala/volunteer/)Situația tânărului student în contextul sistemului educațional din România
 
 Trebuie, înainte de a analiza impactul activității de voluntariat asupra dezvoltării personale, să contextualizăm realitatea studentului, respectiv a tânărului proaspăt absolvent de liceu, moment în care consider că ar trebui, cel târziu, început ciclul de dezvoltare personală conștientă. Acest tânăr este proaspăt ieșit dintr-un mediu hipercompetitiv artificial, bazat pe recunoașterea unor abilități de reproducere și conformare, care nu au nimic de-a face cu creativitatea și inovația de care va avea nevoie mai târziu, atât pe plan personal, cât și pe plan profesional.
 

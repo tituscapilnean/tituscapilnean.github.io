@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2012/11/roi1-240x300.jpg
 ---
 
-[![](/wp-content/uploads/2012/11/roi1-240x300.jpg)](/wp-content/uploads/2012/11/roi1.jpg)Una din marile dispute din PR și comunicare internă este modalitatea prin care se măsoară _Return On Investment_ , acest pocal al tinereții pentru orice comunicator. Săptămâna trecută am fost la evenimentul Mastermind Communication, unde Angela Sinickas, reputat om de comunicare, ne-a povestit depsre câteva idei care răspund la întrebarea: _Ce masuram în activitatea de comunicare?_
+[](/wp-content/uploads/2012/11/roi1.jpg)Una din marile dispute din PR și comunicare internă este modalitatea prin care se măsoară _Return On Investment_ , acest pocal al tinereții pentru orice comunicator. Săptămâna trecută am fost la evenimentul Mastermind Communication, unde Angela Sinickas, reputat om de comunicare, ne-a povestit depsre câteva idei care răspund la întrebarea: _Ce masuram în activitatea de comunicare?_
 
 Așa cum era și normal, am luat-o cu începuturile și ne-am uitat la obiectivele comunicării. Practic, măsori starea inițială, măsori starea finală (dacă a fost atins obiectivul) și tragi concluzii legate de percepție, acceptabilitate sau notorietate.
 

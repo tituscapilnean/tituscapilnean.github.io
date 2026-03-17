@@ -2,7 +2,7 @@
 title: How To Choose The Right Investors for Your Startup - with Examples
 date: 2016-06-13 09:00:00 +0000
 categories: [Startups, Venture Capital, English]
-tags: [branding, entrepreneurs, how to, investors]
+tags: [branding, entrepreneurs, how-to, investors]
 author: titus_capilnean
 ---
 
