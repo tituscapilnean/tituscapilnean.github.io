@@ -14,6 +14,6 @@ Am reuşit să îmi fac timp să aduc la zi [descrierea despre Titus](/despre-ti
 
 Vă dau şi un indiciu.
 
-[![black-ppt-logo](/wp-content/uploads/2009/09/black-ppt-logo.jpg)](/wp-content/uploads/2009/09/black-ppt-logo.jpg)
+[](/wp-content/uploads/2009/09/black-ppt-logo.jpg)
 
 Pe mai târziu 🙂

@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/06/photo7-225x300.jpg
 ---
 
-[![My Burton](/wp-content/uploads/2010/06/photo7-225x300.jpg)](/wp-content/uploads/2010/06/photo7.jpg)Așa am ajuns să îmi car eu aparatul vital – DELL 1555 Studio, cu rezoluția lui de 1920×1080, split screen și alte cele. Dar nu despre el e vorba aici, ci despre recipientul de care am zis și în titlu.
+[](/wp-content/uploads/2010/06/photo7.jpg)Așa am ajuns să îmi car eu aparatul vital – DELL 1555 Studio, cu rezoluția lui de 1920×1080, split screen și alte cele. Dar nu despre el e vorba aici, ci despre recipientul de care am zis și în titlu.
 
 **Burton Emphasis Backpack** e numele lui complet și a fost construit special pentru munte, ca să îți poți lua cu tine laptop-ul pe pârtie(nu că mi-aș da seama cine naiba ar vrea să facă așa ceva).
 

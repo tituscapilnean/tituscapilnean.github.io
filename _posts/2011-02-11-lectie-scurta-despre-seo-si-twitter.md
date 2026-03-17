@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/12/twitter.png
 ---
 
-[![](/wp-content/uploads/2010/12/twitter.png)](/wp-content/uploads/2010/12/twitter.png)_Guest post scris de Dan Brasoveanu, pasionat de internet, web marketing to be more exact. Imi place sa dezbat o idee buna cu prietenii, alaturi de o muzica buna pe fundal si o bautura fina. Calatoresc cu spor, placere si drag._
+[](/wp-content/uploads/2010/12/twitter.png)_Guest post scris de Dan Brasoveanu, pasionat de internet, web marketing to be more exact. Imi place sa dezbat o idee buna cu prietenii, alaturi de o muzica buna pe fundal si o bautura fina. Calatoresc cu spor, placere si drag._
 
 Cam la sfârşitul lui Noiembrie cei de la Bing, au scos proverbialul iepuraş din jobenul de algoritmi de ranking şi au recunoscut că au început să folosească semnale din social media pentru a ordona rezultatele unei căutări pe motorul de căutare
 

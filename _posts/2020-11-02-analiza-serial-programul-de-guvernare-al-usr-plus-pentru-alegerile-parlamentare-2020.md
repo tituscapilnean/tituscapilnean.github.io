@@ -45,13 +45,11 @@ Da, știu, e _overkill_ ca un simplu cetățean să înțeleagă întregul progr
 
 Programul pe website e împărțit în 8 categorii nedefinite care înglobează 40 de angajamente – două categorii au doar câte 3 angajamente iar categoria ”Economia pe care țara o merită” conduce cu 8 angajamente.
 
-![](/wp-content/uploads/2020/11/123042836_10217608536466561_1961091819840567138_n.jpg)
 
 La nivel de cuvinte folosite, cele mai detaliate categorii sunt ”Economia pe care țara o merită” și ”Sănătate cu prioritate”. Nimic surprinzător până acum, suntem săraci și murim în spitale. Cea mai puțin detaliată categorie e ”O Românie fără hoție”. Poate aici nu era nevoie de multă descriere, poate lucrurile sunt de la sine înțelese. Vom vedea.
 
 În programul complet, lucrurile sunt împărțite în primul rând în capitole, 20 la număr. Nu e clar încă ce reprezintă ele, e posibil să fie arhitectura guvernamentală dorită. Nu e clar încă cum se mulează capitolele pe categoriile de pe website, va trebui să fac o mapare mai detaliată.
 
-![](/wp-content/uploads/2020/11/123141620_10217608538266606_2506036112053100273_n.jpg)
 
 În orice caz, capitolul Sănătate conduce la numărul de pagini folosite (36 de pagini) depășind suma paginilor ultimelor patru capitole (”Transport și Infrastructură”, ”Diaspora”, ”Turism”, ”Afaceri Europene”).
 
@@ -72,4 +70,3 @@ Până atunci, câteva erori de editare găsite în program în dimineața lui 3
 
 Am mai făcut câte un word cloud pentru ambele forme ale programului. Destul de mult ”trebuie” pe acolo. Dar din nou, asta nu înseamnă nimic deocamdată.
 
-![](/wp-content/uploads/2020/11/123193052_10217608536746568_3072294380613645989_o-1024x768.jpg)![](/wp-content/uploads/2020/11/123136981_10217608538506612_6763593055709202874_o-1024x768.jpg)

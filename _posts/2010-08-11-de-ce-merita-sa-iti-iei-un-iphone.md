@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/08/SexAndSmartPhones1.png
 ---
 
-[![](/wp-content/uploads/2010/08/SexAndSmartPhones1.png)](/wp-content/uploads/2010/08/SexAndSmartPhones1.png)
+[](/wp-content/uploads/2010/08/SexAndSmartPhones1.png)
 
 Atât.
 

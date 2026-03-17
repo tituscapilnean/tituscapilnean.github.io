@@ -12,7 +12,7 @@ Am citit zilele trecute o cercetare foarte interesantă a Boston Consulting Grou
 
 Chestia asta funcționează la bănci, la mașini, la aprozare, la orice:
 
-[![Fueling-Growth-New-Exhibit-2_large_tcm80-150594](/wp-content/uploads/2014/01/Fueling-Growth-New-Exhibit-2_large_tcm80-150594.jpg)](/2014/01/boston-consulting-group-cum-vinde-brand-advocacy-ul/fueling-growth-new-exhibit-2_large_tcm80-150594/)
+[](/2014/01/boston-consulting-group-cum-vinde-brand-advocacy-ul/fueling-growth-new-exhibit-2_large_tcm80-150594/)
 
 Motivele sunt destul de clare – încredere în scădere în mass-media și publicitate, nevoia de filtrare a miilor de mesaje cu care sunt bombardați zilnic șamd. Mi s-a părut interesant că ei spun că **90% din conversațiile despre branduri se produc offline, nu online** , chiar dacă social media crește pe zi ce trece.
 

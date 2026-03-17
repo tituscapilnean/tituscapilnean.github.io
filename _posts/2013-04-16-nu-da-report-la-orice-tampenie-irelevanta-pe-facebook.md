@@ -27,4 +27,4 @@ Vă las cu paragraful cel mai semnificativ:
 
 Și folosiți cu încredere ghidul de mai jos:
 
-[![facebook-reporting-guide](/wp-content/uploads/2013/04/facebook-reporting-guide-400x258.jpg)](/2013/04/nu-da-report-la-orice-tampenie-irelevanta-pe-facebook/facebook-reporting-guide/)(sursa foto)
+[](/2013/04/nu-da-report-la-orice-tampenie-irelevanta-pe-facebook/facebook-reporting-guide/)(sursa foto)

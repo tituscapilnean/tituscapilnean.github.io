@@ -32,13 +32,13 @@ Să redăm și puțin din scenetă:
 >  -Spuneti-i ca sunt cu dumneavoastra ca altflel vine si strica tot.  
 >  R: Da, da, Ymens, e aici langa mine, ma uit la ea. Multumim, da. Ok, pai v-o dau la telefon. Cum? Aplicatii gratuite? Auzi, vb serios? Aplicatii gratuite…ofera functionalitati limitate si spatiu limitat. Vorbeste singura prietena voastra. Ymens va ofera un spatiu de lucru unic atat angajatilor cat si dumneavoastra. Daca sunteti in CRM de ce nu aruncati un ochi pe raportul de vanzari….”
 
-[![](/wp-content/uploads/2012/10/20121003_111207-150x150.jpg)](/wp-content/uploads/2012/10/20121003_111207.jpg)
+[](/wp-content/uploads/2012/10/20121003_111207.jpg)
 
-[![](/wp-content/uploads/2012/10/20121003_111211-150x150.jpg)](/wp-content/uploads/2012/10/20121003_111211.jpg)
+[](/wp-content/uploads/2012/10/20121003_111211.jpg)
 
-[![](/wp-content/uploads/2012/10/IMG_20121003_111916-150x150.jpg)](/wp-content/uploads/2012/10/IMG_20121003_111916.jpg)
+[](/wp-content/uploads/2012/10/IMG_20121003_111916.jpg)
 
-[![](/wp-content/uploads/2012/10/IMG_20121003_114356-150x150.jpg)](/wp-content/uploads/2012/10/IMG_20121003_114356.jpg)
+[](/wp-content/uploads/2012/10/IMG_20121003_114356.jpg)
 
 Dupa scenetă, băietii de la Ymens au început să prezinte serioși produsul și să răspundă la întrebări.
 

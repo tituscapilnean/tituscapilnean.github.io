@@ -12,7 +12,7 @@ author: titus_capilnean
 
 Da, Youtube își schimbă logo-ul de fiecare dată când e ceva important de promovat/sărbătorit. De data asta, ei sărbătoresc cifra de 1 Miliard de abonați la toate canalele de pe platforma lor de video. E un milestone pe care l-au atins și îl marchează ca atare:
 
-[![](/wp-content/uploads/2010/10/yt-400x192.jpg)](/wp-content/uploads/2010/10/yt.jpg)
+[](/wp-content/uploads/2010/10/yt.jpg)
 
 Dincolo de super reușita asta, stă știrea importantă.
 

@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/03/StrideGumMystery-219x300.jpg
 ---
 
-[![StrideGumMystery](/wp-content/uploads/2010/03/StrideGumMystery-219x300.jpg)](/wp-content/uploads/2010/03/StrideGumMystery.jpg)
+[](/wp-content/uploads/2010/03/StrideGumMystery.jpg)
 
 Poți să citești ce e scris mai sus?
 

@@ -16,7 +16,7 @@ author: titus_capilnean
 
 Ziua 2 a început cu o veste mai puțin bună. Din păcate, Nancy Hill nu a mai putut veni de dimineaţă la festival şi de aceea, am trecut direct la **John Dooner – McCann Woldgroup**.
 
-[![](/wp-content/uploads/2010/10/gd-400x112.jpg)](/wp-content/uploads/2010/10/gd.jpg)
+[](/wp-content/uploads/2010/10/gd.jpg)
 
 El vorbeşte despre schimbare în media, consumator şi mod de a face lucrurile în lume şi în publicitate.
 
@@ -50,17 +50,17 @@ Aici am luat o pauză de prânz, unde mare parte din timp ne-am jucat cu cuvinte
 
 Uite ce a ieșit:
 
-[![](/wp-content/uploads/2010/10/DSC01780-150x150.jpg)](/2010/10/golden-drum-2010-ziua-2-live-update/dsc01780/)
+[](/2010/10/golden-drum-2010-ziua-2-live-update/dsc01780/)
 
-[![](/wp-content/uploads/2010/10/DSC01781-150x150.jpg)](/2010/10/golden-drum-2010-ziua-2-live-update/dsc01781/)
+[](/2010/10/golden-drum-2010-ziua-2-live-update/dsc01781/)
 
-[![](/wp-content/uploads/2010/10/DSC01782-150x150.jpg)](/2010/10/golden-drum-2010-ziua-2-live-update/dsc01782/)
+[](/2010/10/golden-drum-2010-ziua-2-live-update/dsc01782/)
 
-[![](/wp-content/uploads/2010/10/DSC01783-150x150.jpg)](/2010/10/golden-drum-2010-ziua-2-live-update/dsc01783/)
+[](/2010/10/golden-drum-2010-ziua-2-live-update/dsc01783/)
 
-[![](/wp-content/uploads/2010/10/DSC01784-150x150.jpg)](/2010/10/golden-drum-2010-ziua-2-live-update/dsc01784/)
+[](/2010/10/golden-drum-2010-ziua-2-live-update/dsc01784/)
 
-[![](/wp-content/uploads/2010/10/DSC01785-e1286460934254-150x150.jpg)](/2010/10/golden-drum-2010-ziua-2-live-update/dsc01785/)
+[](/2010/10/golden-drum-2010-ziua-2-live-update/dsc01785/)
 
 **Cesar Montes – The future of marcom**
 

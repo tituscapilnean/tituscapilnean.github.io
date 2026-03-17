@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2013/07/IMG_4307-e1374538629720-150x150.jpg
 ---
 
-[![IMG_4307](/wp-content/uploads/2013/07/IMG_4307-e1374538629720-150x150.jpg)](/2013/07/california-usa-tara-oamenilor-fericiti/img_4307/)Călătoresc destul de mult de vreo 2-3 ani, mai ales din pricina Executive MBA-ului. De exemplu, azinoapte m-am întors dintr-un mic trip în Europa Centrală via Budapesta, Bratislava, Cracovia și Kosice 🙂 Dar nu despre asta voiam să scriu. Cât timp eram plecat, ISRO Solutions au publicat pe blogul lor câteva idei de-ale mele despre siguranța în călătorii.
+[](/2013/07/california-usa-tara-oamenilor-fericiti/img_4307/)Călătoresc destul de mult de vreo 2-3 ani, mai ales din pricina Executive MBA-ului. De exemplu, azinoapte m-am întors dintr-un mic trip în Europa Centrală via Budapesta, Bratislava, Cracovia și Kosice 🙂 Dar nu despre asta voiam să scriu. Cât timp eram plecat, ISRO Solutions au publicat pe blogul lor câteva idei de-ale mele despre siguranța în călătorii.
 
 > **1\. Buna Titus, am inteles ca in anul 2013 ai fost foarte dinamic. Ai calatorit prin multe tari si ai interactionat cu diferite culturi. Care a fost traseul tau, in mare?**
 > 

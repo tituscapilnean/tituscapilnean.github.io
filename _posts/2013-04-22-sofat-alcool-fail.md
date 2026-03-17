@@ -14,7 +14,7 @@ Ei, doar că nu toată lumea e așa. **Mulți se urcă lejer la volan după ce a
 
 **De ce să riști treaba asta pentru un taxi care te costă 10-20, hai 40 de lei?** Merită să riști pușcărie (pentru alcool mai mult de 0,8 la mie) sau o amendă și permisul luat (alcool sub 0,8 la mie detectat în aerul respirat)? Eu zic că nu. Mai mult decât atât, am și semnat pentru consumul moderat și responsabil, respectiv abstineța de la șofat dacă am consumat. Până acum, aproximativ un milion de oameni din întreaga lume au semnat, alături de Mika Häkkinen (mai țineți minte campionatele alea de Formula 1 pe TVR?). Pactul se poate semna printr-o aplicație mișto pe pagina oficiala de Facebook Johnnie Walker Romania.
 
-[![Join-the-Pact_Mika-Hakkinen1-1024x681](/wp-content/uploads/2013/04/Join-the-Pact_Mika-Hakkinen1-1024x681-400x266.jpg)](/2013/04/sofat-alcool-fail/join-the-pact_mika-hakkinen1-1024x681/)
+[](/2013/04/sofat-alcool-fail/join-the-pact_mika-hakkinen1-1024x681/)
 
 Mai mult, sursele spun că, Mika Häkkinen (himself!), ambasadorul global Johnnie Walker pentru promovarea consumului responsabil de alcool, vine pentru prima dată la București pentru a lansa campania ”Join the Pact”, campanie menită să încurajeze și să determine consumatorii, prin semnarea pactului online, să facă un angajament personal de nu se urca la volan sub influența alcoolului.
 

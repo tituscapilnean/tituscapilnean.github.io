@@ -61,7 +61,7 @@ Era cumva de aștepta ca pe Twitter să aibă cel mai mare succes, deoarece majo
 
 Pe pagina specială Dew Labs, cei de la PepsiCo(sau mai bine zis agenția care le-a făcut campania pe social media), au adus poze, au pornit discuții, au publicat articole și clipuri. În total au adunat undeva la 1000 de fani în 2 săptămîni.
 
-[![dewfb](/wp-content/uploads/2009/07/dewfb.jpg)](/wp-content/uploads/2009/07/dewfb.jpg)
+[](/wp-content/uploads/2009/07/dewfb.jpg)
 
 **Youtube**
 

@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/10/263618_gummy_bears-150x150.jpg
 ---
 
-[![](/wp-content/uploads/2010/10/263618_gummy_bears-150x150.jpg)](/wp-content/uploads/2010/10/263618_gummy_bears.jpg)Datorită Ligiei, am dat peste clipul de mai jos, în care o să auzi o parodie enervantă după celebrul cântec Gummy Bears, cu peste 80 milioane de vizionări pe Youtube. Diferența față de original este că parodia e coloana sonoră a unei reclame pentru Parizer Parizaki, aparent grecesc. Reclama a venit pe rețea, iar ai noștri i-au pus un sound-over în limba română.
+[](/wp-content/uploads/2010/10/263618_gummy_bears.jpg)Datorită Ligiei, am dat peste clipul de mai jos, în care o să auzi o parodie enervantă după celebrul cântec Gummy Bears, cu peste 80 milioane de vizionări pe Youtube. Diferența față de original este că parodia e coloana sonoră a unei reclame pentru Parizer Parizaki, aparent grecesc. Reclama a venit pe rețea, iar ai noștri i-au pus un sound-over în limba română.
 
 A ieșit clipul de mai jos. Dar înainte să îl vezi, trecem prin cifre, pentru că am dezgropat un pic campania:
 

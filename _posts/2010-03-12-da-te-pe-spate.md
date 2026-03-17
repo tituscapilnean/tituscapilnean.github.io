@@ -8,7 +8,6 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/03/tumblr_kyzg5yx17M1qzr04eo1_400.png
 ---
 
-![tumblr_kyzg5yx17M1qzr04eo1_400](/wp-content/uploads/2010/03/tumblr_kyzg5yx17M1qzr04eo1_400.png)
 
 Hai că și asta e o poză cu un truc mic în spate. Ce scrie pe fond alb, până la inima roșie?
 

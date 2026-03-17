@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2013/04/keep-calm-and-ignore-idiots-24-187x300.png
 ---
 
-[![keep-calm-and-ignore-idiots-24](/wp-content/uploads/2013/04/keep-calm-and-ignore-idiots-24-187x300.png)](/2013/04/de-ce-oamenii-inteligenti-stiu-ca-prostii-nu-conteaza/keep-calm-and-ignore-idiots-24/)Am citit aberația asta ieri despre cum proștii câștigă.
+[](/2013/04/de-ce-oamenii-inteligenti-stiu-ca-prostii-nu-conteaza/keep-calm-and-ignore-idiots-24/)Am citit aberația asta ieri despre cum proștii câștigă.
 
 Apoi am citit părerea mult mai bine argumentată de aici.
 

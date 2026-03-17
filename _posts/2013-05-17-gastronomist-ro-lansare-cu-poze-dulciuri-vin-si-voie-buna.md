@@ -13,13 +13,13 @@ author: titus_capilnean
 
 Deși nu-s artist, nici fotograf, m-am dus aseară la lansarea oficială a Gastronomist.ro.
 
-[![](/wp-content/uploads/2013/05/photo-4-150x150.jpg)](/2013/05/gastronomist-ro-lansare-cu-poze-dulciuri-vin-si-voie-buna/photo-4-3/)
+[](/2013/05/gastronomist-ro-lansare-cu-poze-dulciuri-vin-si-voie-buna/photo-4-3/)
 
-[![](/wp-content/uploads/2013/05/photo-2-150x150.jpg)](/2013/05/gastronomist-ro-lansare-cu-poze-dulciuri-vin-si-voie-buna/photo-2-3/)
+[](/2013/05/gastronomist-ro-lansare-cu-poze-dulciuri-vin-si-voie-buna/photo-2-3/)
 
-[![](/wp-content/uploads/2013/05/photo-3-150x150.jpg)](/2013/05/gastronomist-ro-lansare-cu-poze-dulciuri-vin-si-voie-buna/photo-3-3/)
+[](/2013/05/gastronomist-ro-lansare-cu-poze-dulciuri-vin-si-voie-buna/photo-3-3/)
 
-[![](/wp-content/uploads/2013/05/photo-1-150x150.jpg)](/2013/05/gastronomist-ro-lansare-cu-poze-dulciuri-vin-si-voie-buna/photo-1-2/)
+[](/2013/05/gastronomist-ro-lansare-cu-poze-dulciuri-vin-si-voie-buna/photo-1-2/)
 
 Dacă nu știați asta despre mine, v-o zic acum – sunt un foodlover. Nu în sensul de ”mănânc până crăp”, ci în sens de experimente, de gusturi și de senzații noi, așa că nu am putut să ratez expoziția foto semnată de Radu Dumitrescu si Iulian Chiculiță și dulciurile puse la bătaie.
 

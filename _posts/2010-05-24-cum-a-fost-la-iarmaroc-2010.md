@@ -14,13 +14,13 @@ Am lăsat povestea Iarmarocului de anul ăsta să se contureze şi în funcţie 
 
 _“Papuci cu noroi”_
 
-[![DSC_0983](/wp-content/uploads/2010/05/DSC_0983.JPG)](/wp-content/uploads/2010/05/DSC_0983.JPG)
+[](/wp-content/uploads/2010/05/DSC_0983.JPG)
 
 Nu o spun într-un sens rău, pentru că a făcut parte din spiritul festivalului.
 
 Înainte să povestesc festivalul, merită să zic câteva vorbe despre peripețiile de pe drum. Trebuia sa merg cu autocarul, cu Adina, venită în delegație, de la Cluj Life punct ro(unde a și publicat toate pozele de la Iarmaroc). Asta până am aflat că există 2 locuri într-o mașină care venea de la Târgoviște. Ne-am întâlnit cu ei, numai că li se stricase radiatorul și le fierbea motorul. A trebuit să ne distribuim până la urmă în alte 2 mașini, cu care am și ajuns în parcarea de la Iarmaroc.
 
-[![DSC_0690](/wp-content/uploads/2010/05/DSC_0690.JPG)](/wp-content/uploads/2010/05/DSC_0690.JPG)
+[](/wp-content/uploads/2010/05/DSC_0690.JPG)
 
 De acolo până la pădure, erau vreo 3 km. Aveai 2 variante, fie să mergi pe jos, fie să o iei cu tractorul, în remorcă. A fost destul de interesant să mergem în remorcă, cu alți 20 de oameni, tone de bagaje, ținându-ne unii de alții ca să nu cădem în noroi 🙂 Am ajuns exact când începea ploaia, am montat cortul și am început să explorăm zona.
 
@@ -34,6 +34,6 @@ Din cauza ploii s-a cam dat peste cap programul şi o parte din trupele care tre
 
 Show-ul cel mai mişto l-au făcut **Dub Pistols** şi **El Negro**. Ei au strâns majoritatea oamenilor de la festival lângă scena de live. Am stat chiar în faţă, unde am văzut perfect combinatia de lumini, mişcare de scenă, beaturi, riff-uri şi vocale.
 
-[![DSC_0930 \(2\)](/wp-content/uploads/2010/05/DSC_0930-2.JPG)](/wp-content/uploads/2010/05/DSC_0930-2.JPG)
+[](/wp-content/uploads/2010/05/DSC_0930-2.JPG)
 
 Una peste alta, mie mi-a plăcut Iarmarocul 2010, chiar dacă a fost randomizat un pic de ploaie. Pun pariu că anul viitor va fi și mai tare, așa că fii pe fază petnru 2011, sper cu mult soare, oameni la fel de faini și multă distracție.

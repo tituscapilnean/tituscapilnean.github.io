@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/12/rss-copy.png
 ---
 
-![](/wp-content/uploads/2010/12/rss-copy.png)Majoritatea bloggerilor presupun că toți cititorii știu să se aboneze la feed-ul de RSS. Nimic mai fals. Am primit un mesaj de la o cititoare care mă întreabă cum ar trebui să se aboneze la blogul meu prin RSS, așa că am scris un ghid cât se poate de simplu.
+Majoritatea bloggerilor presupun că toți cititorii știu să se aboneze la feed-ul de RSS. Nimic mai fals. Am primit un mesaj de la o cititoare care mă întreabă cum ar trebui să se aboneze la blogul meu prin RSS, așa că am scris un ghid cât se poate de simplu.
 
 Ca să ne înțelegem de la început, **RSS-ul e o modalitate** prin care blogul la care te-ai abonat îți trimite articolele noi de fiecare dată când bloggerul tău preferat scrie ceva.
 

@@ -12,7 +12,7 @@ La invitația și inițiativa STANDOUT, respectiv găzduiți de Cantina Sport Ba
 
 Cum se face online în România zicem noi, iar cum se face în UK, una din cele mari mari piețe de profil din Europa, ne povestește oaspetele nostru: **Tom Ollerton** (Associate Director, Skive London)
 
-[![](/wp-content/uploads/2011/10/IMG_20111007_103313-400x300.jpg)](/wp-content/uploads/2011/10/IMG_20111007_103313.jpg)
+[](/wp-content/uploads/2011/10/IMG_20111007_103313.jpg)
 
 ### Mai jos am pus ideile principale:
 

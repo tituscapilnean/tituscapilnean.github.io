@@ -9,7 +9,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2009/07/Dynamics__Hobbes__Tom___Jerry_by_SuperLeviathan-257x300.jpg
 ---
 
-[![bugstom](/wp-content/uploads/2009/07/bugstom-398x300.jpg)](/wp-content/uploads/2009/07/bugstom.jpg)
+[](/wp-content/uploads/2009/07/bugstom.jpg)
 
 Am stat cam 2 minute până m-am prins despre ce e vorba în reclama asta. E fascinantă, pare simplă și neînsemând nimic la început, dar apoi capătă dimensiuni de revelație. 🙂
 
@@ -19,4 +19,4 @@ Reclama este la **Bugs Pest Control** , care cică elimină toți dăunătorii, 
 
 Bietul Tom, cu ce o să se mai joace acum?
 
-[![Dynamics__Hobbes__Tom___Jerry_by_SuperLeviathan](/wp-content/uploads/2009/07/Dynamics__Hobbes__Tom___Jerry_by_SuperLeviathan-257x300.jpg)](/wp-content/uploads/2009/07/Dynamics__Hobbes__Tom___Jerry_by_SuperLeviathan.jpg)
+[](/wp-content/uploads/2009/07/Dynamics__Hobbes__Tom___Jerry_by_SuperLeviathan.jpg)

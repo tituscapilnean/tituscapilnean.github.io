@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/11/vama_veche_2009-150x150.jpg
 ---
 
-[![](/wp-content/uploads/2010/11/vama_veche_2009-150x150.jpg)](/wp-content/uploads/2010/11/vama_veche_2009.jpg)O parte din voi ați văzut distracția de pe Twitter despre recentul articol al lui Tudor Chirilă, care, se aude, că își lansează o piesă nouă pe joi, cu trupa Vama.
+[](/wp-content/uploads/2010/11/vama_veche_2009.jpg)O parte din voi ați văzut distracția de pe Twitter despre recentul articol al lui Tudor Chirilă, care, se aude, că își lansează o piesă nouă pe joi, cu trupa Vama.
 
 Avea nevoie de niște promo. Așa a ajuns să vorbească la telefon cu Dragoș Stanca.
 

@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/12/sorry-150x150.jpg
 ---
 
-[![](/wp-content/uploads/2010/12/sorry-150x150.jpg)](/wp-content/uploads/2010/12/sorry.jpg)Îmi cer scuze pentru [spam-ul pe care l-am cauzat în ultimele 3 săptămâni](/2010/11/cum-mi-am-amintit-de-vamaiotul-pokerist/) prin blog, Facebook, Twitter și, în unele cazuri, la telefon sau pe messenger.
+[](/wp-content/uploads/2010/12/sorry.jpg)Îmi cer scuze pentru [spam-ul pe care l-am cauzat în ultimele 3 săptămâni](/2010/11/cum-mi-am-amintit-de-vamaiotul-pokerist/) prin blog, Facebook, Twitter și, în unele cazuri, la telefon sau pe messenger.
 
 Am făcut un experiment, am participat la un concurs de bloggeri care avea drept criterii niște cifre – comentarii, like-uri, retweeturi și afișări.
 

@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2012/03/web30-150x150.jpg
 ---
 
-[![](/wp-content/uploads/2012/03/web30-150x150.jpg)](/wp-content/uploads/2012/03/web30.jpg)Web 3.0 încă nu există, e un concept pentru viitor, e pe piață de prin 2009 și o să devină realitate probabil după 2015 în SUA și UK, după 2020 în România. El presupune, din punctul meu de vedere, un principiu foarte simplu. Internetul sau rețeaua globală de comunicații va deveni parte integrantă a cel puțin 75% din populația lumii, contribuind la creșterea eficienței treburilor de zi cu zi(începând cu facturi, management de cont bancar, comenzi de diverse servicii, plăți și terminând cu soluții complexe de colaborare) și, ca atare, a calității vieții.
+[](/wp-content/uploads/2012/03/web30.jpg)Web 3.0 încă nu există, e un concept pentru viitor, e pe piață de prin 2009 și o să devină realitate probabil după 2015 în SUA și UK, după 2020 în România. El presupune, din punctul meu de vedere, un principiu foarte simplu. Internetul sau rețeaua globală de comunicații va deveni parte integrantă a cel puțin 75% din populația lumii, contribuind la creșterea eficienței treburilor de zi cu zi(începând cu facturi, management de cont bancar, comenzi de diverse servicii, plăți și terminând cu soluții complexe de colaborare) și, ca atare, a calității vieții.
 
 Deci tot ce facem acum o să poată fi făcut mai repede, mai bine și mai ușor. Nu cred că e vorba de tehnologii fundamental diferite, ci de extinderea unor tehnologii existente în toate serviciile pe care le folosim acum în mod curent.
 

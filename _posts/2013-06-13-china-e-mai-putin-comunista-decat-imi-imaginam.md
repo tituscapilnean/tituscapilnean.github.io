@@ -14,7 +14,7 @@ Nici cursa n-a fost mai prejos, după ce am decolat (finally). Am ajuns să nu r
 
 Am vizitat o grămadă prin centru, iar, dincolo de barul de la etajul 47, cel mai mult și cel mai mult mi-a plăcut muzeul de artă modernă și contemporană, unde pe lângă clasici și pictori de partid era prezentă și o expoziție de ilustrații amuzante și bine executate. Iar, poze am pus pe Facebook, pentru prieteni, dar pun și aici una din ilustrațiile mele preferate: iepurașii prăjiți:
 
-[![969723_10151511711130892_1742192893_n](/wp-content/uploads/2013/06/969723_10151511711130892_1742192893_n-e1371124741887-400x297.jpg)](/2013/06/china-e-mai-putin-comunista-decat-imi-imaginam/969723_10151511711130892_1742192893_n/)
+[](/2013/06/china-e-mai-putin-comunista-decat-imi-imaginam/969723_10151511711130892_1742192893_n/)
 
 În rest, am fost pe Bund, prin multe parcuri, în bazarul lor din centru (unde am învățat să negociez chinezește – zice un preț, tu zici cam un sfert sau mai puțin, vă înțelegeți la jumate), am mâncat mâncare locală, am bătut străzile în lung și în lat, m-am dat cu metroul mult de tot și am învățat să evit oamenii care intră în vorbă cu mine, sperând să îmi vândă ceasuri false sau ochelari de soare. Am văzut și câțiva cerșetori în metrou, câțiva pe stradă, dar surprinzător de puțini pentru un oraș așa de mare. Un alt mare absent e populația de câini, singurul motiv pe care mi-l pot imagina fiind cel că se află printr-o farfurie, în ceva restaurante. Mă rog, m-am cam lecuit de mâncăruri ciudate, după ce am avut în farfurie copite de porc sau labe de rață. Trust me, sunt mai dezgustătoare decât vă imaginați.
 

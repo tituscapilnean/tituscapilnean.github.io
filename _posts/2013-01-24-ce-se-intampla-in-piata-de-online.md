@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2013/01/OnlineJobsAgency-150x150.jpg
 ---
 
-[![](/wp-content/uploads/2013/01/OnlineJobsAgency-150x150.jpg)](/2013/01/ce-se-intampla-in-piata-de-online/onlinejobsagency/)În ultimele săptămâni am văzut un număr îngrijorător de oameni care își caută un loc de muncă – online related.
+[](/2013/01/ce-se-intampla-in-piata-de-online/onlinejobsagency/)În ultimele săptămâni am văzut un număr îngrijorător de oameni care își caută un loc de muncă – online related.
 
 Treaba asta nu poate să însemne decât că nu mai există așa de multe agenții care sunt dispuse să dea banii pe juniori/mid-levels și țin la salariu. Ianuarie e o lună notorie pentru cash-flow-ul negativ, așa că probabil va mai continua valul până pe la mijlocul lui Februarie, cel puțin.
 

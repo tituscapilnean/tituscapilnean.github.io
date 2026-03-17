@@ -24,6 +24,6 @@ Un om care nu e atât de puternic implicat în online, cum e un Marketing/Commun
 
 Vedeți Facebrands mai jos:
 
-[![](/wp-content/uploads/2012/03/top-facebook-271x300.png)](/wp-content/uploads/2012/03/top-facebook.png)
+[](/wp-content/uploads/2012/03/top-facebook.png)
 
 Să îmi spună mie Daedalus Millward Brown că _Radio Zu, Pro TV, Proiectul Roșia Montană_ sau _Creative Monkeyz_ nu sunt pagini de brand din România.

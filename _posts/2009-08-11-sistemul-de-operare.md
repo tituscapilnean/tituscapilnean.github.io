@@ -10,7 +10,7 @@ author: titus_capilnean
 
 N-ai vrea să îţi cedeze într-un moment incomod, nu?
 
-[![whyos-matters](/wp-content/uploads/2009/08/whyos-matters-400x275.jpg)](/wp-content/uploads/2009/08/whyos-matters.jpg)
+[](/wp-content/uploads/2009/08/whyos-matters.jpg)
 
 sursa – www.businesspundit.com
 

@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/05/bff-186x300.jpg
 ---
 
-_[![](/wp-content/uploads/2011/05/bff-186x300.jpg)](/2011/05/un-mars-si-multe-idei-pentru-o-capitala-curata-si-civilizata-bucurestiul-fluiera-fault/bff/)Guest post scris de Delia Radu, PR Officer AIESEC București._
+_[](/2011/05/un-mars-si-multe-idei-pentru-o-capitala-curata-si-civilizata-bucurestiul-fluiera-fault/bff/)Guest post scris de Delia Radu, PR Officer AIESEC București._
 
 Spre sfârşitul lunii mai, [AIESEC Bucureşti](/tag/aiesec/) trage un semnal de alarmă pentru al patrulea an consecutiv, în cadrul proiectului de responsabilitate socială **[Bucureştiul Fluieră Fault](/tag/bucurestiul-fluiera-fault/)**. Această ediţie va fi una cu totul deosebită, deoarece ne propunem că, la sfârşit, să fi schimbat cu adevărat mentalităţi, comportamente şi atitudini. Ne propunem să dăruim o nouă faţă Bucureştiului ca oraş, dar şi locuitorilor săi, în calitatea lor de membri ai unei comunităţi care acţionează responsabil şi sustenabil.
 

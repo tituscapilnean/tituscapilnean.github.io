@@ -24,4 +24,4 @@ Eu mă duc.
 
 p.s. Ghiciți numele complet al personajului de mai jos:
 
-[![Julian](/wp-content/uploads/2013/05/Julian-400x266.jpg)](/2013/05/filme-scurte-sau-filme-lungi-shortsup-2013/julian/)
+[](/2013/05/filme-scurte-sau-filme-lungi-shortsup-2013/julian/)

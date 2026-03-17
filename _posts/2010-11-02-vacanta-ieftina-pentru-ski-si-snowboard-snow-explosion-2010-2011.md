@@ -16,7 +16,7 @@ author: titus_capilnean
 
 Dar zic să detaliem puțin toată treaba, ca să pară cât mai credibilă, nu de alta, dar și mie mi-a venit greu să cred că cineva dă și cazare pe 7 zile și skipass cu banii ăștia.
 
-[![](/wp-content/uploads/2010/10/22099-400x121.jpg)](/wp-content/uploads/2010/10/22099.jpg)
+[](/wp-content/uploads/2010/10/22099.jpg)
 
 **Despre cazare:**
 
@@ -45,7 +45,7 @@ Cu:
 > 
 > Datorită aşezării sale nordice şi climatului special se poate schia până la sfârşitul lui aprilie.
 
-[![](/wp-content/uploads/2010/11/07-400x266.jpg)](/wp-content/uploads/2010/11/07.jpg)
+[](/wp-content/uploads/2010/11/07.jpg)
 
 …așa că nu e panică cu zăpada!
 
@@ -63,7 +63,7 @@ Pentru pârtiile care nu sunt în Puy Saint Vincent, plătești o taxă de trans
 
 Asta e pentru cei care mai au energie după o zi de rupt pârtiile în două. Așa cum am mai zis, în paralel cu excursia asta, în Puy Saint Vincent se întâmplă un mare festival de muzici, cu:
 
-[![](/wp-content/uploads/2010/11/parties.jpg)](/wp-content/uploads/2010/11/parties.jpg)
+[](/wp-content/uploads/2010/11/parties.jpg)
 
 > PENDULUM and Verse // Uk dj set  
 >  DJ BEAUTY // ukraine

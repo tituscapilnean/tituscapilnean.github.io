@@ -19,7 +19,7 @@ _Din păcate, nici unul dintre evenimente nu e urmărit live, nici pe bloguri, n
 
 Despre evenimente:
 
-[![](/wp-content/uploads/2010/09/logo-forumnokia.gif)](/wp-content/uploads/2010/09/logo-forumnokia.gif)
+[](/wp-content/uploads/2010/09/logo-forumnokia.gif)
 
 > Nokia Developer Day Romania
 > 
@@ -27,7 +27,7 @@ Despre evenimente:
 > 
 > Nokia entered a new era in mobility, combining state of the art devices, platforms, services and cross platform technologies to enable customers to have superior experiences and developers the power to be creative. OVi Store, the distribution channel for Nokia device users is also gaining momentum. Join us, listen, learn and interact with our experts on business and technology topics around mobile application development and distribution.
 
-[![](/wp-content/uploads/2010/09/Forum-Antreprenor360_1285138191378.png)](/wp-content/uploads/2010/09/Forum-Antreprenor360_1285138191378.png)
+[](/wp-content/uploads/2010/09/Forum-Antreprenor360_1285138191378.png)
 
 > BizCampus Network te invita miercuri, 22 septembrie la seria de conferinte Antreprenor360, la Howard Johnson Hotel pentru a oferi raspunsurile si incurajarile necesare pentru aceasta perioada.
 > 

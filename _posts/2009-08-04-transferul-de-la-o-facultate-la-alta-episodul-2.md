@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2009/08/Photo-0084-342x300.png
 ---
 
-[![Photo-0084](/wp-content/uploads/2009/08/Photo-0084-342x300.png)](/wp-content/uploads/2009/08/Photo-0084.png)
+[](/wp-content/uploads/2009/08/Photo-0084.png)
 
 Acum 2 săptămâni am scris un articol cu cei [7 pași pentru un transfer de la o facultate la alta](/2009/07/15/transfer-de-la-o-facultate-la-alta/), studiu de caz pe transferul meu de la Finanțe-Bănci, ASE, la Româno-Americană – Marketing.
 

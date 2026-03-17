@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/11/prison-150x150.jpg
 ---
 
-[![](/wp-content/uploads/2011/11/prison-150x150.jpg)](/wp-content/uploads/2011/11/prison.jpg)Cam din 2007 am început să lucrez cu instrumentele de comunicare pe care le pune la dispoziție internetul și m-am lovit de mai multe ori de un fenomen pe care nu l-am prea luat în seamă înainte să fiu și eu vizat de efectul lui: _delictul de opinie_.
+[](/wp-content/uploads/2011/11/prison.jpg)Cam din 2007 am început să lucrez cu instrumentele de comunicare pe care le pune la dispoziție internetul și m-am lovit de mai multe ori de un fenomen pe care nu l-am prea luat în seamă înainte să fiu și eu vizat de efectul lui: _delictul de opinie_.
 
 Pentru necunoscători, delictul de opinie se definește în felul următor(îmi aparține exprimarea, dat fiind faptul că nu am descoperit o _definiție oficială_):
 

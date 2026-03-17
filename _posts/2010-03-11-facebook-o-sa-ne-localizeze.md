@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/03/facebook-400x173.jpg
 ---
 
-[![facebook](/wp-content/uploads/2010/03/facebook-400x173.jpg)](/wp-content/uploads/2010/03/facebook.jpg)
+[](/wp-content/uploads/2010/03/facebook.jpg)
 
 Pe modelul Foursquare, despre care am scris acum ceva timp([pleaserobme.com](/2010/02/18/social-media-pentru-hoti/)), Facebook va dezvolta o facilitate prin care utilizatorii vor putea să anunțe prin sistemul de localizare al telefonului, locul din care trimit mesaje, urcă poze sau clipuri. Facilitatea se pare că va fi dezvăluită la f8, conferința dezvoltatorilor de aplicații Facebook de luna viitoare(21-22 Aprilie, la San Francisco).
 

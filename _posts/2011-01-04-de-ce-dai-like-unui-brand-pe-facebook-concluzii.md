@@ -51,6 +51,6 @@ Doar pentru subiectele sensibile și industriile unde procentul de hateri e mare
 
 Rezultatele complete ale sondajului:
 
-[![](/wp-content/uploads/2011/01/like-pe-Facebook-310x300.jpg)](/wp-content/uploads/2011/01/like-pe-Facebook.jpg)
+[](/wp-content/uploads/2011/01/like-pe-Facebook.jpg)
 
 Acestea fiind zise, sper că **am mai dat un plus de claritate** direcției în care trebuie să o ia mesajele de pe paginile de Facebook pe care le administrezi.

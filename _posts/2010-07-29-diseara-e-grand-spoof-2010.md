@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/07/adfel.jpg
 ---
 
-![](/wp-content/uploads/2010/07/adfel.jpg)Nu se prea agită nimeni pe blogosferă în legătură cu ediția asta de ADfel, așa că o să o fac eu 🙂
+Nu se prea agită nimeni pe blogosferă în legătură cu ediția asta de ADfel, așa că o să o fac eu 🙂
 
 Diseară, de la ora 21:00 se întâmplă **Grand Spoof 2010** , adică destul de târziu chiar și pentru publicitarii temerari care stau peste program și storc ultima urmă de creier pe ziua respectivă. Dacă nu știi ce e Grand Spoof, începe să te uiți la clipurile de aici. Te prinzi repede. Dacă nu, atunci citește descrierea concursului aici.
 

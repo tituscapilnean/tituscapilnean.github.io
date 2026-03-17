@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2012/10/not-one-big-budget-hit_7-reasons-to-start-your-holiday-shopping-now-150x150.jpg
 ---
 
-[![](/wp-content/uploads/2012/10/not-one-big-budget-hit_7-reasons-to-start-your-holiday-shopping-now-150x150.jpg)](/wp-content/uploads/2012/10/not-one-big-budget-hit_7-reasons-to-start-your-holiday-shopping-now.jpg)Una din cele mai frecvente greșeli pe care le fac marketerii în primele lor campanii de comunicare online este că ”aruncă” tot bugetul (mic, ca la început) în Google sau Facebook Ads (sau ambele, că așa au auzit de la experți), respectiv doar în ad-uri de tip Pay-Per-Click. Lor le spun, de regulă, următorul lucru:
+[](/wp-content/uploads/2012/10/not-one-big-budget-hit_7-reasons-to-start-your-holiday-shopping-now.jpg)Una din cele mai frecvente greșeli pe care le fac marketerii în primele lor campanii de comunicare online este că ”aruncă” tot bugetul (mic, ca la început) în Google sau Facebook Ads (sau ambele, că așa au auzit de la experți), respectiv doar în ad-uri de tip Pay-Per-Click. Lor le spun, de regulă, următorul lucru:
 
 „Ce obiectiv aveți?”
 

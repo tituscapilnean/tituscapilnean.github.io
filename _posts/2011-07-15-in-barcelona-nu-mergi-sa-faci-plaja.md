@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/07/1649694-View_from_park_Guel-Barcelona-150x150.jpg
 ---
 
-[![](/wp-content/uploads/2011/07/1649694-View_from_park_Guel-Barcelona-150x150.jpg)](/2011/07/in-barcelona-nu-mergi-sa-faci-plaja/1649694-view_from_park_guel-barcelona/)Mergi să te plimbi, să vizitezi, să explorezi. E un oraș frumos de mama focului, însă fără plaje spectaculoase. Are niște petice lungi de nisip, însă dă mai mult a Eforie Nord decât a Spania. Mai bine faci lucruri mai interesante. Cel puțin eu asta am înțeles din cele 4 zile de vacanță în Barcelona.
+[](/2011/07/in-barcelona-nu-mergi-sa-faci-plaja/1649694-view_from_park_guel-barcelona/)Mergi să te plimbi, să vizitezi, să explorezi. E un oraș frumos de mama focului, însă fără plaje spectaculoase. Are niște petice lungi de nisip, însă dă mai mult a Eforie Nord decât a Spania. Mai bine faci lucruri mai interesante. Cel puțin eu asta am înțeles din cele 4 zile de vacanță în Barcelona.
 
 Povestea a început de sâmbătă dimineață, dintr-un taxi al cărui șofer extrem de amabil ne-a dus până la aeroportul din Otopeni cu doar 20 de lei(pe ceas), ne-a urat drum bun și ne-a făcut dimineața frumoasă. Era de la Pelican. Ne-am dus noi către terminal, cu biletele de avion în mână, și ne-am urcat în scurtă vreme în avion.
 

@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2012/03/oct-07-conference-attendees-lg-150x150.jpg
 ---
 
-[![](/wp-content/uploads/2012/03/oct-07-conference-attendees-lg-150x150.jpg)](/wp-content/uploads/2012/03/oct-07-conference-attendees-lg.jpg)Am tot fost pe la [conferințe și evenimente](/tag/live-blog/) din 2006 până acum, am și pus osul la organizarea câtorva(și studențești și pentru oameni mari), însă de fiecare dată am simțit că e loc de mai bine. Simțitul ăsta s-a acutizat în ultimii ani, când mă duc cu mai puțină plăcere să ascult ce au de zis vorbitorii.
+[](/wp-content/uploads/2012/03/oct-07-conference-attendees-lg.jpg)Am tot fost pe la [conferințe și evenimente](/tag/live-blog/) din 2006 până acum, am și pus osul la organizarea câtorva(și studențești și pentru oameni mari), însă de fiecare dată am simțit că e loc de mai bine. Simțitul ăsta s-a acutizat în ultimii ani, când mă duc cu mai puțină plăcere să ascult ce au de zis vorbitorii.
 
 Lipsește ceva din modul de prezentare, din conținutul prezentărilor, din stilul în care sunt construite conferințele. Problema e că nimeni nu prea zice ce. Apar 2-3 critici pe după colțuri după eveniment, însă nimic public. Cred că e util să dăm și un pic de feedback corectiv, chiar dacă nu nominal.
 

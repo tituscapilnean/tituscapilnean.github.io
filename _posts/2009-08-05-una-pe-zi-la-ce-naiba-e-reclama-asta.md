@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2009/08/AnyMinuteNow.jpg
 ---
 
-[![AnyMinuteNow](/wp-content/uploads/2009/08/AnyMinuteNow.jpg)](/wp-content/uploads/2009/08/AnyMinuteNow.jpg)
+[](/wp-content/uploads/2009/08/AnyMinuteNow.jpg)
 
 Am găsit chestia asta pe net căutând niște reclame tari pentru reclama zilei.
 

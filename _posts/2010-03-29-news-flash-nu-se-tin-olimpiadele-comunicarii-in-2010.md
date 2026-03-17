@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/03/logo.gif
 ---
 
-[![logo](/wp-content/uploads/2010/03/logo.gif)](/wp-content/uploads/2010/03/logo.gif)
+[](/wp-content/uploads/2010/03/logo.gif)
 
 > Dupa cum stiti, anul 2010 este, din toate punctele de vedere, un an dificil pentru intreaga industrie de comunicare.
 

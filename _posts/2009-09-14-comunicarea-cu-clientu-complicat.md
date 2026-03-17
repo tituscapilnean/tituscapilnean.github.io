@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2009/09/softwareproject-600x450-400x300.jpg
 ---
 
-[![softwareproject-600x450](/wp-content/uploads/2009/09/softwareproject-600x450-400x300.jpg)](/wp-content/uploads/2009/09/softwareproject-600x450.jpg)
+[](/wp-content/uploads/2009/09/softwareproject-600x450.jpg)
 
 Să vă explic cum stă treaba când lucrezi în sistemul furnizor – client. Tipul ăsta de treburi **nu le-am avut la job, ci în afara lui, pe unde mai fac diverse freelance-uri**([site-uri – atât html, cât și WordPress, campanii, design-uri](/portofoliu-web-si-design/), etc. – dacă vă interesează, [contactați-mă, mă pricep](/contact/)).
 

@@ -26,22 +26,18 @@ Listele de pe facebook ne permit să facem același lucru și online.
 
 Pentru discuție, să zicem că ai nevoie să creezi lista cu cei din București. Mergi la account>edit friends> create list
 
-![](/wp-content/uploads/2011/03/1rsPXcSmamO0SU_79ayD5Oc9uyK7WNWs-400x164.jpg)
 
 **La ce te ajută concret?  
 **
 
 Să zicem că nu ai timp într-o zi să vezi ce a scris toată ”populația” de prieteni, dar te interează foarte tare ce au scris cei din București. Listele iți permit să faci asta. Lângă top news ai tabul Most recent. Click pe el și apoi selectezi lista care te interesează sau choose another dacă nu apare.
 
-![](/wp-content/uploads/2011/03/1CNjy1YYz8Ose9vBonbW3MLdYXx1SP4o-389x300.jpg)
 
 Dacă, să zicem, vrei să scrii un update care are sens doar pentru cei din București, din nou, poți face asta ușor. După ce scrii update-ul, in loc să apeși share, apeși lacătul din stânga lui.
 
-![](/wp-content/uploads/2011/03/1mffVFyyIV8A6lKi7iAMbJ8Rn0UAyYwI-400x151.jpg)
 
 După ce alegi customize, tot ce mai ai de făcut e să alegi lista potrivită și dacă vrei, să excluzi pe cei din lista respectiva despre care știi că nu sunt interesați.
 
-![](/wp-content/uploads/2011/03/1UJfwbHvoIOYYGnKMu4FRJF-v0UimgXk-331x300.jpg)
 
 In exemplul de mai sus am vrut să scriu un update vizibil pentru toți cei din București cu exceptia lui Florin (doar de dragul exemplului).
 
@@ -52,7 +48,6 @@ In exemplul de mai sus am vrut să scriu un update vizibil pentru toți cei din 
 Toată lumea e enervată de invitații la evenimente aiurea sau care au loc în alte orașe. Poți să eviți situația asta și să trimiți invitații la evenimente doar celor care ar fi interesați de ele, cu condiția să îi fi inclus într-o listă în prealabil.  
 Mai jos este un exemplu în care invit la un eveniment doar pe cei din București.
 
-![](/wp-content/uploads/2011/03/1YvKjTSJLRYiGkm-eGOPtENDZ4WOxV0U-400x298.jpg)
 
 **Alte sugestii pentru liste:**
 

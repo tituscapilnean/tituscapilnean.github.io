@@ -14,7 +14,7 @@ Animația Pixar(da, e făcut de ei) și Disney e foarte bine făcută, efectele 
 
 Nu, nu e doar dublat, așa cum am mai auzit vorbindu-se despre film și sincer cred că e păcat să pierzi vocile originale ale lui Bujie, Rachetă sau Igor. Și cred că ar suna ciudat ”lămâie” în limba română, cuvântul folosit ca apelativ pentru rable.
 
-[![](/wp-content/uploads/2011/08/cars-2-713724l-400x167.jpg)](/2011/08/filmul-cars-2-2011-lumea-masinilor/cars-2/)
+[](/2011/08/filmul-cars-2-2011-lumea-masinilor/cars-2/)
 
 Recomand pentru weekend – la IMAX 3D, la AFI Palace Cotroceni. Nu, nu dau spoiere. Filmul trebuie văzut.
 

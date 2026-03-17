@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2012/12/cookiepolicy.jpg
 ---
 
-[![](/wp-content/uploads/2012/12/cookiepolicy.jpg)](/2012/12/frica-de-necunoscut-cookies-si-parlamentarii-europeni/cookiepolicy/)De când cu expansiunea internetului, autoritățile de toate calibrele sunt din ce în ce mai preocupate de tema protecției datelor cu caracter personal. Da, e o temă pe care marketerii și PR-iștii online ar trebui să o stăpânească – e acel _terms of service_ pe care nu-l prea citește nimeni, dar care te poate scăpa de procese costisitoare și clienți supărați.
+[](/2012/12/frica-de-necunoscut-cookies-si-parlamentarii-europeni/cookiepolicy/)De când cu expansiunea internetului, autoritățile de toate calibrele sunt din ce în ce mai preocupate de tema protecției datelor cu caracter personal. Da, e o temă pe care marketerii și PR-iștii online ar trebui să o stăpânească – e acel _terms of service_ pe care nu-l prea citește nimeni, dar care te poate scăpa de procese costisitoare și clienți supărați.
 
 **Ce vor parlamentarii europeni?**
 

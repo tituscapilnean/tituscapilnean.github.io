@@ -17,12 +17,12 @@ Am vizitat Amsterdam-ul anilor 1873, când a fost inventat Heineken, am mixat mu
 
 M-am întâlnit cu Andreea, Chinezu, Toma, iar Piticu a fost martor la o parte din măcelul de la fotbalul virtual.
 
-[![](/wp-content/uploads/2013/03/photo-4-e1363265457415-150x150.jpg)](/2013/03/heineken-a-sarbatorit-140-de-ani-cu-5-camere-interactive/photo-4-2/)
+[](/2013/03/heineken-a-sarbatorit-140-de-ani-cu-5-camere-interactive/photo-4-2/)
 
-[![](/wp-content/uploads/2013/03/beer-relax-e1363265480393-150x150.jpg)](/2013/03/heineken-a-sarbatorit-140-de-ani-cu-5-camere-interactive/beer-relax/)
+[](/2013/03/heineken-a-sarbatorit-140-de-ani-cu-5-camere-interactive/beer-relax/)
 
-[![](/wp-content/uploads/2013/03/teatru-heineken-150x150.jpg)](/2013/03/heineken-a-sarbatorit-140-de-ani-cu-5-camere-interactive/teatru-heineken/)
+[](/2013/03/heineken-a-sarbatorit-140-de-ani-cu-5-camere-interactive/teatru-heineken/)
 
-[![](/wp-content/uploads/2013/03/photo-2-1-e1363265551595-150x150.jpg)](/2013/03/heineken-a-sarbatorit-140-de-ani-cu-5-camere-interactive/photo-2-1/)
+[](/2013/03/heineken-a-sarbatorit-140-de-ani-cu-5-camere-interactive/photo-2-1/)
 
 Nu degeaba au fost peste 450 de invitați, celebrități, lideri de opinie, consumatori, parteneri, reprezentanți ai presei și mediului online, într-o călătorie interactivă prin istoria de 140 de ani a brandului. Mulțumesc, Oxygen PR, pentru invitație și Heineken pentru experiență + bere.

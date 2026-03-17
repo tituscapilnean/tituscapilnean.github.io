@@ -2,7 +2,7 @@
 title: Artificial Intelligence – the Hottest Topic of 2017
 date: 2017-01-03 00:00:00 +0000
 categories: [Startups Strategy, English]
-tags: [artificial intelligence, AI, startups, trends]
+tags: [artificial intelligence, ai, startups, trends]
 author: Titus
 ---
 

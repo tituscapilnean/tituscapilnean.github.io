@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/05/puma-aferthours-social-athlete-150x150.jpg
 ---
 
-[![](/wp-content/uploads/2011/05/puma-aferthours-social-athlete-150x150.jpg)](/2011/05/petrecerea-puma-si-after-hours-athlete/puma-aferthours-social-athlete/)De ceva vreme, sunt un corporatist cu acte în regulă, așa că nu mai am cum să fac sport când și cum mă taie capul (_bine, pot, dar asta înseamnă că nu mai ajung înainte de 10 acasă_). Pentru mine și alții ca mine s-a inventat conceptul de **after-hours athelte** , adică omul care face sport după ce termină cu munca de zi cu zi.
+[](/2011/05/petrecerea-puma-si-after-hours-athlete/puma-aferthours-social-athlete/)De ceva vreme, sunt un corporatist cu acte în regulă, așa că nu mai am cum să fac sport când și cum mă taie capul (_bine, pot, dar asta înseamnă că nu mai ajung înainte de 10 acasă_). Pentru mine și alții ca mine s-a inventat conceptul de **after-hours athelte** , adică omul care face sport după ce termină cu munca de zi cu zi.
 
 **Mărturisire:** dacă aș reuși măcar să mă țin de o săptămână de sală, ar fi ceva. Deocamdată nu-mi iese, așa că de aceea am acceptat cu mare drag să mă duc la petrecerea **PUMA** , în Oxygen Club, unde sărbătorim exact personajul ăsta – atletul after-hours.
 

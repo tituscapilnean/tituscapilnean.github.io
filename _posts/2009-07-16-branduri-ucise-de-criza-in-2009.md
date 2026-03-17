@@ -8,7 +8,6 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2009/07/18713764_08b7978923_b-400x300.jpg
 ---
 
-![18713764_08b7978923_b](/wp-content/uploads/2009/07/18713764_08b7978923_b-400x300.jpg)
 
 sursa FOTO
 

@@ -27,11 +27,11 @@ Revenind însă la Twitter și la impactul pe care l-a avut acțiunea asta în d
 
 MisterTwitter a evoluat cu un mare ajutor din partea Ruxei, care a strâns cele mai multe tweeturi pe subiect:
 
-[![](/wp-content/uploads/2011/02/mistertwitter-381x300.jpg)](/wp-content/uploads/2011/02/mistertwitter.jpg)
+[](/wp-content/uploads/2011/02/mistertwitter.jpg)
 
 Modul în care a evoluat MissTwitter este un pic mai interesant, pentru că aici au apărut băieții salivatori și doritori de poze cu fete bune de pe Twitter. Cred că de asta a și depășit hashtagul ăsta ideea originală, într-un timp un pic mai scurt.
 
-[![](/wp-content/uploads/2011/02/misstwitter-400x297.jpg)](/wp-content/uploads/2011/02/misstwitter.jpg)
+[](/wp-content/uploads/2011/02/misstwitter.jpg)
 
 Câteva statistici extra:
 

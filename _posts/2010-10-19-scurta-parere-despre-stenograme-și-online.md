@@ -18,5 +18,5 @@ Bun, **my two cents** despre asta: acum intră în dezbatere o moțiune de cenzu
 
 _Manipulation 101, acum și în online!_
 
-_[![](/wp-content/uploads/2010/10/attention_manipulation-237x300.jpg)](/wp-content/uploads/2010/10/attention_manipulation.jpg)  
+_[](/wp-content/uploads/2010/10/attention_manipulation.jpg)  
 _

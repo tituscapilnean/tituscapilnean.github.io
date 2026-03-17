@@ -10,7 +10,7 @@ author: titus_capilnean
 
 Stăteam azi și mă gândeam că nu am o sursă de bloguri noi, pe care să le încerc. Dacă îmi plac, să le bag în Reader și să cresc colecția personală de bloguri.
 
-[![](/wp-content/uploads/2011/02/041106bloggersdilem-x-150x150.gif)](/wp-content/uploads/2011/02/041106bloggersdilem-x.gif)Tot gândindu-mă la treburile astea am zis să scriu pe blog și să te întreb pe tine, cititorule, **de unde găsești blogurile noi pe care le citești, cum îți împrospătezi lista?**
+[](/wp-content/uploads/2011/02/041106bloggersdilem-x.gif)Tot gândindu-mă la treburile astea am zis să scriu pe blog și să te întreb pe tine, cititorule, **de unde găsești blogurile noi pe care le citești, cum îți împrospătezi lista?**
 
 Acum antreprenorul latent din mine ar zice că am descoperit o nișă – **o platformă pentru bloguri noi** , în care să ții doar bloguri mai tinere de 4 luni. Înscrierea se face pe bază de formular și juriu-comitet de evaluare, format din 3-4 bloggeri+inițiatorul business-ului, care moderează blogurile.
 

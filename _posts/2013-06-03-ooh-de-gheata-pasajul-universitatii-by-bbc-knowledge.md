@@ -37,12 +37,12 @@ De pe 3 până pe 12 Iunie, în pasajul Nicolae Bălcescu sunt ecrane și elemen
 
 Mi-ar fi plăcut totuși să pună o plăcuță cu informațiile de mai sus lângă OOH și eventual să fi introdus măcar 1-2 elemente interactive în set, ca să aibă omul pe ce să apese sau de ce să tragă, ca să intre mai bine în experiența pe care o promite documentarul, care începe pe 12 Iunie.
 
-[![](/wp-content/uploads/2013/06/NIK2735-150x150.jpg)](/2013/06/ooh-de-gheata-pasajul-universitatii-by-bbc-knowledge/_nik2735/)
+[](/2013/06/ooh-de-gheata-pasajul-universitatii-by-bbc-knowledge/_nik2735/)
 
-[![](/wp-content/uploads/2013/06/972233_10151496504185892_565723293_n-150x150.jpg)](/2013/06/ooh-de-gheata-pasajul-universitatii-by-bbc-knowledge/972233_10151496504185892_565723293_n/)
+[](/2013/06/ooh-de-gheata-pasajul-universitatii-by-bbc-knowledge/972233_10151496504185892_565723293_n/)
 
-[![](/wp-content/uploads/2013/06/NIK2543-150x150.jpg)](/2013/06/ooh-de-gheata-pasajul-universitatii-by-bbc-knowledge/_nik2543/)
+[](/2013/06/ooh-de-gheata-pasajul-universitatii-by-bbc-knowledge/_nik2543/)
 
-[![](/wp-content/uploads/2013/06/NIK2741-150x150.jpg)](/2013/06/ooh-de-gheata-pasajul-universitatii-by-bbc-knowledge/_nik2741/)
+[](/2013/06/ooh-de-gheata-pasajul-universitatii-by-bbc-knowledge/_nik2741/)
 
-[![](/wp-content/uploads/2013/06/NIK2721-150x150.jpg)](/2013/06/ooh-de-gheata-pasajul-universitatii-by-bbc-knowledge/_nik2721/)
+[](/2013/06/ooh-de-gheata-pasajul-universitatii-by-bbc-knowledge/_nik2721/)

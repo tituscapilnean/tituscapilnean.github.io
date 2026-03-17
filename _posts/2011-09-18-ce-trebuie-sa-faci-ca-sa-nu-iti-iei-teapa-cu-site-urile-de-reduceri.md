@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/09/reduceri-de-pret.jpg
 ---
 
-**Update:** Reprezentanții Groupon au promis că îmi restituie suma și că îmi dau și un voucher cadou, drept compensație. Bună treabă! Bravo![![](/wp-content/uploads/2011/09/reduceri-de-pret.jpg)](/wp-content/uploads/2011/09/reduceri-de-pret.jpg)
+**Update:** Reprezentanții Groupon au promis că îmi restituie suma și că îmi dau și un voucher cadou, drept compensație. Bună treabă! Bravo](/wp-content/uploads/2011/09/reduceri-de-pret.jpg)
 
 Cred că un articol de genul ăsta trebuia să citesc și eu înainte să mă enervez azi cu niște cupoane de karting ieftin pe care le luasem de ceva vreme de pe Groupon.ro. Întâi spun povestea și apoi pașii pe care cred eu că trebuie să îi urmeze oricine ca să fie mulțumit de cupoanele de reducere cumpărate de pe unul din zecile de site-uri de la noi.
 

@@ -15,7 +15,7 @@ Sunt curios cu o fi arătând un blog de hater, care mai și înjură pe deasupr
 
 Am intrat pe Wordle.com, mi-am introdus adresa blogului și am primit următorul rezultat:  
   
-[![](/wp-content/uploads/2010/10/wordle-400x272.jpg)](/wp-content/uploads/2010/10/wordle.jpg)
+[](/wp-content/uploads/2010/10/wordle.jpg)
 
 **Concluzii:**
 
@@ -31,7 +31,7 @@ Asta cel puțin în **ultimele 10 articole** , pentru că nu pare să îmi fi an
 
 și blogul de hater este………..
 
-[![](/wp-content/uploads/2010/10/hater-400x256.jpg)](/wp-content/uploads/2010/10/hater.jpg)
+[](/wp-content/uploads/2010/10/hater.jpg)
 
 _blogul a fost găsit pe Google_
 

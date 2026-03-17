@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/03/31446371_9a7bfdecfc-150x150.jpg
 ---
 
-![](/wp-content/uploads/2011/03/31446371_9a7bfdecfc-150x150.jpg)Un blogger bun se vede atunci când are curaj să atace subiectele sensibile.
+Un blogger bun se vede atunci când are curaj să atace subiectele sensibile.
 
 Aici ai două variante – fie le ataci primul, într-un moment în care nimeni nu vorbește despre ele, fie în momentul în care trendul e să fii contra ceva, tu scrii că ești pro (evident, argumentat). Să fie clar, exemplele pe care le dau aici nu exclud bloggerii mari consacrați deja – zoso, visurat, arhi etc.
 

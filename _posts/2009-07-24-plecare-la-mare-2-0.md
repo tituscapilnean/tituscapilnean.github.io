@@ -9,7 +9,6 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2009/07/porto_seaside_drink-400x300.jpg
 ---
 
-![images_laptop-beach](/wp-content/uploads/2009/07/images_laptop-beach-400x265.jpg)
 
 Da, iar plec. Iar la mare.
 
@@ -37,4 +36,3 @@ Analiza **relației advertiser – client** așa cum a evoluat ea de-a lungul ti
 
 Stay Tooned!
 
-![porto_seaside_drink](/wp-content/uploads/2009/07/porto_seaside_drink-400x300.jpg)

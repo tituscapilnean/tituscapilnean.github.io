@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/04/65952-zibo-simple.jpg
 ---
 
-![](/wp-content/uploads/2011/04/65952-zibo-simple.jpg)Zibo.ro, universul online al copiilor, a decis in conformitate cu Principiile Zibo urmatoarele:
+Zibo.ro, universul online al copiilor, a decis in conformitate cu Principiile Zibo urmatoarele:
 
 Dl. Titus Capilnean este numit  
 **Ambasador Extraordinar si Plenipotentiar** al Zibo.ro.

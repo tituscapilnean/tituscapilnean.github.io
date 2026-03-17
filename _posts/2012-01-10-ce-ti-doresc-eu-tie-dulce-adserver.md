@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2012/01/image_35-150x150.png
 ---
 
-[![](/wp-content/uploads/2012/01/image_35-150x150.png)](/wp-content/uploads/2012/01/image_35.png)Când am intrat în corporație, una din primele mele griji a fost să mă asigur că există o soluție de adserving prin care monitorizez campaniile online de pe site-urile tradiționale de publishing. Fără el te cam bazezi pe ochiometrie și pe estimări date de publisheri și poți să:
+[](/wp-content/uploads/2012/01/image_35.png)Când am intrat în corporație, una din primele mele griji a fost să mă asigur că există o soluție de adserving prin care monitorizez campaniile online de pe site-urile tradiționale de publishing. Fără el te cam bazezi pe ochiometrie și pe estimări date de publisheri și poți să:
 
 1\. ți-o muști că plătești ceva ce nu se livrează
 

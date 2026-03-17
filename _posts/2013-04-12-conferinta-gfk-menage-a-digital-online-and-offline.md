@@ -27,15 +27,15 @@ Am mai aflat despre Digitally Natives și Digital Immigrants:
 
 **O imagine face cât 1000 de cuvinte, deci 3 imagini fac cât…**
 
-[![](/wp-content/uploads/2013/04/digital-natives-150x150.png)](/2013/04/conferinta-gfk-menage-a-digital-online-and-offline/digital-natives/)
+[](/2013/04/conferinta-gfk-menage-a-digital-online-and-offline/digital-natives/)
 
-[![](/wp-content/uploads/2013/04/digital-immigrants-and-migrants-150x150.jpg)](/2013/04/conferinta-gfk-menage-a-digital-online-and-offline/digital-immigrants-and-migrants/)
+[](/2013/04/conferinta-gfk-menage-a-digital-online-and-offline/digital-immigrants-and-migrants/)
 
-[![](/wp-content/uploads/2013/04/digital-natives-copy-150x150.jpg)](/2013/04/conferinta-gfk-menage-a-digital-online-and-offline/digital-natives-copy/)
+[](/2013/04/conferinta-gfk-menage-a-digital-online-and-offline/digital-natives-copy/)
 
 _Trenduri pentru digital natives:_ trăiesc în lumea mixta (online și offline), vor să artate bine și le place să aibă parte de _fresh fun_
 
-[![social media](/wp-content/uploads/2013/04/social-media-374x300.jpg)](/2013/04/conferinta-gfk-menage-a-digital-online-and-offline/social-media/)
+[](/2013/04/conferinta-gfk-menage-a-digital-online-and-offline/social-media/)
 
 Digitally natives sunt _hipsteri bio, grasi si narcisisti, care gusta glumele politcally incorrect_.
 

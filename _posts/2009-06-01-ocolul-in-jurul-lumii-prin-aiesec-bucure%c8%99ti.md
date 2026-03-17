@@ -18,8 +18,7 @@ Da, aveți 30 de zile să vă înscrieți în una din cele mai mari organizații
 
 M-am gândit ca în loc sa elogiez, ca tot omu și membrul cand vorbește despre un loc drag, mai bine vă arăt locuri în care puteți citi despre oameni care au fost prin programul Exchange sau Global Internships:
 
-Nu le detaliez, va las sa le explorați ![:\) ](/wp-content/plugins/ym_smilies/images/yahoo_smiley.gif)
-
+Nu le detaliez, va las sa le explorați 
 http://romeoman.wordpress.com/tag/internship/ 
 
 http://aiexchange.blogspot.com/ 

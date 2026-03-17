@@ -19,7 +19,7 @@ Am fost offline toată ziua pentru că wireless-ul e scump. Deși există mai mu
 
 În mod normal, ca să vizitezi un oraș ca Veneția, îți trebuie cel puțin o zi, în care să te bucuri de fiecare stradă, curte, gondolă, canal sau pod. Noi am nimerit fix în extrasezon, deci aglomerația era minimă.
 
-[![](/wp-content/uploads/2010/10/DSC01702-400x300.jpg)](/wp-content/uploads/2010/10/DSC01702.jpg)
+[](/wp-content/uploads/2010/10/DSC01702.jpg)
 
 Cel mai mult ne-a plăcut să ne plimbăm pe străzile din afara rutelor turistice, pe unde fie erau doar localnici, fie nu era absolut nimeni (da, erau piațete goale, pasaje pustii, liniște)
 
@@ -28,22 +28,22 @@ Cele mai tari chestii pe care le-am văzut au fost:
 **Strada cu sens unic pe apă**  
 
 
-[![](/wp-content/uploads/2010/10/DSC01664-377x300.jpg)](/wp-content/uploads/2010/10/DSC01664.jpg)
+[](/wp-content/uploads/2010/10/DSC01664.jpg)
 
 **Câniele Rocky Stallone, al unui italian bătrân**
 
-[![](/wp-content/uploads/2010/10/DSC01673-400x300.jpg)](/wp-content/uploads/2010/10/DSC01673.jpg)
+[](/wp-content/uploads/2010/10/DSC01673.jpg)
 
 **Bomba serii (nu o pițipoancă)**
 
-[![](/wp-content/uploads/2010/10/DSC01699-308x300.jpg)](/wp-content/uploads/2010/10/DSC01699.jpg)
+[](/wp-content/uploads/2010/10/DSC01699.jpg)
 
 **O idee pentru hipsteri, ecologiși și greenloverși: flori din fund de PET**
 
-[![](/wp-content/uploads/2010/10/DSC01668-400x300.jpg)](/wp-content/uploads/2010/10/DSC01668.jpg)
+[](/wp-content/uploads/2010/10/DSC01668.jpg)
 
 Dincolo de asta, da e frumos în Italia, chiar dacă nu e așa de civilizat ca în Germania sau Austria. Pizza, pastele și înghețata sunt excelente. Ne citim de la festival!
 
 **Bonus:**
 
-[![](/wp-content/uploads/2010/10/DSC01718-400x300.jpg)](/wp-content/uploads/2010/10/DSC01718.jpg)
+[](/wp-content/uploads/2010/10/DSC01718.jpg)

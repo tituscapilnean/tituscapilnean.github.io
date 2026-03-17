@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2012/01/Acta.jpg
 ---
 
-[![](/wp-content/uploads/2012/01/Acta.jpg)](/wp-content/uploads/2012/01/Acta.jpg)După ce lumea s-a plictisit de SOPA, acum a apărut un nou subiect de agitație pentru micul pirat – fraudator pe online, respectiv în grupurile anarhiste anonymus, de hackeri sau mai știu eu ce. Nu intru în detalii, mai multe puteți citi aici despre ACTA(sursă activistă), ACTA(document oficial din Australia).
+[](/wp-content/uploads/2012/01/Acta.jpg)După ce lumea s-a plictisit de SOPA, acum a apărut un nou subiect de agitație pentru micul pirat – fraudator pe online, respectiv în grupurile anarhiste anonymus, de hackeri sau mai știu eu ce. Nu intru în detalii, mai multe puteți citi aici despre ACTA(sursă activistă), ACTA(document oficial din Australia).
 
 ### ACTA = Anti-Counterfeiting Trade Agreement
 

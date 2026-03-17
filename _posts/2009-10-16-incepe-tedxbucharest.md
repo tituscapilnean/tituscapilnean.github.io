@@ -14,4 +14,4 @@ urmăriți hashtagul #tedxbucharest pe Twitter – voi scrie live!
 
 Tot live de pe Twitter va fi și TEDx pe Spixii
 
-[![black-ppt-logo](/wp-content/uploads/2009/09/black-ppt-logo.jpg)](/wp-content/uploads/2009/09/black-ppt-logo.jpg)
+[](/wp-content/uploads/2009/09/black-ppt-logo.jpg)

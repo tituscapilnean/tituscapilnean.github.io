@@ -10,7 +10,7 @@ author: titus_capilnean
 
 Ați ghicit, articolul ăsta este despre cum **Facebook** a depășit **350 de milioane de utilizatori** , cu cei 445.000 de români pe el. Nu asta e însă știrea principală, ci faptul că Farmville a ajuns să aibă mai mulți utilizatori activi decât **Twitter**.
 
-[![facebook](/wp-content/uploads/2009/12/facebook.jpg)](/wp-content/uploads/2009/12/facebook.jpg)
+[](/wp-content/uploads/2009/12/facebook.jpg)
 
 Twitter se estimează că va ajunge la 18 milioane de utilizatori până la sfârșitul lui 2009.
 

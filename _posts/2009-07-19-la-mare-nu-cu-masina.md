@@ -20,7 +20,7 @@ Am luat-o pe Autostrada Soarelui, cu 130-140 km/h și pe la 8 și jumătate eram
 
 Mișcarea asta, la început inteligentă, a ajuns apoi să ne aducă în mijlocul ambuteiajului incredibil de la Fetești – Cernavodă.
 
-![Photo-0074](/wp-content/uploads/2009/07/Photo-0074-400x300.jpg)  
+  
   
 Eram aproape ultimii într-o coloană care se mișca cu 5 km/h din când în când. Motivul l-am aflat mai încolo, apropiindu-ne de Cernavodă. Am văzut 4 accidente – în total 30 de mașini lovite, oameni accidentați și cioburi + îndoituri pe șosea. Peste tot era plin de poliție și ambulanțe. Atunci am aflat că autostrada fusese închisă cu totul din cauza accidentelor – deci dinspre București nu se mai putea intra.
 
@@ -28,11 +28,9 @@ Am depășit și porțiunea asta cu greu și am decis cu toții că e mai bine s
 
 Din Movila Verde drumul arată așa:
 
-![Photo-0078](/wp-content/uploads/2009/07/Photo-0078-400x300.jpg)
 
 Am mers vreo 7 km pe pietre, până în Pecineaga, un sat atât de uitat e lume, încât străzile își modifică aspectul la fiecare ploaie mai serioasă 🙂
 
-![Photo-0080](/wp-content/uploads/2009/07/Photo-0080-400x300.jpg)
 
 În Pecineaga s-a rupt toba de la Fiat și a trebuit să ne oprim să găsim o soluție ca să ajungem până la urmă la mare. Era ora 13 deja. Am oprit o mașină să vedem dacă poate să ne ajute cu un cric(pe care l-am descoperit și la noi în portbagaj). Norocul nostru a fost că tipul cunoștea un tip, care cunoștea sudorul din sat, care a venit să ne ajute. În 5 minute, au depistat problema și peste 15 minute aveam toba scoasă și băgată într-o pungă. Fiatul avea acum alt sunet 🙂
 
@@ -44,7 +42,6 @@ Intro:
 
 A fost un spectacol extraordinar de lumini și sunet, cu 30 de ecrane, lasere, fum, lumini, oameni – mi-a plăcut mult asta. Mai mult, țarcul în care era amenajată scena a fost destul de bine pregătit cu toalete și baruri, așa că nu aveai de așteptat prea mult la cozi. Prețurile au fost și ele ok – 8 lei un energizant, 6 lei o bere, 4 lei o apă.
 
-![Photo-0082](/wp-content/uploads/2009/07/Photo-0082-400x300.jpg)
 
 Au mixat pe scenă – Planet Funk, Vali Bărbulescu și mulți invitați, DJ Optik, DJ Allen și Ferry Corsten. Inițial m-am plictisit la minimalurile și dance-urile băgate de ei, însă când a intrat Ferry Corsten în scenă, parcă a fost altceva – am dansat de la 2 jumate până la 5, când răsărea deja soarele.
 
@@ -54,8 +51,7 @@ Pe la 5 am luat somn și duminică am făcut iar plajă, mare, înot, fără ber
 
 > Încă o chestie care merită menționată – ora 5 dimineața – tone de gunoi, plastic peste tot, cutii de bere, oameni beți.
 > 
-> ![Photo-0084](/wp-content/uploads/2009/07/Photo-0084-400x300.jpg)
-> 
+> > 
 > La ora 10 – curat lună, lumea plecată, parcă nimic nu mai amintea de ce a fost noaptea.
 
 Aici începe **epilogul**. 🙂

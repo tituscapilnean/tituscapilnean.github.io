@@ -8,7 +8,6 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2012/06/mad3_character_large_332x363_sonya-274x300.jpg
 ---
 
-![](/wp-content/uploads/2012/06/mad3_character_large_332x363_sonya-274x300.jpg)
 
 Începem săptămâna cu altceva decât alegeri sau cu altfel de alegeri. Am fost vineri la Madagascar 3, al treilea film din seria de care nu pot să mă mai satur.
 

@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2013/05/37344331-150x150.jpg
 ---
 
-[![37344331](/wp-content/uploads/2013/05/37344331-150x150.jpg)](/2013/05/diferenta-pe-care-o-face-internetul/attachment/37344331/)Suntem toți de acord că internetul e plin de mizerii, de spam și de lucruri inutile, că ajunge să ocupe câteodată prea mult timp din viață, nelăsând loc pentru offline.
+[](/2013/05/diferenta-pe-care-o-face-internetul/attachment/37344331/)Suntem toți de acord că internetul e plin de mizerii, de spam și de lucruri inutile, că ajunge să ocupe câteodată prea mult timp din viață, nelăsând loc pentru offline.
 
 Pe de altă parte, nu aș fi putut să țin legătura cu atât de mulți oameni faini fără Facebook, Gmail, Viber, Instagram, fără blog sau chiar fără Twitter. N-aș fi putut lucra ceea ce lucrez la corporație, n-aș fi putut să am acces la un MBA în Londra sau să îmi fac rezervările în China sau în Statele Unite de unul singur. N-aș fi putut să îmi rezerv bilet spre Zurich într-o pauză de curs la HULT sau să văd cum e vremea la mare pe 18. You get the point.
 

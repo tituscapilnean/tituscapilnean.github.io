@@ -8,7 +8,6 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2013/12/facebook-is-dead1-150x150.jpg
 ---
 
-![facebook-is-dead1](/wp-content/uploads/2013/12/facebook-is-dead1-150x150.jpg)
 
 **Update:** Context internațional – Facebook a recunoscut că scade interacțiunea organică.
 

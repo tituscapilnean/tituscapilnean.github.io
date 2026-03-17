@@ -11,7 +11,7 @@ author: titus_capilnean
 
 Un guest post surpriza semnat Mateus. 🙂
 
-[![](/wp-content/uploads/2011/07/DSC_0008-400x267.jpg)](/2011/07/despre-bizsmscamp/dsc_0008/)
+[](/2011/07/despre-bizsmscamp/dsc_0008/)
 
 După un drum aglomerat şi o masă bună, lumea se pregăteşte de conferinţă. Ceva e, totuşi, diferit. Nu e feeling-ul ăla de conferinţă la HoJo. Îmi dau seama imediat cum încep bloggerii să se prezinte:
 
@@ -43,7 +43,7 @@ La 1 dimineaţa mă retrag. O mână de oameni stau în jurul focului stins şi 
 
 Ultimul semn de viaţă îl dă Haotik, pe Twitter. “Printre cei care au rezistat eroic pana la final #bizsmscamp”
 
-**Bonus: priveliştea din balcon[![](/wp-content/uploads/2011/07/DSC_0001-400x267.jpg)](/2011/07/despre-bizsmscamp/dsc_0001/)**
+**Bonus: priveliştea din balcon[](/2011/07/despre-bizsmscamp/dsc_0001/)**
 
 **A doua zi**
 

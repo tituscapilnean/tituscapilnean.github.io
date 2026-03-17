@@ -14,7 +14,7 @@ Am primit azi pe email, de la un _fan_ , o fotografie cu mine și un mesaj care 
 
 Totuși, cred că e important să punctez faptul că _fanul_ n-a avut curajul să își lase nici numele complet, nici adresa de email validă. Mai mult, a postat mesajul de pe un server inexistent. Oare ce să însemne asta?
 
-[![](/wp-content/uploads/2011/12/succesuri-400x156.png)](/wp-content/uploads/2011/12/succesuri.png)
+[](/wp-content/uploads/2011/12/succesuri.png)
 
 Bine, eu știu cine este creatorul și el știe acum că eu știu.
 

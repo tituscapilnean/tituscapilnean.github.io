@@ -15,8 +15,8 @@ Dacă nu ai încă un sistem propriu sau vrei să îl îmbunătățești pe cel 
 
 Ambele diagrame pot funcționa foarte bine ca un checklist.
 
-[![Adaptive_Digital_Strategy_Framework_-_Andrea_Vascellari__page_2_of_5_](/wp-content/uploads/2013/09/Adaptive_Digital_Strategy_Framework_-_Andrea_Vascellari__page_2_of_5_-333x300.png)](/2013/09/framework-pentru-strategia-de-comunicare-online/adaptive_digital_strategy_framework_-_andrea_vascellari__page_2_of_5_/)
+[](/2013/09/framework-pentru-strategia-de-comunicare-online/adaptive_digital_strategy_framework_-_andrea_vascellari__page_2_of_5_/)
 
-[![Adaptive_Digital_Strategy_Framework_-_Andrea_Vascellari__page_3_of_5_-2](/wp-content/uploads/2013/09/Adaptive_Digital_Strategy_Framework_-_Andrea_Vascellari__page_3_of_5_-2-400x178.png)](/2013/09/framework-pentru-strategia-de-comunicare-online/adaptive_digital_strategy_framework_-_andrea_vascellari__page_3_of_5_-2/)
+[](/2013/09/framework-pentru-strategia-de-comunicare-online/adaptive_digital_strategy_framework_-_andrea_vascellari__page_3_of_5_-2/)
 
 Găsite aici, via Mirela.

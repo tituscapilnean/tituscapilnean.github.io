@@ -14,4 +14,4 @@ De data asta vorbesc de spam prin Promoted posts, ROI, de inutilitatea SEO, desp
 
 Mai multe aici.
 
-[![](/wp-content/uploads/2012/12/promoted-posts-abuse-600x600-400x276.png)](/2012/12/niste-stiri-interesante-de-la-butterfly-media-group/promoted-posts-abuse-600x600/)
+[](/2012/12/niste-stiri-interesante-de-la-butterfly-media-group/promoted-posts-abuse-600x600/)

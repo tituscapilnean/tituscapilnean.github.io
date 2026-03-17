@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2012/09/flyer-front1.jpg
 ---
 
-_[![](/wp-content/uploads/2012/09/flyer-front1.jpg)](/wp-content/uploads/2012/09/flyer-front1.jpg)Chiar dacă n-am cum să ajung, genul ăsta de inițiative merită toată atenția și participarea noastră. Pe scurt, conform statisticilor internaţionale, 1 din 100 de copii este afectat și fără tratament special, ei riscă să rămână izolați_
+_[](/wp-content/uploads/2012/09/flyer-front1.jpg)Chiar dacă n-am cum să ajung, genul ăsta de inițiative merită toată atenția și participarea noastră. Pe scurt, conform statisticilor internaţionale, 1 din 100 de copii este afectat și fără tratament special, ei riscă să rămână izolați_
 
 Sâmbătă, 22 Septembrie, de la ora 15:00, în Vitantis Shopping Center, se dă startul campaniei ˝Ajută  
 un copil cu autism să meargă la școală!˝. Alături de vedetele Kanal D, Christian Sabbagh, Simona Pătruleasa, Silvia Ioniță, Raluca Lăzăruț și Bianca Ioniță, Asociația Învingem Autismul și programul Jucăriada, cu sprijinul Butterfly Media Group, copiii cu autism și cei cu dezvoltare tipică vor participa împreună la ateliere de pictură și lucru manual, realizate în locul de joacă Yellow Place, din Centrul Comercial Vitantis. Participarea în campanie presupune și cel puțin o donație de 2 Euro la sms 8842 și ajută un copil cu autism să meargă la școală!

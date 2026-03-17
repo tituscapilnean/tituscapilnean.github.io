@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2012/04/Buy-Facebook-Fans-150x150.png
 ---
 
-[![](/wp-content/uploads/2012/04/Buy-Facebook-Fans-150x150.png)](/wp-content/uploads/2012/04/Buy-Facebook-Fans.png)Una din părțile bune ale Timeline-ului este că poți să vezi foarte clar dacă o pagină are un număr de fani pe bune sau dacă i-a cumpărat din ceva țară asiatică(tot sunt buni ei la produs orice ieftin și în cantități mari).
+[](/wp-content/uploads/2012/04/Buy-Facebook-Fans.png)Una din părțile bune ale Timeline-ului este că poți să vezi foarte clar dacă o pagină are un număr de fani pe bune sau dacă i-a cumpărat din ceva țară asiatică(tot sunt buni ei la produs orice ieftin și în cantități mari).
 
 Dacă scrii în address bar:
 

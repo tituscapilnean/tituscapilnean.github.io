@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/01/beat-competition-150x150.jpg
 ---
 
-![](/wp-content/uploads/2011/01/beat-competition-150x150.jpg)Urmărind ieri campania de lansare pe Twitter, Bloguri și Facebook a agenției de blogvertising a lui Andrei Roșca, m-am hotărât să fac **lista agențiilor și a consultanților** care au derulat și/sau derulează campanii pe bloguri.
+Urmărind ieri campania de lansare pe Twitter, Bloguri și Facebook a agenției de blogvertising a lui Andrei Roșca, m-am hotărât să fac **lista agențiilor și a consultanților** care au derulat și/sau derulează campanii pe bloguri.
 
 Lista e oricând deschisă, dacă am uitat pe cineva sau dacă am pus pe cineva pe nedrept aici.
 

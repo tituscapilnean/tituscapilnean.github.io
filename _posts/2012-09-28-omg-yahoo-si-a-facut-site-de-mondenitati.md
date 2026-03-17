@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2012/09/310092_282487221828861_445656071_n-150x150.jpg
 ---
 
-[![](/wp-content/uploads/2012/09/310092_282487221828861_445656071_n-150x150.jpg)](/wp-content/uploads/2012/09/310092_282487221828861_445656071_n.jpg)Yahoo! România a dat ieri o masă și o țuică pentru lansarea platformei OMG în limba română. Ro.OMG.Yahoo.com e live de aproximativ două luni și, conform surselor interne, ar avea cam 500.000 de unici/lună, iar targetul e, evident, femei, 15-36 ani, urban, deci numai bun pentru publicitate.
+[](/wp-content/uploads/2012/09/310092_282487221828861_445656071_n.jpg)Yahoo! România a dat ieri o masă și o țuică pentru lansarea platformei OMG în limba română. Ro.OMG.Yahoo.com e live de aproximativ două luni și, conform surselor interne, ar avea cam 500.000 de unici/lună, iar targetul e, evident, femei, 15-36 ani, urban, deci numai bun pentru publicitate.
 
 Platforma e, deocamdată, un agregator de conținut spălat de pe Click, Cancan, Libertatea, Ok, Perfecte și alte site-uri de gen, urmând ca mai încolo să producă și conținut propriu. I-aș zice multitabloid, într-un abuz de limbaj.
 

@@ -10,7 +10,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/11/pas2.jpg
 ---
 
-[![](/wp-content/uploads/2010/06/facebook_logo-150x150.jpg)](/wp-content/uploads/2010/06/facebook_logo.jpg)Azi am aflat și eu(pe viu, activ) că Facebook a introdus un nou tool de Stalking. **Friendship Pages**
+[](/wp-content/uploads/2010/06/facebook_logo.jpg)Azi am aflat și eu(pe viu, activ) că Facebook a introdus un nou tool de Stalking. **Friendship Pages**
 
 Mizeria asta de opțiune te lasă să **vezi exact ce ai discutat cu persoana cealaltă, ce poze ai în comun, la ce evenimente ați fost amândoi** și alte prostii pe care le-ați mai împărțit pe Facebook.
 
@@ -22,10 +22,10 @@ Atât.
 
 Uite de aici se accesează:
 
-[![](/wp-content/uploads/2010/11/pas1-400x269.jpg)](/wp-content/uploads/2010/11/pas1.jpg)
+[](/wp-content/uploads/2010/11/pas1.jpg)
 
 și partea cea mai tare e că îți sugerează Facebook alte variante!
 
-[![](/wp-content/uploads/2010/11/pas2.jpg)](/wp-content/uploads/2010/11/pas2.jpg)
+[](/wp-content/uploads/2010/11/pas2.jpg)
 
 Let the stalking begin!

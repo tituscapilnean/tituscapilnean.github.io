@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/12/girls-partying-150x150.jpg
 ---
 
-[![](/wp-content/uploads/2010/12/girls-partying-150x150.jpg)](/wp-content/uploads/2010/12/girls-partying.jpg)Să zicem că ai intrat pe internet pentru prima dată undeva acum 8-10 ani, când ne distram încă pe dial-up, respectiv pe UTP de 4 kB/s. Pe atunci erau alte site-uri, alte comunități, alte social media, deși încă nu se numeau așa.
+[](/wp-content/uploads/2010/12/girls-partying.jpg)Să zicem că ai intrat pe internet pentru prima dată undeva acum 8-10 ani, când ne distram încă pe dial-up, respectiv pe UTP de 4 kB/s. Pe atunci erau alte site-uri, alte comunități, alte social media, deși încă nu se numeau așa.
 
 Erau conturi de email pe HotMail, era Yahoo!, era Altavista.com, Google nu exista încă, Facebook nici nu ieșise din generală, Twitter era rocket science, nu existau site-uri de videosharing, încă se folosea jpeg-ul codat progresiv, din astea.
 

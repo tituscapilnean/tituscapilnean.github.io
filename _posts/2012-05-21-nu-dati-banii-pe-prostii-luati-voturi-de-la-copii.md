@@ -14,7 +14,7 @@ De pe 10 Mai suntem în plină campanie electorală. Au apărut deja fețele imp
 
 Astăzi prezentăm cazul lui Cezar Maroti, foarte popular pe Facebook în rândurile copiilor de 13-17 ani.
 
-[![](/wp-content/uploads/2012/05/maroti-facebook-400x250.png)](/wp-content/uploads/2012/05/maroti-facebook.png)
+[](/wp-content/uploads/2012/05/maroti-facebook.png)
 
 N-am nimic cu omul, însă nu înțeleg care e strategia din spatele rezultatului. O să îi ducă de mână pe părinți, să le spună ce să voteze? Dacă da, atunci clar merită o bombonică pentru efort.
 

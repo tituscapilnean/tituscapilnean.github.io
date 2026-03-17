@@ -8,7 +8,6 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/08/500-internal-server-error.jpg
 ---
 
-![](/wp-content/uploads/2010/08/500-internal-server-error.jpg)
 
 Eroarea a fost afișată în momentul în care Elena edita un videoclip în interfața lor.
 

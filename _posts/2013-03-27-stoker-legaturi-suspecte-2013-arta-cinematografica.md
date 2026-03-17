@@ -15,8 +15,8 @@ Conflictul filmului e destul de simplu: după moartea lui Richard, soț și tat�
 
 Mi-a plăcut mult, dincolo de suspansul și situațiile surprinzătoare din film, modul în care a fost filmat și montat. Rar mi-e dat să văd așa unghiuri și cadre, care transmit senzații puternice din film. Acțiunea e mai lentă decât în producțiile americane obișnuite, dar, până la urmă, nu e un film obișnuit.
 
-[![](/wp-content/uploads/2013/03/stoker1-150x150.jpg)](/2013/03/stoker-legaturi-suspecte-2013-arta-cinematografica/stoker1/)
+[](/2013/03/stoker-legaturi-suspecte-2013-arta-cinematografica/stoker1/)
 
-[![](/wp-content/uploads/2013/03/Stoker-Mia-Wasikowska1-150x150.jpg)](/2013/03/stoker-legaturi-suspecte-2013-arta-cinematografica/stoker-mia-wasikowska-2/)
+[](/2013/03/stoker-legaturi-suspecte-2013-arta-cinematografica/stoker-mia-wasikowska-2/)
 
 Premiera e vineri, 29 Martie. Mulțumesc **Odeon Film** și **Cinema City** , respectiv **Oxygen PR** pentru invitație.

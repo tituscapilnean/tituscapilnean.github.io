@@ -15,13 +15,13 @@ Ieri Nokia România a anunţat pe Twitter că Foursquare a introdus, în premier
 
 Chestia asta înseamnă că Foursquare acum este disponibil pentru toate telefoanele din topul celor mai active terminale din România, deci mulți oameni vor începe să îl folosească:
 
-[![](/wp-content/uploads/2010/09/startech1.jpg)](/wp-content/uploads/2010/09/startech1.jpg)
+[](/wp-content/uploads/2010/09/startech1.jpg)
 
 sursa Startech.ro
 
 Săptămâna trecută am fost într-o excursie pe la Sibiu. Am folosit, ca de obicei, Foursquare pentru locurile pe care le-am vizitat si mi-au placut. Diferența, de data asta, a fost dată de următoarea **ofertă livrată direct in Foursquare** , pe ecranul telefonului, în momentul în care am dat check-in în apropierea locului respectiv:
 
-[![](/wp-content/uploads/2010/09/p_480_320_EF224441-2600-4A31-871F-5A6B70EDD1EE.jpeg)](/wp-content/uploads/2010/09/p_480_320_EF224441-2600-4A31-871F-5A6B70EDD1EE.jpeg)
+[](/wp-content/uploads/2010/09/p_480_320_EF224441-2600-4A31-871F-5A6B70EDD1EE.jpeg)
 
 **Crama Sibiană**(4sq) m-a anunțat că, la al treilea checkin îmi dau o ciorbă gratis, pentru că sunt client fidel și revin. Evident, dacă aș fi stat o săptămână în Sibiu, atunci cu siguranță aș fi trecut pe la ei.
 
@@ -31,7 +31,7 @@ Cum îți promovezi o ofertă pe Foursqare?**
 
 În primul rând trebuie să anunți că ești proprietarul locului pe care vrei să îl promovezi:
 
-[![](/wp-content/uploads/2010/09/p1-400x104.jpg)](/wp-content/uploads/2010/09/p1.jpg)
+[](/wp-content/uploads/2010/09/p1.jpg)
 
 După care Foursquare îți explică totul pas cu pas:
 
@@ -49,6 +49,6 @@ Ai acces la **statistici, detalii despre vizitatorii restaurantului tău** , etc
 
 Ca să îți dai seama de modul în care se pot face asocierile, uită-te cum se promovează CNN:
 
-[![](/wp-content/uploads/2010/09/4sqcnn-319x300.jpg)](/wp-content/uploads/2010/09/4sqcnn.jpg)
+[](/wp-content/uploads/2010/09/4sqcnn.jpg)
 
 **Ai mai văzut alte tipuri de oferte de genul ăsta?** Eu mai știu câteva prin București, de exemplu.

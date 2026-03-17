@@ -8,7 +8,6 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/06/photo4-400x300.jpg
 ---
 
-![](/wp-content/uploads/2010/06/photo4-400x300.jpg)
 
 Ieşirea asta la mare, din weekend, a fost ceva mai altfel decât o ieșire obișnuită în vamă. A început neobișnuit prin prisma faptului că am ajuns acolo aproape la răsărit și că în loc să punem de un party, am preferat să stau la conversații până la 7 și ceva dimineața, când soarele era demult pe cer(după nori, evident) și perscărușii se treziseră.
 

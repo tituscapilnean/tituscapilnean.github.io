@@ -17,7 +17,7 @@ Asta înseamnă că astăzi, marja de preț, pe media istorică a raportului aur
 
 Există mai multe voci care cântă prohodul prețului petrolului (30% pe minus până în 2016) de la începutul anului, însă nu o să le citez pe toate, ci o să iau în considerare previziunile FMI-ului. Evident, prețul e controlat de OPEC și nu va fi lăsat să oscileze prea tare, cu toate că a crescut producția SUA în ultimii ani.
 
-[![51cd86a6dbf3ec56520000fd](/wp-content/uploads/2013/06/51cd86a6dbf3ec56520000fd-400x189.jpeg)](/2013/06/de-ce-scade-pretul-aurului-dolarulfed-si-petrolul/51cd86a6dbf3ec56520000fd/)
+[](/2013/06/de-ce-scade-pretul-aurului-dolarulfed-si-petrolul/51cd86a6dbf3ec56520000fd/)
 
 În condițiile astea, prețul aurului pe termen mediu s-ar duce în intervalul **1040 – 1218 USD/uncie** , într-un scenariu în care variabila dolar este stabilă. Cu toate astea, mai sunt câteva lucruri de luat în considerare:
 
@@ -32,7 +32,7 @@ O primă concluzie ar fi că SUA și băncile țin prețul aurului jos în mod i
 
 O altă ipoteză de lucru pe aur ar fi că vom repeta scenariul din 1980-1983, când prețul s-a prăbușit pe fondul aprecierii rapide a dolarului, arâtând **o corelație inversă puternică între forța dolarului și prețul unciei**.
 
-[![aur](/wp-content/uploads/2013/06/aur-400x240.png)](/2013/06/de-ce-scade-pretul-aurului-dolarulfed-si-petrolul/aur/)
+[](/2013/06/de-ce-scade-pretul-aurului-dolarulfed-si-petrolul/aur/)
 
 În scenariul ăsta, petrolul e relativ redundant. E destul de evident că un USD puternic = Aur slab, se vede asta în crahul 1980-1983 (de la 1700 la 800 în doi ani). Acum indicele USD e la 82, însa dacă FED opreste QE-ul, s-a terminat cu dolarul slab și se poate duce spre 100-110, ceea ce ar indica un preț țintă de **800-900 USD/uncie** pentru aur, cel puțin pe termen scurt. Inferența asta susține ipoteza mea în măsura în care și prețul petrolului scade cu 20%, adică undeva puțin peste previziunile FMI-ului.
 

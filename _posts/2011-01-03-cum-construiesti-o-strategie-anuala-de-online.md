@@ -31,7 +31,7 @@ Paid media=Media închiriată – bloguri, site-uri, bannere, advertoriale, camp
 
 Earned media=Fani, prieteni, clienți satisfăcuți care au scris despre experiența lor cu tine, colaboratori mulțumiți, ei nu sunt plătiți să scrie de bine despre tine, dar, cu toate astea, o fac.
 
-[![](/wp-content/uploads/2011/01/OwnedEarnedPaid-400x218.jpg)](/wp-content/uploads/2011/01/OwnedEarnedPaid.jpg)
+[](/wp-content/uploads/2011/01/OwnedEarnedPaid.jpg)
 
 Toate prezențele media trebuie, în primul rând, să fie coerente, să prezinte informații la zi.
 

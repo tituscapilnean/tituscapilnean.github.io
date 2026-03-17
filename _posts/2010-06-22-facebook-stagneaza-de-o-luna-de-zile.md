@@ -14,15 +14,12 @@ Ultima dată când am scris despre [numărul de utilizatori români de pe Facebo
 
 Acum Facebook numără **1.302.000 de utilizatori localizați în România** , în stagnare de peste 30 de zile(chiar în ușoară scădere, cu 10-20 de mii, față de luna Aprilie).
 
-![](/wp-content/uploads/2010/06/sum_countriesRO__3-400x230.png)
 
 Proporțiile de vârstă s-au păstrat aproximativ aceleași, cu peste 1.100.000 de utilizatori români peste vârsta de 18 ani:
 
-![](/wp-content/uploads/2010/06/pie_age_countriesRO__3-400x190.png)
 
 și cu o pondere aproximativ egală între bărbați și femei:
 
-![](/wp-content/uploads/2010/06/pie_countriesRO__3-400x190.png)
 
 Numere complete Facebakers.com
 

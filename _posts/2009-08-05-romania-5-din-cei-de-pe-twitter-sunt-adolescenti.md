@@ -18,7 +18,7 @@ Părerea asta a făcut înconjorul lumii, ajungând inclusiv pe Financial Times.
 
 După numai 2 săptămâni, subiectul e din nou abordat pe Mashable, de data asta cu un studiu în spate – făcut de cei de la Nielsen.(mai jos)
 
-[![twitterteens](/wp-content/uploads/2009/08/twitterteens-400x278.gif)](/wp-content/uploads/2009/08/twitterteens.gif)
+[](/wp-content/uploads/2009/08/twitterteens.gif)
 
 Din păcate, studiul **a fost atacat** mai ales pe segmentarea grupurilor țintă – 2-24 fiind mult prea larg pentru adolescenți – însă dacă ar fi detaliat grupul, adolescenții ar fi avut un procent și **mai mic din cei 16%** alocați grupei. În plus, cei de la Nielsen au afirmat că studiul s-a desfășurat luând în considerare utilizatorii care accesează Twitter.com, fără a calcula aplicațiile terțe.
 

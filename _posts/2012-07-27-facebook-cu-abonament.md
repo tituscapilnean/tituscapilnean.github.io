@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2012/07/facebook-jpeg-400x225.jpg
 ---
 
-[![](/wp-content/uploads/2012/07/facebook-jpeg-400x225.jpg)](/wp-content/uploads/2012/07/facebook-jpeg.jpg)Ieri au ieșit rezultatele pe Q2 ale Facebook, primele după listarea la bursă(dezamăgitoare, așa cum am mai scris). Acțiunile au scăzut cu 8% pentru că Facebook a demonstrat că nu poate să se ridice încă la nivelul Google, Linkedin, Forbes sau HBO când vine vorba de monetizarea timpului petrecut de utilizatori pe site.
+[](/wp-content/uploads/2012/07/facebook-jpeg.jpg)Ieri au ieșit rezultatele pe Q2 ale Facebook, primele după listarea la bursă(dezamăgitoare, așa cum am mai scris). Acțiunile au scăzut cu 8% pentru că Facebook a demonstrat că nu poate să se ridice încă la nivelul Google, Linkedin, Forbes sau HBO când vine vorba de monetizarea timpului petrecut de utilizatori pe site.
 
 Rezultate comparative (sursa):
 

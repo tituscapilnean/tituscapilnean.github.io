@@ -43,4 +43,4 @@ _p.s. Am pus evenimentul în[lista de must-uri pentru un om de online](/2011/01/
 
 _p.p.s și un bonus 🙂_
 
-[![](/wp-content/uploads/2011/09/howtoweb-bigger-longer-and-uncut-1-1024-316x300.jpg)](/wp-content/uploads/2011/09/howtoweb-bigger-longer-and-uncut-1-1024.jpg)
+[](/wp-content/uploads/2011/09/howtoweb-bigger-longer-and-uncut-1-1024.jpg)
