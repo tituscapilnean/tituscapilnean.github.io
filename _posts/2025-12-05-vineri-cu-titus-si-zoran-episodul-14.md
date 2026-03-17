@@ -3,7 +3,7 @@ title: "Vineri cu Titus și Zoran – episodul 14"
 date: 2025-12-05 13:00:00 +0300
 categories: [Podcast, Romania]
 tags: [alcool, sanatate, societate, cultura, Romania]
-author: titus
+author: titus_capilnean
 ---
 
 # Alcoolul nostru cel de toate zilele – dependență sau supapă?

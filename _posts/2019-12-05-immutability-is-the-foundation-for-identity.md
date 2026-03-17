@@ -3,7 +3,7 @@ title: Immutability is the foundation for identity
 date: 2019-12-05 10:00:00 +0000
 categories: [English, Blockchain]
 tags: [identity, blockchain, immutability]
-author: titus
+author: titus_capilnean
 ---
 
 When I was working actively in the blockchain space, one of the biggest debates for the “non-believers” was around immutability and why it matters, especially in the notorious double-spend problem. If you don’t recognize the problem, it’s hard to see a solution or an advantage.

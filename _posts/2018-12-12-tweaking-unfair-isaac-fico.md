@@ -3,7 +3,7 @@ title: Tweaking the (Un)Fair Isaac and Company score aka FICO
 date: 2018-12-12 09:00:00 +0000
 categories: [English, Finance]
 tags: [fico, credit, immigrants, identity]
-author: titus
+author: titus_capilnean
 ---
 
 When we first got to the US, we knew that the first thing we had to do is get a credit card and build credit history so we can actually have access to goods and services like real Americans.

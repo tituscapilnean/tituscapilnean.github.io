@@ -3,7 +3,7 @@ title: "Vineri cu Titus și Zoran – episodul 5"
 date: 2025-08-29 13:00:00 +0300
 categories: [Podcast, Romania]
 tags: [geopolitica, Romania, conflict, societate, razboi]
-author: titus
+author: titus_capilnean
 ---
 
 # Fericiți sau anesteziali? România în timp ce lumea arde

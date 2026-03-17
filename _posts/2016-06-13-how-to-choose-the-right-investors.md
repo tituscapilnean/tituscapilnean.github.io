@@ -3,7 +3,7 @@ title: How To Choose The Right Investors for Your Startup - with Examples
 date: 2016-06-13 09:00:00 +0000
 categories: [Startups, Venture Capital, English]
 tags: [branding, entrepreneurs, how to, investors]
-author: titus
+author: titus_capilnean
 ---
 
 I have been involved with startups for the past couple of years and one of the most frequent questions that came to both my mind and in entrepreneurship community discussions is how to choose an investor. This is a two sided question, as both you as an entrepreneur and the investor must find common ground on most things to share resources – their money & influence vs. your company and future success.

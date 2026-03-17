@@ -3,7 +3,7 @@ title: Competitive people, choose your battles
 date: 2020-02-17 10:00:00 +0200
 categories: [English, Life Strategy]
 tags: [competition, mindset, work, personal growth, sports]
-author: titus
+author: titus_capilnean
 ---
 
 Yes, you. I'm talking to you, the one that wants to win at everything. If it helps, I'll admit I'm one, too, although this post is a way of toning down that overly competitive self that can drive to some pretty nasty consequences.

@@ -3,7 +3,7 @@ title: Socoteala din online nu se potrivește cu cea din secția de votare
 date: 2016-06-06 09:00:00 +0300
 categories: [Romanian, Politica]
 tags: [alegeri locale, lectii, politica, vot]
-author: titus
+author: titus_capilnean
 ---
 
 **Socoteala din online nu se potrivește cu cea din secția de votare**

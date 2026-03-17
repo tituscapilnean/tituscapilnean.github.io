@@ -3,7 +3,7 @@ title: Creative energy rant – a water jug approach
 date: 2020-02-26 10:00:00 +0200
 categories: [Life, English]
 tags: [creativity, productivity, energy management]
-author: titus
+author: titus_capilnean
 ---
 
 Yes, this a rant about creative energy. I’ve been traveling for work and personal reasons for the past few months, on and off. Sometimes close by, sometimes far away. I’ve also had a very intense, productive past few months at work. All good problems to have.

@@ -3,7 +3,7 @@ title: Portfolio Strategy – Betting my retirement on Generative AI
 date: 2023-06-16 10:00:00 +0800
 categories: [English, Finance, GenAI]
 tags: [portfolio, retirement, generative ai, etf, investment]
-author: titus
+author: titus_capilnean
 ---
 
 Generative AI is cool, but this is not financial advice, do your own research and/or ask your financial advisor if you’re not sure what to invest in.

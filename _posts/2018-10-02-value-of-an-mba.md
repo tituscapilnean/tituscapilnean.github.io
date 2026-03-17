@@ -3,7 +3,7 @@ title: The value of an MBA
 date: 2018-10-02 09:00:00 +0000
 categories: [English, Startups]
 tags: [mba, education, graduate, career] 
-author: titus
+author: titus_capilnean
 ---
 
 Every now and then, there’s an article out there that goes viral about how MBAs are losing their shine. This time it was Harvard Business School that got 4.5% fewer applicants. 

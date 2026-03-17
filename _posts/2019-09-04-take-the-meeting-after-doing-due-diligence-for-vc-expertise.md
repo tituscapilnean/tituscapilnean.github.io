@@ -3,7 +3,7 @@ title: Take the meeting after doing due diligence for VC expertise
 date: 2019-09-04 10:00:00 +0800
 categories: [English, Startups]
 tags: [strategy, venture capital]
-author: titus
+author: titus_capilnean
 ---
 
 I wrote an extensive article on [how to choose the right VC](/posts/how-to-choose-the-right-investors) as a founder after a few very direct and intense experiences and significant research. Recently, I have been advising a few founders and one of the most important topic they bring up is raising money. They have to go out and talk to VCs all the time, if they want their startups to grow. Sure, they could build and scale organically, and kudos to the ones that do, but for deep tech, more often than not, you need deep investments.

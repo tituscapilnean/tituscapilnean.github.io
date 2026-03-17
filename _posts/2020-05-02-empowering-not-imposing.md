@@ -3,7 +3,7 @@ title: Empowering, not imposing – a lesson for hard times
 date: 2020-05-02 10:00:00 +0300
 categories: [English, Strategy, Change Management]
 tags: [empowering, leadership, change]  
-author: titus
+author: titus_capilnean
 ---
 
 Empowering people is hard. Imposing an opinion, solution or direction might seem like an easier way in hard times.

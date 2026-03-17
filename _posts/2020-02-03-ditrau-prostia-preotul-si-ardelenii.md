@@ -3,7 +3,7 @@ title: "Ditrău: Prostia, preotul și ardelenii"
 date: 2020-02-03 10:00:00 +0200
 categories: [Romanian, Politica]
 tags: [discriminare, ditrau, rasism]
-author: titus
+author: titus_capilnean
 ---
 
 A ajuns până în San Francisco povestea cu angajații brutăriei marginalizați de sătenii din Ditrău doar pentru că sunt din altă parte și de altă culoare. Toată povestea asta dă cumva substanță unor păreri pe care le exprimasem în trecut despre rasismul românilor, dar care au fost trecute cu vederea de cei cu care discutam. Așa că m-am hotărât să scriu un pic despre asta, în contextul poveștii de la Ditrău, acest nou “centru” al xenofobiei și rasismului.

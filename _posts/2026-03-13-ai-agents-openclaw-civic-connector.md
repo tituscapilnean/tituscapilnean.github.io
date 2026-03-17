@@ -3,7 +3,7 @@ title: "I've Been Running AI Agents for Months — Here's How I Can Set One Up f
 date: 2026-03-13 09:00:00 -0800
 categories: [English, AI]
 tags: [ai agents, automation, civic, identity, tools]
-author: titus
+author: titus_capilnean
 ---
 
 For the past several months I've been running AI agents in my own workflows — not experimenting in sandboxes, but actually deploying them against real tasks and seeing what breaks.

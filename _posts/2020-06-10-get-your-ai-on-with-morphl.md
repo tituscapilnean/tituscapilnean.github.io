@@ -3,7 +3,7 @@ title: Get your AI On with MorphL – Marketing AI Products
 date: 2020-06-10 10:00:00 +0000
 categories: [English, Artificial Intelligence]
 tags: [podcast, marketing, ai]     
-author: titus
+author: titus_capilnean
 ---
 
 Since coming to the US in 2016, I’ve had on and off attempts to get back to public speaking, with some webinars, virtual events, but not podcasts.

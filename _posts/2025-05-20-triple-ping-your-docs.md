@@ -3,7 +3,7 @@ title: "Triple-Ping Your Docs: How I Use Claude, Gemini & o3 to Beat Bland AI Wr
 date: 2025-05-20 17:00:00 -0400
 categories: [English, Writing]
 tags: [generative ai, content strategy]
-author: titus
+author: titus_capilnean
 ---
 
 Last week I was building a “content strategy” document that read like it had fallen, fully‑formed, out of a prompt‑engine. Polite, polished—and dead on arrival. Instead of rewriting it from scratch, I ran my favourite torture‑test: drop the file into Claude and type **“Roast this guide.”** Twenty seconds later the screen lit up with savage one‑liners about bloated bullets, recycled frameworks, and *consultant‑scented* jargon. Perfect. The roasting hurt, but the file survived.

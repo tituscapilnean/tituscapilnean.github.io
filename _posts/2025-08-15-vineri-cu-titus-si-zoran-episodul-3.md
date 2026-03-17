@@ -3,7 +3,7 @@ title: "Vineri cu Titus și Zoran – episodul 3"
 date: 2025-08-15 13:00:00 +0300
 categories: [Podcast, Romania]
 tags: [geopolitica, coruptie, administratie, romania, ue, sua]
-author: titus
+author: titus_capilnean
 ---
 
 Am intrat în direct pentru episodul 3 cu titlul *American Dream pentru pace europeană*. L-am ales inspirat de întâlnirea președintelui SUA cu cel al Rusiei – un eveniment istoric, dar nu în sensul bun al cuvântului. Am pornit de la acolo și am ajuns departe: de la Simona Halep la microbuzele PNRR, de la Texas la comunele din România, de la masoni care ocupă piețe la sistemul medical din SUA și cel din România.

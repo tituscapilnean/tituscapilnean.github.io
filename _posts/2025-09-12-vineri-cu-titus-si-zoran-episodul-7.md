@@ -3,7 +3,7 @@ title: "Vineri cu Titus și Zoran – episodul 7"
 date: 2025-09-12 13:00:00 +0300
 categories: [Podcast, Romania]
 tags: [economie, datorie, aparare, drone, Romania, securitate]
-author: titus
+author: titus_capilnean
 ---
 
 # Zgomot, datorii și drone: trei cuvinte care definesc toamna noastră

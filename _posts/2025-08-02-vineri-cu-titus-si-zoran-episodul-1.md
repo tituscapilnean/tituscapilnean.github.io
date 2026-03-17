@@ -3,7 +3,7 @@ title: "Vineri cu Titus și Zoran – episodul 1"
 date: 2025-08-02 12:00:00 +0300
 categories: [Podcast, Romania]
 tags: [economie, digitalizare, societate, coruptie, biserica, democratie]
-author: titus
+author: titus_capilnean
 ---
 
 # Vineri cu Titus și Zoran – Așa cum e România, fără filtre

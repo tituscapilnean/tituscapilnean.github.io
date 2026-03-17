@@ -3,7 +3,7 @@ title: Nepasarea care da speranta
 date: 2018-10-08 09:00:00 +0300
 categories: [Romanian, Politica]
 tags: [politica]
-author: titus
+author: titus_capilnean
 ---
 
 **Nepasarea care da speranta**

@@ -3,7 +3,7 @@ title: How to brand offerings and leverage the brand – A lesson from Apple
 date: 2014-06-24 09:00:00 +0800
 categories: [English, Branding]
 tags: [branding, apple, marketing, digital] 
-author: titus
+author: titus_capilnean
 ---
 
 In these times of Social Media and Digital communications, when everyone seems to value speed above all else, it’s still important, from my point of view, to go back to the fundamentals of marketing & branding.

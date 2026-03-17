@@ -3,7 +3,7 @@ title: "Vineri cu Titus și Zoran – episodul 12"
 date: 2025-11-07 13:00:00 +0300
 categories: [Podcast, Romania]
 tags: [Rusia, geopolitica, NATO, propaganda, energie, Romania]
-author: titus
+author: titus_capilnean
 ---
 
 # Ce ne poate oferi Rusia? O analiză fără propagandă în nicio direcție

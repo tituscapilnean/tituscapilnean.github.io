@@ -3,7 +3,7 @@ title: The Conservative and Progressive Irony of Liberals and Republicans
 date: 2018-12-11 10:00:00 +0000
 categories: [English, Politics]
 tags: [culture, ideology, politics]
-author: titus
+author: titus_capilnean
 ---
 
 Thinking about AI, progress, innovation and pro-business can only lead me to think about politics. Since I’ve been in the US for a while now, I’ve started to spot some interesting anomalies, contradictions in the way the two dominating ideologies tend to behave conservatively or progressively.

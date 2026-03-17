@@ -3,7 +3,7 @@ title: Relațiile publice – fundamente și teorii
 date: 2020-06-07 09:00:00 +0300
 categories: [Romanian, Comunicare]
 tags: [relatii publice, comunicare, organizatii]
-author: titus
+author: titus_capilnean
 ---
 
 ## CAPITOLUL 1: Relațiile publice – fundamente și teorii

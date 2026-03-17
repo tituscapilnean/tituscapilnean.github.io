@@ -3,7 +3,7 @@ title: Protestele Hexi Pharma și Roșia Montană
 date: 2016-05-08 09:00:00 +0300
 categories: [Romanian, Politica]
 tags: [hexi pharma, rosia montana, proteste, coruptie]
-author: titus
+author: titus_capilnean
 ---
 
 Urmăresc ancheta **Hexi Pharma**, acum extinsă la nivelul întregului sistem medical, cu mare interes. E o mafie acolo de neimaginat. Trebuie să citești ancheta condusă de Cătălin Tolontan. Vorbește acolo de modul în care compania condusă de Dan Condrea a câștigat zeci de milioane de dolari în contracte cu statul, cum a cumpărat reactivi ieftini și i-a revândut de zeci de ori mai scump și diluați. Iar primul contract a venit de la spitalul condus de Sorin Oprescu, acum anchetat după un flagrant pentru mită.

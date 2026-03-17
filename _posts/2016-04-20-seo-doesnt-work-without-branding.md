@@ -3,7 +3,7 @@ title: "SEO doesn’t work without branding"
 date: 2016-04-20 10:00:00 +0200
 categories: [English, Strategy]
 tags: [seo, branding, digital]  
-author: titus
+author: titus_capilnean
 ---
 
 Even though TechCrunch now has gone tabloid, they still nail it from time to time. This week, I was reading an article on how the digital marketers decided to skip school, reinvent the wheel and discount all strategic management tools to go directly to instant gratification tactics and/or hacks.

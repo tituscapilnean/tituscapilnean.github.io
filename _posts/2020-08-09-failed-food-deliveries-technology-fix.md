@@ -3,7 +3,7 @@ title: Failed food deliveries – a technology fix
 date: 2020-08-09 10:00:00 +0000
 categories: [English, Blockchain, Food Delivery]
 tags: [deliveries, tech, blockchain, identity, zero-knowledge]
-author: titus
+author: titus_capilnean
 ---
 
 Today, a Caviar courier managed to not delivery my order. This is not the first time a courier fails to deliver my food, although it showed as confirmed in the app. I live on a little hilltop building, with an alley way entrance between two small lion statues. I’m aware it’s hard to find and I always add instructions on how to get to my apartment. It usually works, but sometimes I get to starve for another 30+ minutes until we figure out other alternatives to the meal we’d been waiting for.

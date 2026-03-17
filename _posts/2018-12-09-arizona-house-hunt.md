@@ -3,7 +3,7 @@ title: I viewed 22 houses in 3 days in Arizona. Here’s what I learned
 date: 2018-12-09 10:00:00 +0000
 categories: [English, Real Estate]
 tags: [real estate, arizona, housing, phoenix]
-author: titus
+author: titus_capilnean
 ---
 
 This past few days I flew all the way to Phoenix, Arizona, to check out some property there.

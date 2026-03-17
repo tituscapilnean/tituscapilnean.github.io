@@ -3,7 +3,7 @@ title: Londra după 2 ani – the good, the bad, the ugly
 date: 2016-05-12 09:00:00 +0100
 categories: [Romanian, Altele de online]
 tags: []
-author: titus
+author: titus_capilnean
 ---
 
 Londra după 2 ani – the good, the bad, the ugly  

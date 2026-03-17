@@ -3,7 +3,7 @@ title: 3 MUST Focus Areas for Growth Managers
 date: 2016-12-16 09:00:00 +0000
 categories: [English, Startups]
 tags: [definition, focus, growth, growth manager, investors, marketing, product, sales]
-author: titus
+author: titus_capilnean
 ---
 
 There is an increasing amount of noise out there about what a growth hacker or a growth manager (please don’t confuse these two!) should do to drive 10x growth in organizations. I’ve seen a lot of tactical suggestions, examples and strategies, ranging from PPC, A/B testing, to branding and sales organization setup, but very few talk about the WHYs, the reasons behind all the tests and the activities, the larger picture, the strategic intent. Sure, you can argue that it could be all for growth.

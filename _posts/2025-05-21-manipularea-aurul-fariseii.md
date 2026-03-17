@@ -3,7 +3,7 @@ title: "Manipularea, aurul și fariseii – gânduri după alegerile din 2025 ca
 date: 2025-05-21 17:00:00 +0300
 categories: [Romanian, Politică]
 tags: [alegeri, dezinformare, geopolitică, RosiaMontana]
-author: titus
+author: titus_capilnean
 ---
 
 # În loc de rezumat

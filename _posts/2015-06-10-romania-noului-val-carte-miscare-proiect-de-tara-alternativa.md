@@ -3,7 +3,7 @@ title: România Noului Val – carte, mișcare, proiect de țară, alternativă
 date: 2015-06-10 09:00:00 +0300
 categories: [Business, Investitii, Romanian, Politica]
 tags: [analiza, noul-val, politica, recenzie]     # TAG names should always be lowercase
-author: titus
+author: titus_capilnean
 ---
 
 România Noului Val – carte, mișcare, proiect de țară, alternativă  

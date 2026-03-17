@@ -3,7 +3,7 @@ title: Cryptocurrencies – towards a circular economy
 date: 2018-08-03 09:00:00 +0000
 categories: [Blockchain, English]
 tags: [cryptocurrencies, circular economy]
-author: titus
+author: titus_capilnean
 ---
 
 > “A local currency is used within a defined area and promotes demand for local goods and services. A multiplier effect occurs as the service or goods provider in turn spends the funds locally, with each reuse strengthening the system, promoting local value, self-sufficiency and community interdependence, while providing independence from financial systems far from local control and benefit.
