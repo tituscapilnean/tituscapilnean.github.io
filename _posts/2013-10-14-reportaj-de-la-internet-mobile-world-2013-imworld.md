@@ -10,7 +10,7 @@ author: titus_capilnean
 #   - [iframe] http://www.slideshare.net/slideshow/embed_code/27100236
 ---
 
-_[![anticiparea-viitorului-si-internetul-lucrurilor-tendintele-mondiale-prezentate-la-zi-la-imworld-2013](/wp-content/uploads/2013/10/anticiparea-viitorului-si-internetul-lucrurilor-tendintele-mondiale-prezentate-la-zi-la-imworld-2013-150x150.jpg)](/2013/10/reportaj-de-la-internet-mobile-world-2013-imworld/anticiparea-viitorului-si-internetul-lucrurilor-tendintele-mondiale-prezentate-la-zi-la-imworld-2013/)Textul de mai jos e scris de Mirela Petre, Communication Specialist la eSKY.ro. Pe această cale îi mulțumesc și lui Cristi pentru invitație la Internet& Mobile World 2013, cu toate că n-am reușit să ajung din motive foarte work – related._
+_[](/2013/10/reportaj-de-la-internet-mobile-world-2013-imworld/anticiparea-viitorului-si-internetul-lucrurilor-tendintele-mondiale-prezentate-la-zi-la-imworld-2013/)Textul de mai jos e scris de Mirela Petre, Communication Specialist la eSKY.ro. Pe această cale îi mulțumesc și lui Cristi pentru invitație la Internet& Mobile World 2013, cu toate că n-am reușit să ajung din motive foarte work – related._
 
 _Concluzia, după ce am citit și formatat textul ăsta, e că digitalul nu moare, digitalul migrează spre centru, se transformă și crește._
 

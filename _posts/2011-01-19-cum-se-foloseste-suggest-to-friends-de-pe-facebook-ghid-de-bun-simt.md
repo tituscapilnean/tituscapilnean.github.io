@@ -21,7 +21,6 @@ Cred că deja cele trei exemple acoperă cam **90%** din cazurile în care prime
 
 **Cum foloseșt Suggest Page – ghid de bun simț**
 
-![](/wp-content/uploads/2011/01/suggest-to-friends-400x292.jpg)
 
 În primul rând, gândește-te la persoana căreia îi sugerezi pagina. În jurul conceptului ăsta se învârte toată social media. _It’s not about you, it’s about them_.
 

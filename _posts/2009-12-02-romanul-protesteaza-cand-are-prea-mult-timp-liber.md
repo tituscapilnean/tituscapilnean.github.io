@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2009/12/personal_protest2.png
 ---
 
-[![personal_protest2](/wp-content/uploads/2009/12/personal_protest2.png)](/wp-content/uploads/2009/12/personal_protest2.png)
+[](/wp-content/uploads/2009/12/personal_protest2.png)
 
 Am văzut acum câțiva ani un documentar despre **apetitul americanilor pentru proteste**. Atunci se analiza legătura dintre timpul liber excesiv și nevoia de a ieși în stradă alături de alți concetățeni, într-o mișcare de mase cu iz bolșevic. Cu pancarte, cu megafoane, cu agitatori, oamenii veneau cu tot tacâmul. Bine, ei nu protestau atunci împotriva unui sistem politic sau altul, ci **protestau împotriva războiului, poluării** și alte chestii pe care ei le considerau importante la momentul respectiv. În esență, protestele respective promovau niște **valori pozitive**(mă rog, mai puțin cele de legalizarea ierbii și a LSD-ului 🙂 )
 

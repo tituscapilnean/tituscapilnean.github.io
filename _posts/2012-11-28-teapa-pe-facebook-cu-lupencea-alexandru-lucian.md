@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2012/11/Experts2_Fotolia_8872776_XS-150x150.jpg
 ---
 
-[![](/wp-content/uploads/2012/11/Experts2_Fotolia_8872776_XS-150x150.jpg)](/wp-content/uploads/2012/11/Experts2_Fotolia_8872776_XS.jpg)Acum ceva vreme scriam despre cum poți să [te ferești de țepe](/2012/02/ghid-anti-teapa-pentru-clientii-de-online/), despre cum [se cumpără fani](/2012/04/s-a-dus-dracului-afacerea-cu-cumparatul-de-fani/) și ce consecințe are acțiunea asta asupra activității brandului pe Facebook.
+[](/wp-content/uploads/2012/11/Experts2_Fotolia_8872776_XS.jpg)Acum ceva vreme scriam despre cum poți să [te ferești de țepe](/2012/02/ghid-anti-teapa-pentru-clientii-de-online/), despre cum [se cumpără fani](/2012/04/s-a-dus-dracului-afacerea-cu-cumparatul-de-fani/) și ce consecințe are acțiunea asta asupra activității brandului pe Facebook.
 
 Dacă Prigoană a înțeles în primăvară că nu trebuia să cumpere fani din India, antreprenorii români nu obosesc în a face spam cu ofertele lor, de data asta, localizate. Poate, poate cade vreun [expert social media](/2011/01/cum-iti-dai-seama-ca-nu-esti-expert-social-media/) în plasă.
 

@@ -2,7 +2,7 @@
 title: "I’m sorry I’m not rich enough to try to get rich: Accredited Investor status in the US"
 date: 2020-02-02 10:00:00 +0000
 categories: [English, Politics, Startups, Venture Capital]
-tags: [startups, venture capital, investing, regulations]
+tags: [startups, venture-capital, investing, regulations]
 author: titus_capilnean
 ---
 

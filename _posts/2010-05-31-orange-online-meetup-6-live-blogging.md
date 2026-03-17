@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/05/meetup.jpg
 ---
 
-[](/wp-content/uploads/2010/05/meetup.jpg)[![meetup](/wp-content/uploads/2010/05/meetup.jpg)](/wp-content/uploads/2010/05/meetup.jpg)
+[](/wp-content/uploads/2010/05/meetup.jpg)[](/wp-content/uploads/2010/05/meetup.jpg)
 
 Am ajuns, în ciuda ploii și a taxiurilor îndărătnice, la Orange Online MeetUp, ediția a 6-a, în care vorbim despre utilizatorul român de internet.
 

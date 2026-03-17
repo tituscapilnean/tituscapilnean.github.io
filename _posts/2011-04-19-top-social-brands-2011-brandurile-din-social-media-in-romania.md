@@ -26,4 +26,4 @@ Adleras – a pus toată revista Biz pe blog, cu embed
 
 deocamdată atât 🙂
 
-[![](/wp-content/uploads/2011/04/photo2-400x300.jpg)](/2011/04/top-social-brands-2011-brandurile-din-social-media-in-romania/photo2-2/)
+[](/2011/04/top-social-brands-2011-brandurile-din-social-media-in-romania/photo2-2/)

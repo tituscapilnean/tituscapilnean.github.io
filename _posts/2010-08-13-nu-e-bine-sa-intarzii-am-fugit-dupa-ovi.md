@@ -10,7 +10,7 @@ author: titus_capilnean
 
 Aseară am fost la prima goană după Ovi 2.0, de la Tineretului, până la Aviatorilor, de unde am luat-o spre debarcader, lângă pavilionul H. În mod normal, trebuia să ajung și eu, ca tot omul, la 6 fără 10 în zona în care trebuia să primim primul indiciu ca să îl putem găsi pe Ovi Guy. Evident că nu s-a întâmplat așa și am ajuns cu vreo 10-15 minute întârziere, din cauza unui șofer personal care s-a mișcat mai greu 🙂 Și acum îmi amintesc tonul fetei care m-a întâmpinat – ”Colegii tăi sunt cu vreo 10 minute înaintea ta…”.
 
-[![](/wp-content/uploads/2010/08/Untitled-1-231x300.png)](/wp-content/uploads/2010/08/Untitled-1.png)
+[](/wp-content/uploads/2010/08/Untitled-1.png)
 
 M-am luat cu introducerea și n-am povestit care e treaba cu goana asta. Nokia a pus și anul trecut și anul ăsta la bătaie niște telefoane mobile(în 2010 e un **Nokia N900** , de pe care am făcut live blogging la [Mobile Marketing Conference](/2010/05/mobile-marketing-conference-live-blogging/)). Telefoanele poți să le câștigi dacă îl găsești pe Ovi, un tip misterios, despre care afli doar indicii.
 

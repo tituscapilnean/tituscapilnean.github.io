@@ -20,7 +20,7 @@ Nu mă înțelege greșit. Concursurile cu premii – produse sunt foarte bune c
 
 Însă, tipul de utilizator de internet atras de mecanismul ăsta este unul care scoate bani din buzunar mai greu, mai ales dacă a câștigat sau poate câștiga pe gratis produsele.
 
-[![](/wp-content/uploads/2010/11/166502795lLCdyM_fs-150x150.jpg)](/wp-content/uploads/2010/11/166502795lLCdyM_fs.jpg) Jucatorul 
+[](/wp-content/uploads/2010/11/166502795lLCdyM_fs.jpg) Jucatorul 
 
 Utilizatorul ăsta se numește **utilizatorul jucător.** El este implicat în acțiunea ta pentru că are un premiu de câștigat. Dacă nu îl câștigă, se supără și pleacă. Merge la următorul concurs, să vâneze următorul premiu.
 
@@ -28,7 +28,7 @@ Totuși, e util să atragi câțiva dintre ei, pentru că vor anima spiritele î
 
 Bine, nu-i uităm nici pe cei care cumpără produsul pentru care au concurat, după ce n-au câștigat, însă ei sunt puțini și rari.
 
-[![](/wp-content/uploads/2010/11/first_time_home_buyer-150x150.jpg)](/wp-content/uploads/2010/11/first_time_home_buyer.jpg) Cumparatorul 
+[](/wp-content/uploads/2010/11/first_time_home_buyer.jpg) Cumparatorul 
 
 Există un alt tip de utilizator, mai puțin exploatat pe Facebook, Twitter, bloguri.
 

@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/03/live-tweeting-400x195.jpg
 ---
 
-[![live-tweeting](/wp-content/uploads/2010/03/live-tweeting-400x195.jpg)](/wp-content/uploads/2010/03/live-tweeting.jpg)
+[](/wp-content/uploads/2010/03/live-tweeting.jpg)
 
 Ideea acestui articol a pornit de la un tweet primit de la @Minxieee:
 

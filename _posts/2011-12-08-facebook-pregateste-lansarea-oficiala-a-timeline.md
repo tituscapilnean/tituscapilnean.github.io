@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/12/privacy-150x150.jpg
 ---
 
-[![](/wp-content/uploads/2011/12/privacy-150x150.jpg)](/wp-content/uploads/2011/12/privacy.jpg)Subiectul murise de ceva vreme, însă pe 6 Decembrie, în Noua Zeelandă, Facebook dădea drumul la Timeline, oficial. Acum și Mashable publică un ghid complet al noului format, ceea ce nu poate indica decât că Timeline se generalizează în curând. Pregătiți-vă.
+[](/wp-content/uploads/2011/12/privacy.jpg)Subiectul murise de ceva vreme, însă pe 6 Decembrie, în Noua Zeelandă, Facebook dădea drumul la Timeline, oficial. Acum și Mashable publică un ghid complet al noului format, ceea ce nu poate indica decât că Timeline se generalizează în curând. Pregătiți-vă.
 
 ### Ce e Timeline, pe scurt
 

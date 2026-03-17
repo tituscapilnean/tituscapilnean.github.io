@@ -18,6 +18,6 @@ De aceea, dau o invitație GOLD la Webit, pe 10-11 Octombrie, cu condiția să �
 
 _p.s. invitațiile valorează 380 Euro/bucată._
 
-[![](/wp-content/uploads/2012/09/The_training_cycle.png)](/wp-content/uploads/2012/09/The_training_cycle.png)
+[](/wp-content/uploads/2012/09/The_training_cycle.png)
 
 (sursa foto)

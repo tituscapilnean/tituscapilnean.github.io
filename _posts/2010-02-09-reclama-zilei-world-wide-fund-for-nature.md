@@ -14,4 +14,4 @@ Frunzărind prin reader, am dat peste o reclamă extraordinar de tare a celor de
 
 Genial.
 
-[![Maimuta](/wp-content/uploads/2010/02/tumblr_kxj6lszxl11qz4s3wo1_500-400x289.jpg)](/wp-content/uploads/2010/02/tumblr_kxj6lszxl11qz4s3wo1_500.jpg)
+[](/wp-content/uploads/2010/02/tumblr_kxj6lszxl11qz4s3wo1_500.jpg)

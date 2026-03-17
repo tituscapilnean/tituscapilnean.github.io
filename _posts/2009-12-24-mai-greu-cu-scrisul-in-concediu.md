@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2009/12/santa-claus-and-rudolf-reindeer-pop-art-print-102.jpg
 ---
 
-[![santa-claus-and-rudolf-reindeer-pop-art-print-102](/wp-content/uploads/2009/12/santa-claus-and-rudolf-reindeer-pop-art-print-102.jpg)](/wp-content/uploads/2009/12/santa-claus-and-rudolf-reindeer-pop-art-print-102.jpg)De ieri am intrat într-o stare nefamiliară mie – aka concediu.
+[](/wp-content/uploads/2009/12/santa-claus-and-rudolf-reindeer-pop-art-print-102.jpg)De ieri am intrat într-o stare nefamiliară mie – aka concediu.
 
 E impropriu spus că e așa, mai ales că am de lucru la niște proiecte mai măricele, dragi mie. Date fiind condițiile astea, o să scriu mai rar până pe 4 ianuarie, când reintru în programul normal de scris 🙂
 

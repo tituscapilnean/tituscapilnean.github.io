@@ -10,18 +10,18 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/10/Jeep_Bushman_Eskimo-400x282.jpg
 ---
 
-[![](/wp-content/uploads/2010/10/Jeep_Husky_Camel-thumb-350x247-18309.jpg)](/wp-content/uploads/2010/10/Jeep_Husky_Camel-thumb-350x247-18309.jpg)
+[](/wp-content/uploads/2010/10/Jeep_Husky_Camel-thumb-350x247-18309.jpg)
 
 Asta e o campanie foarte mișto la mașini.  
 
 
 Și a apărut în mai multe variante:
 
-[![](/wp-content/uploads/2010/10/two.worlds.3o-400x284.jpg)](/wp-content/uploads/2010/10/two.worlds.3o.jpg)
+[](/wp-content/uploads/2010/10/two.worlds.3o.jpg)
 
 și
 
-[![](/wp-content/uploads/2010/10/Jeep_Bushman_Eskimo-400x282.jpg)](/wp-content/uploads/2010/10/Jeep_Bushman_Eskimo.jpg)
+[](/wp-content/uploads/2010/10/Jeep_Bushman_Eskimo.jpg)
 
 Care prezintă întâlnirea a două lumi diferite.
 

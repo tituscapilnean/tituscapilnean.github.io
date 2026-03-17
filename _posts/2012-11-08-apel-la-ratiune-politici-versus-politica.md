@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2012/11/erm09212_fig1-150x150.png
 ---
 
-_[![](/wp-content/uploads/2012/11/erm09212_fig1-150x150.png)](/wp-content/uploads/2012/11/erm09212_fig1.png)Sunt un fin urm_ _ăritor al vieții politice și mă preocupă modul în care acțiunile cârmuitorilor se răsfâng asupra economiei țării. Problema e că, deși avem mult potențial, creșterea economică a fost omorâtă de fluctuația cursului de schimb din vară și investitorii s-au cam speriat, iar fără ei, zice și Mugur Isărescu, nu putem crește. Mai mult, dacă la stat nu te aștepți să ai creșteri, nici măcar la privat nu au mai crescut salariile anul ăsta, deci vom încasa o pierdere de 5%, cam cât e și rata inflației + pierdere pe cursul de schimb de cam 7%. Colac peste pupăză, s-au oprit și fondurile europene._
+_[](/wp-content/uploads/2012/11/erm09212_fig1.png)Sunt un fin urm_ _ăritor al vieții politice și mă preocupă modul în care acțiunile cârmuitorilor se răsfâng asupra economiei țării. Problema e că, deși avem mult potențial, creșterea economică a fost omorâtă de fluctuația cursului de schimb din vară și investitorii s-au cam speriat, iar fără ei, zice și Mugur Isărescu, nu putem crește. Mai mult, dacă la stat nu te aștepți să ai creșteri, nici măcar la privat nu au mai crescut salariile anul ăsta, deci vom încasa o pierdere de 5%, cam cât e și rata inflației + pierdere pe cursul de schimb de cam 7%. Colac peste pupăză, s-au oprit și fondurile europene._
 
 _E vreme numai bună de luat decizii. Vă las cu relatarea lui Sergiu. Poze vedeți pe alte bloguri._
 

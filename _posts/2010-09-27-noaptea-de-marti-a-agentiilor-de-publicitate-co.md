@@ -22,4 +22,4 @@ Despre **Noaptea Agențiilor** :
 >  ADOR 2010 dedica una dintre zilele de festival agentiilor care vor sa se intreaca si in creativitatea de a organiza un eveniment «al portilor deschise».  
 >  In cadrul Noptii Agentiilor fiecare dintre participanti va organiza si gazdui cate un eveniment tematic, deschis «insomniacilor».
 
-[![](/wp-content/uploads/2010/09/ADOR_NA2-04-212x300.jpg)](/wp-content/uploads/2010/09/ADOR_NA2-04.jpg)
+[](/wp-content/uploads/2010/09/ADOR_NA2-04.jpg)

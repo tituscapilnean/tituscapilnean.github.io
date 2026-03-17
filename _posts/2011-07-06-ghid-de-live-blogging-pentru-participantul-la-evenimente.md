@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/07/live-blogging-150x150.jpg
 ---
 
-[![](/wp-content/uploads/2011/07/live-blogging-150x150.jpg)](/2011/07/ghid-de-live-blogging-pentru-participantul-la-evenimente/live-blogging/)Una din chestiile la care mă pricep cel mai bine este [live blogging](/tag/live-blog/)-ul. Cine a citit categoria [Live Blog](/tag/live-blog/) de aici știe, cine nu, poate să o citească și să vadă cam care e stilul în care scriu eu de la evenimente. Mulți mă întrebă cum reușesc. Treaba nu e chiar atât de complicată pe cât pare și pentru ea ai nevoie de un pic de atenție distributivă – să poți să urmărești vorbitorul și întrebările, în timp ce procesezi mesajele și le scrii pe blog.
+[](/2011/07/ghid-de-live-blogging-pentru-participantul-la-evenimente/live-blogging/)Una din chestiile la care mă pricep cel mai bine este [live blogging](/tag/live-blog/)-ul. Cine a citit categoria [Live Blog](/tag/live-blog/) de aici știe, cine nu, poate să o citească și să vadă cam care e stilul în care scriu eu de la evenimente. Mulți mă întrebă cum reușesc. Treaba nu e chiar atât de complicată pe cât pare și pentru ea ai nevoie de un pic de atenție distributivă – să poți să urmărești vorbitorul și întrebările, în timp ce procesezi mesajele și le scrii pe blog.
 
 Înainte de fiecare eveniment, **stau măcar 10-15 minute să îmi fac documentarea** și să văd cine vine, despre ce vorbește, ce ar trebui să spună, poate salvez și o fotografie pentru articol. De obicei, chestia asta mă ajută să fac mai repede conexiunile în timpul conferinței și nu mai pierd timpul ca să înțeleg despre ce e vorba. Încep să scriu direct.
 

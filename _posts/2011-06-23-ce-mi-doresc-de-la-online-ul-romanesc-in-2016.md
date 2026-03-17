@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/06/wishful_thinking180-150x150.jpg
 ---
 
-![](/wp-content/uploads/2011/06/wishful_thinking180-150x150.jpg)  
+  
 Nu, nu e ”Ce-ți doresc eu ție, dulce Românie”.
 
 M-am gândit să îi răspund lui Dragoș cu niște idei pe termen mediu/lung pe care le tot vehiculez de ceva vreme în mintea mea. Leapșa primită de la el sună exact ca titlul articolului, însă adaptată pe piața de online din România, în care o să mai activez încă cel puțin 2-3 ani(da, nu scăpați de mine așa de repede).

@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/02/content-or-design-150x150.gif
 ---
 
-_[![](/wp-content/uploads/2011/02/content-or-design-150x150.gif)](/wp-content/uploads/2011/02/content-or-design.gif)Guest post scris de Flo(siteguru.ro)_
+_[](/wp-content/uploads/2011/02/content-or-design.gif)Guest post scris de Flo(siteguru.ro)_
 
 M-am uitat pe forumuri, pe bloguri, pe ici pe colo…cam peste tot se spune una şi bună…că îţi tebuie conţinut de calitate şi unic. Nu am găsit nicăieri ce înseamnă conţinut de calitate şi cum îl creezi…am găsit tot felul de articole în care suntem sfătuiţi…scrie cu bold treburile importante, pune un titlu bine ales, sugestiv etc, scrie fără greşeli…şi cam atât.
 

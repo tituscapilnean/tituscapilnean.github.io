@@ -14,6 +14,6 @@ Din nou le mulțumesc fetelor de la Oxygen PR, precum și **patronului spiritual
 
 Noroc cu berea, că a mai îndulcit situația. La final, am fost expediați așa cum trebuie acasă, fără mașină proprie, în taxiuri, ca să fim responsabili atunci când consumăm **Heineken** -urile, împreună cu un misterios pachet negru:
 
-[![](/wp-content/uploads/2011/11/IMG_20111103_003745-400x300.jpg)](/wp-content/uploads/2011/11/IMG_20111103_003745.jpg)Ei, ghiciți ce era în cutie!
+[](/wp-content/uploads/2011/11/IMG_20111103_003745.jpg)Ei, ghiciți ce era în cutie!
 
 p.s. au mai fost Nihasa, Arhi, Bunescu, Cartoon și JustForFun, Radu, Pietricel, Raluxa, Adina Necula, Jeanette și oameni de prin presă pe care nu-i cunosc.

@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2013/11/math-challenge-150x150.jpg
 ---
 
-[![math challenge](/wp-content/uploads/2013/11/math-challenge-150x150.jpg)](/2013/11/scurt-exercitiu-de-matematica-pentru-publicitarii-romani/math-challenge/)Johan Olson, ex Saatch & Saatch, a dat următoarea declarație: ”Seniorii de creatie castiga intre 500 EUR pe zi in Europa de Est si 1.000 EUR in Germania, UK si SUA” (aici). Apoi am văzut pe Facebook acest articol: Bogătanii din publicitate expuși.
+[](/2013/11/scurt-exercitiu-de-matematica-pentru-publicitarii-romani/math-challenge/)Johan Olson, ex Saatch & Saatch, a dat următoarea declarație: ”Seniorii de creatie castiga intre 500 EUR pe zi in Europa de Est si 1.000 EUR in Germania, UK si SUA” (aici). Apoi am văzut pe Facebook acest articol: Bogătanii din publicitate expuși.
 
 ~~Dincolo de Ionuț care e Iulian,~~ propun să mai facem un mic experiment matematic.
 

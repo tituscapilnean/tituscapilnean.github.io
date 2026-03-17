@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/07/glob_mon.png
 ---
 
-[![](/wp-content/uploads/2011/07/glob_mon.png)](/2011/07/webinarii-de-educatie-financiara-v/glob_mon/)Ideea de care vorbesc aici a plecat de la o discuție pe Twitter cu Robert, de la propunerea lui pentru BCR, de a face educație financiară. Dacă te uiți puțin la trecutul publicitar al băncii, o să vezi că ei au început deja să intre în segmentul de educație financiară cu ajutorul Școlii de Bani. Ce-i drept, școala de bani a fost axată mai mult pe economisire și depozite.
+[](/2011/07/webinarii-de-educatie-financiara-v/glob_mon/)Ideea de care vorbesc aici a plecat de la o discuție pe Twitter cu Robert, de la propunerea lui pentru BCR, de a face educație financiară. Dacă te uiți puțin la trecutul publicitar al băncii, o să vezi că ei au început deja să intre în segmentul de educație financiară cu ajutorul Școlii de Bani. Ce-i drept, școala de bani a fost axată mai mult pe economisire și depozite.
 
 De data asta vorbim de consum, de credite, de atenuarea presiunii financiare din fiecare lună – practic e vorba de produsul de refinanțare, care te scoate din rutina ”muncesc ca să plătesc ratele”.
 

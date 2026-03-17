@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/04/sms-uri-amuzante-150x150.gif
 ---
 
-![](/wp-content/uploads/2011/04/sms-uri-amuzante-150x150.gif)Am de mai multă vreme în draft titlul acestui articol. Ideea mi-a venit, inițial, [de pe Twitter](/2011/01/cum-sa-faci-o-campanie-basic-pe-twitter/), pentru că 140 de caractere este fix aproape de dimensiunea SMS-ului(160). Din pricina asta, marketerii mobili ar avea multe de învățat de la interacțiunile pe care cei câteva mii de utilizatori de Twitter le au în fiecare zi în România.
+Am de mai multă vreme în draft titlul acestui articol. Ideea mi-a venit, inițial, [de pe Twitter](/2011/01/cum-sa-faci-o-campanie-basic-pe-twitter/), pentru că 140 de caractere este fix aproape de dimensiunea SMS-ului(160). Din pricina asta, marketerii mobili ar avea multe de învățat de la interacțiunile pe care cei câteva mii de utilizatori de Twitter le au în fiecare zi în România.
 
 ## Așa nu
 

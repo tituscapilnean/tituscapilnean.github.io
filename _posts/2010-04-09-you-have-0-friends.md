@@ -12,7 +12,7 @@ Cam în același timp cu [articolul meu despre cum un copil a spart banii famili
 
 Merită văzut!
 
-[![southpark](/wp-content/uploads/2010/04/southpark-400x79.jpg)](/wp-content/uploads/2010/04/southpark.jpg)
+[](/wp-content/uploads/2010/04/southpark.jpg)
 
 Arată exact cum rețelele sociale luate prea în serios afectează copiii și schimbă modul în care interacționează unii cu alții.
 

@@ -30,7 +30,7 @@ Pentru ei am scris micul **ghid de bun simț de folosire a social media în 2011
 
 
 
-**[![](/wp-content/uploads/2010/12/facebook_logo-400x150.jpg)](/wp-content/uploads/2010/12/facebook_logo.jpg)**
+**[](/wp-content/uploads/2010/12/facebook_logo.jpg)**
 
   1. Facebook nu trebuie să reflecte toate părțile din viața ta. Nu ești obligat să pui nimic acolo ce n-ai arăta offline prietenilor, șefilor, familiei sau unor necunoscuți de pe stradă. Asta-i regula de bază pentru rețeaua asta. Majoritatea oamenilor o încalcă. Și eu am încălcat-o de câteva ori(în cei 4 ani de cât folosesc rețeaua). E bine că se poate corecta – ștergi poza/post-ul/video-ul/link-ul
   2. Nu te juca toată ziua Failville sau mai știu eu ce mizerii, cu care îți spamezi apoi prietenii. Majoritatea au intrat pe Facebook să țină legătura cu tine, nu să te ajute să îți fertilizezi recolta.
@@ -40,7 +40,7 @@ Pentru ei am scris micul **ghid de bun simț de folosire a social media în 2011
 
 
 
-**[![](/wp-content/uploads/2010/12/twitter-logo-400x147.jpg)](/wp-content/uploads/2010/12/twitter-logo.jpg)**
+**[](/wp-content/uploads/2010/12/twitter-logo.jpg)**
 
   1. Nu te purta ca un robot. Twitter e mai mult decât RSS feed-ul tău. Dincolo de linkurile de pe blog mai trebuie să faci câteva chestii ca să devii relevant.
   2. Nu face spam. Dacă te apuci să menționezi utilizatori de Twitter cu mulți followeri doar ca să îți dea ReTweet, atunci ai mari șanse să nu faci nimic pe Twitter. Mai bine intră în conversație cu ei, discută lucruri relevante, răspunde la întrebările lor. Dacă dai răspunsuri smart, ai mult mai multe șanse să îți dea ReTweet
@@ -50,7 +50,7 @@ Pentru ei am scris micul **ghid de bun simț de folosire a social media în 2011
 
 
 
-**[![](/wp-content/uploads/2010/12/linkedin_logo_1-e1292678665134-400x145.jpg)](/wp-content/uploads/2010/12/linkedin_logo_1.jpg)**
+**[](/wp-content/uploads/2010/12/linkedin_logo_1.jpg)**
 
   1. Nu te împrieteni cu oameni ca pe Facebook. Aici e bine să fi avut cel puțin un contact offline anterior, în context de afaceri.
   2. Ține-ți profilul la zi, pune locurile de munca relevante, împreună cu experiențele care îți pot aduce atuuri pentru un eventual job mai bun. Nu uita să scrii și de rezultate.

@@ -2,7 +2,7 @@
 title: Protestele Hexi Pharma și Roșia Montană
 date: 2016-05-08 09:00:00 +0300
 categories: [Romanian, Politica]
-tags: [hexi pharma, rosia montana, proteste, coruptie]
+tags: [hexi pharma, rosia-montana, proteste, coruptie]
 author: titus_capilnean
 ---
 

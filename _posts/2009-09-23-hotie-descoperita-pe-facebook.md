@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2009/09/2805077265_8e05204450_o-400x280.jpg
 ---
 
-[![2805077265_8e05204450_o](/wp-content/uploads/2009/09/2805077265_8e05204450_o-400x280.jpg)](/wp-content/uploads/2009/09/2805077265_8e05204450_o.jpg)
+[](/wp-content/uploads/2009/09/2805077265_8e05204450_o.jpg)
 
 Dacă poți să îți imaginezi cât de departe poate să te ducă **dependența de net** , nu cred că ți-a trecut prin cap că o să se întâmple așa ceva. Un hoț a fost prins după ce poliția a descoperit în calculatorul victimei niște date personale. Omul intrase pe Facebook și în graba de la părăsirea locului faptei(ca să ne exprimăm ca organul de ordine) a lăsat logat utilizatorul lui pe calculator.
 

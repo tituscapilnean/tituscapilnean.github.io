@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2012/05/logo.jpg
 ---
 
-[![](/wp-content/uploads/2012/05/logo.jpg)](/wp-content/uploads/2012/05/logo.jpg)Zilele trecute am fost la European CSR Lessons, una din puținele conferințe despre responsabilitate într-o țară prea puțin preocupată de genul ăsta de probleme. Doar dacă te uiți în jurul tău, la magazin, pe stradă, la locul de muncă, îți dai seama că nu știi foarte multe din lucrurile pe care le fac sau nu le fac companiile cu care interacționezi în fiecare zi.
+[](/wp-content/uploads/2012/05/logo.jpg)Zilele trecute am fost la European CSR Lessons, una din puținele conferințe despre responsabilitate într-o țară prea puțin preocupată de genul ăsta de probleme. Doar dacă te uiți în jurul tău, la magazin, pe stradă, la locul de muncă, îți dai seama că nu știi foarte multe din lucrurile pe care le fac sau nu le fac companiile cu care interacționezi în fiecare zi.
 
 Conferința a vorbit mai mult despre transparență, despre implicare onestă și responsabilitate autentică decât despre plantări, concursuri de proiecte, finanțări sau mai știu eu ce PR stunts. Responsabilitatea socială a companiilor trebuie integrată în modelul de business, să contribuie la generarea de profituri și nu să fie un centru de cost al departamentului de comunicare.
 

@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2013/09/unemploymentline380x260_crop380w-150x150.jpg
 ---
 
-[![unemploymentline380x260_crop380w](/wp-content/uploads/2013/09/unemploymentline380x260_crop380w-150x150.jpg)](/2013/09/cum-sa-te-angajezi-doua-pareri-de-la-top-manageri/unemploymentline380x260_crop380w/)Azi am citit două articole interesante, unul de la Jack Welch, unul de la Beth Comstock, ambele pe Linkedin, despre ce caută ei la un potențial viitor membru al echipei lor.
+[](/2013/09/cum-sa-te-angajezi-doua-pareri-de-la-top-manageri/unemploymentline380x260_crop380w/)Azi am citit două articole interesante, unul de la Jack Welch, unul de la Beth Comstock, ambele pe Linkedin, despre ce caută ei la un potențial viitor membru al echipei lor.
 
 Welch:
 

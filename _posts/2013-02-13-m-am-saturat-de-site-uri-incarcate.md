@@ -13,7 +13,7 @@ Voi nu?
 
 Țin minte când intram prima dată pe net, acum multă vreme, cam toate site-urile erau un amalgam de culori, bannere care clipoceau (la propriu), texte și grafică peste tot. Nu era deloc ușor să înțelegi despre ce e vorba, te pierdeai prin linkuri și nu rămâneai cu un mesaj clar după jumătate de oră de orbecăire.
 
-[![](/wp-content/uploads/2013/02/amazon-2001-400x160.jpg)](/2013/02/m-am-saturat-de-site-uri-incarcate/amazon-2001/)
+[](/2013/02/m-am-saturat-de-site-uri-incarcate/amazon-2001/)
 
 Imaginea e din 2001, însă sunt convins că era și mai rău înainte, dar am zis să fiu consecvent.
 
@@ -23,7 +23,7 @@ Tot e greoaie navigarea, tot e plin de culori peste tot, tot n-ai loc de linkuri
 
 **Soluția? Păi, e designul minimalist.**
 
-[![](/wp-content/uploads/2013/02/1minimalist-in-webdesign-400x213.jpg)](/2013/02/m-am-saturat-de-site-uri-incarcate/1minimalist-in-webdesign/)
+[](/2013/02/m-am-saturat-de-site-uri-incarcate/1minimalist-in-webdesign/)
 
 (sursa foto)
 

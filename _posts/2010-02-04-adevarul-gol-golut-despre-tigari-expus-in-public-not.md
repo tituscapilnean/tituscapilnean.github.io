@@ -16,4 +16,4 @@ Cred că ar fi mai simplu și mai frumos să le arate un beneficiu exagerat – 
 
 Eu știu de ce nu fumez ca trenu’. **Tu de ce o faci/nu o faci?**
 
-[![1333261258708556](/wp-content/uploads/2010/02/1333261258708556-400x280.jpg)](/wp-content/uploads/2010/02/1333261258708556.jpg)
+[](/wp-content/uploads/2010/02/1333261258708556.jpg)

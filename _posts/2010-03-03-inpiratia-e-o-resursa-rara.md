@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/03/monkey-inspiration2-225x300.jpg
 ---
 
-[![monkey-inspiration2](/wp-content/uploads/2010/03/monkey-inspiration2-225x300.jpg)](/wp-content/uploads/2010/03/monkey-inspiration2.jpg)În seara de marți planificasem să fac o grămadă de chestii, mai ales pe design, pentru câteva proiecte la care lucrez. Din păcate, inspirația mea e ușor nărăvașă, în sensul în care vine când vrea ea și în ce formă vrea ea. E cam ca o femeie cu toane 🙂 Trebuie să învăț să îi anticipez toanele și să pot să o induc în stările de care am nevoie în anumite momente(ca azi).
+[](/wp-content/uploads/2010/03/monkey-inspiration2.jpg)În seara de marți planificasem să fac o grămadă de chestii, mai ales pe design, pentru câteva proiecte la care lucrez. Din păcate, inspirația mea e ușor nărăvașă, în sensul în care vine când vrea ea și în ce formă vrea ea. E cam ca o femeie cu toane 🙂 Trebuie să învăț să îi anticipez toanele și să pot să o induc în stările de care am nevoie în anumite momente(ca azi).
 
 Încă exersez asta. Se pare că în seara asta mi-a venit iar inspirația de scris, în locul celei de desenat. Cu aia de desenat e mai greu, pentru că trebuie să mă scufund cu totul în proiect, să îl simt, să îl văd, să îl trăiesc, ca să îl pot materializa.
 

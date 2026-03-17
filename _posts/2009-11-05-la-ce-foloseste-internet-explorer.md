@@ -25,7 +25,7 @@ Codul de mai sus se pune oriunde între tagurile de HEAD și face ca Internet Ex
 
 Nu îl puneți pe blog, că dă alertă de CSS Exploit la anumiți antiviruși – eu am primit pe Twitter imaginea asta:
 
-[![41094684](/wp-content/uploads/2009/11/41094684-400x159.jpg)](/wp-content/uploads/2009/11/41094684.jpg)
+[](/wp-content/uploads/2009/11/41094684.jpg)
 
 Repet, nu e virus, e un exploit.
 

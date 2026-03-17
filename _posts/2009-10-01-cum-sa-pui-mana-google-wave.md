@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2009/09/communication_collaboration_google_wave_revolution_id793675_size485.jpg
 ---
 
-[![communication_collaboration_google_wave_revolution_id793675_size485](/wp-content/uploads/2009/09/communication_collaboration_google_wave_revolution_id793675_size485.jpg)](/wp-content/uploads/2009/09/communication_collaboration_google_wave_revolution_id793675_size485.jpg)  
+[](/wp-content/uploads/2009/09/communication_collaboration_google_wave_revolution_id793675_size485.jpg)  
 **  
 _Edit:_ Lansez un concurs: Dă-mi 5 motive pentru care ai vrea să testezi Google Wave și îți dau o invitație – am 7 disponibile. Cele mai tari motive primesc invitațiile pe mail. Aștept comentariile voastre!**
 

@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2012/10/logo.jpg
 ---
 
-[![](/wp-content/uploads/2012/10/logo.jpg)](/wp-content/uploads/2012/10/logo.jpg)Ieri am fost invitat la IAB Forum 2012, conferința la care aflăm, de regulă, datele despre piața din online a României, câteva comparații cu Europa, reglementări, trenduri de dezvoltare și case-uri interesante.
+[](/wp-content/uploads/2012/10/logo.jpg)Ieri am fost invitat la IAB Forum 2012, conferința la care aflăm, de regulă, datele despre piața din online a României, câteva comparații cu Europa, reglementări, trenduri de dezvoltare și case-uri interesante.
 
 Anul ăsta nu a făcut excepție, așa că merită să citiți notițele pe care le-am luat mai jos. Cu toate că nu am ajuns de la început, am sumarizat principalele idei prezentate pe cele 3 topicuri. Cheia ediției a fost optimistă și s-a vorbit mult despre integrarea comunicării, centrată pe online.
 

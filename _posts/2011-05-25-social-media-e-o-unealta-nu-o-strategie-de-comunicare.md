@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/05/social-media-tool-150x150.jpg
 ---
 
-[![](/wp-content/uploads/2011/05/social-media-tool-150x150.jpg)](/2011/05/social-media-e-o-unealta-nu-o-strategie-de-comunicare/social-media-tool/)Azi am decis să resuscitez un titlu din drafts, mai ales în contextul în care ieri am citit un articol destul de dur despre _”experții social media”_. Încă de la primul meu training de comunicare cu ajutoru online-ului și, mai precis, a social media, mi-am dat seama că n-am cum să predau ”social media”, pentru că ar însemna să stau să detaliez ce face Facebook, Twitter, ce face un blog etc.
+[](/2011/05/social-media-e-o-unealta-nu-o-strategie-de-comunicare/social-media-tool/)Azi am decis să resuscitez un titlu din drafts, mai ales în contextul în care ieri am citit un articol destul de dur despre _”experții social media”_. Încă de la primul meu training de comunicare cu ajutoru online-ului și, mai precis, a social media, mi-am dat seama că n-am cum să predau ”social media”, pentru că ar însemna să stau să detaliez ce face Facebook, Twitter, ce face un blog etc.
 
 N-are sens. Despre asta poți citi prin help-uri, pe site-uri de tutoriale etc.
 

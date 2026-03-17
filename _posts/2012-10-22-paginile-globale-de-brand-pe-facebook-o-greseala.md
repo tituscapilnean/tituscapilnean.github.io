@@ -18,4 +18,4 @@ Mai e apoi problema comunicării și așezării strategiei de conținut interna�
 
 Nu, nu vor convinge brandurile să renunțe la site-uri și să treacă integral pe Facebook.
 
-[![](/wp-content/uploads/2012/10/28625109.jpg)](/wp-content/uploads/2012/10/28625109.jpg)
+[](/wp-content/uploads/2012/10/28625109.jpg)

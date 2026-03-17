@@ -11,11 +11,11 @@ author: titus_capilnean
 
 pentru că e mai mult un GAP românesc:
 
-[![](/wp-content/uploads/2010/10/noulrom-400x102.png)](/wp-content/uploads/2010/10/noulrom.png)
+[](/wp-content/uploads/2010/10/noulrom.png)
 
 sesizați asemănarea 🙂
 
-[![](/wp-content/uploads/2010/10/noulGAP-400x181.png)](/wp-content/uploads/2010/10/noulGAP.png)
+[](/wp-content/uploads/2010/10/noulGAP.png)
 
 Citește mai multe despre GAP și decizia lor prin care au revenit la vechiul logo, din cauza valurilor de proteste pe Facebook și bloguri.
 

@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/10/timthumb.php_-150x150.jpg
 ---
 
-_[![](/wp-content/uploads/2010/10/timthumb.php_-150x150.jpg)](/wp-content/uploads/2010/10/timthumb.php_.jpg)Articolul este un**Guest Post** de la o marketeuză, care dorește să rămână anonimă. Acest lucru nu scade în niciun caz din importanța lecțiilor de mai jos. Foarte tare mesaj. De citit pentru orice specialist/specialistă în PR_
+_[](/wp-content/uploads/2010/10/timthumb.php_.jpg)Articolul este un**Guest Post** de la o marketeuză, care dorește să rămână anonimă. Acest lucru nu scade în niciun caz din importanța lecțiilor de mai jos. Foarte tare mesaj. De citit pentru orice specialist/specialistă în PR_
 
 Aceasta scrisoare iti este adresata tie, ca sa te ajute in munca pe care o intreprinzi zilnic si ca sa iti dea o idee despre cum percepem unii dintre noi colaborarea cu tine.
 

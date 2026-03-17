@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2009/08/pledgeants-400x282.jpg
 ---
 
-[![pledgeants](/wp-content/uploads/2009/08/pledgeants-400x282.jpg)](/wp-content/uploads/2009/08/pledgeants.jpg)
+[](/wp-content/uploads/2009/08/pledgeants.jpg)
 
 Azi am frunzărit puțin adsoftheworld.com și am găsit imaginea de mai sus, care face cât un punchline mișto. Oamenii ăștia nu au avut nevoie de cuvinte prea multe ca să ne zică ce face produsul lor. Ne-au arătat și încă foarte memorabil.
 

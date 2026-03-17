@@ -104,7 +104,6 @@ Din păcate, și România face parte dintre ele, cu o rată de penentrare a Inte
 
 Mai jos se poate vedea cum a crescut numărul de utilizatori de Internet din țara noastră în ultimii 10 ani:
 
-![](/wp-content/uploads/2020/06/Screen-Shot-2020-06-07-at-8.52.11-PM-400x218.png)
 
 _Figura nr.1 – Evoluția utilizatorilor de Internet în România_
 

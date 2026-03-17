@@ -11,9 +11,9 @@ author: titus_capilnean
 
 Am scris acum ceva vreme pe Facebook despre o aplicație mișto făcută de eSKY România – **Cât de bine cunoști lumea?**. Puține aplicații de la noi se ridică la nivelul de complexitate și de calitate a User Experience-ului. Dar cum suntem în România, niște băieți de la Genius Travel s-au gândit că e ok să copieze conceptul și mecanica.
 
-[![](/wp-content/uploads/2014/03/geniusfurt-150x150.png)](/2014/03/genius-travel-fura-aplicatia-esky-romania/geniusfurt/)
+[](/2014/03/genius-travel-fura-aplicatia-esky-romania/geniusfurt/)
 
-[![](/wp-content/uploads/2014/03/eskyoriginal-150x150.png)](/2014/03/genius-travel-fura-aplicatia-esky-romania/eskyoriginal/)
+[](/2014/03/genius-travel-fura-aplicatia-esky-romania/eskyoriginal/)
 
 Au executat băieții tot, ca la carte, la nivel de:
 

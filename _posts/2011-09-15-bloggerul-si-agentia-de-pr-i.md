@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/05/q2-what-to-do-150x150.gif
 ---
 
-[![](/wp-content/uploads/2011/05/q2-what-to-do-150x150.gif)](/wp-content/uploads/2011/05/q2-what-to-do.gif)Unul din cele mai savuroase momente, generator de subiecte, folclor și momente penibile este cel în care bloggerul este pus în postura să discute cu o agenție de PR.
+[](/wp-content/uploads/2011/05/q2-what-to-do.gif)Unul din cele mai savuroase momente, generator de subiecte, folclor și momente penibile este cel în care bloggerul este pus în postura să discute cu o agenție de PR.
 
 Aici întâlnim, în mod tradițional două situații: cea în care bloggerul e invitat la evenimente/să testeze produse sau servicii și cea în care e implicat într-o campanie integrată, el fiind vehicul de interacțiune(aici suntem la granița PR-ului cu interactive-ul). Mă ocup în cazul ăsta de prima variantă, pentru că a doua implică, în 99% din cazuri, bani, așa că problemele sunt mai puține.
 

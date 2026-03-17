@@ -10,7 +10,7 @@ author: titus_capilnean
 
 Rămăsesem dator de aseară cu anunțul ăsta: X3 Studios (studiou de design din Timișoara) a câștigat argintul la Portoroz Piran Genius Loci 2010, cu **Port of spirits**
 
-[![](/wp-content/uploads/2010/10/PPPA048.jpg)](/wp-content/uploads/2010/10/PPPA048.jpg)
+[](/wp-content/uploads/2010/10/PPPA048.jpg)
 
 > Genius loci, spirit of the place, are an ancient Roman spirit, a guardian of the local character. Every place that has ever been touched by the hand of man hides its own stories that make it unique. There are countless picturesque little towns and charming beaches in the Mediterranean. Each and every one has its own destiny, big or small or hardly any, and they are their genius loci.
 

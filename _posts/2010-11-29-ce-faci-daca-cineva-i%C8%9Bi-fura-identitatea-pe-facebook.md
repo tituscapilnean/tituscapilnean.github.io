@@ -9,7 +9,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/11/pyuric-400x248.png
 ---
 
-[![](/wp-content/uploads/2010/11/identity-man-150x150.jpg)](/wp-content/uploads/2010/11/identity-man.jpg)Astăzi, prin coincidență, am primit din două părți câte o poveste despre cineva căreia îi fusese furată/copiată identitatea pe Facebook.
+[](/wp-content/uploads/2010/11/identity-man.jpg)Astăzi, prin coincidență, am primit din două părți câte o poveste despre cineva căreia îi fusese furată/copiată identitatea pe Facebook.
 
 **Prima variantă**
 
@@ -19,7 +19,7 @@ Singurul lucru pe care poți să îl faci e să îi dai **Report Person** (în p
 
 Exemplu:
 
-[![](/wp-content/uploads/2010/11/pyuric-400x248.png)](/wp-content/uploads/2010/11/pyuric.png)
+[](/wp-content/uploads/2010/11/pyuric.png)
 
 Noi ne-am mobilizat și i-am dat report profilului din dreapta **stânga**(merci Cris). Rămâne să vedem cât durează până când o să dispară de pe Facebook.
 

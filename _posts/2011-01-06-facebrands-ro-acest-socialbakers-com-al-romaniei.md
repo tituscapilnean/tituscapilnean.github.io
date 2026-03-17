@@ -16,6 +16,6 @@ Site-ul seamănă cu SocialBakers.com, website-ul care oferă statistici interna
 
 Spre deosebire de ei, facebrands.ro vorbește doar despre România și prezintă atât datele despre paginile de Facebook, rate de creștere și împărțire pe categorii, date despre petiții(cauzele atât de iubite de Auraș), date despre Aplicațiile românești, cât și demografice în timp real pentru țara noastră.
 
-[![](/wp-content/uploads/2011/01/facebook_romania_age_distribution-400x238.png)](/wp-content/uploads/2011/01/facebook_romania_age_distribution.png)
+[](/wp-content/uploads/2011/01/facebook_romania_age_distribution.png)
 
 p.s. n-ar strica să își pună niște watermarks pe poze. Vor primi publicitate la conferințele lui Cristi de anul ăsta.

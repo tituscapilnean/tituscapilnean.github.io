@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/11/social-media-landscape-150x150.jpg
 ---
 
-![](/wp-content/uploads/2010/11/social-media-landscape-150x150.jpg)Am pornit articolul de la o întrebare de pe Quora.com și m-am gândit că ar fi util să discutăm un pic mai în detaliu despre piața de la noi.
+Am pornit articolul de la o întrebare de pe Quora.com și m-am gândit că ar fi util să discutăm un pic mai în detaliu despre piața de la noi.
 
 Ca în orice domeniu aflat la început, e loc destul de făcut greșeli și greșeli s-au tot făcut de câțiva ani, de când lumea e activă pe Facebook, Bloguri, Hi5, Twitter sau pe vechile forumuri (unde, dincolo de bannere, nu prea avut nimeni curaj să se bage).
 

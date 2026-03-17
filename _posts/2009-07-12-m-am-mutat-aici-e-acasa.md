@@ -8,7 +8,6 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2009/07/wordpress_icons.jpg
 ---
 
-![wordpress_icons](/wp-content/uploads/2009/07/wordpress_icons.jpg)
 
 Salut la început de săptămână!
 

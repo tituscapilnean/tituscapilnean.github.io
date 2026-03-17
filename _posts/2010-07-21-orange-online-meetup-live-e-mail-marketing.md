@@ -12,7 +12,6 @@ author: titus_capilnean
 
 Ediția a 7-a de Orange Online MeetUp, de la Orange Concept Store va intra în detalii pe subiectul mult criticat al e-mail marketing-ului. Criticat pentru că e foarte puțin cunoscut dincolo de eticheta de SPAM pe care mulți dintre posesorii de căsuțe de e-mail au pus-o așa de ușor.
 
-![](/wp-content/uploads/2010/07/133244247-efb7fabc682d276038feeb2b214504b4.4c472088-scaled-400x239.jpg)
 
 Moderatoarea noastră din seara asta, Maria, ne dă ciocolată și premii pentru întrebări 🙂 Se pot adresa direct, pentru curajoși, sau pe bilețele, pentru cei timizi. A mai spart gheața un pic, s-a dezbrăcat de vreo 2 tricouri, unul branded cu abonamentul Fluture, altul cu Nelimitează-te, campania Orange pentru tineri.
 

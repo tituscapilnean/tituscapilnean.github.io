@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/03/88_cap_vs_soc_splash-399x215.jpg
 ---
 
-[![88_cap_vs_soc_splash](/wp-content/uploads/2010/03/88_cap_vs_soc_splash-399x215.jpg)](/wp-content/uploads/2010/03/88_cap_vs_soc_splash.jpg)
+[](/wp-content/uploads/2010/03/88_cap_vs_soc_splash.jpg)
 
 Spre deosebire de alţii(aici chinezii), în România există libertate suficientă cât să te poți exprima liber, dacă nu întotdeauna în presă(vezi presiunile, în care nu o să intru). Libertatea asta se manifestă cel mai vizibil pe internet, unde oricine poate publica orice, despre oricine(mă rog, aproape – au apărut cazuri în care diverse spamsite-uri și file sharing site-uri au fost date jos și date în judecată).
 

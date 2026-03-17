@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2009/11/Picture-72.png
 ---
 
-[![Picture-72](/wp-content/uploads/2009/11/Picture-72.png)](/wp-content/uploads/2009/11/Picture-72.png)Știți cum ne punem noi pe Facebook pozele?
+[](/wp-content/uploads/2009/11/Picture-72.png)Știți cum ne punem noi pe Facebook pozele?
 
 Vreau să arăt că **am fost într-o vacanță mișto** , că **m-am distrat un pic** , vreau să **mă laud** grupului de prieteni că m-am simțit bine. Totul bun și frumos aici, normal. Asta dacă nu ai o problemă medicală legată de depresie și asigurarea ta medicală îți plătește lunar o sumă, ca tu să stai în concediu medical pe bază de depresie.
 

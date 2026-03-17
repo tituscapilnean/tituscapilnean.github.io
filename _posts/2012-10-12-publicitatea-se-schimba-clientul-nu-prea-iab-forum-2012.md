@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2012/10/online-ads-150x150.jpg
 ---
 
-[![](/wp-content/uploads/2012/10/online-ads-150x150.jpg)](/wp-content/uploads/2012/10/online-ads.jpg)Când e vorba de schimbare, publicitatea online ar trebui să fie lider, în avangardă, având în vedere că în fiecare an apar platforme noi, rețele noi și mor o parte din cele vechi. Cu toate astea, încă e destul de întâlnită la noi gândirea de tip „pâlnie”, când vine vorba de online. Am întâlnit următoarele două abordări:
+[](/wp-content/uploads/2012/10/online-ads.jpg)Când e vorba de schimbare, publicitatea online ar trebui să fie lider, în avangardă, având în vedere că în fiecare an apar platforme noi, rețele noi și mor o parte din cele vechi. Cu toate astea, încă e destul de întâlnită la noi gândirea de tip „pâlnie”, când vine vorba de online. Am întâlnit următoarele două abordări:
 
   1. campanie = niște conținut Facebook și o campanie Google Ads, pentru că avem buget mic
   2. clienții noștri nu sunt online, deci nu prea are rost să facem campanii

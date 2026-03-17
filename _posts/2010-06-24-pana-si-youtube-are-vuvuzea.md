@@ -12,7 +12,6 @@ author: titus_capilnean
 
 Azi am descoperit, grație lui Vali, că Youtube a pus la fiecare clip muzical, un buton cu o mică minge, prin care poți să asculți minunatul sunet al Vuvuzelelor de la Campionatul Mondial de Fotbal 2010, din Africa de Sud. Încearcă și tu, caută un videoclip oficial al unei formații oarecare(eu am încercat pe Metallica, Arctic Monkeys, Tupac, The Killers și e acolo mingiuța).
 
-![](/wp-content/uploads/2010/06/vuvu-400x134.jpg)
 
 Pot să le zic acum lui Piticu și lui Costin că vreau și eu o vuvuzea din aia verde, chiar dacă mi se pare enervant zgomotul 😀
 

@@ -15,7 +15,7 @@ author: titus_capilnean
 
 Un studiu un pic mai detaliat aveți în articolul despre [numerele Facebook din România pe August – 255.000](/2009/08/04/statistici-facebook-la-zi/) și [numerele pe Septembrie 2009 – 270.000](/2009/09/07/statisitici-facebook-la-zi-septembrie-2009/), unde puteți să vedeți că a scăzut puțin rata de creștere.
 
-[![fb300](/wp-content/uploads/2009/09/fb300-400x220.jpg)](/wp-content/uploads/2009/09/fb300.jpg)
+[](/wp-content/uploads/2009/09/fb300.jpg)
 
 Luna septembrie a adus **o triplare** în relație cu numerele de pe aprilie 2009. Numărul de utilizatori de Facebook din România a ajuns, azi 16 Septembrie, la cifra de:
 
@@ -39,7 +39,7 @@ Datele au fost estimate de către Google pe baza cookies și sunt adunate în fi
 
 Graficul ăsta mi s-a părut cel mai relevant pentru ilustrarea ratelor de creștere a Facebook în Rommânia
 
-[![chart](/wp-content/uploads/2009/09/chart.png)](/wp-content/uploads/2009/09/chart.png)
+[](/wp-content/uploads/2009/09/chart.png)
 
 Momente importante: **Octombrie 2008 – 20.000 de unici pe zi și Iulie 2009 – 40.000 de unici pe zi**
 

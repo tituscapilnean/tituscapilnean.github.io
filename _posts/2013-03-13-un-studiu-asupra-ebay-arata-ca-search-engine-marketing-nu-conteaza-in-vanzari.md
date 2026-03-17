@@ -10,7 +10,7 @@ author: titus_capilnean
 #   - [iframe] http://www.slideshare.net/slideshow/embed_code/17137911
 ---
 
-[![PPCEaster2011](/wp-content/uploads/2013/03/PPCEaster2011-150x150.jpg)](/2013/03/un-studiu-asupra-ebay-arata-ca-search-engine-marketing-nu-conteaza-in-vanzari/ppceaster2011/)Am dat ieri, din întâmplare, peste un studiu care schimbă total percepția asupra performance marketing-ului și asupra reclamelor Pay-Per-Click, cele livrate în fluxurile de căutări prin Google, Bing sau Yahoo!
+[](/2013/03/un-studiu-asupra-ebay-arata-ca-search-engine-marketing-nu-conteaza-in-vanzari/ppceaster2011/)Am dat ieri, din întâmplare, peste un studiu care schimbă total percepția asupra performance marketing-ului și asupra reclamelor Pay-Per-Click, cele livrate în fluxurile de căutări prin Google, Bing sau Yahoo!
 
 Studiul e recent (6 Martie anul curent) și e semnat de Thomas Blake, Chris Nosko și Steven Tadelis, cercetători la eBay și Universitățile Chicago și Berkley. Concluziile cele mai interesante pe care le trag ei sunt:
 

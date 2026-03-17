@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/07/dent-estet-lanseaza-abonamentele-individuale-pentru-servicii-stomatologice-79000-400x243.jpg
 ---
 
-[![](/wp-content/uploads/2011/07/dent-estet-lanseaza-abonamentele-individuale-pentru-servicii-stomatologice-79000-400x243.jpg)](/2011/07/frica-de-dentist-bat-o-vina/dent-estet-lanseaza-abonamentele-individuale-pentru-servicii-stomatologice-79000/)Săptămâna trecută am făcut, poate, cel mai mare pas din ultimii 10 ani, în materie de îngrijirea dinților proprii. Mi-am făcut curaj și, la invitația lui Doru, am mers într-o vizită la cel mai bun cabinet dentar din București. Bine, n-am fost la sediul lor pentru adulți, am fost la clinica pentru copii, însă tot am încăput în scaun.
+[](/2011/07/frica-de-dentist-bat-o-vina/dent-estet-lanseaza-abonamentele-individuale-pentru-servicii-stomatologice-79000/)Săptămâna trecută am făcut, poate, cel mai mare pas din ultimii 10 ani, în materie de îngrijirea dinților proprii. Mi-am făcut curaj și, la invitația lui Doru, am mers într-o vizită la cel mai bun cabinet dentar din București. Bine, n-am fost la sediul lor pentru adulți, am fost la clinica pentru copii, însă tot am încăput în scaun.
 
 Dar să povestesc un pic premisele. Relația mea cu dentiștii s-a stricat în Baia Mare, când am dat doar peste torționari incompetenți, care m-au făcut, de mic copil, să sufăr pe scaunul de tortură, să tremur de frică la auzul frezei sau a celuilalt aparat, pe care nu îl mai identific. Tot in cauza lor am reușit să asociez orice miros de cabinet dentar cu dureri enervant de bine sădite în mintea mea. Rezultatul a fost o absență din peisaj, de vreo 10 ani.
 

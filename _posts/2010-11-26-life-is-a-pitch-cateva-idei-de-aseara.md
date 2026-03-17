@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/11/launch48-300x75.jpg
 ---
 
-[![](/wp-content/uploads/2010/11/launch48-300x75.jpg)](/wp-content/uploads/2010/11/launch48-300x75.jpg)Am fost aseară la Hubb și i-am ascultat pe cei 5 invitați + moderatoarea Geea la Life is a Pitch.
+[](/wp-content/uploads/2010/11/launch48-300x75.jpg)Am fost aseară la Hubb și i-am ascultat pe cei 5 invitați + moderatoarea Geea la Life is a Pitch.
 
 Toată treaba asta a fost un fel de preludiu pentru Launch48 și pentru Startup Weekend, momente în care antreprenorii vor sta în fața potențialilor investitori și vor pitchui idei.
 

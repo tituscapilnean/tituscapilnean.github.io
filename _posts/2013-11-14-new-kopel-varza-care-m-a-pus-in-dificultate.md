@@ -10,6 +10,6 @@ author: titus_capilnean
 
 Nu prea mai scriu despre alte tipuri de media, însă macheta din Money Magazine a New Kopel, ăia cu mașinile, m-a pus în dificultate. Dincolo de faptul că au făcut **varză** prima propoziție, nu pot să îmi dau seama ce vor să zică prin execuția de mai jos (click pentru imagine mare):
 
-[![New Kopel](/wp-content/uploads/2013/11/photo-2-225x300.jpg)](/2013/11/new-kopel-varza-care-m-a-pus-in-dificultate/photo-2-5/)
+[](/2013/11/new-kopel-varza-care-m-a-pus-in-dificultate/photo-2-5/)
 
 Dau premiu un kilogram de **varză** pentru cea mai bună explicație.

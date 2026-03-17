@@ -17,12 +17,12 @@ Dacă ideea a venit de mai sus și a fost asumată de șefi, atunci e cu atât m
 
 Povestea sună așa – intri pe www.marlboro.ro și treci de avertizarea browserului. Aștepți să se încarce și….
 
-[![](/wp-content/uploads/2011/07/marlboro.ro_-366x300.jpg)](/2011/07/ce-aveau-in-comun-marlboro-si-ing-bank/marlboro-ro/)
+[](/2011/07/ce-aveau-in-comun-marlboro-si-ing-bank/marlboro-ro/)
 
 Surpriză, ajungi pe un site ING. Dubios, nu?
 
 Între timp, au scos site-ul(după ce am trimis ce trebuia la cine trebuia), însă ar trebui să rămână în istorie gafa asta, poate, poate nu o să mai vedem repetându-se în lunile/anii următori.
 
-[![](/wp-content/uploads/2011/07/404.jpg)](/2011/07/ce-aveau-in-comun-marlboro-si-ing-bank/attachment/404/)
+[](/2011/07/ce-aveau-in-comun-marlboro-si-ing-bank/attachment/404/)
 
 Ce alte exemple similare mai știți? Eu mai dau vodafoneromania.com(tot așa, trebuie să treci de avertizări).

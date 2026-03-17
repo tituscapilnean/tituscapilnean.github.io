@@ -16,7 +16,7 @@ Prima și cea mai mare problemă a aplicației a fost că durează prea mult ins
 
 Am dat drumul aplicației și m-am folosit de cardul primit să navighez prin ea – e **o utilizare foarte faină a augmented reality prin webcam** – mult mai funcțională și user friendly decât una pe mobil. Puncte în plus pentru asta. Recunosc că m-am jucat de câteva ori până am înțeles mecanismul și am ajuns în vârful scării:
 
-[![](/wp-content/uploads/2012/04/image-400x247.png)](/wp-content/uploads/2012/04/image.png)
+[](/wp-content/uploads/2012/04/image.png)
 
 Dincolo de efortul pe care l-am făcut și faptul că m-am bucurat că am descoperit schema care mă duce în vârf direct, aș mai fi făcut următoarele îmbunătățiri aplicației:
 

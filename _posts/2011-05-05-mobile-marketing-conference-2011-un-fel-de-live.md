@@ -30,7 +30,7 @@ A fost Steve Dallas (Interactions), urmează Maia Novolan (Syscom Digital). Maia
 
 Știm că piața e în creștere, e subdezvoltată, e loc de intrare, din ce în ce mai mulți oameni folosesc telefoanele mobile.
 
-[![](/wp-content/uploads/2011/05/291560295-400x239.jpg)](/2011/05/mobile-marketing-conference-2011-un-fel-de-live/attachment/291560295/)
+[](/2011/05/mobile-marketing-conference-2011-un-fel-de-live/attachment/291560295/)
 
 Au început să apară și la noi bannerele mobile, însă la noi încă e la început. Totuși, conform studiului InsightExpress, reclamele Mobile au rate de conversie de 5 ori mai mari decat cele Online.
 
@@ -72,7 +72,7 @@ Ikea Augmented Reality Catalog
 
 Navigovat – direcția spre bere
 
-[![](/wp-content/uploads/2011/05/291590851-400x239.jpg)](/2011/05/mobile-marketing-conference-2011-un-fel-de-live/attachment/291590851/)
+[](/2011/05/mobile-marketing-conference-2011-un-fel-de-live/attachment/291590851/)
 
 via @alexstanescu
 

@@ -25,11 +25,11 @@ Din câte am reușit să aflu, BASF s-a implicat în România în educație, la 
 
 Ne-am jucat împreună cu Chinezu, Haotik, Kriogen, Laurențiu, Andrei, Andreea, Cristi, Marius și Sabina.
 
-[![](/wp-content/uploads/2012/10/pozaeu-400x266.jpg)](/wp-content/uploads/2012/10/pozaeu.jpg)
+[](/wp-content/uploads/2012/10/pozaeu.jpg)
 
 Jocul, în sine, așa cum îl puteți vedea în printscreen, nu e o idee nici nouă, nici SF.
 
-[![](/wp-content/uploads/2012/10/future-city-vs-orasul-minier-400x124.png)](/wp-content/uploads/2012/10/future-city-vs-orasul-minier.png)
+[](/wp-content/uploads/2012/10/future-city-vs-orasul-minier.png)
 
 Are o mecanică ușurică, se termină cam în 7-8 ore de jucat lejer și cam atât. Grafica e bună, însă puteau să îl facă un pic mai dificil/lung (pentru gamerul din mine), însă nu ăsta era scopul.
 

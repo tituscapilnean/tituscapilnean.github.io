@@ -9,7 +9,6 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2009/07/Photo-00841-400x300.jpg
 ---
 
-![Photo-0085](/wp-content/uploads/2009/07/Photo-00851-400x300.jpg)
 
 Ei, da așa cum am zis în articolul despre mersul la mare de săptămâna trecută, de data asta am luat trenul. Am mers cu Rapidul de 14:00(plecare din București) spre mare și pot să zic cu mâna pe inimă că a fost o decizie foarte deșteaptă.
 
@@ -17,7 +16,6 @@ Se pare că CFR s-a modernizat și am avut aer condiționat pe tot drumul spre C
 
 Faza tare care vreau să v-o povestesc este că am făcut 4 ore și un pic. Adică am tăiat 2 ore și jumătate față de recordul anterior 😀
 
-![Photo-0084](/wp-content/uploads/2009/07/Photo-00841-400x300.jpg)
 
 (aici stăteam blocat săptămâna trecută)
 

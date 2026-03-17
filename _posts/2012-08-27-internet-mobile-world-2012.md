@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2012/08/IMW-LOGO-@-357x300.png
 ---
 
-[![](/wp-content/uploads/2012/08/IMW-LOGO-@-357x300.png)](/wp-content/uploads/2012/08/IMW-LOGO-@.png)Vine toamna, încep evenimentele. Anul acesta a mai apărut un tip de eveniment – Internet & Mobile World – un târg de knowhow și tehnologie atât pentru piața de online, cât și petru cea de mobile de la noi.
+[](/wp-content/uploads/2012/08/IMW-LOGO-@.png)Vine toamna, încep evenimentele. Anul acesta a mai apărut un tip de eveniment – Internet & Mobile World – un târg de knowhow și tehnologie atât pentru piața de online, cât și petru cea de mobile de la noi.
 
 Evenimentul va avea loc în București, la centrul de conferințe Romexpo – Pavilion C6, din Blv Mărăști 65-67, pe 19-21 Septembrie. Vor fi prezente companii și specialiști din domeniile: conectivity și infrastructure, digital marketing, content management, E-commerce, mobile, E-services & E-government, social media, web design, deci potențiali furnizori și potențiali clienți pentru cam oricine din industria noastră mobidigitală.
 

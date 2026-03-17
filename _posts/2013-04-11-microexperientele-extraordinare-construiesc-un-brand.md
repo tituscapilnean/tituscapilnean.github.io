@@ -10,7 +10,7 @@ author: titus_capilnean
 #   - [iframe] http://prezi.com/embed/39mwj7aeeu7b/?bgcolor=ffffff&lock_to_path=0&autoplay=0&autohide_ctrls=0&features=undefined&disabled_features=undefined
 ---
 
-[![aiesec branding](/wp-content/uploads/2013/04/aiesec-branding-150x150.png)](/2013/04/microexperientele-extraordinare-construiesc-un-brand/aiesec-branding/)
+[](/2013/04/microexperientele-extraordinare-construiesc-un-brand/aiesec-branding/)
 
 _Primul meu training despre branding – pentru AIESEC Bucuresti_
 

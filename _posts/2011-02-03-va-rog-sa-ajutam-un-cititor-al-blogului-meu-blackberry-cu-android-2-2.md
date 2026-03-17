@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/02/question-mark-150x150.jpg
 ---
 
-![](/wp-content/uploads/2011/02/question-mark-150x150.jpg)Ieri am primit un email din partea lui Bogdan, cititor de-al meu, care zicea în felul următor:
+Ieri am primit un email din partea lui Bogdan, cititor de-al meu, care zicea în felul următor:
 
 > Salutare!  
 >  Iti urmaresc blogul de ceva vreme si vreau sa-ti spun ca este foarte  

@@ -12,7 +12,7 @@ author: titus_capilnean
 
 De dimineață s-a activat pe paginile mele de Facebook noul sistem de **Insights** , prin care pot să văd mai multe date relevante pentru rapoarte și analize care să mă ajute să înțeleg mai bine structura fanilor, stilul cel mai potrivit de comunicare, modul în care se propagă mesajul etc.
 
-[![](/wp-content/uploads/2011/11/insights-273x300.jpg)](/wp-content/uploads/2011/11/insights.jpg)
+[](/wp-content/uploads/2011/11/insights.jpg)
 
 ###  Și totuși, ce aduce în plus Facebook Insights?
 
@@ -23,7 +23,7 @@ De dimineață s-a activat pe paginile mele de Facebook noul sistem de **Insight
 
 
 
-[![](/wp-content/uploads/2011/11/structura-reach-400x183.jpg)](/wp-content/uploads/2011/11/structura-reach.jpg)
+[](/wp-content/uploads/2011/11/structura-reach.jpg)
 
   * avem acces la frecvența cu care utilizatorii au văzut conținutul nostru
   * vedem structura traficului de pe pagina de Facebook, dacă materialele noastre sunt preluate
@@ -31,7 +31,7 @@ De dimineață s-a activat pe paginile mele de Facebook noul sistem de **Insight
 
 
 
-**[![](/wp-content/uploads/2011/11/viral-reach-400x160.jpg)](/wp-content/uploads/2011/11/viral-reach.jpg)**
+**[](/wp-content/uploads/2011/11/viral-reach.jpg)**
 
   * Facebook construiește grafice cu Reach-ul viral, foarte util pentru a vedea ce fel de conținut a funcționat în care momente ale săptămânii/lunii.
 

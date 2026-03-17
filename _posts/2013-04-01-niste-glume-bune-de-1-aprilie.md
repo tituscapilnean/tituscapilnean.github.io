@@ -10,4 +10,4 @@ author: titus_capilnean
 
 Pentru că online-ul duduie deja de Gmail Blue, ”se închide Youtube” sau Twitter fără vocale, vă las cu niște glume cu adevărat bune. Aici
 
-[![stai-cuminte-e-întâi-aprile](/wp-content/uploads/2013/04/stai-cuminte-e-%C3%AEnt%C3%A2i-aprile-257x300.png)](/2013/04/niste-glume-bune-de-1-aprilie/stai-cuminte-e-intai-aprile/)
+[](/2013/04/niste-glume-bune-de-1-aprilie/stai-cuminte-e-intai-aprile/)

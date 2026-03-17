@@ -29,7 +29,7 @@ Totuși, sunt de remarcat câteva tehnici de manual, aplicate cu stîngăcie, î
 
 de la asta
 
-[![IMG_0111](/wp-content/uploads/2010/05/IMG_0111-400x300.jpg)](/wp-content/uploads/2010/05/IMG_0111.JPG)
+[](/wp-content/uploads/2010/05/IMG_0111.JPG)
 
 la asta
 
@@ -40,17 +40,17 @@ la asta
   
 de la asta
 
-[![IMG_0113](/wp-content/uploads/2010/05/IMG_0113-400x300.jpg)](/wp-content/uploads/2010/05/IMG_0113.JPG)
+[](/wp-content/uploads/2010/05/IMG_0113.JPG)
 
 la asta**Antinevralgic**
 
 a inceput așa:
 
-[![IMG_11](/wp-content/uploads/2010/05/IMG_11-225x300.jpg)](/wp-content/uploads/2010/05/IMG_11.JPG)
+[](/wp-content/uploads/2010/05/IMG_11.JPG)
 
 si a ajuns la:
 
-[![HEADACHE_1.preview](/wp-content/uploads/2010/05/HEADACHE_1.preview-399x300.jpg)](/wp-content/uploads/2010/05/HEADACHE_1.preview.jpg)
+[](/wp-content/uploads/2010/05/HEADACHE_1.preview.jpg)
 
 *printre puținele campanii care au ajuns pe adsoftheworld.com , despre care [am mai scris mai demult](/2009/04/10/new-media-la-unirii-si-universitate/).
 
@@ -60,11 +60,11 @@ si a ajuns la:
 
 a inceput asa:
 
-[![IMG_0126](/wp-content/uploads/2010/05/IMG_0126-400x300.jpg)](/wp-content/uploads/2010/05/IMG_0126.JPG)
+[](/wp-content/uploads/2010/05/IMG_0126.JPG)
 
 si a ajuns asa:
 
-[![Nivea987](/wp-content/uploads/2010/05/Nivea987-259x300.jpg)](/wp-content/uploads/2010/05/Nivea987.jpg)
+[](/wp-content/uploads/2010/05/Nivea987.jpg)
 
 sau
 
@@ -72,7 +72,7 @@ sau
 
 care a inceput asa:
 
-[![IMG_0116](/wp-content/uploads/2010/05/IMG_0116-400x300.jpg)](/wp-content/uploads/2010/05/IMG_0116.JPG)
+[](/wp-content/uploads/2010/05/IMG_0116.JPG)
 
 si a ajuns asa:
 

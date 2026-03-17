@@ -14,7 +14,7 @@ Aceasta e mesajul care îl afişează Facebook atunci când intri pentru prima d
 
 L-au ciuntit pe vechiul Facebook de un sidebar şi multe meniuri şi funcţionalităţi neatinse de mine aproape niciodată. Acum ai 3 butoane – scrii, urci poze sau urci video, un sidebar cu reclame(_doar 1 în loc de 3_) şi oameni pe care s-ar putea să îi cunoşti, un search box, notificări la baza ecranului şi meniul de sus, pus şi el la cură de slăbire:
 
-[![lite](/wp-content/uploads/2009/09/lite-400x195.jpg)](/wp-content/uploads/2009/09/lite.jpg)
+[](/wp-content/uploads/2009/09/lite.jpg)
 
 Se mişcă mult mai repede şi mai uşor decât varianta full a aplicaţiei şi cred că o să o păstrez ca interfaţă principală pentru Facebook. Poate aşa nu o să se mai blocheze Firefox când se încarcă mai greu 🙂
 

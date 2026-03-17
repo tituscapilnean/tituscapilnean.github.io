@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/06/ct_camp_refinantare_smart_bcr.jpg
 ---
 
-[![](/wp-content/uploads/2011/06/ct_camp_refinantare_smart_bcr.jpg)](/2011/06/povestea-unui-client-fericit-face-cat-100-reviewuri-ipotetice/ct_camp_refinantare_smart_bcr/)În general, nu sunt fan credite pentru că ajungi să plătești de multe ori dublu sau chiar triplu valorii sumei împrumutate. De exemplu, dacă iei 20.000 euro pe 20 de ani, poți să plătești vreo 60.000 euro la finalul perioadei.
+[](/2011/06/povestea-unui-client-fericit-face-cat-100-reviewuri-ipotetice/ct_camp_refinantare_smart_bcr/)În general, nu sunt fan credite pentru că ajungi să plătești de multe ori dublu sau chiar triplu valorii sumei împrumutate. De exemplu, dacă iei 20.000 euro pe 20 de ani, poți să plătești vreo 60.000 euro la finalul perioadei.
 
 Pe de altă parte, **ai nevoie de credite ca să îți iei casă, mașină, să faci investiții, să îți remobilezi casa** etc. Deci sunt necesare, pentru un anumit tip de produse.
 

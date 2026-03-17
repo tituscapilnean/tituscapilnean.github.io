@@ -8,7 +8,6 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2013/03/influence.png
 ---
 
-![influence](/wp-content/uploads/2013/03/influence.png)
 
 Deși #twitterepemoarte, m-am jucat ieri și azi cu un tool foarte mișto, prin care poți să îți analizezi atât urmăritorii, cât și pe cei pe care îi urmărești, ca să vezi ce audiență reală ai, respectiv dacă nu trebuie să faci curat prin following.
 

@@ -12,7 +12,7 @@ A trecut un an de când scriam articolul cu primele [urări de Paști](/2009/04/
 
 N-am fost la bisercă azinoapte, dar am urmărit live pe Twitter slujba, transmisă de Piticu. A pus și poze + câteva păreri legate de noapte de Înviere(a ajuns să fie planificată la fel ca una de revelion). Personal, cred că e mai important să petreci timpul cu familia și prietenii, nu neapărat unde și cum 😀
 
-[![im-godless-and-i-can-eat-it-all-day](/wp-content/uploads/2010/04/im-godless-and-i-can-eat-it-all-day-400x294.jpg)](/wp-content/uploads/2010/04/im-godless-and-i-can-eat-it-all-day.jpg)
+[](/wp-content/uploads/2010/04/im-godless-and-i-can-eat-it-all-day.jpg)
 
 Poftă mare și relaxare, ce să mai!
 

@@ -26,7 +26,7 @@ Codurile QR ar putea fi adăugate pe ambalajul oricărui produs pentru a trimite
 
 Tot mai multe campanii publicitare trimit către un site web. Fie că este vorba de ciocolată, pantofi, concerte sau evenimente, primul scop al campaniilor este să te cheme online – pe un site web. Scopul final e ca odată ce ai ajuns acolo (pe landing page), să te înregistrezi, să completezi un formular sau să cumperi ceva. Ei bine, un QR code ar facilita direcționarea către site-ul respectiv, pe care l-ai putea adăuga imediat, dacă e interesant, în bookmarks-urile tale mobile. Cu alte cuvinte, nu ar mai trebui sa ții minte până acasă site-ul sau campania, ci ai putea să-l accesezi din mers.
 
-![](/wp-content/uploads/2011/02/IMAG0161-179x300.jpg) Milka, evident, fara cod QR 
+ Milka, evident, fara cod QR 
 
 ## Scenariul e simplu
 

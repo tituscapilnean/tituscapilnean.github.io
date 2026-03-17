@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2009/12/zablog-400x140.jpg
 ---
 
-[![zablog](/wp-content/uploads/2009/12/zablog-400x140.jpg)](/wp-content/uploads/2009/12/zablog.jpg)
+[](/wp-content/uploads/2009/12/zablog.jpg)
 
 Am început să fac o pasiune pentru wulffmorgenthaler și comic-urile pe care le primesc în fiecare zi pe RSS. Asta mi s-a părut brilliant să o public pentru că e un fel de manifest împotriva defrișării.
 

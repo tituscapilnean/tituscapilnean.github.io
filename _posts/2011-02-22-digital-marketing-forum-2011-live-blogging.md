@@ -13,7 +13,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/02/baiat-joe.jpg
 ---
 
-![](/wp-content/uploads/2011/02/logo-150x150.png)**Digital Marketing Forum 2011**(22-23 Februarie) e prima conferință de online din 2011, începe sub zăpezi în București și este a 5-a ediție. Am scris și anul trecut despre el, însă doar de pe Twitter. Nu mai pierd vremea cu alte introduceri.
+**Digital Marketing Forum 2011**(22-23 Februarie) e prima conferință de online din 2011, începe sub zăpezi în București și este a 5-a ediție. Am scris și anul trecut despre el, însă doar de pe Twitter. Nu mai pierd vremea cu alte introduceri.
 
 **9.00 – 11.00 – SESIUNEA I**
 
@@ -134,7 +134,6 @@ ONG-urile sunt lideri de comunicare pentru că au devenit o resursă de povești
 
 În primul rând trebuie să asculți, apoi să analizezi care sunt subiectele principale și apoi să generezi povești pe baza acestor _insight-uri_.
 
-![](/wp-content/uploads/2011/02/SDC14509-400x300.jpg)
 
 Cu ocazia asta am aflat că și Nike și [Puma](/2010/11/puma-graffitti-creative-factory-pantofi-sport-personalizati-in-6-saptamani/) și Reebok au făcut papuci personalizați.
 
@@ -172,7 +171,6 @@ Un alt exemplu este să scurtezi drumul de la om la mesajul prinicipalde comunic
 
 **Exemplu** – faci succes online cu un overlayer pentru Citibank sau Toyota, în care încorporezi un microsite.
 
-![](/wp-content/uploads/2011/02/SDC14533-400x300.jpg)
 
 Deși eTarget au zis că display-ul(mă rog, offline) n-ar trebui amestecat cu rezultatele de pe search, Adrian are dreptatea lui – dacă vezi un banner, s-ar putea să cauți pe Google compania respectivă. De asta e bine să ai atât campanii de display standard, cât și search engine ads pe cuvintele cheie legate de brandul/produsul/serviciul tău.
 
@@ -224,7 +222,6 @@ La fel de important e **conceptul de comunicare** care să **implice consumatoru
 
 Apoi am trecut din nou prin procesul de Earned, Owned și Paid media, cu mențiunea că, bineînțeles, viitorul e deținut de Earned media. Studiul de caz – Știi banking, de la BCR
 
-![](/wp-content/uploads/2011/02/zoso-BCR-stii-banking-358x300.jpg)
 
 * * *
 
@@ -254,11 +251,9 @@ Promoțiile nu cresc cifrele de vânzări per se, ci contribuie la creștere pri
 
 Mobexpert – decizii la birou – reducere de 15% la birouri, nimic special. Au făcut în schimb un site interactiv prin care îți printezi cărți de vizită cu viitorul job
 
-![](/wp-content/uploads/2011/02/a-400x229.jpg)
 
 Joe – propria ta rețea socială offline – au luat exemple din online(cauze, mod invizibil) și le-au transferat în offline – unde nu poți să stai invizibil și chiar poți să rezolvi ceva
 
-![](/wp-content/uploads/2011/02/baiat-joe.jpg)
 
 Au strâns 40.000 de coduri de ambalaje, 100.000 utilizatori unici, din care 10% înregistrați pe site.
 

@@ -14,4 +14,3 @@ Eu mi-am setat deja http://icanhaz.me/partie
 
 Vreți și voi? Dacă nu mi-ați scri [data trecută](/2010/01/25/snow-explosion-ii-promoveaza-l-si-castigi-bani/), lăsați un comentariu și vă dau link personalizat.
 
-![icanhaz](/wp-content/uploads/2010/01/icanhaz.png)

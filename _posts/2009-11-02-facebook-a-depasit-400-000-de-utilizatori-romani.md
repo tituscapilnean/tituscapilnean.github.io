@@ -15,7 +15,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2009/11/ad-400x247.jpg
 ---
 
-[![facebook_logo](/wp-content/uploads/2009/08/facebook_logo-400x150.jpg)](/wp-content/uploads/2009/08/facebook_logo.jpg)
+[](/wp-content/uploads/2009/08/facebook_logo.jpg)
 
 **Seria de creșteri** în online-ul autohton – nișa social media – continuă cu Facebook, după ce Hi5 a detronat oficial, prin SATI tot ce mișcă la nivel de accesări și afișări pe .ro – aducând pe masă 800.000 de vizitatori unici în fiecare zi. În luna noiembrie e rândul Facebook să schimbe prefixul la numărul de utilizatori români.
 
@@ -25,7 +25,7 @@ Acum 47 de zile am scris că [Facebook depășea 300.000 de utilizatori](/2009/0
 
 Așa cum am făcut-o în rândurile trecute, am analizat din nou ratele de creștere și am văzut că numărul de utilizatori români pe Facebook a crescut de pe 15 septembrie, când s-a depășit numărul de 300.000, cu **25%, până la 414.020 utilizatori** , rata de creștere redresându-se.
 
-[![crestere](/wp-content/uploads/2009/11/crestere-400x220.jpg)](/wp-content/uploads/2009/11/crestere.jpg)
+[](/wp-content/uploads/2009/11/crestere.jpg)
 
 Numerele românilor pe Facebook arată în felul următor:
 
@@ -51,25 +51,25 @@ Pe toate segmentele importante s-a înregistrat o creștere mare, pe Facebook af
 
 În procente:
 
-[![varste2](/wp-content/uploads/2009/11/varste2-400x249.jpg)](/wp-content/uploads/2009/11/varste2.jpg)
+[](/wp-content/uploads/2009/11/varste2.jpg)
 
 Dacă ne uităm la structura pe sexe, **176680**(43%) de utilizatori sunt bărbaţi, iar **212.500**(51%) sunt femei şi **24.840**(6%) de utilizatori cu sex nedeclarat – statistica asta s-a menținut cea mai constantă din august până acum.
 
-[![sexe2](/wp-content/uploads/2009/11/sexe2-400x240.jpg)](/wp-content/uploads/2009/11/sexe2.jpg)
+[](/wp-content/uploads/2009/11/sexe2.jpg)
 
 Doar **7%** din utilizatori şi-au completat datele despre educaţie, din care 6,22% elevi de liceu, 1,98% studenţi şi 91,8% absolvenţi de o formă de învăţământ superior. Structura asta a oscilat cel mai mult – din cauza numărului mic de persoane care completează tipul ăsta de informație pe Facebook.
 
-[](../wp-content/uploads/2009/08/procente-educatie.png)[![studii2](/wp-content/uploads/2009/11/studii2-400x252.jpg)](/wp-content/uploads/2009/11/studii2.jpg)
+[](../wp-content/uploads/2009/08/procente-educatie.png)[](/wp-content/uploads/2009/11/studii2.jpg)
 
 Nici la starea civilă/relaţii nu am putut avea o statistică completă, doar **27%** completând câmpul respectiv din profil.
 
-[](../wp-content/uploads/2009/08/procente-relatii.jpg)[![relatii2](/wp-content/uploads/2009/11/relatii2-400x287.jpg)](/wp-content/uploads/2009/11/relatii2.jpg)
+[](../wp-content/uploads/2009/08/procente-relatii.jpg)[](/wp-content/uploads/2009/11/relatii2.jpg)
 
 58% dintre cei care şi-au trecut starea relaţiei sunt cuplaţi/căsătoriţi, iar 42% sunt singuri în acest moment, conform datelor de pe Facebook. – cifră rămasă nechimbată.
 
 Spuneam mai sus că România are 1,93% din populaţie pe Facebook. Mai jos am făcut o comparaţie cu **Ungaria, Serbia, Bulgaria, Ucraina şi Polonia** în funcţie de gradul de penetrare a Facebook în fiecare ţară.
 
-[](../wp-content/uploads/2009/08/penetrare.jpg)[![regiune2](/wp-content/uploads/2009/11/regiune2-400x218.jpg)](/wp-content/uploads/2009/11/regiune2.jpg)
+[](../wp-content/uploads/2009/08/penetrare.jpg)[](/wp-content/uploads/2009/11/regiune2.jpg)
 
 _Populatia – Procent de penetrare – Ţara_ – _Număr utilizatori Noiembrie 2009_  
 **21.500.000 – 1,93% – Romania – 414.020  
@@ -86,7 +86,7 @@ Un alt lucru extrem de interesant a fost să văd evoluția Poloniei, a cărui n
 
 Din punct de vedere al traficului, Google AdPlanner ne arată o creștere și în numărul de accesări pentru Facebook în Romînia:
 
-[![ad](/wp-content/uploads/2009/11/ad-400x247.jpg)](/wp-content/uploads/2009/11/ad.jpg)
+[](/wp-content/uploads/2009/11/ad.jpg)
 
 Afișări: **19.000.000, faţă de Hi5(71.930.661****)  
 **

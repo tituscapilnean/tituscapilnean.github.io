@@ -27,80 +27,80 @@ author: titus_capilnean
 
 Am găsit pe internet o istorisire foarte tare despre al doilea război mondial în imagini și text – amuzant, real, ironic 🙂
 
-[![world_war_two_explained_0000_pas1](/wp-content/uploads/2009/07/world_war_two_explained_0000_pas1-400x129.png)](/wp-content/uploads/2009/07/world_war_two_explained_0000_pas1.png)
+[](/wp-content/uploads/2009/07/world_war_two_explained_0000_pas1.png)
 
 Germania s-a aliat cu Austria, mă rog, sau a înglobat Austria și a luat o rangă în mână ca să o căsăpească pe Polonia, iar, pentru că tot așa a început și primul război mondial. Unele lucruri nu se schimbă :>
 
 Desigur, Germania a bătut Polonia, dar a atras atenți Marii Britanii și a Franței.
 
-[![world_war_two_explained_0001_pas2](/wp-content/uploads/2009/07/world_war_two_explained_0001_pas2-400x119.png)](/wp-content/uploads/2009/07/world_war_two_explained_0001_pas2.png)
+[](/wp-content/uploads/2009/07/world_war_two_explained_0001_pas2.png)
 
 Care s-au cam enervat că Germania și-a permis să intre peste polonezi, deși nemților li s-a părut o chestie perfect ok. Cele două țări fac aici pe mami și tati care s-au supărat pe copiluț că a făcut o prostie. A, da și îi declară război Germaniei(observați că Austria a ieșit din subiect – anexată)
 
-[![world_war_two_explained_0003_\(razboi\)](/wp-content/uploads/2009/07/world_war_two_explained_0003_razboi-400x136.png)](/wp-content/uploads/2009/07/world_war_two_explained_0003_razboi.png)
+[](/wp-content/uploads/2009/07/world_war_two_explained_0003_razboi.png)
 
 (aici se bat toți)
 
-[![world_war_two_explained_0004_pas4](/wp-content/uploads/2009/07/world_war_two_explained_0004_pas4-400x109.png)](/wp-content/uploads/2009/07/world_war_two_explained_0004_pas4.png)
+[](/wp-content/uploads/2009/07/world_war_two_explained_0004_pas4.png)
 
 Germania invadează Norvegia și Danemarca, fără să îi pese de amenințările Franței și Marii Britanii
 
-[![world_war_two_explained_0005_pas5](/wp-content/uploads/2009/07/world_war_two_explained_0005_pas5-400x99.png)](/wp-content/uploads/2009/07/world_war_two_explained_0005_pas5.png)
+[](/wp-content/uploads/2009/07/world_war_two_explained_0005_pas5.png)
 
 Și apoi, împreună cu Italia, o iau la bâte pe Franța, pe care o și căsăpesc 🙂
 
-[![world_war_two_explained_0006_pas6](/wp-content/uploads/2009/07/world_war_two_explained_0006_pas6-400x114.png)](/wp-content/uploads/2009/07/world_war_two_explained_0006_pas6.png)
+[](/wp-content/uploads/2009/07/world_war_two_explained_0006_pas6.png)
 
 Germania devine arogantă și, eh, decide să dea cu ranga în URSS.
 
-[![world_war_two_explained_0007_soviet](/wp-content/uploads/2009/07/world_war_two_explained_0007_soviet-400x174.png)](/wp-content/uploads/2009/07/world_war_two_explained_0007_soviet.png)
+[](/wp-content/uploads/2009/07/world_war_two_explained_0007_soviet.png)
 
 Care se enervează și își arată mușchii, ca să o sperie pe Germania.
 
 Între timp, Marea Britanie a mers la SUA să se plângă de comportamentul Germaniei.
 
-[![world_war_two_explained_0008_statele](/wp-content/uploads/2009/07/world_war_two_explained_0008_statele-400x144.png)](/wp-content/uploads/2009/07/world_war_two_explained_0008_statele.png)
+[](/wp-content/uploads/2009/07/world_war_two_explained_0008_statele.png)
 
 Însă americanii aveau alte probleme de rezolvat – Japonia umbla la insulițele ei din Pacific.
 
-[![world_war_two_explained_0009_statele-2](/wp-content/uploads/2009/07/world_war_two_explained_0009_statele-2.png)](/wp-content/uploads/2009/07/world_war_two_explained_0009_statele-2.png)
+[](/wp-content/uploads/2009/07/world_war_two_explained_0009_statele-2.png)
 
 Și așa a intrat SUA în război.
 
 Pe frontul din Europa, Germania își face curaj împreună cu Italia să atace URSS, care nu reușise să o bată pe Finlanda – minusculă în comparație cu ea.
 
-[![world_war_two_explained_0011_soviet2](/wp-content/uploads/2009/07/world_war_two_explained_0011_soviet2-400x113.png)](/wp-content/uploads/2009/07/world_war_two_explained_0011_soviet2.png)
+[](/wp-content/uploads/2009/07/world_war_two_explained_0011_soviet2.png)
 
 Lucrurile încep să se precipite și în Pacific….
 
-[![world_war_two_explained_0012_japs](/wp-content/uploads/2009/07/world_war_two_explained_0012_japs-400x231.png)](/wp-content/uploads/2009/07/world_war_two_explained_0012_japs.png)
+[](/wp-content/uploads/2009/07/world_war_two_explained_0012_japs.png)
 
 și pe frontul rusesc se fac primele cuțităreli, iar, în Africa, Germania ia bătaie 😀 – prima înfrângere de la pornirea războiului…
 
-[![world_war_two_explained_0013_rusi](/wp-content/uploads/2009/07/world_war_two_explained_0013_rusi-400x274.png)](/wp-content/uploads/2009/07/world_war_two_explained_0013_rusi.png)
+[](/wp-content/uploads/2009/07/world_war_two_explained_0013_rusi.png)
 
 Dar în Rusia a venit iarna, ceea ce pentru nemți a însemnat…înghețul avansării în interior, la Stalingrad.
 
-[![world_war_two_explained_0014_americanii-ue](/wp-content/uploads/2009/07/world_war_two_explained_0014_americanii-ue-400x260.png)](/wp-content/uploads/2009/07/world_war_two_explained_0014_americanii-ue.png)
+[](/wp-content/uploads/2009/07/world_war_two_explained_0014_americanii-ue.png)
 
 Italia a fost făcută praf de SUA, care a eliberat între timp și Franța, debarcând în Normandia.
 
-[![world_war_two_explained_0015_pol](/wp-content/uploads/2009/07/world_war_two_explained_0015_pol-400x126.png)](/wp-content/uploads/2009/07/world_war_two_explained_0015_pol.png)
+[](/wp-content/uploads/2009/07/world_war_two_explained_0015_pol.png)
 
 Germania a fost gonită și din Polonia și se apropia deja finalul…
 
-[![world_war_two_explained_0017_bomba](/wp-content/uploads/2009/07/world_war_two_explained_0017_bomba-312x300.png)](/wp-content/uploads/2009/07/world_war_two_explained_0017_bomba.png)
+[](/wp-content/uploads/2009/07/world_war_two_explained_0017_bomba.png)
 
 Între timp, americanii au aruncat și bomba în Japonia- situație încheiată acolo :-j
 
-[![world_war_two_explained_0018_over](/wp-content/uploads/2009/07/world_war_two_explained_0018_over-400x242.png)](/wp-content/uploads/2009/07/world_war_two_explained_0018_over.png)
+[](/wp-content/uploads/2009/07/world_war_two_explained_0018_over.png)
 
-[![world_war_two_explained_0019_cold-war](/wp-content/uploads/2009/07/world_war_two_explained_0019_cold-war-400x221.png)](/wp-content/uploads/2009/07/world_war_two_explained_0019_cold-war.png)
+[](/wp-content/uploads/2009/07/world_war_two_explained_0019_cold-war.png)
 
 Dar SUA și Rusia mai aveau niște chestii de împărțit – Războiul Rece.
 
 Fin!?
 
-[![world_war_two_explained_0020_neutrii](/wp-content/uploads/2009/07/world_war_two_explained_0020_neutrii-400x137.png)](/wp-content/uploads/2009/07/world_war_two_explained_0020_neutrii.png)
+[](/wp-content/uploads/2009/07/world_war_two_explained_0020_neutrii.png)
 
 Sper că v-a plăcut istoria Războiului în câteva imagini – am găsit-o aici, unde mai sunt și alte chestii tari 🙂

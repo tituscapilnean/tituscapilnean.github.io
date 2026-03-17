@@ -11,7 +11,7 @@ author: titus_capilnean
 
 În weekend, m-am trezit în inbox cu un email de la Elena. Nu știam de competiția în a cărei semifinale au ajuns două orașe românești: Sibiu și București. Competiţia se numește “**The Best City to Visit Travel Tournament 2013″** și românii se bat cu granadezii și cu buenosaernii(?!) pentru cele două locuri în finală.
 
-[![171387798_bcd856adbf_b](/wp-content/uploads/2013/03/171387798_bcd856adbf_b-400x300.jpg)](/2013/03/un-vot-pentru-romania-bucuresti-si-sibiu/171387798_bcd856adbf_b/)
+[](/2013/03/un-vot-pentru-romania-bucuresti-si-sibiu/171387798_bcd856adbf_b/)
 
 (Sibiu – sursa foto)
 
@@ -19,6 +19,6 @@ author: titus_capilnean
 
 **Eu am votat, tu?** (merge și de pe mobil, durează câteva secunde).
 
-[![full-day-bucharest-tour-the-old-town](/wp-content/uploads/2013/03/full-day-bucharest-tour-the-old-town-400x294.jpg)](/2013/03/un-vot-pentru-romania-bucuresti-si-sibiu/full-day-bucharest-tour-the-old-town/)
+[](/2013/03/un-vot-pentru-romania-bucuresti-si-sibiu/full-day-bucharest-tour-the-old-town/)
 
 (București – sursa foto)

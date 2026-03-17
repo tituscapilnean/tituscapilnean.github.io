@@ -17,6 +17,6 @@ Deși am scris că respectivul tool [e cam mort de prin 2011](/2012/01/codul-qr-
 
 Mai jos aveți capturile, poate vede și agenția că a picat site-ul sau e linkul greșit.
 
-[![](/wp-content/uploads/2013/08/photo-2-e1375349740650-150x150.jpg)](/2013/08/becks-degeaba-ai-qr-code-daca-nu-merge-site-ul/photo-2-4/)
+[](/2013/08/becks-degeaba-ai-qr-code-daca-nu-merge-site-ul/photo-2-4/)
 
-[![](/wp-content/uploads/2013/08/photo-1-150x150.png)](/2013/08/becks-degeaba-ai-qr-code-daca-nu-merge-site-ul/photo-1-4/)
+[](/2013/08/becks-degeaba-ai-qr-code-daca-nu-merge-site-ul/photo-1-4/)

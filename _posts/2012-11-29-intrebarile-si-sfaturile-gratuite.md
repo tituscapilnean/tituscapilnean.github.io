@@ -12,7 +12,7 @@ author: titus_capilnean
 
 Și mai pot să câștig un prieten, dacă e cazul.
 
-[![](/wp-content/uploads/2012/11/freeadvice1-400x300.jpg)](/wp-content/uploads/2012/11/freeadvice1.jpg)
+[](/wp-content/uploads/2012/11/freeadvice1.jpg)
 
 (sursa foto)
 

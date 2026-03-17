@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2012/12/tv_03_51feb4f7dc-150x150.jpg
 ---
 
-[![](/wp-content/uploads/2012/12/tv_03_51feb4f7dc-150x150.jpg)](/2012/12/romanii-si-capitalismul-episodul-rdsdiscovery/tv_03_51feb4f7dc/)N-am vrut să urmăresc scandalul generat de spălarea rufelor în public a Discovery cu RDS, dar multă lume din blogosferă s-a alăturat și acestei prea-minunate ”cauze”, iar comunicatele Discovery m-au convins de ceea ce bănuiam.
+[](/2012/12/romanii-si-capitalismul-episodul-rdsdiscovery/tv_03_51feb4f7dc/)N-am vrut să urmăresc scandalul generat de spălarea rufelor în public a Discovery cu RDS, dar multă lume din blogosferă s-a alăturat și acestei prea-minunate ”cauze”, iar comunicatele Discovery m-au convins de ceea ce bănuiam.
 
 Băieții de la RDS s-au gândit că ar fi bine, ținând cont că și ei au niște canale de documentare/divertisment inteligent, să-și renegocieze un pic pozițiile cu grupul de canale Discovery. Probabil că le-au cerut mult mai mulți bani pentru retransmisie, nu s-or fi înțeles la procente, cine știe.
 

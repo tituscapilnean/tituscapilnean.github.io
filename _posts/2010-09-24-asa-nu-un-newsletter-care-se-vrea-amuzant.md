@@ -16,7 +16,7 @@ Zilele trecute, mi-a trimis Laura un email cu un newsletter Lee Cooper. N-am nim
 
 _click to zoom_
 
-[![](/wp-content/uploads/2010/09/newsletter_mic_4c99bdff7ae912-400x282.jpg)](/wp-content/uploads/2010/09/newsletter_mic_4c99bdff7ae912.jpg)
+[](/wp-content/uploads/2010/09/newsletter_mic_4c99bdff7ae912.jpg)
 
 Am tot încercat să îmi dau seama ce urmăresc cei care au făcut newsletter-ul ăsta, nepersonalizat în niciun fel şi căruia îi lipseşte complet “fairy dust”-ul.  
   

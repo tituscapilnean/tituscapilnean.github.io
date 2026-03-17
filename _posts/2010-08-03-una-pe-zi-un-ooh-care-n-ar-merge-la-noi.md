@@ -8,7 +8,6 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/08/PioneerPothole-219x300.jpg
 ---
 
-![](/wp-content/uploads/2010/08/PioneerPothole-219x300.jpg)
 
 Uite tipul ăsta de reclame OOH n-ar merge cu siguranță la noi, pentru că s-ar pierde în peisajul de gropi pe care îl avem din mila mamei natura, în cârdășie cu guvernul și firmele care căpușează statul și lucrările pe care le derulează în infrastructură.
 

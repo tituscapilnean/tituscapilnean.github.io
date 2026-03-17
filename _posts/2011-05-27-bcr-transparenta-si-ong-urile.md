@@ -9,7 +9,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/05/IMG_20110526_153917-400x300.jpg
 ---
 
-[![](/wp-content/uploads/2011/05/IMG_20110526_153939-150x150.jpg)](/2011/05/bcr-transparenta-si-ong-urile/img_20110526_153939/)Am fost ieri la sediul BCR, la invitația lui Dragoș Dehelean, la evenimentul de lansare/feedback pe raportul de responsabilitate al BCR-ului pentru 2009-2010.
+[](/2011/05/bcr-transparenta-si-ong-urile/img_20110526_153939/)Am fost ieri la sediul BCR, la invitația lui Dragoș Dehelean, la evenimentul de lansare/feedback pe raportul de responsabilitate al BCR-ului pentru 2009-2010.
 
 Noutatea absolută a evenimentului, dincolo de dezbaterea pe un raport de CSR cu **grupurile cointeresate**(atenție, nu stakeholderi), a fost faptul că BCR a aderat la un standard internațional folosit în raportarea acțiunilor de responsabilitate socială. Am fost printre puținii bloggeri de acolo(cred că mai era unul singur în sală) și cei câțiva jurnaliști invitați – restul erau fie din corporații, fie din ONG-uri.
 
@@ -29,7 +29,7 @@ Am ceva cu ongiștii care acuză doar de dragul de a acuza și de a se face auzi
 
 Cu toate astea, intervenția a fost bună, pentru că a deschis discuția despre **credibilitate** și **credibilizare** a unui raport de responsabilitate socială.
 
-[![](/wp-content/uploads/2011/05/IMG_20110526_153917-400x300.jpg)](/2011/05/bcr-transparenta-si-ong-urile/img_20110526_153917/)
+[](/2011/05/bcr-transparenta-si-ong-urile/img_20110526_153917/)
 
 Singurele lucruri pe care le-am scos despre cele doua aspecte, de la John Aston(AstonEcoManagement) sunt:
 
