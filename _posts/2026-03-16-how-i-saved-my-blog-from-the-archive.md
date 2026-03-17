@@ -8,15 +8,15 @@ author: titus_capilnean
 
 I started blogging in 2009. Back then it was WordPress, on shared hosting, writing in Romanian about PR, advertising events, and whatever was happening in the Bucharest social media scene. Over the years the blog evolved — I wrote in English, moved to London, San Francisco, Austin, and Denver, and the blog followed me through all of it. Marketing, startups, crypto, identity, AI, politics, food.
 
-At some point my hosting disappeared. I don't remember exactly when or why — either I forgot to renew, or the provider shut down, or some combination of both. The domain still pointed somewhere but the content was gone.
+At some point my hosting disappeared. I don't remember exactly when or why — either I forgot to renew, or the provider shut down, or some combination of both. The domain still pointed somewhere but the content was gone. No backup. Just gone.
 
 Or so I thought.
 
 ## The Archivarix Rescue
 
-Sometime before the server died, I had the presence of mind to run [Archivarix](https://archivarix.com/), a CMS that creates a complete offline archive of a website. It saves every URL — the HTML, images, CSS, JavaScript — into a local SQLite database paired with a folder of hashed files. Think of it as a personal Wayback Machine, but one that runs on your own server.
+A few months after I discovered the blog was offline and realised there was no backup, I found [Archivarix](https://archivarix.com/) — a CMS that creates a complete offline archive of a website. It crawls every URL it can reach — the HTML, images, CSS, JavaScript — and saves everything into a local SQLite database paired with a folder of hashed files. Think of it as a personal Wayback Machine, but one that runs on your own server.
 
-I had a compressed `.tar` of that archive sitting in `/opt/homebrew/var/www/tituscapilnean_ro` doing nothing useful.
+I pointed it at the Wayback Machine's cached copies of my domain, let it run, and ended up with a compressed `.tar` of the archive sitting in `/opt/homebrew/var/www/tituscapilnean_ro` doing nothing useful — until now.
 
 Inside: **1,364 HTML files**, each a fully-rendered WordPress page. Plus 1,247 images. Everything was cross-referenced in a `structure.db` SQLite file that mapped URLs to filenames.
 
@@ -44,7 +44,7 @@ The trickiest parts:
 - **Attachment sub-pages**: WordPress creates per-image attachment pages at URLs like `/2009/09/post-slug/image-filename/`. These slipped through my initial filter. I fixed the SQL query to only include 3-segment paths (year/month/slug).
 - **Duplicates**: Some articles appeared twice in the DB — once with and once without a trailing slash. Deduplication by effective slug solved this.
 
-The final result: **1,297 unique articles** migrated, 718 of which have flagged issues (mostly broken images whose files weren't captured in the archive, or old YouTube/Vimeo embeds that no longer resolve).
+The final result: **1,401 unique articles** migrated, 716 of which have flagged issues (mostly broken images whose files weren't captured in the archive, or old YouTube/Vimeo embeds that no longer resolve).
 
 ## What Was Lost
 
@@ -68,8 +68,8 @@ If you ever need to do something similar:
 - **[Jekyll Chirpy theme](https://github.com/cotes2020/jekyll-theme-chirpy)** — clean, fast static blog
 - **Claude Code** — the AI coding assistant that helped write the migration script, debug the edge cases, and write this article
 
-The migration script lives in the repo at `migrate.py` if you want to see how it works or adapt it for your own WordPress rescue operation.
+The migration script lives in the repo at [`migrate.py`](https://github.com/tituscapilnean/tituscapilnean.github.io/blob/main/migrate.py) if you want to see how it works or adapt it for your own WordPress rescue operation.
 
 ---
 
-*718 posts still have broken images or embed issues. I'll fix them gradually. If you're reading a post with a broken image — now you know why.*
+*716 posts still have broken images or embed issues. I'll fix them gradually. If you're reading a post with a broken image — now you know why.*
