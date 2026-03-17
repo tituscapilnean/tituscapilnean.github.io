@@ -3,7 +3,7 @@ title: "Vineri cu Titus și Zoran – episodul 2"
 date: 2025-08-08 13:00:00 +0300
 categories: [Podcast, Romania]
 tags: [politica, justitie, trafic, ion iliescu, democratie, coruptie]
-author: titus
+author: titus_capilnean
 ---
 
 # A murit Iliescu. Dar nu și trauma noastră colectivă

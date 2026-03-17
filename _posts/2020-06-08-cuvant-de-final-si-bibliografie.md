@@ -3,7 +3,7 @@ title: Cuvânt de final și Bibliografie
 date: 2020-06-08 11:00:00 +0000
 categories: [PR 3.0, Romanian]
 tags: [relatii publice, comunicare]
-author: titus
+author: titus_capilnean
 ---
 
 # Cuvânt de final si Bibliografie

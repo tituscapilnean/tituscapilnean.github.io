@@ -3,7 +3,7 @@ title: Life as an Improv Game
 date: 2019-01-08 10:00:00 +0800
 categories: [English, Life]
 tags: [improv, creativity, relationships]
-author: titus
+author: titus_capilnean
 ---
 
 Last year, I accidentally got myself and my wife into a walk-in improv class in San Francisco. It was one of those things that I had never done before due to cultural reasons and wanted to put myself out of my comfort zone by doing.

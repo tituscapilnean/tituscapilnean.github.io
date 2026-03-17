@@ -3,7 +3,7 @@ title: The trade-off of management roles
 date: 2020-02-13 10:00:00 +0000
 categories: [English, Life, Startups]
 tags: [alone, career, growth, management]
-author: titus
+author: titus_capilnean
 ---
 
 Over 10 years ago, when I started my professional career, working as an individual contributor, I couldn’t wait to become a manager. It sounded so cool – to have a team, to lead, to create strategy, run meetings, build agendas. Little did I know of the downsides of being in one of those fancy management roles.

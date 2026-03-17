@@ -3,7 +3,7 @@ title: An Incomplete View of a Conversation About the Future of the Internet
 date: 2014-06-12 10:12:33 +0800
 categories: [Digital Events, English]
 tags: [internet, technology, IoT]
-author: titus
+author: titus_capilnean
 ---
 
 Last evening, I attended a bit of a different meetup. It was a basement chat (yes, no signal, no wifi) about the future of the internet. Unfortunately, I couldn’t stay until the end of it, but I did catch two of the presentations. Maybe some of you who have seen the entire thing can help me get a complete picture of last evening's talk session.

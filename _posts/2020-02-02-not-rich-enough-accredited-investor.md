@@ -3,7 +3,7 @@ title: "I’m sorry I’m not rich enough to try to get rich: Accredited Investo
 date: 2020-02-02 10:00:00 +0000
 categories: [English, Politics, Startups, Venture Capital]
 tags: [startups, venture capital, investing, regulations]
-author: titus
+author: titus_capilnean
 ---
 
 I’m getting ready to invest my first real money into a company and a team I believe in a lot. I’ve dabbled in venture capital with Republic and with ICOs, but up until now my tickets have been small, like money you would spend on a trip or a nicer dinner.

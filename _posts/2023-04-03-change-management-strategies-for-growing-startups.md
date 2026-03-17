@@ -3,7 +3,7 @@ title: "Change Management Strategies for Growing Startups: Comparing Bridges, Me
 date: 2023-04-03 10:00:00 +0000
 categories: [Business Models, English]
 tags: [change management, startups, leadership, strategy]
-author: titus
+author: titus_capilnean
 ---
 
 I graduated from my Executive MBA program back in 2014, and this blog post has been sitting in my drafts until today, when I decided to ask GPT-3.5 to help me structure my ideas about mixing and matching change management models and adapting them for a startup environment.

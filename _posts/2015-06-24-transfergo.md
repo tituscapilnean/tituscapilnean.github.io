@@ -3,7 +3,7 @@ title: TransferGo
 date: 2015-06-24 09:00:00 +0300
 categories: [Business, Investitii, Romanian]
 tags: [inceputuri, job, transfer-de-bani, transfer-international]
-author: titus
+author: titus_capilnean
 ---
 
 # TransferGo

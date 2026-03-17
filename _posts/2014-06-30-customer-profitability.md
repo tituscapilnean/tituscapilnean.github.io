@@ -3,7 +3,7 @@ title: A customer who calls you every day is less profitable than one who pays o
 date: 2014-06-30 09:00:00 +0800
 categories: [English, Business Models]
 tags: [customer profitability, divestment, segmentation, clv]
-author: titus
+author: titus_capilnean
 ---
 
 As business models and contexts have evolved, companies have had to shift their view from “by all means” customer retention to a new type of approach to customer relationship strategies: divestment. This was considered unacceptable in the past, due to customer acquisition cost and the race for market share. However, due to a different approach to segmentation and the technologies that aid customer value return tracking, divesting has become viable when the strategy is to focus on the right kind of customers.

@@ -3,7 +3,7 @@ title: "The Extra Dish on Wall-Street.ro: Delicious business in the UK: A Unicor
 date: 2015-02-17 09:00:00 +0000
 categories: [English, More Startups]
 tags: [london, startup, the extra dish]
-author: titus
+author: titus_capilnean
 ---
 
 _Needless to say how happy I am that The Extra Dish has had such amazing feedback and is now featured on one of the biggest news & business websites in my home country. I’ve translated the article below and plan to make it the first of many. Thanks Wall-Street.ro & Alex Goaga for letting me put it up here, too!_

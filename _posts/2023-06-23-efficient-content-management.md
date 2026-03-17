@@ -3,7 +3,7 @@ title: "Efficient Content Management: A Naming System For Content Marketing Prof
 date: 2023-06-23 09:00:00 +0000
 categories: [English, Strategy]
 tags: [content, systems, workflow, marketing]
-author: titus
+author: titus_capilnean
 ---
 
 In content marketing, a well-structured management system is key. I’ve spent over 10 years building marketing and content management teams and have developed a system to help simplify the workflow. Here, I’ll share this system with you.

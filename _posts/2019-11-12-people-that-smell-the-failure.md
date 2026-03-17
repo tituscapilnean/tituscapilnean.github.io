@@ -3,7 +3,7 @@ title: People that smell the failure
 date: 2019-11-12 10:00:00 +0200
 categories: [English, Change Management]
 tags: [failure, culture, romania]
-author: titus
+author: titus_capilnean
 ---
 
 I heard the original line while driving to Los Altos, for the Romanian presidential elections, round one. My wife said it out loud in the car while we were discussing attitudes towards failing and where we had all grown up, back in Eastern Europe, and connected to a message on one of the leading party’s WhatsApp group about a candidate that received over 1.7M votes.

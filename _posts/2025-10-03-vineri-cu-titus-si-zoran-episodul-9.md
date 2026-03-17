@@ -3,7 +3,7 @@ title: "Vineri cu Titus și Zoran – episodul 9"
 date: 2025-10-03 13:00:00 +0300
 categories: [Podcast, Romania]
 tags: [sanatate, euroscepticism, geopolitica, economie, UE]
-author: titus
+author: titus_capilnean
 ---
 
 # Paracetamol pentru toată lumea: lecuim simptomele și ignorăm boala

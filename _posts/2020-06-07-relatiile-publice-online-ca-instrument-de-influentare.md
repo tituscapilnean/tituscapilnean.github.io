@@ -3,7 +3,7 @@ title: Relațiile publice online ca instrument de influențare
 date: 2020-06-07 09:00:00 +0300
 categories: [Romanian, Comunicare]
 tags: [relatii publice, comunicare, influenta, online]
-author: titus
+author: titus_capilnean
 ---
 
 ## CAPITOLUL 2. Relațiile publice online ca instrument de influențare

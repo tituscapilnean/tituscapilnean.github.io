@@ -3,7 +3,7 @@ title: Trump, Brexit și Liviu Dragnea sau Alegerile Parlamentare văzute din Di
 date: 2016-12-13 09:00:00 +0200
 categories: [Romanian, Politica]
 tags: [alegeri, brexit, parlamentare, politica, trump]
-author: titus
+author: titus_capilnean
 ---
 
 Anul 2016 a fost foarte interesant din punct de vedere politic și foarte personal pentru mine. Nu numai că am trăit Brexit-ul pe pielea mea în UK, dar am avut și norocul să prind alegerile istorice din SUA în care Trump a întors un rezultat prezis de mai toate sondajele de opinie și curentele intelectual-progresiste.

@@ -3,7 +3,7 @@ title: Retrospectives, these powerful tools for growth
 date: 2020-02-04 10:00:00 +0200
 categories: [English, Life, Startups]
 tags: [retrospectives]
-author: titus
+author: titus_capilnean
 ---
 
 At the end of last year, I did two massive retrospectives for Romanian IT (2019, and since inception) and a personal one.

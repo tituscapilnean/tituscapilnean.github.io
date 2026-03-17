@@ -3,7 +3,7 @@ title: My Investment Thesis
 date: 2020-07-09 10:00:00 +0000
 categories: [English, Venture Capital]
 tags: [investment, thesis, startup, fintech, blockchain, ai]
-author: titus
+author: titus_capilnean
 ---
 
 I realized I joined Republic in early 2018, and I have used that time to invest in a few of companies. This was just one of the ways I managed to beat the [accredited investor limitation](/posts/not-rich-enough-accredited-investor) in the US, which keeps less wealthy people from gaining wealth as fast as rich people.

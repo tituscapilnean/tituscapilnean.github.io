@@ -3,7 +3,7 @@ title: An Extra Dish of Lokshen Kugel
 date: 2014-12-19 10:00:00 +0000
 categories: [English, Startups]
 tags: [delivery, food, london, revolution, takeaway, the extra dish]
-author: titus
+author: titus_capilnean
 ---
 
 I moved out of my home country this year and I had previously left home for college 7 years ago, so home cooking was something I used to get just on public holidays, when I would travel home and my mum would cook for me.

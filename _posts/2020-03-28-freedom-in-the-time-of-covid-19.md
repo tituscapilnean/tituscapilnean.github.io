@@ -3,7 +3,7 @@ title: Freedom in the time of COVID-19
 date: 2020-03-28 10:00:00 +0000
 categories: [English, Politics, Change Management]
 tags: [freedom, covid-19, pandemics, history]
-author: titus
+author: titus_capilnean
 ---
 
 ## Freedom

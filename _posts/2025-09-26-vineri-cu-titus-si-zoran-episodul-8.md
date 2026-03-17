@@ -3,7 +3,7 @@ title: "Vineri cu Titus și Zoran – episodul 8"
 date: 2025-09-26 13:00:00 +0300
 categories: [Podcast, Romania]
 tags: [geopolitica, razboi hibrid, Serbia, Romania, dezinformare, Balcani]
-author: titus
+author: titus_capilnean
 ---
 
 # Un sârb și un ardelean vorbesc deschis despre războiul hibrid

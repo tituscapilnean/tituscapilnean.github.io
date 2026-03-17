@@ -3,7 +3,7 @@ title: Those who want the EU to fall apart are idiots
 date: 2015-11-25 09:00:00 +0200
 categories: [English, Politics]
 tags: [eu, europe, brexit, union, romania]
-author: titus
+author: titus_capilnean
 ---
 
 I have travelled in almost all the European Union countries and have worked so far in 2 of them. Either for pleasure or for business, every trip was natural and easy to do, borders are open to us with a simple passport or national ID card. It’s fast and it’s cheap to do it.

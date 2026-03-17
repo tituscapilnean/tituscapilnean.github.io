@@ -3,7 +3,7 @@ title: Despre importanța facultății și cum să te asiguri că ești angajabi
 date: 2023-08-13 10:00:00 +0300
 categories: [Romanian, Altele]
 tags: [educație, carieră, angajabilitate]
-author: titus
+author: titus_capilnean
 ---
 
 Am scris acum mulți ani despre calvarul prin care am trecut încercând să mă [transfer de la o facultate la alta](/posts/transfer-de-la-o-facultate-la-alta), în încercarea de a salva niște credite din timpul petrecut în ASE.

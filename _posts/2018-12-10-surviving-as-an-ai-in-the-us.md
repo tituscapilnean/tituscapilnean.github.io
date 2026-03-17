@@ -3,7 +3,7 @@ title: Surviving as an AI in the US – the most litigious nation in the world
 date: 2018-12-10 09:00:00 +0000
 categories: [English, Technology]
 tags: [ai, law, liability, selfdriving]
-author: titus
+author: titus_capilnean
 ---
 
 In the past few years, AI advancements have made self-driving cars more of a reality than the remote possibility it once was. Thanks to GPU advances, algorithm improvements, and lots of venture capital thrown at the problem, Waymo was the first company to release its fleet (albeit in a very limited fashion) in Phoenix, AZ.

@@ -3,7 +3,7 @@ title: 6 ways to defend your freedom in hard times
 date: 2020-04-05 10:00:00 +0800
 categories: [English, Politics]
 tags: [freedom, democracy, activism]
-author: titus
+author: titus_capilnean
 ---
 
 A few of my friends called me out because I raised the alarm with my previous post of freedom. They said I didn’t offer any specific solutions about how to defend your freedom in democratic regimes.

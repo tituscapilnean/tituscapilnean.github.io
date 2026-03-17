@@ -3,7 +3,7 @@ title: Tax Breaks, not Taxes for People who Work From Home #WFH
 date: 2020-11-15 10:00:00 +0000
 categories: [English, Politics]
 tags: [politics, wfh, taxes]
-author: titus
+author: titus_capilnean
 ---
 
 Recently, a Deutsche Bank analyst decided to put a note out there that governments should tax people that are able to work from home.

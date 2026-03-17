@@ -3,7 +3,7 @@ title: Romanian IT in San Francisco – 2019 retrospective
 date: 2019-12-28 10:00:00 +0000
 categories: [English, Life]
 tags: [romanian, san francisco, community, tech]
-author: titus
+author: titus_capilnean
 ---
 
 Later edit: Thanks Andrei for the extra info I missed!

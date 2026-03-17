@@ -3,7 +3,7 @@ title: The thing with Americans and their attitude
 date: 2019-10-05 10:00:00 +0300
 categories: [English, Life]
 tags: [america, culture, basketball, attitude]
-author: titus
+author: titus_capilnean
 ---
 
 I met with a friend at the best coffee shop in town while I was in Baia Mare, visiting my family. She had just returned from Indonesia after years of traveling and living abroad. We both shared stories about how alien we felt in this town and how travelers always feel like this when surrounded by less traveled people. She told me about the people in Indonesia and the beauty of their culture, and then she asked me about the US, about life in California.

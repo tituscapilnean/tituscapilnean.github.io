@@ -3,7 +3,7 @@ title: Transfer de la o facultate la alta
 date: 2009-07-15 10:00:00 +0300
 categories: [Romanian, Altele de online]
 tags: [ase, birocratie, facultate, transfer]
-author: titus
+author: titus_capilnean
 ---
 
 M-am lovit zilele astea de monstrul birocratic al Academiei de Studii Economice, în momentul în care am vrut să mă transfer de la Finanțe – Bănci, la Marketing. În primul rând, în ASE nu poți să te transferi de la o facultate la alta decât dacă ești integralist, altfel nici nu stă nimeni să discute cu tine. E foarte greu să obții orice informație de la cineva, pentru că ești plimbat de colo colo și trimis la regulament, în care e prevăzut vag sau nu e prevăzut deloc vreun indiciu.

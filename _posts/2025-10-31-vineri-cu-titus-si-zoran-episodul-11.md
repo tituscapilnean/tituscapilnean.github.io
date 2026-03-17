@@ -3,7 +3,7 @@ title: "Vineri cu Titus și Zoran – episodul 11"
 date: 2025-10-31 13:00:00 +0300
 categories: [Podcast, Romania]
 tags: [emigrare, diaspora, Romania, oportunitate, tineri]
-author: titus
+author: titus_capilnean
 ---
 
 # Merită să pleci? Cealaltă față a monedei

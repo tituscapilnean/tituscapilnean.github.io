@@ -3,7 +3,7 @@ title: My take on ChatGPT and other LLMs Replacing Jobs
 date: 2023-02-28 10:00:00 +0000
 categories: [English, Artificial Intelligence]
 tags: [llms, chatgpt, automation, jobs]
-author: titus
+author: titus_capilnean
 ---
 
 I’ve been working with data for the past year and a half, as I’m building my own company, so I can’t ignore the noise around the launch of OpenAI’s ChatGPT, and the fears it has spurred.

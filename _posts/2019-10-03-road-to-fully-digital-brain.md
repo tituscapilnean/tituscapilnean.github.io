@@ -3,7 +3,7 @@ title: "The road to a fully digital brain v1.0"
 date: 2019-10-03 10:00:00 +0000
 categories: [English, Brain Interfaces]
 tags: [brain interfaces, ai, neuralink, future, consciousness, immortality]
-author: titus
+author: titus_capilnean
 ---
 
 Ever since I was a child, I had been thinking about death and ways to cheat it, to survive beyond the abyss. People do it with books, content, personas, legacies, children and other ways they want to be remembered. But that was never good enough for me. It’s too passive, you can’t reap the rewards of it, you can’t see how generations interact with your brand/legacy/offspring and you sure hell can’t contribute anymore.
