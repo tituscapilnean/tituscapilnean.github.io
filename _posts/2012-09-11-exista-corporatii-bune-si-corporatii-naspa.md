@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2012/09/catbert.jpg
 ---
 
-[](/wp-content/uploads/2012/09/catbert.jpg)Citeam ieri articolul lui Răzvan și m-a ”lovit” următorul aspect – există în mentalul colectiv două tipuri de corporații: cea nașpa, opresivă, fixistă, nebună și arhicunoscută, respectiv cea ok, de care nu știe și nu vorbește nimeni pentru că e plictisitor să fii ok.
+Citeam ieri articolul lui Răzvan și m-a ”lovit” următorul aspect – există în mentalul colectiv două tipuri de corporații: cea nașpa, opresivă, fixistă, nebună și arhicunoscută, respectiv cea ok, de care nu știe și nu vorbește nimeni pentru că e plictisitor să fii ok.
 
 _Corporația nașpa_ e descrisă destul de bine aici.
 

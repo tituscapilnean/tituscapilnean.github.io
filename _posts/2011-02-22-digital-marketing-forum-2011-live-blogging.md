@@ -60,8 +60,8 @@ Internetul a început să dea voce tuturor activiștilor, să le dea oamenilor u
 **Consumatorul social** – cine e el?
 
   * Collaboration – ei lucrează împreună la povestea brandului tău
-  * Immediacy – ne-am pierdut răbdarea, așa că trebuie să avem acum feedback, informații, pentru că apoi uităm(de asta e nevoie de [QR code](/2011/02/codurile-qr-ghid-de-utilizare/) în offline). **Dell** e unul din cele mai bune exemple de pe Twitter – dacă ai o problemă, ți se rezolvă într-o oră online. 
-  * Self Expression – am spus și eu asta când am vorbit despre [Miss/Mister Twitter](/2011/02/mistertwitter-si-misstwitter-sau-cum-sa-gadili-ego-uri-ca-sa-ai-succes-pe-twitter/) – dă-le oamenilor spațiu să își exprime personalitatea 
+  * Immediacy – ne-am pierdut răbdarea, așa că trebuie să avem acum feedback, informații, pentru că apoi uităm(de asta e nevoie de [QR code](/posts/codurile-qr-ghid-de-utilizare/) în offline). **Dell** e unul din cele mai bune exemple de pe Twitter – dacă ai o problemă, ți se rezolvă într-o oră online. 
+  * Self Expression – am spus și eu asta când am vorbit despre [Miss/Mister Twitter](/posts/mistertwitter-si-misstwitter-sau-cum-sa-gadili-ego-uri-ca-sa-ai-succes-pe-twitter/) – dă-le oamenilor spațiu să își exprime personalitatea 
   * Value Seekers – oamenii caută canalul prin care tu poți să le oferi valoarea cea mai mare (atât din portofoliul tău, cât și din cel al competitorilor)
 
 
@@ -86,7 +86,7 @@ Dacă ești totuși bun, conținutul te va ajuta, te va promova.
 
 Toate astea n-au nicio valoare dacă n-ai PAID media prin care să aduci consumatorii pe canalele OWNED, unde ei să poată genera EARNED media, cu ajutorul conturilor lor de Social Media.
 
-Așa cum le povesteam și studențior, în cele două sesiuni de [training](/2010/12/concluziile-dupa-al-doilea-training-de-social-media-pe-care-l-am-tinut/) pe care le-am ținut despre social media, trebuie să ai un canal central în campania ta, prin care să conduci conversația în Social Media – în România e cel mai la îndemână sa folosești **Facebook** și cei 2,9 milioane de posibili utilizatori ai platformei tale.
+Așa cum le povesteam și studențior, în cele două sesiuni de [training](/posts/concluziile-dupa-al-doilea-training-de-social-media-pe-care-l-am-tinut/) pe care le-am ținut despre social media, trebuie să ai un canal central în campania ta, prin care să conduci conversația în Social Media – în România e cel mai la îndemână sa folosești **Facebook** și cei 2,9 milioane de posibili utilizatori ai platformei tale.
 
 Din nou, paradigma **UK** – poate n-ar trebui să bag bani în TV. Ce ar fi să mut toți banii în digital? – Ce faci cu treaba asta într-o țară în care ai doar 42% utilizatori de net?
 
@@ -135,7 +135,7 @@ ONG-urile sunt lideri de comunicare pentru că au devenit o resursă de povești
 În primul rând trebuie să asculți, apoi să analizezi care sunt subiectele principale și apoi să generezi povești pe baza acestor _insight-uri_.
 
 
-Cu ocazia asta am aflat că și Nike și [Puma](/2010/11/puma-graffitti-creative-factory-pantofi-sport-personalizati-in-6-saptamani/) și Reebok au făcut papuci personalizați.
+Cu ocazia asta am aflat că și Nike și [Puma](/posts/puma-graffitti-creative-factory-pantofi-sport-personalizati-in-6-saptamani/) și Reebok au făcut papuci personalizați.
 
 **Cu ce rămânem?**
 
@@ -214,9 +214,9 @@ Cu siguranță, studiul e interesant și abia aștept să îl pun pe blog.
 
 Partea a doua mă găsește la Online Marketing Fixes, unde îl ascult pe _Marius Pahomi_ – Head of MEC Interaction, MEC, care ne va povesti despre campanii care au ieșit bine.
 
-Internetul înseamnă bannere, Facebook, Twitter(dar nu prea știm ce), bloggeri – dar nu prea știm cum să îi folosim(și de asta discutăm cu ei [prin agenții](/2011/01/cine-face-campanii-pe-bloguri-in-romania/)), Google Ads, Branding-uri – proiecte speciale.
+Internetul înseamnă bannere, Facebook, Twitter(dar nu prea știm ce), bloggeri – dar nu prea știm cum să îi folosim(și de asta discutăm cu ei [prin agenții](/posts/cine-face-campanii-pe-bloguri-in-romania/)), Google Ads, Branding-uri – proiecte speciale.
 
-Așa cum ziceam și eu în [primul meu training de comunicare prin Social Media](/2010/11/cateva-idei-de-la-primul-meu-training-de-comunicare-in-social-media/) – trebuie să setezi obiectivele ÎNAINTE să începi campania. Trebuie să setăm ce vrem să facă oamenii pe net cu ajutorul canalelor noastre de promovare.
+Așa cum ziceam și eu în [primul meu training de comunicare prin Social Media](/posts/cateva-idei-de-la-primul-meu-training-de-comunicare-in-social-media/) – trebuie să setezi obiectivele ÎNAINTE să începi campania. Trebuie să setăm ce vrem să facă oamenii pe net cu ajutorul canalelor noastre de promovare.
 
 La fel de important e **conceptul de comunicare** care să **implice consumatorul**.
 

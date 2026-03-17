@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2009/08/2453281092_1d92e4840d_o-280x300.jpg
 ---
 
-[](/wp-content/uploads/2009/08/2453281092_1d92e4840d_o.jpg)
+
 
 Da, azi sărbătorim cu sârg și voie bună un nou serial la mine pe blog – ”Scap de Spam”. În fiecare duminică scriu câte un articol despre SPAM-urile cele mai primite, cele mai interesante, cele mai eficiente, cele mai periculoase – unul pe săptămână.
 

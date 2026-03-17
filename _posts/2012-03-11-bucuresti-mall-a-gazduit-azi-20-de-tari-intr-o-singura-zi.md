@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2012/03/global-village-400x165.jpg
 ---
 
-[](/wp-content/uploads/2012/03/global-village.jpg)Un eveniment care merită să rămână în arhivă:
+Un eveniment care merită să rămână în arhivă:
 
 > Pe data de 11 martie 2012, AIESEC Bucuresti, parte a celei mai mari organizatii internationale de tineri, in colaborare cu Primaria Generala Bucuresti, a organizat evenimentul Global Village care a reunit in aceeasi locatie, Bucuresti Mall, 20 de culturi diferite, 2500 de participanti si o multime de invitati speciali.
 > 

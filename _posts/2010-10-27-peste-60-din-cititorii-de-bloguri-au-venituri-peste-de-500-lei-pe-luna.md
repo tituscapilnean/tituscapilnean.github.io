@@ -9,7 +9,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/10/blogdemografice_4_income-400x200.jpg
 ---
 
-[](/wp-content/uploads/2010/10/blue-growth-chart.jpg)Blogosfera din România a ajuns să fie vizitată de peste 53% din totalul de oameni care stau pe internet pe teritoriul țării. Am făcut o mică analiză a evoluției creșterii blogurilor din 2008 până în prezent(cam atunci au început să apară primele cifre despre bloguri în România).
+Blogosfera din România a ajuns să fie vizitată de peste 53% din totalul de oameni care stau pe internet pe teritoriul țării. Am făcut o mică analiză a evoluției creșterii blogurilor din 2008 până în prezent(cam atunci au început să apară primele cifre despre bloguri în România).
 
 Astea sunt **cifrele din 2010** , de pe refresh.ro
 
@@ -36,7 +36,7 @@ Rata de creștere este excelentă și pune bazele unei arii mișto de conținut 
 
 Cifra cea mai importantă din raportul pe care îl oferă Re:Fresh.ro din SATI nu este cea de 2,8 milioane de cititori, ci **cei 1,6 milioane de consumatori potențiali, cu venituri de la 500 RON/lună în sus** :
 
-[](/wp-content/uploads/2010/10/blogdemografice_4_income.jpg)
+
 
 Ei sunt cei care pot să cumpere ce produse văd testate sau promovate pe blogurile din România și la ei ne gândim atunci când targetam campanii. Restul sunt doar intermediari, care trebuie să influențeze mai departe un centru de putere de cumpărare.
 

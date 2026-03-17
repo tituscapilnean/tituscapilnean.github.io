@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/06/ochelari_de_cal-150x150.jpg
 ---
 
-[](/2011/06/strategia-de-comunicare-online-mama-rezultatelor/ochelari_de_cal/)Ieri m-am întâlnit cu cineva care a început o agenție de online(inițial axată pe programare de aplicații pentru campanii) și care vrea să își extindă oferta, să includă și componenta de consultanță și implementare de proiecte de comunicare online.
+Ieri m-am întâlnit cu cineva care a început o agenție de online(inițial axată pe programare de aplicații pentru campanii) și care vrea să își extindă oferta, să includă și componenta de consultanță și implementare de proiecte de comunicare online.
 
 Ideea de extindere i-a venit pentru că oamenii cu care s-a întâlnit pentru deal-uri și clienții pentru care lucrează **nu au o direcție strategică** în comunicarea online.
 

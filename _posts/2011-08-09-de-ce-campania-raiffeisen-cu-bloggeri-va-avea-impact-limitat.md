@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/08/logo-1.png
 ---
 
-[](/2011/08/de-ce-campania-raiffeisen-cu-bloggeri-va-avea-impact-limitat/logo-1/)Acum ceva vreme citeam despre proiectul Raiffeisen cu bloggerii, prin care aceștia trebuie să își aleagă un ONG, să facă un proiect de x pagini, pe care apoi să îl depună, să fie validat, pus pe lista scurtă, apoi votat public. Abia după etapa de vot se va vedea care proiect e eligibil pentru niște bani(între 3.000 și 22.000 de lei).
+Acum ceva vreme citeam despre proiectul Raiffeisen cu bloggerii, prin care aceștia trebuie să își aleagă un ONG, să facă un proiect de x pagini, pe care apoi să îl depună, să fie validat, pus pe lista scurtă, apoi votat public. Abia după etapa de vot se va vedea care proiect e eligibil pentru niște bani(între 3.000 și 22.000 de lei).
 
 Când am fost la Roșia cu bloggerii din Cluj și Alba, am discutat și despre subiectul ăsta și părerea mai mult decât unanimă a fost că:
 

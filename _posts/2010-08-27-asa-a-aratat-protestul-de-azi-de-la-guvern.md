@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/08/z79f.jpg
 ---
 
-[](/wp-content/uploads/2010/08/z79f.jpg)
+
 
 poza e dată pe Twitter de @cinicul
 

@@ -15,7 +15,7 @@ E vorba despre o **mică dezbatere** despre Ecotaxa pentru pungile Eco(din mater
 
 Ei nu i s-a părut nomal ca taxa să fie aplicată la o pungă deja Eco(pe care o plătești separat de taxă). De ce ar trebui să plătească o taxă eco pe ceva ce e deja eco, din start?
 
-[](/wp-content/uploads/2010/02/bon-ecotaxa.jpg)
+
 
 Ignoră celalte articole de pe bon 🙂
 
@@ -38,7 +38,7 @@ Acum vine întrebarea spre tine. **Ce părere ai de ecotaxa pe ecopungi?** E nor
 
 **LE:** Punga e oxobiodegradabilă – 100% cică
 
-[](/wp-content/uploads/2010/02/punga.png)
+
 
 Problema se schimbă în felul următor: Pungile oxobiodegradabile nu sunt 100% bio, pentru că sunt compuse din substanțe chimice asemănătoare cu plasticul sau chiar plastic cu aditivi, care poluează mediul la fel de mult ca o pungă standard. În mod normal, dacă punga ar fi 100% biodegradabilă, atunci taxa nu s-ar aplica. Altfel, se aplică taxa, însă nu se mai specifică faptul căpunga este 100% biodegradabiă.
 

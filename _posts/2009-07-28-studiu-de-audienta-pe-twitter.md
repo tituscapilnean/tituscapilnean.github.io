@@ -20,19 +20,19 @@ Mulțumesc tuturor celor care au dat retweet și m-au ajutat să strâng toate d
 
 Rezultatele arată așa:  
   
-[](/wp-content/uploads/2009/07/grupedesex.jpg)
+
 
 În primul rând am stabilit că suntem echilibrați ca număr băieți și fete pe Twitter în România. Deci și fetele de la noi sunt obișnuite cu tehnologia. 🙂
 
 Apoi am aflat că vârsta medie pe Twitter la noi este de 23 de ani, aproximativ, împărțită pe grupe de vârstă așa:
 
-[](/wp-content/uploads/2009/07/grupedevarsta.jpg)
+
 
 63% dintre utilizatori sunt între 19 și 24 de ani, iar din restul doar 18% sunt peste 27 de ani. Populația e tânără și formată în principal din oameni din domeniul marketingului și comunicării, fiind în special din categoria ”early adopters” – adică tipul de persoane cel mai probabil să experimenteze un produs nou – target perfect pentru orice promoție de produse inovative.
 
 Apoi, am mers mai departe și am împărțit Twitterimea pe zodii, mai ales că era un miniconcurs de care zodie are mai mulți membri:
 
-[](/wp-content/uploads/2009/07/grupedezodii.jpg)
+
 
 Am aflat că sunt cei mai mulți Capricorni, Scorpioni și Fecioare cu câte 11%, apoi cu câte 10% urmează Gemenii și Berbecii, iar pe 3 se plasează Racii cu 9%.
 

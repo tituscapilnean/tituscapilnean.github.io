@@ -34,7 +34,7 @@ Am terminat glorios cele 20 de minute şi am luat-o spre casă, jurând că ~~nu
 
 ## Sfaturile mele pentru cei care cumpără de pe site-urile de reduceri
 
-Percepția mea e că ofertele de pe site-urile astea au așa prețuri mici tocmai pentru că nu prea au clienți și vor să vândă totuși ceva, reducând la minim marja de profit. Așadar, ai grijă ce cumperi, pentru că s-ar putea să cheltui mai mulți bani decât dacă n-ai fi luat niciun cupon. Mi-am făcut un checklist după incidentul ăsta și după [țeapa luată de niște prieteni de-ai mei cu o cazare](/2011/08/teapa-cu-goldendeals-ro-si-sindtour-ro/ "teapa goldendeals"), tot de pe site-urile de reduceri.
+Percepția mea e că ofertele de pe site-urile astea au așa prețuri mici tocmai pentru că nu prea au clienți și vor să vândă totuși ceva, reducând la minim marja de profit. Așadar, ai grijă ce cumperi, pentru că s-ar putea să cheltui mai mulți bani decât dacă n-ai fi luat niciun cupon. Mi-am făcut un checklist după incidentul ăsta și după țeapa luată de niște prieteni de-ai mei cu o cazare, tot de pe site-urile de reduceri.
 
   * sună să afli mai multe informații. Întotdeauna!
   * ai grijă ca site-ul să aibă SSL(în partea de sus, la bara de adresă web să fie scris https://….), ca să plătești cu cardul în siguranță

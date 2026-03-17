@@ -16,7 +16,7 @@ Au fost afectate Facebook, Twitter, Youtube, LiveJournal, Blogger, Google Websit
 
 Unii s-au întrebat dacă nu cumva a fost un atac terorist.
 
-[](/wp-content/uploads/2009/08/achmed.jpg)
+
 
 S-a mers până la crearea unor tabere de refugiați de pe Twitter pe Facebook – care a funcționat cât de cât:
 

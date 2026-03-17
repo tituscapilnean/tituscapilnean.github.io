@@ -10,7 +10,7 @@ author: titus_capilnean
 #   - [iframe] http://www.slideshare.net/slideshow/embed_code/11764998
 ---
 
-[](/wp-content/uploads/2012/02/90142430011120170_qwQJoppo_c.jpg)Am ținut săptămâna trecută o prezentare(scurtă) despre Gamification la Digital Marketing Forum 2012. Dincolo de slide-urile pe care le-am publicat în finalul acestui articol, cred că e foarte important să revin un pic la întrebarea mea preferată din sală: ”Având toate canalele de comunicare la dispoziție și toate tacticile, cum argumentezi în fața unui investitor/șef necesitatea unui joc online pentru comunicarea de brand?”
+Am ținut săptămâna trecută o prezentare(scurtă) despre Gamification la Digital Marketing Forum 2012. Dincolo de slide-urile pe care le-am publicat în finalul acestui articol, cred că e foarte important să revin un pic la întrebarea mea preferată din sală: ”Având toate canalele de comunicare la dispoziție și toate tacticile, cum argumentezi în fața unui investitor/șef necesitatea unui joc online pentru comunicarea de brand?”
 
 Răspunsul e foarte **simplu** : Jocul e modul prin care adulții învață cel mai ușor. Îi implică, îi obligă să contribuie și să interacționeze cu brandul și/sau cu produsul tău, construind o legătură între utilizator și obiectul jocului. De aceea trebuie să alegi cu grijă modul în care creezi mecanismul, astfel încât el să transmită mesajul corect, coerent și consecvent cu obiectivele tale de business.
 

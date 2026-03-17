@@ -9,7 +9,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/05/photo52-378x300.jpg
 ---
 
-[](/wp-content/uploads/2010/05/mmc.jpg)
+
 
 Incepand de azi am primit in teste un minunat Nokia N900, cu care trebuie sa ma obisnuiesc sa scriu pana joi, cand o sa fac live blogging de pe el, la Mobile Marketing Conference 2010.
 
@@ -19,7 +19,7 @@ Trebuie sa ii instalez diseara niste aplicatii, sa vad ce poate.
 
 Pana atunci, te las sa imi admiri noua jucarie 🙂
 
-[](/wp-content/uploads/2010/05/photo52.jpg)
+
 
 **Later edit:**
 
@@ -31,7 +31,7 @@ In ultimul an am fost la destul de multe evenimente cu si despre online, de la c
 
 Ca blogger oficial pentru o conferinta, esti invitat tocmai ca sa scrii, atat din timpul cat si dupa conferinta. E un pic de responsabilitate inclusa in proces.
 
-Am scris acum ceva vreme un [ghid de live blogging si live tweeting](/2010/03/02/ghid-de-live-tweeting/) pe care am de gand sa il aplic si sa il respect si de data asta. In afara de guideline, mai am cateva obiective personale din postura de blogger oficial.
+Am scris acum ceva vreme un [ghid de live blogging si live tweeting](/posts/ghid-de-live-tweeting/) pe care am de gand sa il aplic si sa il respect si de data asta. In afara de guideline, mai am cateva obiective personale din postura de blogger oficial.
 
 – Sa redau cat mai exact si mai clar ideile principale ale conferintei  
 – Sa surprind cele mai bune imagini/cele mai importante clipuri  

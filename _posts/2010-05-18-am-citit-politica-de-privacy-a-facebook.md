@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/05/facebook-privacy-151x300.jpg
 ---
 
-[](/wp-content/uploads/2010/05/facebook-privacy.jpg)Nu o dată, ci de câteva ori. Adică de fiecare dată când s-a schimbat ceva major în ea. Am fost pus în situația să o citesc, pentru că am lucrat cu clienți pe campanii cu ajutorul Facebook, unde cam trebuie să știi ce are voie user-ul să publice și ce nu. Dacă inițial politica asta era destul de simplă și de ușor de înțeles, cu cât a crescut rețeaua, cu atât a crescut și gradul de complexitate al excepțiilor, regulilor și al setărilor de intimitate.
+Nu o dată, ci de câteva ori. Adică de fiecare dată când s-a schimbat ceva major în ea. Am fost pus în situația să o citesc, pentru că am lucrat cu clienți pe campanii cu ajutorul Facebook, unde cam trebuie să știi ce are voie user-ul să publice și ce nu. Dacă inițial politica asta era destul de simplă și de ușor de înțeles, cu cât a crescut rețeaua, cu atât a crescut și gradul de complexitate al excepțiilor, regulilor și al setărilor de intimitate.
 
 Pe scurt, e mai lungă(_5830 de cuvinte_) decât Constituția Statelor Unite(_4543 de cuvinte_) și are peste **50 de butoane de Privacy** și peste **170 de opțiuni** de a seta nivelul de securitate al datelor tale personale. Acum trebuie să fii destul de geeky ca să te apuci să înveți ce înseamnă fiecare dintre setările respective. Pe chestia asta s-a bazat și Facebook când a setat toate opțiunile implicite pe ”Deschis”(Everyone), pentru că majoritatea utilizatorilor nu se obosesc să le modifice. Deci dacă te miri, înseamnă că și tu ai toate datele publice.
 

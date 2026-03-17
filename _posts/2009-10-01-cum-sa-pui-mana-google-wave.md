@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2009/09/communication_collaboration_google_wave_revolution_id793675_size485.jpg
 ---
 
-[](/wp-content/uploads/2009/09/communication_collaboration_google_wave_revolution_id793675_size485.jpg)  
+  
 **  
 _Edit:_ Lansez un concurs: Dă-mi 5 motive pentru care ai vrea să testezi Google Wave și îți dau o invitație – am 7 disponibile. Cele mai tari motive primesc invitațiile pe mail. Aștept comentariile voastre!**
 
@@ -36,7 +36,7 @@ Am citit pe mashable.com, cum că există câteva moduri în care se poate pune 
 
 Celelalte variante sunt pentru programatorii înscriși în programul de dezvoltare de extensii sau pentru companiile plătitoare de Google Apps, deci nu așa de accesibile oricui 🙂
 
-Dacă cineva are deja acces la Google Wave, îl rog să mă contacteze, pentru că vreau să testez și eu aplicația. O să îi mulțumesc enorm, prin [toate modurile posibile de a spune mulțumesc pe online](/2009/09/28/cum-spui-multumesc-pe-online/).
+Dacă cineva are deja acces la Google Wave, îl rog să mă contacteze, pentru că vreau să testez și eu aplicația. O să îi mulțumesc enorm, prin [toate modurile posibile de a spune mulțumesc pe online](/posts/cum-spui-multumesc-pe-online/).
 
 Dacă vreți să vedeți un clip despre Wave, click pe 
 

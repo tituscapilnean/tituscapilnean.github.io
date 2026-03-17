@@ -22,7 +22,7 @@ Ogilvy&Mather Advertising – **The Big Turnoff** pentru WWF
 
 **Outdoor**
 
-Publicis – **Gusto** – aparatul de apucat jucării ![:\)](/wp-includes/images/smilies/simple-smile.png)
+Publicis – **Gusto** – aparatul de apucat jucării 
 
 **Radio**
 

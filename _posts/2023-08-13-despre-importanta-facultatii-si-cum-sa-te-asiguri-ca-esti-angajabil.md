@@ -6,7 +6,7 @@ tags: []
 author: titus_capilnean
 ---
 
-Am scris acum mulți ani despre calvarul prin care am trecut încercând să mă [transfer de la o facultate la alta](/2009/07/transfer-de-la-o-facultate-la-alta/), în încercarea de a salva niște credite din timpul petrecut în ASE.
+Am scris acum mulți ani despre calvarul prin care am trecut încercând să mă [transfer de la o facultate la alta](/posts/transfer-de-la-o-facultate-la-alta/), în încercarea de a salva niște credite din timpul petrecut în ASE.
 
 N-am reușit și, la vremea aia, mi s-a părut catastrofal.
 

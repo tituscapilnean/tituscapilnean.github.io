@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2009/07/juggernaut-400x237.jpg
 ---
 
-[](/wp-content/uploads/2009/07/juggernaut.jpeg)
+
 
 Am mai găsit o reclamă savuroasă pe adsoftheworld.com, de data asta e în secțiunea ”creative use of outdoor media” sau cum să profiți de reclama competitorului tău și să faci un pic de billboard conversation.
 

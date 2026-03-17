@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/05/debate-tude-300x300.jpg
 ---
 
-[](/wp-content/uploads/2010/05/debate-tude.jpg)Azi am descoperit pe Twitter o mică dezbatere între Andrei Pleșu și Adi Florea, despre trining, terminologii, utilitate. Discuția a pornit de la articolul scris de dl. Pleșu în Dilema Veche.
+Azi am descoperit pe Twitter o mică dezbatere între Andrei Pleșu și Adi Florea, despre trining, terminologii, utilitate. Discuția a pornit de la articolul scris de dl. Pleșu în Dilema Veche.
 
 > Să nu ne speriem de cuvinte! Training e uşor de tradus pe româneşte. Înseamnă ori „a dresa“ (un animal), ori „a antrena“ (un sportiv), ori „a pregăti“ (un copil sau un adult) pentru o anumită activitate sau profesiune; pe scurt, „a educa“, „a forma“, „a modela“.
 

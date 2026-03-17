@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/11/how-to-web-2010-logo-400x271.jpg
 ---
 
-[](/wp-content/uploads/2010/11/how-to-web-2010-logo.jpg)Dacă ar fi așa de simplu, am fi cu toții antreprenori și oameni de afaceri. Cu toate astea, competiția Startup Challenge de la How To Web, la care poți să te înscrii până pe 20 Octombrie, cu un Elevator Pitch și formularul ăsta completat.
+Dacă ar fi așa de simplu, am fi cu toții antreprenori și oameni de afaceri. Cu toate astea, competiția Startup Challenge de la How To Web, la care poți să te înscrii până pe 20 Octombrie, cu un Elevator Pitch și formularul ăsta completat.
 
 **Ce trebuie să știi înainte de înscrierie:**
 

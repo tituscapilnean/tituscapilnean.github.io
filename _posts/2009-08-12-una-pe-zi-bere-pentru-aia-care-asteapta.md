@@ -17,4 +17,4 @@ p.s.
 Bonus, azi, dau și reversul reclamei – un gif foarte, foarte tare, de pe http://thenextweb.com  
 (update – se stricase din cauza watermark)
 
-[](/wp-content/uploads/2009/08/life1.gif)
+

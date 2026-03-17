@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/12/Penguins-Explain-Social-Media-450X312_0-150x150.gif
 ---
 
-[](/wp-content/uploads/2011/12/Penguins-Explain-Social-Media-450X312_0.gif)Că tot suntem în prag de 2012 și încercăm să fim mai buni, mai deștepți și mai ok cu cei din jurul nostru, m-am gândit eu că n-am mai citit de multă vreme despre tinerii de valoare ai online-ului românesc. Da, există, dar percepția mea e că n-ar fi extraordinar de mulți. Cu toate astea, am încredere că pot fi contrazis din punctul ăsta de vedere, că putem face o mare listă a oamenilor mișto care lucrează în online-ul românesc.
+Că tot suntem în prag de 2012 și încercăm să fim mai buni, mai deștepți și mai ok cu cei din jurul nostru, m-am gândit eu că n-am mai citit de multă vreme despre tinerii de valoare ai online-ului românesc. Da, există, dar percepția mea e că n-ar fi extraordinar de mulți. Cu toate astea, am încredere că pot fi contrazis din punctul ăsta de vedere, că putem face o mare listă a oamenilor mișto care lucrează în online-ul românesc.
 
 > Lucrează = _contribuie într-un fel sau altul la campanii care au cel puțin o componentă de comunicare online(fie în sens tradițional, fie social media)_
 

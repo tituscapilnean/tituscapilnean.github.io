@@ -14,7 +14,7 @@ Cel mai fierbinte subiect al momentului, pe social media, este achiziția Friend
 
 În momentul ăsta FriendFeed e blocat la autentificări noi:
 
-[](/wp-content/uploads/2009/08/ffeeed.jpg)
+
 
 Puteți citi despre subiect pe site-urile internaționale cu detalii și comentarii fierbinți legate de una din cele mai importante achiziții din online – mii de tweet, sute de comentarii deja :
 
@@ -30,7 +30,7 @@ TheStandard.com – Facebook acquires Friendfeed, care a prevăzut achiziția Fr
 
 Cel mai interesant lucru este evoluția prețului acțiunii FriendFeed din Aprilie 2008 până în Septembrie 2008, de la 47 $ pe acțiune la 3 $ pe acțiune – numai bun pentru achiziție. La acea emisiune de acțiuni Friendfeed strânsese doar 5 milioane de $.
 
-[](/wp-content/uploads/2009/08/stats.jpg)
+
 
 În fine, în acest moment se vorbește de Facebook + FriendFeed = moartea Twitter.
 
@@ -48,7 +48,7 @@ Se chinuie și ei…micuții 🙂
 
 Facebook şi FriendFeed, pe prima pagină la trending topics pe Twitter, deci omoară Twitter, ci mai degrabă îl stimulează în acest moment. 
 
-[](/wp-content/uploads/2009/08/tw.jpg)
+
 
 **Update 3:**
 

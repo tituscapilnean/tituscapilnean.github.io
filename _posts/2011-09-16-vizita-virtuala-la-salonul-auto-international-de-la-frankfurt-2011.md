@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/09/736408l-400x255.jpg
 ---
 
-[](/wp-content/uploads/2011/09/736408l.jpg)Unul din lucrurile care îmi plac cel mai mult despre internet este că poți să ajungi ușor în locuri pe care altfel n-ai putea să le vezi fără planificare, efort, timp și bani.
+Unul din lucrurile care îmi plac cel mai mult despre internet este că poți să ajungi ușor în locuri pe care altfel n-ai putea să le vezi fără planificare, efort, timp și bani.
 
 Mai nou, de când mi-am luat prima mașină, treaba asta cu industria auto a început să mă intereseze din ce în ce mai mult. Nu din perspectiva de pasionat/geek, cât din perspectiva de consumator vreau să știu cât mai multe despre branduri și mașini, pentru că vreau să pot face cele mai bune alegeri, atunci când cumpăr un autovehicul(am luat deja cea mai bună decizie, povestesc cu altă ocazie).
 

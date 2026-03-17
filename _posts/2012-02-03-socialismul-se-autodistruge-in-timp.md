@@ -137,7 +137,7 @@ January 25 at 2:06pm ·
 
 
 
-p.s. am scos pozele de frica [ACTA](/2012/01/de-ce-sunt-de-acord-cu-acta/)
+p.s. am scos pozele de frica [ACTA](/posts/de-ce-sunt-de-acord-cu-acta/)
   *[January 24 at 12:33am]: Tuesday, January 24, 2012 at 12:33am
   *[January 24 at 2:24am]: Tuesday, January 24, 2012 at 2:24am
   *[January 24 at 10:03am]: Tuesday, January 24, 2012 at 10:03am

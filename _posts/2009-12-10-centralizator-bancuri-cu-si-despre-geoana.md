@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2009/12/Memes-danger-388x300.png
 ---
 
-[](/wp-content/uploads/2009/12/Memes-danger.png)
+
 
 sursa foto
 

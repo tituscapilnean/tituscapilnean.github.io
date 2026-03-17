@@ -20,7 +20,7 @@ Deci întrebarea pe care mi-o pun eu, ca investitor, e: _De ce aș băga bani î
 
 Da, e utilă dacă vrei să cumperi droguri și arme de foc sau alte chestii ilegale, în mod anonim, prin Deep Web. But who would do that?
 
-[](/2013/08/ce-este-moneda-bitcoin-si-de-ce-nu-cred-in-viitorul-ei/chartbitcoin/)
+
 
 Chart-ul se găsește aici
 

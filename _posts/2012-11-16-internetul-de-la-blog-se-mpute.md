@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2012/11/DSC_0609-150x150.jpg
 ---
 
-[](/wp-content/uploads/2012/11/DSC_0609.jpg)Simt de ceva mai bine de 6 luni că plutește prin aerul blogoferic și cel al agențiilor o ceață a segregării, un iz de decadență al primului grup și o urmă de dispreț din partea celui de-al doilea grup.
+Simt de ceva mai bine de 6 luni că plutește prin aerul blogoferic și cel al agențiilor o ceață a segregării, un iz de decadență al primului grup și o urmă de dispreț din partea celui de-al doilea grup.
 
 Totul a pornit de la o copywriteriță care s-a descărcat subtil pe Facebook. Nu vrea campanii cu bloggeri. N-a fost o discuție prea elaborată, însă concluzia la care s-a ajuns relativ repede, acceptată prin tăcere aprobatoare, este că ”in ultima vreme blogosfera s-a degradat foarte rau” (via).
 

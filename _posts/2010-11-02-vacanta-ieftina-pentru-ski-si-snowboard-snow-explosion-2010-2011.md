@@ -16,11 +16,11 @@ author: titus_capilnean
 
 Dar zic să detaliem puțin toată treaba, ca să pară cât mai credibilă, nu de alta, dar și mie mi-a venit greu să cred că cineva dă și cazare pe 7 zile și skipass cu banii ăștia.
 
-[](/wp-content/uploads/2010/10/22099.jpg)
+
 
 **Despre cazare:**
 
-Anul trecut se ținea [în Austria](/2009/10/snow-explosion-e-pe-bune/), la niște case cu un fel de apartamente, într-un complex hotelier de peste lac de pârtie. În 2011 e în Franța. Din câte am văzut și în Puy Saint Vincent, tot despre apartamente e vorba, cu camere de 2, 3, 4 sau 6 persoane.
+Anul trecut se ținea [în Austria](/posts/snow-explosion-e-pe-bune/), la niște case cu un fel de apartamente, într-un complex hotelier de peste lac de pârtie. În 2011 e în Franța. Din câte am văzut și în Puy Saint Vincent, tot despre apartamente e vorba, cu camere de 2, 3, 4 sau 6 persoane.
 
 Știu, nu e neapărat sex-friendly, mai ales dacă mergi singurel și ajungi să fii cazat în apartamentul de 6, împreună cu încă cineva în cameră. Dar te descurci – prin băi, gentlemen’s agreement sau alte soluții mai radicale.
 
@@ -45,7 +45,7 @@ Cu:
 > 
 > Datorită aşezării sale nordice şi climatului special se poate schia până la sfârşitul lui aprilie.
 
-[](/wp-content/uploads/2010/11/07.jpg)
+
 
 …așa că nu e panică cu zăpada!
 
@@ -63,7 +63,7 @@ Pentru pârtiile care nu sunt în Puy Saint Vincent, plătești o taxă de trans
 
 Asta e pentru cei care mai au energie după o zi de rupt pârtiile în două. Așa cum am mai zis, în paralel cu excursia asta, în Puy Saint Vincent se întâmplă un mare festival de muzici, cu:
 
-[](/wp-content/uploads/2010/11/parties.jpg)
+
 
 > PENDULUM and Verse // Uk dj set  
 >  DJ BEAUTY // ukraine

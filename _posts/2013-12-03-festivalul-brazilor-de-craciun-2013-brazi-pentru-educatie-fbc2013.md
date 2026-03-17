@@ -9,7 +9,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2013/12/1460273_381046055363938_1729502849_n-300x300.jpg
 ---
 
-_[](/2013/12/festivalul-brazilor-de-craciun-2013-brazi-pentru-educatie-fbc2013/festivalul-brazilor-badge-2013-1/)Mesaj de la Salvați Copiii România. Nu mă implic prea des în campanii sociale, însă de data asta sunt în asentimentul faptului că ăia micii merită o șansă pentru un viitor mai bun._
+_Mesaj de la Salvați Copiii România. Nu mă implic prea des în campanii sociale, însă de data asta sunt în asentimentul faptului că ăia micii merită o șansă pentru un viitor mai bun._
 
 Pe 5 decembrie va avea loc o licitație la Radisson Blu, în București, cu ocazia **Festivalului Brazilor de Crăciun**.
 
@@ -19,7 +19,7 @@ Ei au creat brazi din sticlă, bijuterii sau opere de artă clasice, însă toţ
 
 Cam așa arată unul din brazi (via The Public Advisors):
 
-[](/2013/12/festivalul-brazilor-de-craciun-2013-brazi-pentru-educatie-fbc2013/1460273_381046055363938_1729502849_n/)
+
 
 În cele 12 ediții de până acum, Festivalul Brazilor de Crăciun a strâns 2.669.100 euro, care au fost investiţi în suport educaţional pentru 16.200 de copii. Salvaţi Copiii, în colaborare cu şcoli generale din majoritatea regiunilor ţării, a organizat programe educaţionale ce constau în: 42 de grădiniţe de vară, 32 de centre de tip A Doua Şansă şi 37 de programe Școală după Şcoală.
 

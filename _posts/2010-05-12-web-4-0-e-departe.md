@@ -10,7 +10,7 @@ author: titus_capilnean
 
 **Update: Lasă-ți părerea în comentarii – în care din Web-uri suntem? 2.0, 3.0? 4.0?**
 
-[](/wp-content/uploads/2010/05/semanticmap2.jpg)
+
 
 _Source: Nova Spivack and Radar Networks_
 

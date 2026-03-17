@@ -17,4 +17,4 @@ Sumar:
 
 > Nu mai cred de vreo 2 ani în CV-ul clasic, ținut în format Word, Europass. Nu te scoate în evidență cu nimic, ești doar unul din ceilalți oameni care își caută job, iar ochiul HR-ului rămâne neimpresionat. LinkedIn e un tool foarte bun pentru două lucruri:(citește în continuare)
 
-Lectură plăcută și dacă vrei să scrii pe Titusblog, trimite-mi articolul [aici](/scrie-pe-titusblog/)!
+Lectură plăcută și dacă vrei să scrii pe Titusblog, trimite-mi articolul aici!

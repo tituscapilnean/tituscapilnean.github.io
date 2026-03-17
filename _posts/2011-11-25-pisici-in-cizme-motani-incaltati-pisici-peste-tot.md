@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/11/puss-in-boots-735370l-imagine-226x300.jpg
 ---
 
-[](/wp-content/uploads/2011/11/puss-in-boots-735370l-imagine.jpg)Una de chestiile care mă fac să iubesc și mai mult blogul este lista de evenimente și lansări la care ajung datorită faptului că voi mă citiți și eu scriu. Serios, mare parte din evenimentele la care am fost invitat s-au datorat blogului, iar o serie de oameni faini i-am cunoscut prin faptul că ei m-au citit la un moment dat și le-a plăcut ce scriam.
+Una de chestiile care mă fac să iubesc și mai mult blogul este lista de evenimente și lansări la care ajung datorită faptului că voi mă citiți și eu scriu. Serios, mare parte din evenimentele la care am fost invitat s-au datorat blogului, iar o serie de oameni faini i-am cunoscut prin faptul că ei m-au citit la un moment dat și le-a plăcut ce scriam.
 
 Nu pot și nici nu e sănătos să scriu tot timpul despre social media și online, așa că trebuie să dau și un pic din mine pe blog.
 

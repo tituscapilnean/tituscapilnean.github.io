@@ -14,7 +14,7 @@ author: titus_capilnean
 
 Vă avertizez din start că articolul ăsta e **neconvențional**.
 
-Am fost azi la **Orange Online Meetup-ul de pe luna Octombrie**(ca și celălalt [Online Meetup din Septembrie](/2009/09/03/cum-a-fost-la-online-meetup/)), unde am discutat despre un concept de marketing online foarte puțin folosit pe la noi. Eu personal nu auzisem de el deloc până la întâlnirea asta și am rămas impresionat de versatilitatea lui.
+Am fost azi la **Orange Online Meetup-ul de pe luna Octombrie**(ca și celălalt [Online Meetup din Septembrie](/posts/cum-a-fost-la-online-meetup/)), unde am discutat despre un concept de marketing online foarte puțin folosit pe la noi. Eu personal nu auzisem de el deloc până la întâlnirea asta și am rămas impresionat de versatilitatea lui.
 
 Conceptul se numește **ROPO = Research Online Purchase Offline**. Fenomenul este foarte întâlnit pe toate piețele cu acces la internet și cu produse expuse online cu prețuri și sepcificații. Din păcate, nu este foarte urmărit, deși influențează în mare măsură decizia de cumpărare finală la consumator.
 

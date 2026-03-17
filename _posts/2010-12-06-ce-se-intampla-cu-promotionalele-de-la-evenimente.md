@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/12/how-to-save-paper-150x150.jpg
 ---
 
-[](/wp-content/uploads/2010/12/how-to-save-paper.jpg)Mereu m-am întrebat **ce se întâmplă cu materialele alea pe care le primești în pungi, la conferințe sau evenimente** , atunci când te înregistrezi, la intrare.
+Mereu m-am întrebat **ce se întâmplă cu materialele alea pe care le primești în pungi, la conferințe sau evenimente** , atunci când te înregistrezi, la intrare.
 
 Sau cele pe care le primești în timpul unor sesiuni sau în pauze.
 

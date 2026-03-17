@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/01/japanese_doritos.jpg
 ---
 
-[](/wp-content/uploads/2010/01/japanese_doritos.jpg)
+
 
 de pe businesspundit
 

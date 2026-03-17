@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/01/1311-223x300.jpg
 ---
 
-[](/wp-content/uploads/2010/01/1311.jpg)
+
 
 Cum adică? Nu înțeleg…
 

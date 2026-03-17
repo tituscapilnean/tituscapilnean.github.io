@@ -6,9 +6,9 @@ tags: ["initiativa", "online", "poza-internetului", "social-media"]
 author: titus_capilnean
 ---
 
-**Update** – Am publicat [poza de grup a internetului românesc](/2009/08/24/poza-celor-9/)
+**Update** – Am publicat [poza de grup a internetului românesc](/posts/poza-celor-9/)
 
-Am publicat în articolul cu [poza de grup a internetului](/2009/08/19/poza-de-grup-a-internetului-social-media/) o serie de imagini care reprezintă câteva site-uri renumite internațional. Acum vreau sa fac o poză de grup a internetului românesc, adică a portalurilor și a site-urilor de la noi, care au cea mai mare popularitate.
+Am publicat în articolul cu [poza de grup a internetului](/posts/poza-de-grup-a-internetului-social-media/) o serie de imagini care reprezintă câteva site-uri renumite internațional. Acum vreau sa fac o poză de grup a internetului românesc, adică a portalurilor și a site-urilor de la noi, care au cea mai mare popularitate.
 
 Am nevoie de ajutor. În afară de neogen.ro, apropo.ro, monden.info, trilulilu.ro, gsp.ro, ejobs.ro, okazii.ro, realitatea.net, stirileprotv.ro, cine ar trebui să mai fie aici?
 

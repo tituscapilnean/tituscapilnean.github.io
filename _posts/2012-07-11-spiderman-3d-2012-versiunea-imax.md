@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2012/07/fantasy15-150x150.jpg
 ---
 
-[](/wp-content/uploads/2012/07/fantasy15.jpg)Marți seară am fost la avanpremiera Spiderman în format 3D. Înainte să vorbesc despre experiența filmului(pentru care mă înclin și mulțumesc din nou Cinema City, InterCom Film Distribution, precum și Oxygen PR), merită să învățăm puțină istorie.
+Marți seară am fost la avanpremiera Spiderman în format 3D. Înainte să vorbesc despre experiența filmului(pentru care mă înclin și mulțumesc din nou Cinema City, InterCom Film Distribution, precum și Oxygen PR), merită să învățăm puțină istorie.
 
 Spiderman(Peter Parker) a fost creat în August 1962, acum 50 de ani, într-o bandă desenată apărută pentru prima dată în numărul 15 al revistei Amazing Fantasy. Autorii lui sunt Stan Lee și Steve Dikto, pentru Marvel Comics, cel puțin așa susține Wikipedia, totuși, fără surse. Găsim revista originală pe site-ul Marvel, iar coperta am luat-o și pe blog.
 

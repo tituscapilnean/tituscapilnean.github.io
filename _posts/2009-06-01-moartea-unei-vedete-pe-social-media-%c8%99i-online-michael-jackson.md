@@ -63,9 +63,9 @@ Moartea lui Michael Jackson e un prim exemplu a modului în care se vor propaga 
 
 May he rest in peace. 
 
-  * June 30, 2009 -- [Let him rest – Michael Jackson comemorat in Piata Unirii la metrou](/2009/06/let-him-rest-michael-jackson-comemorat-in-piata-unirii-la-metrou/)
-  * September 29, 2009 -- [Una pe zi – Cosmar pe strada Ulmilor – the viral](/2009/09/una-pe-zi-cosmar-pe-strada-ulmilor-the-viral/)
-  * July 1, 2009 -- [Manifest – cei 10% ”N-ai tupeu”](/2009/07/manifest-cei-10-%e2%80%9dn-ai-tupeu%e2%80%9d/)
+  * June 30, 2009 -- [Let him rest – Michael Jackson comemorat in Piata Unirii la metrou](/posts/let-him-rest-michael-jackson-comemorat-in-piata-unirii-la-metrou/)
+  * September 29, 2009 -- [Una pe zi – Cosmar pe strada Ulmilor – the viral](/posts/una-pe-zi-cosmar-pe-strada-ulmilor-the-viral/)
+  * July 1, 2009 -- [Manifest – cei 10% ”N-ai tupeu”](/posts/manifest-cei-10-%e2%80%9dn-ai-tupeu%e2%80%9d/)
 
 
 

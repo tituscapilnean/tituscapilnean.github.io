@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/10/obama-milk-carton-150x150.jpg
 ---
 
-[](/wp-content/uploads/2011/10/obama-milk-carton.jpg)Până azi nici nu știam că Google are un serviciu prin care te ajută să găsești persoanele dispărute ca urmare a dezastrelor naturale sau a altor incidente(pe care le-ai înregistrat în sistemul lor). E ca un fel de anunț pe cutia de lapte în Statele Unite, doar că se materializează într-un badge pe care îl pui pe site-uri.
+Până azi nici nu știam că Google are un serviciu prin care te ajută să găsești persoanele dispărute ca urmare a dezastrelor naturale sau a altor incidente(pe care le-ai înregistrat în sistemul lor). E ca un fel de anunț pe cutia de lapte în Statele Unite, doar că se materializează într-un badge pe care îl pui pe site-uri.
 
 ### Rezultate până acum
 

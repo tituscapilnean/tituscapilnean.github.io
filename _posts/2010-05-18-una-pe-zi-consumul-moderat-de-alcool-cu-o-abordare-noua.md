@@ -6,7 +6,7 @@ tags: []
 author: titus_capilnean
 ---
 
-Chiar dacă(sau aș zice tocmai pentru că) e marți și nu se încep lucruri așa, în mijlocul săptămânii, m-am decis să reiau o rubrică pe care o cam îngroapsem de câteva luni – [reclama zilei](/tag/una-pe-zi/).
+Chiar dacă(sau aș zice tocmai pentru că) e marți și nu se încep lucruri așa, în mijlocul săptămânii, m-am decis să reiau o rubrică pe care o cam îngroapsem de câteva luni – [reclama zilei](/tags/una-pe-zi/).
 
 Aici o să pun cele mai interesante și inedite reclame pe care le găsesc pe internet în fiecare zi.
 

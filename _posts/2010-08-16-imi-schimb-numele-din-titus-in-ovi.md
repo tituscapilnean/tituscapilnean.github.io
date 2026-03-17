@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/08/Untitled-1-231x300.png
 ---
 
-[](/wp-content/uploads/2010/08/Untitled-1.png)Deja Twitter-ul vuieşte de #goanadupablogger. Pentru cine nu ştie despre ce e vorba, am scris [ce e Goana dupa Ovi](/2010/08/nu-e-bine-sa-intarzii-am-fugit-dupa-ovi/) într-un articol separat, când am fost la prima goană.
+Deja Twitter-ul vuieşte de #goanadupablogger. Pentru cine nu ştie despre ce e vorba, am scris [ce e Goana dupa Ovi](/posts/nu-e-bine-sa-intarzii-am-fugit-dupa-ovi/) într-un articol separat, când am fost la prima goană.
 
 Atunci, în mod evident, n-am reuşit să îl prind pe Ovi. Nu m-am lăsat şi acum pot să fiu eu cel după care poţi să alergi, pentru că Nokia m-a pus faţă în faţă cu alţi 9 bloggeri, ca să stabilim cine va fi noul Ovi.
 

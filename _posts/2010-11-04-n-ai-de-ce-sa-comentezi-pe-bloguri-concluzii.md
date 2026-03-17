@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/11/professional-blogger_id3720781_size480_2row-150x150.jpg
 ---
 
-[](/wp-content/uploads/2010/11/professional-blogger_id3720781_size480_2row.jpg)Am pus o întrebare acum vreo 2 săptămâni, care între timp, cu ajutorul cititorilor, s-a transformat în sondaj. Am vrut să ştiu de ce nu comentează lumea pe bloguri în special, însă nu numai. I-am întrebat şi de Facebook, Twitter şi alte reţele de socializare pe care mai au conturi, pentru că, în esenţă, e vorba de acelaşi lucru: **reacții**.
+Am pus o întrebare acum vreo 2 săptămâni, care între timp, cu ajutorul cititorilor, s-a transformat în sondaj. Am vrut să ştiu de ce nu comentează lumea pe bloguri în special, însă nu numai. I-am întrebat şi de Facebook, Twitter şi alte reţele de socializare pe care mai au conturi, pentru că, în esenţă, e vorba de acelaşi lucru: **reacții**.
 
 Mi-a plăcut foarte tare că 63 dintre cititorii mei au răspuns la acest sondaj și m-au ajutat să trag concluzia din titlu:
 
@@ -43,4 +43,4 @@ Restul răspunsurilor au luat prea puține voturi, așa că nu le voi mai menți
 Concluzia o trage fiecare de aici, **cu entuziasm cu tot**!
 
 > Articolul lui Ionuț despre entuziasmul pe bloguri – aici  
->  Articolul inițial, în care e activ sondajul, dacă vrei să participi – [aici](/2010/10/top-10-motive-pentru-care-oamenii-nu-comenteaza-pe-blogurifacebook/)
+>  Articolul inițial, în care e activ sondajul, dacă vrei să participi – [aici](/posts/top-10-motive-pentru-care-oamenii-nu-comenteaza-pe-blogurifacebook/)

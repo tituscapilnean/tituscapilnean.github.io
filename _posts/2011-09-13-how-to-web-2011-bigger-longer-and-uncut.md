@@ -39,8 +39,8 @@ Nu v-am convins încă? Eu zic să vă uitați și pe pagina lor de Facebook, pe
 
 Cu cât ne apropiem de eveniment, cu atât va crește cererea și prețul. **Acum, până pe 15 Septembrie, biletele sunt 121 Euro bucata.**
 
-_p.s. Am pus evenimentul în[lista de must-uri pentru un om de online](/2011/01/11-conferinte-din-2011-pentru-un-om-de-online/), iar [aici](/2010/11/unde-poti-sa-vezi-how-to-web-2010-live-blogged/ "How To Web 2010") poți să vezi ce s-a întâmplat anul trecut._
+_p.s. Am pus evenimentul în[lista de must-uri pentru un om de online](/posts/11-conferinte-din-2011-pentru-un-om-de-online/), iar aici poți să vezi ce s-a întâmplat anul trecut._
 
 _p.p.s și un bonus 🙂_
 
-[](/wp-content/uploads/2011/09/howtoweb-bigger-longer-and-uncut-1-1024.jpg)
+

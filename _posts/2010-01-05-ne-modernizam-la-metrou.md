@@ -12,7 +12,7 @@ Dacă nu ați observat, de câteva luni au apărut niște ecrane noi la metrou. 
 
 Panourile respective au început să funcționeze prin Decembrie, însă erau în probe:
 
-[](/wp-content/uploads/2010/01/photo8.jpg)
+
 
 Ieri am ieșit la un pahar de vorbă cu niște prieteni mai plimbăreți, cu care nu mă mai văzusem din 2009 :). La întoarcerea din Arcade, am luat-o ca oamenii pe la intrarea de la Gregory’s – Unirii 1 – Metrou.
 

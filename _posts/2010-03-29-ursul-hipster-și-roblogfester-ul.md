@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/03/striphandler.ashx-400x138.gif
 ---
 
-[](/wp-content/uploads/2010/03/striphandler.ashx.gif)
+
 
 Cred că Jerry(nu, nu îl cheamă Bartolomeu, e o dezinformare cruntă) e ursul pe care l-au pus nenorociții de la Trombon.ro în articolul cu care îmi construiesc un brand personal de execpție în blogosfera românească 🙂
 

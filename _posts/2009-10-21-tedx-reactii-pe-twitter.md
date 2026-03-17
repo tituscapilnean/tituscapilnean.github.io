@@ -14,7 +14,7 @@ Articolul ăsta îl scriu în special pentru colegii mei de la TEDxBucharest:
 
 update: și desigur partenerilor și prietenilor de pe tedxbucharest.com
 
-[](/wp-content/uploads/2009/10/DSC_0561.jpg)
+
 
 _poză de Alex Spineanu_
 

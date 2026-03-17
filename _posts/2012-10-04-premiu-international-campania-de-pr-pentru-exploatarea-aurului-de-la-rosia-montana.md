@@ -16,5 +16,5 @@ Da, trei premii până acum, dintre care două internaționale și unul naționa
 
 **Later edit:** și apariția din IqAds.ro ne onorează.
 
-[](/wp-content/uploads/2012/10/global-sabre.jpg)  
+  
 (sursa foto)

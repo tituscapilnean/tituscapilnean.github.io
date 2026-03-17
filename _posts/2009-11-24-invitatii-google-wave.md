@@ -10,10 +10,10 @@ author: titus_capilnean
 
 **_Update:_ Mai am 15 invitații**
 
-Google a dat drumul la noua tură de invitații pentru Wave. Despre Wave am scris un articol mai demult, la momentul în care [a ieșit prima tură](/2009/10/01/cum-sa-pui-mana-google-wave/) de invitații. Atunci [am dat 7](/2009/10/02/castigatorii-invitatiilor-pentru-google-wave/). Știu că mai erau câțiva doritori.
+Google a dat drumul la noua tură de invitații pentru Wave. Despre Wave am scris un articol mai demult, la momentul în care [a ieșit prima tură](/posts/cum-sa-pui-mana-google-wave/) de invitații. Atunci [am dat 7](/posts/castigatorii-invitatiilor-pentru-google-wave/). Știu că mai erau câțiva doritori.
 
 În caz că nu ați pus încă mâna pe o **invitație, am~~30~~ 38 de dat**. Primii ~~30~~ de doritori sunt rugați să lase un comentariu cu orice. Cei care au adrese de mail valide în comentarii, primesc invitația. Fără concursuri și complicații.
 
 Sunt generos azi 🙂
 
-p.s. dacă nu știți ce e/cum se folosește [Google Wave, am aici un mic ghid](/2009/11/02/ghidul-de-wave-bilant-de-utilizare/)
+p.s. dacă nu știți ce e/cum se folosește [Google Wave, am aici un mic ghid](/posts/ghidul-de-wave-bilant-de-utilizare/)

@@ -8,7 +8,7 @@ author: titus_capilnean
 
 Am reuşit printre multele picături de timp ocupat, să găsesc un interval în care să fac şi să scriu despre poza de grup a hosterilor din România.
 
-Am primit o sugestie de la Andrei – egazda.ro, cărui îi zic – ”Mulţumesc, Andrei” 🙂 pe calea asta. Logica acestei poze de grup e că am vrut să completez [poza de grup a internetului românesc](/2009/08/27/poza-celor-9/) cu cei care stau în spatele site-urilor de prin plaiuri autohtone şi, în acelaşi timp, să trec şi prin câteva pachete de hosting utile pentru lumea care vrea să îşi ţină un site/blog.
+Am primit o sugestie de la Andrei – egazda.ro, cărui îi zic – ”Mulţumesc, Andrei” 🙂 pe calea asta. Logica acestei poze de grup e că am vrut să completez [poza de grup a internetului românesc](/posts/poza-celor-9/) cu cei care stau în spatele site-urilor de prin plaiuri autohtone şi, în acelaşi timp, să trec şi prin câteva pachete de hosting utile pentru lumea care vrea să îşi ţină un site/blog.
 
 Am ales 7 dintre cei mai cunoscuți hosteri din România. Dacă cineva se simte pierdut din lista asta, îl rog să îmi dea un comentariu şi o să îl adaug în listă 🙂 – pentru asta am nevoie de câteva caracteristici ale serviciului/al oamenilor de acolo – de exemplu – _cei de la x_ _sunt simpatici şi tineri, un pic rebeli._
 
@@ -126,6 +126,6 @@ Imaginile au fost create cu ajutorul generatorului de avatare SouthPark Studios.
 
 Dacă vreți să vedeți celelalte poze de grup:
 
-Aici găsiți [poza de grup a internetului românesc](/2009/08/27/poza-celor-9/)
+Aici găsiți [poza de grup a internetului românesc](/posts/poza-celor-9/)
 
-Aici găsiți [poza de grup a internetului – social media](/2009/08/19/poza-de-grup-a-internetului-social-media/)
+Aici găsiți [poza de grup a internetului – social media](/posts/poza-de-grup-a-internetului-social-media/)

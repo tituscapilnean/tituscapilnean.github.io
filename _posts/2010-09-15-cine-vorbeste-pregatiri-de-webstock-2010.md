@@ -10,7 +10,7 @@ author: titus_capilnean
 
 Cred ca unul din cele mai importante aspecte în momentul în care organizezi un eveniment, pe lângă detaliile de dată și oră, loc de desfășurare, este agenda și lista invitaților care vor ține prezentări și workshop-uri.
 
-[](/wp-content/uploads/2010/09/Webstock-2010.png)
+
 
 Înainte de evenimente îmi place să îmi fac un pic temele, așa cum zicea și Manafu, și să citesc mai multe despre fiecare speaker în parte, traseu profesional, experiențe, țări umblate, locuri pe unde a lucrat. Încep fie de la blog, fie de la profilul de LinkedIn.
 

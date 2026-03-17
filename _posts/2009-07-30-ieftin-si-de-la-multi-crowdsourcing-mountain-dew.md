@@ -55,13 +55,13 @@ Din păcate nu am văzut niciun comentariu la imagini și Flickr a raportat doar
 
 Cel mai de succes canal de social media este Twitter, în cazu campaniei Mountain Dew. Au strâns în jur de 10.000 de followers și au trimis peste 1400 de tweets în cele 2 săptămâni de campanie**(adică 714 followeri pe zi și cam 100 de tweets)**. Cu ajutorul contului de Twitter au interactionat foarte mult cu fanii Mountain Dew, au răspuns la întrebări și au lansat anunțuri.
 
-Era cumva de aștepta ca pe Twitter să aibă cel mai mare succes, deoarece majoritatea celor care beau Mountain Dew și sunt fani ai brand-ului, practică sau au practicat sporturi extreme și au caracteristica de [”early adopters”](/2009/07/28/studiu-de-audienta-pe-twitter/) despre care mai vorbeam într-un articol, tot despre Twitter.
+Era cumva de aștepta ca pe Twitter să aibă cel mai mare succes, deoarece majoritatea celor care beau Mountain Dew și sunt fani ai brand-ului, practică sau au practicat sporturi extreme și au caracteristica de [”early adopters”](/posts/studiu-de-audienta-pe-twitter/) despre care mai vorbeam într-un articol, tot despre Twitter.
 
 **Facebook**
 
 Pe pagina specială Dew Labs, cei de la PepsiCo(sau mai bine zis agenția care le-a făcut campania pe social media), au adus poze, au pornit discuții, au publicat articole și clipuri. În total au adunat undeva la 1000 de fani în 2 săptămîni.
 
-[](/wp-content/uploads/2009/07/dewfb.jpg)
+
 
 **Youtube**
 

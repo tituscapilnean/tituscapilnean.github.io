@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2014/02/facebook_whatsapp_ny333_41171393-150x150.jpg
 ---
 
-[](/2014/02/de-ce-whatsapp-valoreaza-mai-mult-decat-petrom/facebook_whatsapp_ny333_41171393/)De aseară vuiește internetul despre faptul că Facebook a plătit o căruță de bani și acțiuni pentru Whatsapp. De ce ar da Mark Zuckerberg 19 miliarde pentru o aplicație care produce cel mult 450 milioane de dolari pe an (Whatsapp costă 1 USD/an, deși multă lume încă îl are gratis și are 450 de milioane de useri)?
+De aseară vuiește internetul despre faptul că Facebook a plătit o căruță de bani și acțiuni pentru Whatsapp. De ce ar da Mark Zuckerberg 19 miliarde pentru o aplicație care produce cel mult 450 milioane de dolari pe an (Whatsapp costă 1 USD/an, deși multă lume încă îl are gratis și are 450 de milioane de useri)?
 
 Păi e destul de simplu – a cumpărat o rețea socială care concurează direct cu Facebook și care are potențial să fure din userii platformei. Dacă tot o va face, atunci măcar să fie tot a lor, în caz că va trebui să accelereze rata de creștere a veniturilor pentru raportările bursiere. Apropo de bursă, acțiunile au scăzut tocmai pentru că analiștii de rit vechi au făcut calcule de _future earnings_ , _multiplicatori de EBITDA_ , iar pe toate metodele Whatsapp n-avea nicio treabă cu suma de 19 miliarde. Mai mult, Blackberry a crescut la bursă, unii investitori punând pariu că va fi achiziționat tocmai pentru Blackberry Messenger.
 
@@ -18,7 +18,7 @@ De ce?
 
 # Internet bubble
 
-Mă uit la comportamentul investitorilor din 2000, pot să zic cu sigurnață că urmează să se spargă încă o bulă. Dacă ea va avea Facebook în centru sau nu, asta nu știu încă. Depinde foarte mult de strategia lor de monetizare, de modul în care o să recruteze useri noi, o să îi păstreze pe cei vechi și o să continue să atragă fonduri de advertising. Așa cum ziceam într-un articol anterior, [Facebook nu moare](/2013/12/facebook-nu-moare-facebook-se-transforma/), chiar dacă a omorât engagementul, ci se transformă. În ce, asta o să scriu într-un alt articol.
+Mă uit la comportamentul investitorilor din 2000, pot să zic cu sigurnață că urmează să se spargă încă o bulă. Dacă ea va avea Facebook în centru sau nu, asta nu știu încă. Depinde foarte mult de strategia lor de monetizare, de modul în care o să recruteze useri noi, o să îi păstreze pe cei vechi și o să continue să atragă fonduri de advertising. Așa cum ziceam într-un articol anterior, [Facebook nu moare](/posts/facebook-nu-moare-facebook-se-transforma/), chiar dacă a omorât engagementul, ci se transformă. În ce, asta o să scriu într-un alt articol.
 
 Faptul că au luat Instagram și Whatsapp și au încercat să ia și Snapchat arată că sunt preocupați de user acquistion, pentru că acolo se definește un business online sustenabil. Momentan nu mi-aș pune banii de pensie pe Facebook.
 

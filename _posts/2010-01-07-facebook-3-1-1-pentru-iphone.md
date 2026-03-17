@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/01/fbsyncprompt.jpg
 ---
 
-[](/wp-content/uploads/2010/01/fbsyncprompt.jpg)Una din aplicațiile pe care le folosesc cel mai des pe iPhone este aplicația de Facebook(bine, e mult după cea de Twitter, dar în top 5 oricum). Au avut niște probleme cu ea, însă i-au tot făcut niște update-uri.
+Una din aplicațiile pe care le folosesc cel mai des pe iPhone este aplicația de Facebook(bine, e mult după cea de Twitter, dar în top 5 oricum). Au avut niște probleme cu ea, însă i-au tot făcut niște update-uri.
 
 Ultimul update 3.1.1 aduce foarte multe facilități noi – push notification(adică îți apare pe ecran o notificare, atunci când primești un mesaj pe Facebook), sincronizarea cu pozele din agenda telefonică.
 

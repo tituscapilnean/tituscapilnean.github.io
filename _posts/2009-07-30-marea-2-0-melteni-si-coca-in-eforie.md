@@ -13,7 +13,7 @@ Continuă episoadele de la mare, cu ziua 4, în care ne-am urnit un pic mai târ
 
 Trecând peste această întâmplare mirositoare, am plecat spre Eforie Nord, unde ne-am și stabilit sediul de bătălie.
 
-[](/wp-content/uploads/2009/07/Photo-00901.jpg)
+
 
 Începutul a fost unul viermănos, pentru că după ce ne-am comandat 3 ciorbe de vacă de la un respectiv restaurant de pe terasa de la plaja Belona, Arhi s-a trezit cu un viermișor ca garnitură în loc de carnea de vacă. Evident că ne-am oprit cu toții din mâncat și ne-am mutat din nou atenția asupra apelor.
 
@@ -25,7 +25,7 @@ Spre seară m-am mutat la o mică baie în mare, o ciorbă cu toate tipurile de 
 
 Partea amuzantă a plajelor de la Eforie Nord nu este mizerie greu de descris doar prin poza de mai jos, ci filmulețul care am reușit să îl trag la concursul de bâțâleală ad-hoc pe plajă :
 
-[](/wp-content/uploads/2009/07/Photo-00881.jpg)
+
 
 Oamenii s-au distrat pe o muzică de nuntă – Dansul Pinguinului, iar după aceea au început salvele de muzică populară – Eforie fun 😀
 

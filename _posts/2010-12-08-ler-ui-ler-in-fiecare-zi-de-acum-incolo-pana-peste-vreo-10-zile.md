@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/12/logo_03.jpg
 ---
 
-[](/wp-content/uploads/2010/12/logo_03.jpg)Începând de azi, lerul trebuie privit nu doar ca ler și iarăși ler, ci și ca o mică vedetă a internetului românesc, grație copiilor de la Fishington Post.
+Începând de azi, lerul trebuie privit nu doar ca ler și iarăși ler, ci și ca o mică vedetă a internetului românesc, grație copiilor de la Fishington Post.
 
 Fishington Post e
 

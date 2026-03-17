@@ -11,7 +11,7 @@ author: titus_capilnean
 
 M-am hotărât să scriu și despre știrea care a zguduit online-ul și topul SATI săptămâna asta: Hi5 a finalizat analiza de trafic pentru SATI și a raportat peste 750.000 de vizitatori unici pe zi și peste 60.000.000 de afișări tot pe zi – depășind la mare distanță liderii de dinainte – cancan.ro sau neogen.ro
 
-[](/wp-content/uploads/2009/10/pitzipoancatuta1.png)
+
 
 Zic că a zguduit online-ul pentru că știrea asta a apărut pe refresh, pe blogul lui Stanca, pe blogul lui Dan, pe hotnews, etc.
 
@@ -27,4 +27,4 @@ my2cents despre Hi5, care a spart topurile românești de trafic. Acum să vedem
 
 **Bonus** , graficul de trafic Hi5, pentru România – un motiv în plus pentru care nu cred în puterea Hi5 la noi 🙂
 
-[](/wp-content/uploads/2009/11/hi5ed.jpg)
+

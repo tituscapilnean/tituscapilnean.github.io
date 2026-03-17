@@ -25,10 +25,10 @@ A crapat piticu, una din echipele cu nume mai creativ, a avut culmea cea mai gla
 *aici a participat Alexandra – sora fostei presedinte AIESEC Bucuresti, Oana.
 
 ![http://www.olimpiadelecomunicarii.ro/images/logo_echipe/2009/Advice_logo.jpg](http://www.olimpiadelecomunicarii.ro/images/logo_echipe/2009/Advice_logo.jpg)  
-Echipa cu nume de organizatie ![:\)](/wp-includes/images/smilies/simple-smile.png) , a promovat cardurile RBS cu care “ai reduceri aproape la orice”. Ideea creativa s-a bazat pe exagerarea caracteristicii de folosire oriunde, utilizatorii fiind filmati pentru spot introducand cardul in diverse nise – telefon public, aparat de cafea, etc. Partea de outdoor a parut mai buna, fiind amplasate in antiteza, aparate de popcorn de exemplu, in fata magazinelor care ofera reduceri, creand efectul “aici da, aici nu” . O campanie medie ca si executie.
+Echipa cu nume de organizatie  , a promovat cardurile RBS cu care “ai reduceri aproape la orice”. Ideea creativa s-a bazat pe exagerarea caracteristicii de folosire oriunde, utilizatorii fiind filmati pentru spot introducand cardul in diverse nise – telefon public, aparat de cafea, etc. Partea de outdoor a parut mai buna, fiind amplasate in antiteza, aparate de popcorn de exemplu, in fata magazinelor care ofera reduceri, creand efectul “aici da, aici nu” . O campanie medie ca si executie.
 
 ![http://www.olimpiadelecomunicarii.ro/images/logo_echipe/2009/Knock_knock.jpg](http://www.olimpiadelecomunicarii.ro/images/logo_echipe/2009/Knock_knock.jpg)  
-Knock Knock a facut o campanie draguta cu motociclisti si rock pentru Jack Daniels. Nu o sa spun mai multe, pentru ca targetul bautor de Jack din Romania prefera muzica retro/house si nu umbla cu motocicleta. Mai mult, juriul i-a intrebat de ce au realizat o campanie pe motociclete la o bautura alcoolica. Tot ei au spus ca vor cumpara bloggerii cu sticle de Jack ![:\)](/wp-includes/images/smilies/simple-smile.png) Asta e.
+Knock Knock a facut o campanie draguta cu motociclisti si rock pentru Jack Daniels. Nu o sa spun mai multe, pentru ca targetul bautor de Jack din Romania prefera muzica retro/house si nu umbla cu motocicleta. Mai mult, juriul i-a intrebat de ce au realizat o campanie pe motociclete la o bautura alcoolica. Tot ei au spus ca vor cumpara bloggerii cu sticle de Jack  Asta e.
 
 ![http://www.olimpiadelecomunicarii.ro/images/logo_echipe/2009/littlethoughts.jpg](http://www.olimpiadelecomunicarii.ro/images/logo_echipe/2009/littlethoughts.jpg)  
 Biz e in cautare de noi abonati pe site, iar little Thoughts vine cu propunerea “Gandeste BIZ”, o campanie care e menita sa compare resursele din business cu cele naturale, atat pe outdoor cat si pe bannere online. Pe langa asta, vor sa imparta panouri solare portabile la evenimente si sa implementeze din nou cadranele solare, ca in antichitate. Nimic extraordinar, idei restranse ca numar.
@@ -51,7 +51,7 @@ Din nou Tuborg, de data asta cu Christmas Brew, a avut nevoie de o campanie. Rei
 
 ![http://www.olimpiadelecomunicarii.ro/images/logo_echipe/2009/topolino.jpg](http://www.olimpiadelecomunicarii.ro/images/logo_echipe/2009/topolino.jpg)
 
-Echipa de 5 baietei, care se si alinta intre ei ![:\)](/wp-includes/images/smilies/simple-smile.png) Au realizat o campanie de carnetele pentru idei, pentru portalul Strategic.ro, proaspat lansat. Cele mai notabile idei sunt cele legate de carnetelul in WC-urile din baruri, marcarea acelor baruri cu carnetele in ele si petrecerea din ianuarie 2010 – Prima idee buna din an. In rest puteau exploata mai bine conceptul de carnetel de idei.
+Echipa de 5 baietei, care se si alinta intre ei  Au realizat o campanie de carnetele pentru idei, pentru portalul Strategic.ro, proaspat lansat. Cele mai notabile idei sunt cele legate de carnetelul in WC-urile din baruri, marcarea acelor baruri cu carnetele in ele si petrecerea din ianuarie 2010 – Prima idee buna din an. In rest puteau exploata mai bine conceptul de carnetel de idei.
 
 ![http://www.olimpiadelecomunicarii.ro/images/logo_echipe/2009/Voodoo_Advertising.jpg](http://www.olimpiadelecomunicarii.ro/images/logo_echipe/2009/Voodoo_Advertising.jpg)  
 La fel ca Recolamp, si Petrom a avut 2 briefuri pentru tara lui Andrei. De data asta pentru notorietate. Echipa Voodoo a punctat bine la capitolul WiFi – Sa fii responsabil nu inseamna sa dai empty recycle bine si printuri de tipul “stai cum trebuie pe WC”; mesajul de la finalul filmelor in cinema e si el un exemplu bun – “du-te si arunca gunoiul dupa film”. Cel mai dezamagitor a fost spotul TV – copiat ca idee dupa “Tarie de caracter” de la Toyota Avensis – banner flash de pe iqads.ro acum cateva luni.
@@ -59,7 +59,7 @@ La fel ca Recolamp, si Petrom a avut 2 briefuri pentru tara lui Andrei. De data 
 ————————————————
 
 ![http://school.discoveryeducation.com/clipart/images/lunch-color.gif](http://school.discoveryeducation.com/clipart/images/lunch-color.gif)La ora 13:30 am luat din nou pauza de pranz, moment in care am schimbat si tema pentru ziua 2. Am trecut la Comunicare institutionala, iar sala brusc a devenit mai incapatoare. Intarzierea a fost de data asta mult mai mare, dar din alte motive.  
-Poate aflam la festivitate ![:\)](/wp-includes/images/smilies/simple-smile.png)
+Poate aflam la festivitate 
 
 ————————————————
 
@@ -89,7 +89,7 @@ A doua campanie a marcat si a doua expunere a unui brief de colectare selectiva.
 
 
 Elmentele mai putin bune – campania pe blogurile top zelist e subtire si neargumentata, iar mesajele de colectare selectiva pe tabla ar scadea din aerul “cool” al activitatii.  
-Felicitari pentru spot oricum ![:\)](/wp-includes/images/smilies/simple-smile.png)
+Felicitari pentru spot oricum 
 
 ![http://www.olimpiadelecomunicarii.ro/images/logo_echipe/2009/COntRASt.jpg](http://www.olimpiadelecomunicarii.ro/images/logo_echipe/2009/COntRASt.jpg)
 

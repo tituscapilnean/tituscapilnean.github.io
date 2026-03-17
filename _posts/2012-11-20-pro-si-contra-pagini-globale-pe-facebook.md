@@ -10,9 +10,9 @@ author: titus_capilnean
 
 Trecerea KitKat de la pagină locală la pagină globală, cu toți fanii la un loc, ca să zic așa, și cu postări individualizate pe țară/limbă a stârnit azi mari dezbateri în online. Inițial, pe Facebrands, ai fi putut zice că au cumpărat 10 milioane de fani și că de aia au ajuns în topul paginilor din România.
 
-Am [mai scris](/2012/10/paginile-globale-de-brand-pe-facebook-o-greseala/) de ce e o greșeală să aduni toate ouăle în același coș.
+Am [mai scris](/posts/paginile-globale-de-brand-pe-facebook-o-greseala/) de ce e o greșeală să aduni toate ouăle în același coș.
 
-[](/wp-content/uploads/2012/11/542652_506527972705752_1752486728_n.jpg)
+
 
 În plus față de ce ziceam atunci, ar mai fi câteva lucruri de punctat. În primul rând, e greu de categorisit în țară, având în vedere că e redirect spre pagina de global localizată(sic!). Tot 110.000 de fani din RO are, iar Facebook își omoară încet-încet momelile pe care le folosea pentru a genera spending de ad-uri. Nu, nu o să plătesc din nou ca să iau legătura cu fanii. Mai bine dau bani pe conținut.
 

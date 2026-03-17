@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/05/shortlink-chain.jpg
 ---
 
-[](/wp-content/uploads/2010/05/shortlink-chain.jpg)Povesteam mai de dimineață cu un prieten despre utilitatea linkurilor scurte(de tipul celor de la bit.ly sau alte servicii de gen). El nu înțelegea de ce public pe Facebook/în statusul de la Yahoo Messenger un link scurt, în loc sa pun întreaga adresă a articolului. Răspunsul e unul destul de simplu și de tâmp, în cazul ăsta – mi-era mai comod așa, să iau direct de pe Twitter linkul pe care îl publicasem și să îl plasez pe Facebook și ca status la Yahoo Messenger.
+Povesteam mai de dimineață cu un prieten despre utilitatea linkurilor scurte(de tipul celor de la bit.ly sau alte servicii de gen). El nu înțelegea de ce public pe Facebook/în statusul de la Yahoo Messenger un link scurt, în loc sa pun întreaga adresă a articolului. Răspunsul e unul destul de simplu și de tâmp, în cazul ăsta – mi-era mai comod așa, să iau direct de pe Twitter linkul pe care îl publicasem și să îl plasez pe Facebook și ca status la Yahoo Messenger.
 
 Chestiunea e mult mai adâncă de atât. Dacă nu era, rămânea articolul ăsta un 3 liner și atât. Shortlinkul e mai avantajos din următoarele puncte de vedere:
 

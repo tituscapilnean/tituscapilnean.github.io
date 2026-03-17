@@ -86,4 +86,4 @@ Trage concluziile și pregătește următoarea campanie!
 
 Însă e și ăsta un început, pentru afacerea ta, de bloc, de familie sau de hobby.
 
-Acestea fiind zise, citește și concluziile mele de la [training-ul de comunicare în Social Media](/2010/11/cateva-idei-de-la-primul-meu-training-de-comunicare-in-social-media/ "training-ul de comunicare in Social Media"), ca să înțelegi și mai bine cum poți să îți maximizezi rezultatele.
+Acestea fiind zise, citește și concluziile mele de la training-ul de comunicare în Social Media, ca să înțelegi și mai bine cum poți să îți maximizezi rezultatele.

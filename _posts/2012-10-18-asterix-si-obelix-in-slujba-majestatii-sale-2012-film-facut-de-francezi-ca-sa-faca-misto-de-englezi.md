@@ -16,6 +16,6 @@ Filmul este integral în franceză, aviz celor care vor să și-o exerseze (trai
 
 Premiera are loc _vineri, 19 Octombrie_ și eu zic că merită, mai ales dacă vă aduceți aminte de desenele animate cu cele două personaje sau de revistele cu benzi desenate de pe vremuri.
 
-[](/wp-content/uploads/2012/10/home-1348059477-S9-1818.jpg)
+
 
 (sursa foto)

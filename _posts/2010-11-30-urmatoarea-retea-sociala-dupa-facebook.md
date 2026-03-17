@@ -9,7 +9,7 @@ author: titus_capilnean
 ![Image representing Google as depicted in Crunc...](http://www.crunchbase.com/assets/images/resized/0002/9578/29578v7-max-450x450.jpg)
     Image via CrunchBase
 
-M-am trezit vorbind și scriind în ultima vreme despre [Facebook](/tag/facebook/) mai mult decât îmi imaginam. E rețeaua care cucerește încet-încet din ce în ce mai mult din internetul românesc, european, global.
+M-am trezit vorbind și scriind în ultima vreme despre [Facebook](/tags/facebook/) mai mult decât îmi imaginam. E rețeaua care cucerește încet-încet din ce în ce mai mult din internetul românesc, european, global.
 
 E rețeaua cea mai la modă acum. Și asta s-ar putea să îi marcheze moartea iminentă sau măcar plafonarea. Moda e știută ca fiind una din cele mai capricioase și mai volatile medii, se inovează mereu, nu există termen mediu sau lung.
 

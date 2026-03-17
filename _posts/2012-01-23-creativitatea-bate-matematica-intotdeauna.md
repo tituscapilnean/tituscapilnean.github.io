@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2012/01/Creative-Time-Shorts-150x150.jpg
 ---
 
-[](/wp-content/uploads/2012/01/Creative-Time-Shorts.jpg)Citeam într-un articol de pe All things Digital că epoca advertiserului creativ s-a încheiat și că am intrat în epoca datelor, analiștilor, mediaplannerilor cu ochelarii pe ochi și cu excelul în mână. Că nu mai contează așa de mult ideea creativă cât mediaplanul și targetarea foarte precisă.
+Citeam într-un articol de pe All things Digital că epoca advertiserului creativ s-a încheiat și că am intrat în epoca datelor, analiștilor, mediaplannerilor cu ochelarii pe ochi și cu excelul în mână. Că nu mai contează așa de mult ideea creativă cât mediaplanul și targetarea foarte precisă.
 
 Nimic mai neadevărat. Mai mult ca oricând oamenii caută emoții, imagini și idei revoluționare, soluții inovative și surprinzătoare. Oamenii caută fericirea și frumosul. Nu vânzători digitali agasanți.
 

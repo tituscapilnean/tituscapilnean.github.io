@@ -48,13 +48,13 @@ Mici neconcordante intre obiective, insa in rest o campanie online destul de bin
 
 ![http://www.olimpiadelecomunicarii.ro/images/logo_echipe/2009/i_know.jpg](http://www.olimpiadelecomunicarii.ro/images/logo_echipe/2009/i_know.jpg)
 
-Ultima echipa inainte de pauza – I Know, cu campania pentru Titus Corlatean, au avut ca mesaje “M-ati ales, sunt aici”, “Fa echipa cu Titus”(cu mine? ![:\)](/wp-includes/images/smilies/simple-smile.png) ) pentru tineri si “Impreuna cu tine pentru linistea ta”(din public “vesnica”).  
+Ultima echipa inainte de pauza – I Know, cu campania pentru Titus Corlatean, au avut ca mesaje “M-ati ales, sunt aici”, “Fa echipa cu Titus”(cu mine?  ) pentru tineri si “Impreuna cu tine pentru linistea ta”(din public “vesnica”).  
 Notabil mai e ca il vor aduce pe Lacatus – “ca tot are mult timp liber de cand a fost dat afara de la Steaua”- la evenimente cu gospodarul satului, intalniri de promovare a turismului si la intalniri cu rromii din zona. Un alt element foarte frumos al campaniei e afisul in limba rroma ca parte din campanie.  
 In rest lucruri clasice, pomi de Craciun si scrisori electorale.
 
 ![http://www.olimpiadelecomunicarii.ro/images/logo_echipe/2009/Les_Mains_Sales.jpg](http://www.olimpiadelecomunicarii.ro/images/logo_echipe/2009/Les_Mains_Sales.jpg)
 
-“Mainile murdare”, au abordat impozitul forfetar ca pe o “pedeapsa capitala pentru societate”, mizand pe dezaprobarea aproape unanima din societate legata de gaselnita guvernului. Cea mai importanta parte a campaniei este aducerea unei ghilotine in centrul oraselor vizate de campanie si ghilotinarea unui manechin in mod simbolic. Vor sa lanseze in blogosfera o leapsa “Ce ai face daca ai plati impozit pe blog?” – unii dintre noi platim deja, daca facem bani din el ![:\)](/wp-includes/images/smilies/simple-smile.png) . In final, vor sa blocheze Piata Victoriei pentru a aduna semnaturi antiforfetar. O campanie cu putere.
+“Mainile murdare”, au abordat impozitul forfetar ca pe o “pedeapsa capitala pentru societate”, mizand pe dezaprobarea aproape unanima din societate legata de gaselnita guvernului. Cea mai importanta parte a campaniei este aducerea unei ghilotine in centrul oraselor vizate de campanie si ghilotinarea unui manechin in mod simbolic. Vor sa lanseze in blogosfera o leapsa “Ce ai face daca ai plati impozit pe blog?” – unii dintre noi platim deja, daca facem bani din el  . In final, vor sa blocheze Piata Victoriei pentru a aduna semnaturi antiforfetar. O campanie cu putere.
 
 ![http://www.olimpiadelecomunicarii.ro/images/logo_echipe/2009/MkPolis.jpg](http://www.olimpiadelecomunicarii.ro/images/logo_echipe/2009/MkPolis.jpg)
 
@@ -113,15 +113,15 @@ The Jack au vrut sa faca Bucurestiul sa respire, cu ajutorul Carpatcement. Abord
 
 ![http://www.olimpiadelecomunicarii.ro/images/logo_echipe/2009/Juniors.jpg](http://www.olimpiadelecomunicarii.ro/images/logo_echipe/2009/Juniors.jpg)
 
-Juniors au avut de vorbit despre Tara lui Andrei, initiata de Petrom. Si-au ales ca target jurnalistii si liderii de opinie din ONG, radio, muzica si au decis ca ii pot “persuada“(nu stiam ca exista cuvantul ![:\)](/wp-includes/images/smilies/simple-smile.png) ) prin pasapoarte, drapel si imn din Tara lui Andrei, pentru inceput. Au continuat prin Apropo TV si Andi Moisescu, un eveniment de lansare destul de slab si coinciderea zilei noationale a Tarii lui Andrei cu Ziua Nationala a Romaniei. Sincer, puteau sa scoata mult mai mult de la campanie daca il personificau mai bine pe Andrei. Era sa uit de faptul ca si bloggerii mari vor fi invitati sa scrie despre asta.
+Juniors au avut de vorbit despre Tara lui Andrei, initiata de Petrom. Si-au ales ca target jurnalistii si liderii de opinie din ONG, radio, muzica si au decis ca ii pot “persuada“(nu stiam ca exista cuvantul  ) prin pasapoarte, drapel si imn din Tara lui Andrei, pentru inceput. Au continuat prin Apropo TV si Andi Moisescu, un eveniment de lansare destul de slab si coinciderea zilei noationale a Tarii lui Andrei cu Ziua Nationala a Romaniei. Sincer, puteau sa scoata mult mai mult de la campanie daca il personificau mai bine pe Andrei. Era sa uit de faptul ca si bloggerii mari vor fi invitati sa scrie despre asta.
 
 ![http://www.olimpiadelecomunicarii.ro/images/logo_echipe/2009/Matrioshka.jpg](http://www.olimpiadelecomunicarii.ro/images/logo_echipe/2009/Matrioshka.jpg)
 
 Unul dintre briefurile sociale – violenta in cuplu – dat de SensiBlu, a fost rezolvat de catre echipa Matrioshka prin “Sparge tacerea, nu fii complice violentei” in licee, cu ajutorul lui Tudor Chirila(oare de ce?) si a unor mesaje dur de adevarate pe facalete si tigai. In acelasi timp, isi doresc sa serveasca mancarea in KFC si McDonalds pe farfurii personalizate cu campania, desi in restaurantele cu pricina sunt putine produse servite pe farfurii. Una din ideile frumoase a fost sa imbrace bancile in hartie albastra si sa le transforme in colturi de defrustrare, ca alternativa la violenta. In rest, leapsa pe bloguri si 360.
 
-![](file:///C:/Users/titus/AppData/Local/Temp/moz-screenshot.jpg)![http://www.olimpiadelecomunicarii.ro/images/logo_echipe/2009/Press_the_Button.jpg](http://www.olimpiadelecomunicarii.ro/images/logo_echipe/2009/Press_the_Button.jpg)
+![http://www.olimpiadelecomunicarii.ro/images/logo_echipe/2009/Press_the_Button.jpg](http://www.olimpiadelecomunicarii.ro/images/logo_echipe/2009/Press_the_Button.jpg)
 
-Umbrela Verde, proiectul de CSR al Tuborg, a primit rezolvarea echipei prin abordarea “dragostea nu dureaza 3 ani”, casatorind Tuborg cu Umbrela Verde, cu simbolurile anterioarea cavaleri de onoare, la Miramar. Radio Zu si Simplu vor concerta in cinstea casniciei. Puratorii de mesaj mi s-au parut sa aiba un potential exploziv foarte mare, punandu-i alaturi pe Mircea Badea si pe Ministrul Mediului. Bineinteles ca si aici bloggerii vor fi implicati sa scrie despre campanie si sa genereze trafic. Desi vor o colaborare cu radio Zu, totus au creat si o specie de mitocanie urbana(Guerrilla), Omnis Indolentum. Sunt curios cum o sa le impace pe cele 2 ![:\)](/wp-includes/images/smilies/simple-smile.png)
+Umbrela Verde, proiectul de CSR al Tuborg, a primit rezolvarea echipei prin abordarea “dragostea nu dureaza 3 ani”, casatorind Tuborg cu Umbrela Verde, cu simbolurile anterioarea cavaleri de onoare, la Miramar. Radio Zu si Simplu vor concerta in cinstea casniciei. Puratorii de mesaj mi s-au parut sa aiba un potential exploziv foarte mare, punandu-i alaturi pe Mircea Badea si pe Ministrul Mediului. Bineinteles ca si aici bloggerii vor fi implicati sa scrie despre campanie si sa genereze trafic. Desi vor o colaborare cu radio Zu, totus au creat si o specie de mitocanie urbana(Guerrilla), Omnis Indolentum. Sunt curios cum o sa le impace pe cele 2 
 
 ![http://www.olimpiadelecomunicarii.ro/images/logo_echipe/2009/REDIM.jpg](http://www.olimpiadelecomunicarii.ro/images/logo_echipe/2009/REDIM.jpg)
 

@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/03/e-romania.png
 ---
 
-[](/wp-content/uploads/2010/03/e-romania.png)Am urmărit aseară și astăzi aparițiile pe bloguri legate de cel mai recent scandal online – platforma eRomania, care a fost evaluată la 500 milioane de euro – costuri distribuite pe 4 ani(până în 2013) și cu venituri previzionate de 280 milioane euro. Nu am de gând să dezbat absurditatea proiectului, ci mai degrabă să arăt modul în care el a fost prezentat în blogosferă(atât independentă, cât și mogulizată).
+Am urmărit aseară și astăzi aparițiile pe bloguri legate de cel mai recent scandal online – platforma eRomania, care a fost evaluată la 500 milioane de euro – costuri distribuite pe 4 ani(până în 2013) și cu venituri previzionate de 280 milioane euro. Nu am de gând să dezbat absurditatea proiectului, ci mai degrabă să arăt modul în care el a fost prezentat în blogosferă(atât independentă, cât și mogulizată).
 
 Cristi Șuțu a scris primul, după ce ministerul a dat comunicatul de presă. De aici a început un exercițiu de refulare și punere la zid a guvernului(pe bună dreptate, însă cu informații incomplete). Articolul se numește ”Guvernul dă un juma de miliard de euro pentru un mega-site”. Citește cu încredere și comentariile(cele **70**) – o să vezi superficialitatea cu care oamenii au citit știrea/comunicatul.
 

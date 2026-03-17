@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/02/logo-150x150.png
 ---
 
-Ieri, la [Digital Marketing Forum](/2011/02/digital-marketing-forum-2011-live-blogging/), în ziua de workshops, am rămas foarte plăcut surprins de 3 oameni. Treaba asta a început de dimineață, când, pe cât de sceptic eram, pe atât de mult am fost surprins cât de multe lucruri faine se fac în piața de la noi.
+Ieri, la [Digital Marketing Forum](/posts/digital-marketing-forum-2011-live-blogging/), în ziua de workshops, am rămas foarte plăcut surprins de 3 oameni. Treaba asta a început de dimineață, când, pe cât de sceptic eram, pe atât de mult am fost surprins cât de multe lucruri faine se fac în piața de la noi.
 
 Câteva agenții și câțiva oameni buni văzuți ieri și de la care am învățat cum, de ex., poți să creezi o poveste la propriu prin bannere sau cum să faci un concurs de rețete altfel, mi-au arătat că _all is not lost._
 

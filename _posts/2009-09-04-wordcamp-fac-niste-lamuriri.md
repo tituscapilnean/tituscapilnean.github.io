@@ -12,7 +12,7 @@ Am vorbit aseară la #ftwparty cu @mirinel despre Wordcamp şi nu numai, el pove
 
 Cred că cel mai important lucru este **să clarificăm un aspect** – Wordcamp **este o licenţă internaţională a celor de la WordPress** , care se acordă unor oameni la cerere. Cei doi Mihai(Irinel şi Auras) au luat licenţa pentru România. Evenimentul apare pe pagina principală a wordcamp.org:
 
-[](/wp-content/uploads/2009/09/wcamp.jpg)
+
 
 > WordCamp is a conference that focuses on everything WordPress. WordCamps are informal, community-organized events that are put together by WordPress users like you. Everyone from casual users to core developers participate, share ideas, and get to know each other. WordCamps are open to WordPress.com and WordPress.org users alike.
 

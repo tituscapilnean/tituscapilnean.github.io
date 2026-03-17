@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2013/09/4519005369_0b02fbb641-150x150.jpg
 ---
 
-> [](/2013/09/cum-recunosti-un-creativ/4519005369_0b02fbb641/)Associative orientation: Imaginative, playful, have a wealth of ideas, ability to be committed, sliding transitions between fact and fiction.
+> Associative orientation: Imaginative, playful, have a wealth of ideas, ability to be committed, sliding transitions between fact and fiction.
 > 
 > Need for originality: Resists rules and conventions. Have a rebellious attitude because of a need to do things no one else does.
 > 

@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/11/howimg_03-150x150.jpg
 ---
 
-_[](/wp-content/uploads/2010/11/howimg_03.jpg)Guest Post scris de Sabina Ionescu_
+_Guest Post scris de Sabina Ionescu_
 
 **{ro:newmedia} Day 2**
 

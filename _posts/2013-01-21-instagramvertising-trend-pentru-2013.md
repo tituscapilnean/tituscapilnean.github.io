@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2013/01/tech_0409_instagram_270x203.jpg
 ---
 
-[](/2013/01/instagramvertising-trend-pentru-2013/tech_0409_instagram_270x203/)Chiar dacă nu am inclus Instagram în [predicțiile inițiale pentru 2013](/2013/01/trenduri-pe-2013-in-online-si-reconcilierea-cu-2012/), faptul că au dat drumul statisticilor în mod public e semn că vor să introducă primele metode de monetizare pentru o platformă ce a crescut frumos, a fost înghițită de Facebook și acum trebuie să producă.
+Chiar dacă nu am inclus Instagram în [predicțiile inițiale pentru 2013](/posts/trenduri-pe-2013-in-online-si-reconcilierea-cu-2012/), faptul că au dat drumul statisticilor în mod public e semn că vor să introducă primele metode de monetizare pentru o platformă ce a crescut frumos, a fost înghițită de Facebook și acum trebuie să producă.
 
 Cu toate că au fost victimele unui atac de PR foarte bine orchestrat și bazat pe un ToS ambiguu, nu și-au pierdut din suflu. Au cam 90 milioane de useri activi/lună care urcă 40 milioane de poze și împart 8500 de like-uri pe secundă. Nu-i rău, doar că trebuie să îi pună la produs, să nu scadă return-ul investitorilor flămânzi.
 

@@ -11,10 +11,10 @@ Dacă săptămâna(vineri, 16 Octombrie) asta se întâmplă TEDx în București
 
 
   * [inspiraționale](../2009/10/12/una-pe-zi-ted-week-inspiratie/)
-  * [curajoase](/2009/10/28/una-pe-zi-ted-talks-week-restanta-curaj/)
+  * [curajoase](/posts/una-pe-zi-ted-talks-week-restanta-curaj/)
   * [fascinante](../2009/10/13/ted-week-fascinant/)
   * [informative](../2009/10/14/una-pe-zi-ted-week-informativ/)
-  * și [amuzante](/2009/10/16/una-pe-zi-ted-week-funny/)
+  * și [amuzante](/posts/una-pe-zi-ted-week-funny/)
 
 
 

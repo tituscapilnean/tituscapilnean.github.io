@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2012/01/Slide11-400x300.jpg
 ---
 
-[](/wp-content/uploads/2012/01/Slide11.jpg)Scriam la începutul anului trecut despre [codurile QR](/2011/02/codurile-qr-ghid-de-utilizare/). La vremea aceea păreau o mare speranță pentru 2011, părea că vor fi incluse din ce în ce mai mult în campaniile de print, că vor permite măsurarea audienței, ce să mai. Păreau a fi revoluționare.
+Scriam la începutul anului trecut despre [codurile QR](/posts/codurile-qr-ghid-de-utilizare/). La vremea aceea păreau o mare speranță pentru 2011, părea că vor fi incluse din ce în ce mai mult în campaniile de print, că vor permite măsurarea audienței, ce să mai. Păreau a fi revoluționare.
 
 A trecut 2011, QR code-ul s-a lăsat așteptat, n-a fost băgat în seamă și acum cade în con de umbră. Cred că omul obișnuit nu o să folosească niciodată codul QR pentru că:
 

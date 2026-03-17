@@ -14,7 +14,7 @@ Chestia asta a făcut cel puțin un blogger să stea acasă și, zic eu, rău a 
 
 E tot film din categoria ”mergi cu fata ca să se lipească de tine la fazele mai de speriat”.
 
-[](/wp-content/uploads/2012/05/Invitatie-MIB-3_1.jpg)
+
 
 **Premiera filmului e pe 25 mai** , așa că treceți la coadă la bilete și vă zic eu că nu o să ieșiți dezamăgiți din cinematograf.
 

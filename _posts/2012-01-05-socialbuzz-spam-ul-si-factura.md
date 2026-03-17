@@ -23,8 +23,8 @@ Rezultatul?
 
 Un sex shop online a cumpărat serviciul ăsta, însă a aterizat direct în spam, atât pentru comentariul brainless, cât și pentru că IP-ul socialbuzz e deja considerat SPAM de către Akismet.
 
-[](/wp-content/uploads/2012/01/image.png)
 
-Vedeți ultimul comentariu de [aici](/2011/12/un-din-cele-mai-tari-campanii-pe-mobile-mini-countryman-getaway/).
+
+Vedeți ultimul comentariu de [aici](/posts/un-din-cele-mai-tari-campanii-pe-mobile-mini-countryman-getaway/).
 
 **Concluzia:** aveți grijă ce servicii online(SEO și nu numai) cumpărați ieftin de pe net. S-ar putea să vă treziți cu site-ul delistat de pe motoarele de căutare din motiv de spam.

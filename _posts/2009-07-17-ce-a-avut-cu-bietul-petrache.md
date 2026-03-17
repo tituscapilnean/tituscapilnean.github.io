@@ -10,7 +10,7 @@ author: titus_capilnean
 
 **Petrache Poenaru (** 1799-1875) a fost inginer si matematician, fondator al Colegiilor Nationale din Bucuresti si Craiova, inventatorul stiloului si creator al steagului Romaniei moderne.
 
-În articolul anterior despre [Metrorex și stilul lor de a face anunțuri](/2009/07/06/stilul-metrorex-de-a-face-anunturi/) am vorbit despre foile lipite pe stâlpii de la Nicolae Grigorescu, care au rolul să ghideze oamenii pe traseul potrivit, după marea schimbare de traseu de luna asta.
+În articolul anterior despre [Metrorex și stilul lor de a face anunțuri](/posts/stilul-metrorex-de-a-face-anunturi/) am vorbit despre foile lipite pe stâlpii de la Nicolae Grigorescu, care au rolul să ghideze oamenii pe traseul potrivit, după marea schimbare de traseu de luna asta.
 
 Nu se putea ca folie respective să nu scape de băieții creativi, care au și un pix la îndemână. Normal că au umblat și au modificat scrisul, într-un stil umoristic ce amintește de clasa a 5-a, a 6-a.
 

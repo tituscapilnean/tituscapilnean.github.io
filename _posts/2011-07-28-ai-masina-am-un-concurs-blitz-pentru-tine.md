@@ -10,7 +10,7 @@ author: titus_capilnean
 
 **update:** câștigătorul e Andrei Cristian 🙂 . Felicitări, mâine te duci să îți îngrijești mașina!
 
-[](/2011/07/ai-masina-am-un-concurs-blitz-pentru-tine/invitatie-car-mania/)Înainte să îți zic mai multe, trebuie să îndeplinești trei condiții:
+Înainte să îți zic mai multe, trebuie să îndeplinești trei condiții:
 
   1. să îți iubești mașina
   2. să fii în sâmbăta asta(**30 Iulie**) în București

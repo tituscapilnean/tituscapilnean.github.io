@@ -10,7 +10,7 @@ author: titus_capilnean
 #   - [iframe] http://embed.trilulilu.ro/muzica-pop/malina-olinescu-merci-comercial
 ---
 
-[](/2013/01/merci-ar-trebui-sa-isi-schimbe-tema-din-reclama/3904783912_b432d09c75/)
+
 
 De sărbători, Merci a pompat puternic reclame pe TV, mizând să crească vânzările. Treaba asta nu e rea, prinde bine la volum și dă poporului o idee de cadou. Problema e că, din lipsă de altceva, au folosit același jingle ca acum câțiva ani, produs în colaborare cu defuncta Mălina Olinescu.
 

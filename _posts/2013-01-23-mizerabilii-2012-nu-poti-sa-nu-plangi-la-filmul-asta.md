@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2013/01/Helena-les-miserables-2012-movie-32909317-500-555-270x300.jpg
 ---
 
-[](/2013/01/mizerabilii-2012-nu-poti-sa-nu-plangi-la-filmul-asta/helena-les-miserables-2012-movie-32909317-500-555/)Aseară, la Cinema City, în Sun Plaza, au curs lacrimi de bloggeri, jurnaliști, vedete, respectiv s-a ieșit din sala înainte de final. N-ai cum să ai o atitudine neutră față de filmul ăsta. Ori, ori.
+Aseară, la Cinema City, în Sun Plaza, au curs lacrimi de bloggeri, jurnaliști, vedete, respectiv s-a ieșit din sala înainte de final. N-ai cum să ai o atitudine neutră față de filmul ăsta. Ori, ori.
 
 _Les Mizerables_ sau, pe românește, Mizerabilii este ecranizarea celebrei povești cu același nume. Filmul surprinde momentele esențiale, insistă pe detalii și este în întregime (bine, cu excepția a două sau trei replici) cântat.
 

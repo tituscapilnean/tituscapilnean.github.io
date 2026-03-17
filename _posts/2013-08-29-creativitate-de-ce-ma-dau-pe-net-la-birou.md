@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2013/08/creativity-200x300.gif
 ---
 
-[](/2013/08/creativitate-de-ce-ma-dau-pe-net-la-birou/creativity/)Când povestesc unui prieten cam care e programul meu în timpul unei zile normale, de regulă ridică din sprânceană și mă întreabă cum de am timp să citesc atât de multe lucruri pe net (nu, nu doar pe Facebook).
+Când povestesc unui prieten cam care e programul meu în timpul unei zile normale, de regulă ridică din sprânceană și mă întreabă cum de am timp să citesc atât de multe lucruri pe net (nu, nu doar pe Facebook).
 
 Dincolo de timpul de pauză între două taskuri sau proiecte, mai e o explicație foarte științifică – creierul tău trebuie să se relaxeze și să iasă din problemă dacă vrei să găsești o soluție creativă.
 

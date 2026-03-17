@@ -11,7 +11,7 @@ Am văzut că în ultima vreme tot mai mulți bloggeri ajung la radio. Bobby Voi
 ![wulf](http://www.wulffmorgenthaler.com/striphandler.ashx?stripid=b8722840-50b3-46b2-b100-61d067f8da1d)  
 comicul de pe wulffmorgenthaler
 
-Nu despre asta vreau să vă povestesc, ci despre ceva un pic mai constructiv, adică tot despre TEDx și cum faptul că am scris articolul despre [povestea TEDxBucharest](/2009/10/19/povestea-tedxbucharest-asa-cum-a-fost/) m-a adus la radio. Da, am fost ieri la interviu la sediul Radio Romînia Internațional, în Berthelot, unde nu poți să intri fără bilet de voie de la cineva din interior 🙂
+Nu despre asta vreau să vă povestesc, ci despre ceva un pic mai constructiv, adică tot despre TEDx și cum faptul că am scris articolul despre [povestea TEDxBucharest](/posts/povestea-tedxbucharest-asa-cum-a-fost/) m-a adus la radio. Da, am fost ieri la interviu la sediul Radio Romînia Internațional, în Berthelot, unde nu poți să intri fără bilet de voie de la cineva din interior 🙂
 
 ![](http://farm4.static.flickr.com/3511/4034535364_12c1ff0131_m.jpg)M-am văzut cu Andreea Demirgian, care mi-a luat **interviul despre conferință**. Practic am dat niște detalii despre TEDx, despre ce s-a întâmplat la noi în 16 Octombrie, evenimentul nostru drag, despre care s-a scris atât de mult.
 

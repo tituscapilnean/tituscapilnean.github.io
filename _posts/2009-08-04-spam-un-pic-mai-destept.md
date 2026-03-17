@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2009/08/spam-400x188.jpg
 ---
 
-[](/wp-content/uploads/2009/08/spam.jpg)  
+  
 Neața! Azi am primit unul din cele mai tari spam-uri de phishing de la fantome de Raiffeisen:
 
 Titlul **In atentia abonatilor UPC Business persoane si Distrigaz** te duce din start cu gândul că ar putea fi vorba despre o factură neplătită sau ceva de genul ăsta. Și te uiți la textul de mai jos. La prima vedere pare coerent și convingător. La o privire mai atentă nu e chiar așa. Citește 🙂  

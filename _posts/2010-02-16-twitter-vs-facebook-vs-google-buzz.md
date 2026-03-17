@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/02/twitter-v-facebookv-buzz.jpg
 ---
 
-[](/wp-content/uploads/2010/02/twitter-v-facebookv-buzz.jpg)
+
 
 Mashable a deschis azi un poll despre cele trei rețele de socializare.
 

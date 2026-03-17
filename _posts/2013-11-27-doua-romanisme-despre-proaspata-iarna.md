@@ -20,7 +20,7 @@ La celălalt capăt răspunde un bărbat plictisit/adormit:
 > 
 > – Bine, mulțumesc. _și închide telefonul siderată._
 
-> [](/2013/11/doua-romanisme-despre-proaspata-iarna/4103116179_a207c5b6be_z/)
+> 
 
 Păi ziceți și voi, e normal ca un responsabil din comandamentul de iarnă să se informeze de la televizor? Nu trebuia să sune la Progresul să vadă care e problema și apoi să dea un comunicat? Sau să sune fiecare cetățean care a reclamat problema respectivă?
 

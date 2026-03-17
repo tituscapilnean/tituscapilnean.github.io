@@ -24,17 +24,17 @@ Scorul meu:
 
 Câțiva din zelist:
 
-[](/wp-content/uploads/2012/05/groparu.png)
 
-[](/wp-content/uploads/2012/05/petreanu.png)
 
-[](/wp-content/uploads/2012/05/piticu.png)
+
+
+
 
 Și, bonus, Zoso și Arhi:
 
-[](/wp-content/uploads/2012/05/zoso.png)
 
-[](/wp-content/uploads/2012/05/arhi.png)
+
+
 
 Citit aici.
 

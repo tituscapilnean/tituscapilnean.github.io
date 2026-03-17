@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2009/09/243814203_4760158b02.jpg
 ---
 
-[](/wp-content/uploads/2009/09/243814203_4760158b02.jpg)
+
 
 **Subtitlu:** Cum să atragi trafic şi comentarii stârnind orgolii, tabere şi fani de bloggeri 🙂
 

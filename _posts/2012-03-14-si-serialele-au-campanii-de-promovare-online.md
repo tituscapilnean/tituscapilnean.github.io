@@ -8,9 +8,9 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2012/03/madmen-371x300.png
 ---
 
-[](/wp-content/uploads/2012/03/madmen.png)Spuneam în articolul despre [Web 3.0](/2012/03/web-3-0-nu-e-o-revolutie-e-o-expansiune/) că online-ul va integra din ce în ce mai multe părți din viața noastră, de la mersul la magazin, uitatul la televizor, planificatul vacanțelor, căutatul de școli și grădinițe, găsitul de oameni care să îți renoveze casa etc.
+Spuneam în articolul despre [Web 3.0](/posts/web-3-0-nu-e-o-revolutie-e-o-expansiune/) că online-ul va integra din ce în ce mai multe părți din viața noastră, de la mersul la magazin, uitatul la televizor, planificatul vacanțelor, căutatul de școli și grădinițe, găsitul de oameni care să îți renoveze casa etc.
 
-Mi-a atras atenția o campanie de promovare pentru un serial TV, unul foarte reușit, zic eu. Nu e de la noi. Nu pot să am pretenții ca TV-ul să se promoveze masiv în online cât timp nu se încumetă nimeni să dea o sumă exactă a [utilizatorilor de internet din România.](/2012/02/numarul-de-utilizatori-de-internet-in-romania-2011/)
+Mi-a atras atenția o campanie de promovare pentru un serial TV, unul foarte reușit, zic eu. Nu e de la noi. Nu pot să am pretenții ca TV-ul să se promoveze masiv în online cât timp nu se încumetă nimeni să dea o sumă exactă a [utilizatorilor de internet din România.](/posts/numarul-de-utilizatori-de-internet-in-romania-2011/)
 
 **Campania de promovare online a Mad Men pentru sezonul 4**
 

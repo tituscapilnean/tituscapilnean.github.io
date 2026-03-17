@@ -10,7 +10,7 @@ author: titus_capilnean
 #   - [iframe] http://www.norc.ro/embed.aspx?id=99c606577fb31f01fbec0577bbc45989&ppa=199.4&r=-87.81&vla=-2.16&lz=43.5&acc=9c5d68f4-2133-48b5-b57a-45f91453b1a9
 ---
 
-[](/wp-content/uploads/2010/03/final.jpg) Expozitie de arta 
+ Expozitie de arta 
 
 Azinoapte m-a rugat un prieten să îl ajut cu promovarea unei expoziții foarte faine, de fotografie.
 

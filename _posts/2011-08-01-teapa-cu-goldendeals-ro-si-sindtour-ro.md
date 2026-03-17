@@ -67,20 +67,20 @@ Oare Doamna Ministru Elena Gabriela UDREA, cand a semnat Certificatul de Clasifi
 
 Aceste poze din atasament, facute cu aparatul foto personal la data de 30. iulie 2011, nu coincid cu imaginile de prezentare de pe site-urile Goldendeals si Sindtour unde se transmite cu totul alt mesaj.
 
-[](/wp-content/uploads/2011/08/216867_252080614816050_100000423410346_890695_7449419_n.jpg)
 
-[](/wp-content/uploads/2011/08/283510_252080581482720_100000423410346_890694_4244860_n.jpg)
 
-[](/wp-content/uploads/2011/08/206198_252080554816056_100000423410346_890693_6041970_n.jpg)
 
-[](/wp-content/uploads/2011/08/285400_252080528149392_100000423410346_890692_5211671_n.jpg)
 
-[](/wp-content/uploads/2011/08/285539_252080474816064_100000423410346_890691_902003_n.jpg)
 
-[](/wp-content/uploads/2011/08/283889_252080451482733_100000423410346_890690_5137325_n.jpg)
 
-[](/wp-content/uploads/2011/08/215056_252080421482736_100000423410346_890689_6448885_n.jpg)
 
-[](/wp-content/uploads/2011/08/253246_252080384816073_100000423410346_890688_2202494_n.jpg)
 
-[](/wp-content/uploads/2011/08/226102_252080354816076_100000423410346_890687_4803850_n.jpg)
+
+
+
+
+
+
+
+
+

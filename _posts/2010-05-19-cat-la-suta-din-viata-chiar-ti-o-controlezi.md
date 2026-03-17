@@ -8,6 +8,6 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/05/129181730640643200.png
 ---
 
-[](/wp-content/uploads/2010/05/129181730640643200.png)
+
 
 Serios. Cât?

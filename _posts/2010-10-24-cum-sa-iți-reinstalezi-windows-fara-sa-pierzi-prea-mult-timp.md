@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/10/blog-150x150.jpg
 ---
 
-[](/wp-content/uploads/2010/10/blog.jpg)Windows, indiferent de versiune, are o boală – nu mă ține mai mult de 4-5 luni, timp în care începe să meargă din ce în ce mai încet și să se blocheze din varii motive. Cele mai multe probleme mi le-a făcut până acum combinația fatală de Web Browser + Flash și multe ferestre deschise.
+Windows, indiferent de versiune, are o boală – nu mă ține mai mult de 4-5 luni, timp în care începe să meargă din ce în ce mai încet și să se blocheze din varii motive. Cele mai multe probleme mi le-a făcut până acum combinația fatală de Web Browser + Flash și multe ferestre deschise.
 
 În fine, din cauza asta am ajuns la nivelul la care un backup complet și o reinstalare de Windows(acum 7) îmi ia undeva la 3-4 ore(cu tot cu programele anterioare reinstalate). Reușesc asta pentru că am hard-disk-ul împărțit în două – partiție de sistem(50GB), partiție pentru depozitare(270GB)
 

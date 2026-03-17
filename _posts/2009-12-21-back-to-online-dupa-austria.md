@@ -8,11 +8,11 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2009/12/im-back.jpg
 ---
 
-[](/wp-content/uploads/2009/12/im-back.jpg)
+
 
 sursa foto
 
-Gata, m-am întors din Austria, de la [Snow Explosion](/2009/10/27/snow-explosion-e-pe-bune/), care chiar a fost pe bune. N-am mai scris cam de multicel pe blog din motive de lipsă de timp și de logistica austriacă. În ultima săptămână(adică de pe 13 pe 19 Decembrie) am zburat pe pârtiile din Ossiach, pe muntele Gerlitzen. Despre asta puteți să citiți pe freejump.ro, unde am scris despre pârtie, dat și câteva sfaturi testate pe proprie piele.
+Gata, m-am întors din Austria, de la [Snow Explosion](/posts/snow-explosion-e-pe-bune/), care chiar a fost pe bune. N-am mai scris cam de multicel pe blog din motive de lipsă de timp și de logistica austriacă. În ultima săptămână(adică de pe 13 pe 19 Decembrie) am zburat pe pârtiile din Ossiach, pe muntele Gerlitzen. Despre asta puteți să citiți pe freejump.ro, unde am scris despre pârtie, dat și câteva sfaturi testate pe proprie piele.
 
 Austria părea o locație mult mai magică decât s-a dovedit a fi, pentru un om care a mers pentru prima dată să se dea afară din țară. Îmi tot povestea lumea cât de tare este, cât de mișto sunt pârtiile și condițiile afară. Sincer, impresia după trip-ul ăsta a fost de ”ok”, dar parcă e mai confortabil la noi, la 2 ore de București – o Sinaia sau un Brașov la 3 ore. Totuși cred că asta mi se trage de la cele **50 de ore de mers** cu autocarul, din cauza cărora am rămas cu o mică sechelă: stau cu picioarele într-o parte atunci când stau jos. Sper că îmi trece. Data viitoare merg cu avionul, chiar dacă mă costă dublu.
 

@@ -8,13 +8,13 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/06/photo6-150x150.jpg
 ---
 
-[](/wp-content/uploads/2010/06/photo6.jpg)Aprilie – Iunie e sezon de evenimente, așa că am destul de mult de lucru în meseria de participant la ele. Mă duc din 2 motive foarte clare: 1 – networking, 2 – învăț lucruri noi. Criteriile precedente le aplic și în momentul în care evaluez dacă evenimentul la care tocmai am fost e unul util pentru mine sau nu.
+Aprilie – Iunie e sezon de evenimente, așa că am destul de mult de lucru în meseria de participant la ele. Mă duc din 2 motive foarte clare: 1 – networking, 2 – învăț lucruri noi. Criteriile precedente le aplic și în momentul în care evaluez dacă evenimentul la care tocmai am fost e unul util pentru mine sau nu.
 
 În seara de marți, de ziua copilului, am făcut lucruri de adulți. În loc să merg la concert, ca tot bucureșteanul, în piață, pe ploaie, eu am mers, tot pe ploaie, însa la Club Prometeus, la Internetics Hot Spot – editia #1 să fac un live twitter – ce a ieșit poți să vezi în arhiva #hotspot.
 
 Deși n-am făcut facultatea de Marketing, am avut ocazia și pasiunea să mă uit un pic la teorie și să citesc câteva idei despre cei 4 P(produs, plasament, pret și promovare) – bine, Seth Godin zice de al 5-lea P – Permisiune, dar asta e deja rocket science, față de ceea ce s-a discutat aseară la Internetics Hot Spot. Am venit cu planuri mari și cu Twitter-ul deschis, pregătit de idei geniale, de soluții inovative și m-am găsit ascultând discuții despre CPC și CPM, despre cum ar trebui să se mute presa scrisă în online, dar nu știe cum, cum jurnaliștii sunt incompetenți și copiază mult/prost de pe unde apucă și alte asemenea probleme, de care mulți oameni din industrie sunt conștienți, însă puțini și fac ceva în sensul rezolvării lor.
 
-Dacă [fraza memorabilă](/2010/05/31/orange-online-meetup-6-live-blogging/) de la Orange Online MeetUp îi aparține lui Orlando Nicoară, de data asta Victor Kapra a zis-o cel mai bine: **_„Media romaneasca este un dezastru.”_**.
+Dacă [fraza memorabilă](/posts/orange-online-meetup-6-live-blogging/) de la Orange Online MeetUp îi aparține lui Orlando Nicoară, de data asta Victor Kapra a zis-o cel mai bine: **_„Media romaneasca este un dezastru.”_**.
 
 Să zicem că are dreptate, că lumea e incompetentă, că ziariștii nu știu să scrie pentru online. Hai să facem un experiment – timp de 1 lună, o publicație care vrea să treacă pe online să ia în redacție, în locul jurnaliștilor de pe print, un grup de studenți de anul 1/2 de la Jurnalism, Litere, Comunicare și PR, Marketing, care să încerce să scrie pe net. Dacă au audiență mai mare și rate de răspuns mai bune, să îi angajeze în locul celor vechi și neadaptați. Poți să îmi sari în cap, cum că ar fi o măsură dură, însă la modul în care au ajuns liderii de opinie din media online să critice conținutul, cred că e nevoie de o soluție mai dură.
 

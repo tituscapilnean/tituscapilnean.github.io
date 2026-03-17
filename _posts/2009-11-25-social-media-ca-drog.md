@@ -8,7 +8,7 @@ author: titus_capilnean
 
 Acum ceva vreme am scris despre poza de grup a social media internaționale, iar apoi am mers mai departe și am făcut poza de grup a internetului românesc, poza de grup a hosterilor din online-ul românesc și mai am câteva planuri, încă neconcretizate pe partea asta, din lipsă de timp efectiv 🙂
 
-Le găsiți [aici](/?s=poza+de+grup).
+Le găsiți aici.
 
 Acum am dat peste o ilustrație foarte tare de la Patrick Moberg. Nu cred că are nevoie de cuvinte în plus.
 

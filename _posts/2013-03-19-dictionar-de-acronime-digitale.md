@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2013/03/dictnry-150x150.gif
 ---
 
-[](/2013/03/dictionar-de-acronime-digitale/dictnry/)De ceva vreme caut să pun pe blog un mic dicționar de acronime folosite în mediul digital. Mai jos e o listă luată de pe blogul eConsultancy, din care am tuns elementele mai puțin înâlnite pe la noi și am păstrat esențialul.
+De ceva vreme caut să pun pe blog un mic dicționar de acronime folosite în mediul digital. Mai jos e o listă luată de pe blogul eConsultancy, din care am tuns elementele mai puțin înâlnite pe la noi și am păstrat esențialul.
 
 Evident, fiecare are o definiție proprie, dincolo de denumire, însă, pentru detalii, se poate folosi cu încredere orice motor de căutare. La cele mai puțin evidente, am dat eu o scurtă descriere. Dacă mai aveți altele neluate în seamă, lăsați cu încredere un comentariu
 

@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/03/viral-359x300.jpg
 ---
 
-[](/wp-content/uploads/2010/03/viral.jpg)
+
 
 Miercuri a avut loc un eveniment la Orange Concept Store, care a avut ca temă principală viralele – ce sunt și cum se fac ele. Nu am fost la eveniment, însă am citit câteva reacții la adresa conținutului prezentat. Detaliul care mi-a atras atenția și m-a făcut să scriu articolul de față este următoarea afirmație:
 

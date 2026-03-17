@@ -41,8 +41,8 @@ Vreau să le fac traseul cât mai uşor şi de aceea, toţi cei care au dat like
 
 **Pasul 3** : Mergi pe pagina de votare – http://www.goanaovi.ro/?page=votare&subpage=blog – scrii e-mailul tau OVI (adresata@ovi.com) in dreapta in spatiul special creat, apesi pe poza sau pe butonul de votare de sub numele meu.
 
-[](/wp-content/uploads/2010/08/pas3.jpg)
+
 
 **p.s.** Acum că ai votat, meriţi un pic de divertisment. Sursele mele, care nu se divulgă(bine, prieteni comuni ai mei şi ai lui Chinezu pe Facebook) mi-au trimis un mesaj pe care Cristi l-a dat unor conexiuni de-ale lui. Aşa justific şi eu titlul şi te las pe tine să decizi cine face spam, eu sau el 🙂
 
-[](/wp-content/uploads/2010/08/Mesaj-de-la-Chinezu.jpg)
+

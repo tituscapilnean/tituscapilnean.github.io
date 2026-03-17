@@ -8,9 +8,9 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/11/how-to-web-2010-logo-400x271.jpg
 ---
 
-[](/wp-content/uploads/2010/11/how-to-web-2010-logo.jpg)Deși ajung un pic mai târziu la How To Web, deja mi-am făcut temele și vreau să aflu în ce investesc străinii capitalul, care e profilul afacerilor, maturitatea lor, la ce se uită, ce condiții trebuie să îndeplinești pentru un aport de capital.
+Deși ajung un pic mai târziu la How To Web, deja mi-am făcut temele și vreau să aflu în ce investesc străinii capitalul, care e profilul afacerilor, maturitatea lor, la ce se uită, ce condiții trebuie să îndeplinești pentru un aport de capital.
 
-Până ajung, citește mai multe despre [How To Web aici](/2011/09/how-to-web-2011-bigger-longer-and-uncut/) și vizitează ceilalți bloggeri oficiali(pe care îi găsești [aici](/2011/10/5-bloggeri-romani-la-how-to-web-2011/)).
+Până ajung, citește mai multe despre [How To Web aici](/posts/how-to-web-2011-bigger-longer-and-uncut/) și vizitează ceilalți bloggeri oficiali(pe care îi găsești [aici](/posts/5-bloggeri-romani-la-how-to-web-2011/)).
 
 (Revin cu actualizări după ora 12.)
 
@@ -139,7 +139,7 @@ Viral loop – funcționează identic și în VC și în jocuri:
 
 Dacă mulți oameni vorbesc despre o companie, atunci investitorul o să vrea să te cunoască.
 
-Și aici vorbim tot de dovadă socială, exact ca la [Webit](/2011/11/notite-de-la-cea-mai-mare-conferinta-regionala-de-online-webit-2011/). A, și mai e important să câștigi niște premii, ca să ai un fel de portofoliu de recunoaștere.
+Și aici vorbim tot de dovadă socială, exact ca la [Webit](/posts/notite-de-la-cea-mai-mare-conferinta-regionala-de-online-webit-2011/). A, și mai e important să câștigi niște premii, ca să ai un fel de portofoliu de recunoaștere.
 
 Există Cheat Codes – sunt acele mișcări pe care le poți face, lucruri pe care le poți să înveți ca să ai un avantaj competitiv față de alți anterprenori. Trebuie doar să îți faci temele de casă.
 

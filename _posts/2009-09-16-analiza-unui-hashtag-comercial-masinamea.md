@@ -10,7 +10,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2009/09/povestea_unei_pasiuni-317x300.jpg
 ---
 
-Am scris în August despre [povestea hashtagului #inadolescenta](/2009/08/23/povestea-unui-hashtag-inadolescenta/), un hashtag pornit spontan și menținut de utilizatori. Atunci s-au înregistrat foarte multe tweets în prima parte a evoluției lui. Oricum puteți să aflați mai multe din articolul meu sau al lui Adrian Ciubotaru.
+Am scris în August despre [povestea hashtagului #inadolescenta](/posts/povestea-unui-hashtag-inadolescenta/), un hashtag pornit spontan și menținut de utilizatori. Atunci s-au înregistrat foarte multe tweets în prima parte a evoluției lui. Oricum puteți să aflați mai multe din articolul meu sau al lui Adrian Ciubotaru.
 
 Succesul de care s-a bucurat #inadolsecenta a fost din cauza factorului emoțional. El a dat ocazia oamenilor:
 
@@ -28,7 +28,7 @@ Tipul ăsta de evoluţie se datorează faptului că oamenii cel mai probabili s�
 
 Am analizat cele 215 tweets şi am extras 138 de răspunsuri în care utilizatorii declarau marca şi modelul maşinii lor. Pe baza acestor date a reieşit următorul grafic:
 
-[](/wp-content/uploads/2009/09/maspie.jpg)
+
 
 Top 5(e un fel de top 3, pentru că locurile 2 şi 3 au câte doi ocupanţi) arată în felul următor:
 
@@ -46,11 +46,11 @@ Cea mai extravagantă maşină a fost de departe Infinity-ul, fiind, alături de
 
 @PIA_romania a şi oferit nişte premii pentru câţiva respondenţi. Premiile sunt, la alegere:
 
-[](/wp-content/uploads/2009/09/VW-Motorsport-Cap.jpg)
+
 
 – şapcă branded Audi , VW , Skoda sau Seat + ultimul număr din revista **Audi Magazine, AutoEmocion**
 
-[](/wp-content/uploads/2009/09/povestea_unei_pasiuni.jpg)
+
 
 – cartea **“Povestea unei pasiuni” – Istoria Volkswagen** \+ ultimul număr din revista **Audi Magazine, AutoEmocion**
 
@@ -79,4 +79,4 @@ Câştigătorii sunt:
 
 Câştigătorii au fost aleşi în funcţie de mesajele trimise pe hashtagul **#masinamea**.
 
-Cei care se regăsesc în lista de mai sus **sunt rugaţi să îmi trimită până la sfârşitul săptămânii** : Nume complet, adresă de mail, număr de telefon, adresă de acasă, folosind [formularul de Contact](/contact/)
+Cei care se regăsesc în lista de mai sus **sunt rugaţi să îmi trimită până la sfârşitul săptămânii** : Nume complet, adresă de mail, număr de telefon, adresă de acasă, folosind formularul de Contact

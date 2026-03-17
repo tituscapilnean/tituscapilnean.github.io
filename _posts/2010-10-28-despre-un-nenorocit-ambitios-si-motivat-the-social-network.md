@@ -11,7 +11,7 @@ author: titus_capilnean
 
 De ascultat în timp ce citești:
 
-[](/wp-content/uploads/2010/06/facebook_logo.jpg)
+
 
 Am fost aseară la The Social Network, filmul cu și despre **Facebook/Mark Zuckerberg**.
 
@@ -23,7 +23,7 @@ Nu vreau să povestesc întregul fir epic al filmului, pentru că după aia nu m
 
 E mai important ce am învățat din film(bine, și ceea ce o să înveți și tu dacă mergi):
 
-**[](/wp-content/uploads/2010/10/the_social_network_poster.jpg)O idee grozavă e zero dacă nu o pui în aplicare**
+**O idee grozavă e zero dacă nu o pui în aplicare**
 
 Chestia asta e destul de simplu de înțeles. Nimeni nu o să te bată pe umăr și să îți zică – mamă ce idee tare! – dacă nu o pui în aplicare. Și nu oricum, ci până la capăt. Altfel te întorci de unde ai plecat, adică la zero. Așa că, dacă ai o idee mișto, testeaz-o, vezi care sunt reacțiile, construiește ceva cu care să atragi atenția și dă-i drumul. Sună a antreprenoriat, nu?
 

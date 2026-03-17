@@ -21,7 +21,7 @@ via refresh.ro**
 
 Jocul îl am în sidebar și vă invit să îl jucați.
 
-[](/wp-content/uploads/2009/08/11954452882053745474jean_victor_balin_arrow_orange_right.svg.hi.png)
+
 
 sursa foto
 

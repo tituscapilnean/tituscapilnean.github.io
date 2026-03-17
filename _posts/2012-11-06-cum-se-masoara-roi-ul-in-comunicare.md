@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2012/11/roi1-240x300.jpg
 ---
 
-[](/wp-content/uploads/2012/11/roi1.jpg)Una din marile dispute din PR și comunicare internă este modalitatea prin care se măsoară _Return On Investment_ , acest pocal al tinereții pentru orice comunicator. Săptămâna trecută am fost la evenimentul Mastermind Communication, unde Angela Sinickas, reputat om de comunicare, ne-a povestit depsre câteva idei care răspund la întrebarea: _Ce masuram în activitatea de comunicare?_
+Una din marile dispute din PR și comunicare internă este modalitatea prin care se măsoară _Return On Investment_ , acest pocal al tinereții pentru orice comunicator. Săptămâna trecută am fost la evenimentul Mastermind Communication, unde Angela Sinickas, reputat om de comunicare, ne-a povestit depsre câteva idei care răspund la întrebarea: _Ce masuram în activitatea de comunicare?_
 
 Așa cum era și normal, am luat-o cu începuturile și ne-am uitat la obiectivele comunicării. Practic, măsori starea inițială, măsori starea finală (dacă a fost atins obiectivul) și tragi concluzii legate de percepție, acceptabilitate sau notorietate.
 
@@ -44,7 +44,7 @@ Ne-a povestit apoi despre indexul de lizibilitate și modul în care se calculea
 
 În ultima parte, ne-a povestit de impactul comunicării cu angajații la nivel de productivitate, profitabilitate și performanță. **Echipele cele mai performante sunt cele care înțeleg cel mai bine strategia companiei. Cele care nu înțeleg, nu sunt la fel de performante, ceea ce e și normal.** Mulți manageri din România ar trebui să citească și să înțeleagă treaba asta.
 
-Iar apare în discuție Net Promoter Score, de care [am auzit prima dată](/2009/05/cum-am-castigat-un-ipod-shuffle/) în 2009. Ține tot de cercetare.
+Iar apare în discuție Net Promoter Score, de care [am auzit prima dată](/posts/cum-am-castigat-un-ipod-shuffle/) în 2009. Ține tot de cercetare.
 
 Ultimul exemplu e ilustrativ pentru ceea ce poate face o campanie de comunicare internă.
 

@@ -13,9 +13,9 @@ Acum două săptămâni, Facebook a anunțat că lansează un Ad Unit nou, care 
 
 N-am văzut încă o reclamă făcută de advertiserii români, dar asta nu înseamnă că nu putem să vorbim un pic despre formatul nou. El se poate accesa așa:
 
-[](/wp-content/uploads/2011/10/facebook-new-ad-unit.jpg)
 
-[](/wp-content/uploads/2011/10/facebook-ad-unit.jpg)
+
+
 
 Așa arată noile reclame, vor fi plasate tot în bara laterală, însă vor avea un feature în plus – vor fi expandabile dacă ai cel puțin un prieten în comun cu brandul respectiv.
 

@@ -10,7 +10,7 @@ author: titus_capilnean
 
 Sau măcar încearcă să facă asta, probabil tot sub presiunea bursei, ca să atragă noi bugete de marketing, pe lângă cele de social media, în ponderea cărora are deja o greutate considerabilă. Deși partenerii cu care testează noul feature, precum și Facebook, au refuzat să comenteze, au apărut o serie de speculații despre direcția în care evoluează lucrurile.
 
-[](/2013/02/facebook-incearca-sa-devina-si-social-crm/holidayremarketing/)
+
 
 Dacă Gogu a cumpărat ieri un iaurt _Zuzu_ și o sticlă de _Cola_ , atunci o să îi arătăm reclame de la _Coca Cola_ și _Albalact_ , ca să îi remarketăm produsele preferate și să îi prezentăm și alte variante din compania-mamă. Sună destul de simplu și util, îmbină cardurile de fidelitate/credit/cercetarea de piață de la punctele de vânzare cu online-ul făcut cu cap.
 

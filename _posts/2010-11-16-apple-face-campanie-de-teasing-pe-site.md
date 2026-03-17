@@ -9,7 +9,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/11/Untitled-1-400x227.jpg
 ---
 
-[](/wp-content/uploads/2010/11/teaser-apple.jpg)
+
 
 La ora 17:00 ora României vor lansa ceva.
 
@@ -23,7 +23,7 @@ N-o spun doar eu – engadget.com + Reuters și Apple Insider.
 
 ****Am arhivat-o și pe asta:
 
-[](/wp-content/uploads/2010/11/Untitled-1.jpg)
+
 
 Apple a introdus Beatles în iTunes Music Store. Le-au făcut și un minisite
 

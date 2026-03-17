@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/11/cadbury-150x150.jpg
 ---
 
-[](/wp-content/uploads/2010/11/cadbury.jpg)Cel puțin asta susțin cei de la Cadbury, cu reclama lor argentiniană.
+Cel puțin asta susțin cei de la Cadbury, cu reclama lor argentiniană.
 
 > Advertising Agency: DEL CAMPO/NAZCA SAATCHI & SAATCHI Buenos Aires, ARGENTINA  
 >  Production Company: PRIMO Buenos Aires, ARGENTINA  

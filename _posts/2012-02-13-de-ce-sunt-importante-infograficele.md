@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - [iframe] http://www.slideshare.net/slideshow/embed_code/11403545
 ---
 
-Pentru că am scris eu [despre ele și despre contul de Pinterest](/2012/02/la-ce-foloseste-pinterest/). Sau pentru că spune omul ăsta foarte bine mai jos de ce:
+Pentru că am scris eu [despre ele și despre contul de Pinterest](/posts/la-ce-foloseste-pinterest/). Sau pentru că spune omul ăsta foarte bine mai jos de ce:
 
 **Why are Infographics Important**
 

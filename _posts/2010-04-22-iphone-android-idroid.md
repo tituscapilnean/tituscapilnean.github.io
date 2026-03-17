@@ -18,4 +18,4 @@ Normal că iPhone-ul a fost spart(jailbreaked) și că nu mai poți avea preten�
 
 **LE:**
 
-[](/wp-content/uploads/2010/04/7281180_a953f8e8c7_o.gif)
+

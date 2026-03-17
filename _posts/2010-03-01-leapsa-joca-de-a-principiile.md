@@ -8,9 +8,9 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/02/tumblr_kyb9q8cFRy1qzr04eo1_400.png
 ---
 
-Cred că n-am mai primit o [leapșă de la Olimpiadele Comunicării](/2009/04/08/10-motive-sa-vii-la-olimpiade/), de anul trecut, când am fost foarte entuziasmat că am primit-o :). De data asta, am observat un ping-back în interfața de administrare a WordPress-ului. E de la Laura primit. Mi-a pasat o provocare la joacă – care sunt principiile după care mă ghidez în viață, după care mă orientez, etc.
+Cred că n-am mai primit o [leapșă de la Olimpiadele Comunicării](/posts/10-motive-sa-vii-la-olimpiade/), de anul trecut, când am fost foarte entuziasmat că am primit-o :). De data asta, am observat un ping-back în interfața de administrare a WordPress-ului. E de la Laura primit. Mi-a pasat o provocare la joacă – care sunt principiile după care mă ghidez în viață, după care mă orientez, etc.
 
-[](/wp-content/uploads/2010/02/tumblr_kyb9q8cFRy1qzr04eo1_400.png)
+
 
 sursa foto
 
@@ -34,7 +34,7 @@ O să fie interesant să aștern 10 principii, pentru că, de obicei, am tendin�
 
 9\. **Simt** – punctul ăsta cred că e cel mai surprinzător pentru majoritatea oamenilor care mă cunosc oarecum(cei care mă cunosc bine, știu despre ce vorbesc). Am nevoie să mă simt iubit, șă simt că e nevoie de mine, să simt ceva pozitiv în toată marea asta de oameni. E una din principalele mele surse de energie și fără ea dau randament mult mai slab, mi-e greu să mă trezesc dimineața și mi-e greu să găsesc un scop în ceea ce fac. Trebuie să simt. Da, o fac, întotdeauna, chiar dacă nu o arăt.
 
-10\. **Ea** – citește [aici](/2010/01/26/viata-multilayer-dualcore/).
+10\. **Ea** – citește [aici](/posts/viata-multilayer-dualcore/).
 
 Să recapitulez un pic : **Eu** – fun – util – calitate – aventură – control – viteză – gândesc lateral – simt – **Ea**. Pe scurt, așa mă definesc acum, cu contradicțiile mele, cu multivalența – că doar sunt Gemeni și am mai multe persoanlități, cu care mă mândresc. 🙂 Dau mai departe leapșa asta spre Mada, Radu, Minxeee și Andra Zaharia, dacă au chef de o oră cu sinele.
 

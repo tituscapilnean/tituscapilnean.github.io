@@ -11,13 +11,13 @@ author: titus_capilnean
 ![Facebook logo](http://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Facebook.svg/266px-Facebook.svg.png)
     Image via Wikipedia
 
-Pe mine mă enervează foarte tare [experții social media](/2011/01/cum-iti-dai-seama-ca-nu-esti-expert-social-media/ "expert social media") care se apucă ei să facă și să dreagă conturi de Facebook, după care dau **”Suggest Page” către toată lista lor de prieteni**. Dacă ai noroc, poate trimit și de 3-4 ori, ca să fie siguri că nu ai sărit peste SPAM-ul pe care ți l-au trimis.
+Pe mine mă enervează foarte tare experții social media care se apucă ei să facă și să dreagă conturi de Facebook, după care dau **”Suggest Page” către toată lista lor de prieteni**. Dacă ai noroc, poate trimit și de 3-4 ori, ca să fie siguri că nu ai sărit peste SPAM-ul pe care ți l-au trimis.
 
 Un alt exemplu de succes este **utilizatorul de Facebook creat special pentru SPAM**. Cum ți-a dat Add și i-ai dat Accept, îți dă rapid un Page Suggestion de la ceva shop de creație obscur sau de la ceva atelier de handmade al verișoarei lui, că doar doar o să dai tu un Like, ca să crească afacerea.
 
 Nu în ultimul rând, să nu uităm **brandurile care se mută de pe contul – profil** pe pagină proprie, pentru că n-au știu de la început că vor depăși 5000 de prieteni pe Facebook. Aici e scuzabil, însă nu de 3-4 ori, că înțelegem din prima și dăm like dacă vrem să ținem legătura. Altfel cade drept în categoria de SPAM.
 
-Cred că deja cele trei exemple acoperă cam **90%** din cazurile în care primești invitații să dai Like la cine știe ce pagini. Despre concursuri și [concursomani](/2010/11/uitilizatorul-jucator-vs-utilizatorul-cumparator-din-campaniile-online/) am vorbit deja, ei cad într-o categorie separată.
+Cred că deja cele trei exemple acoperă cam **90%** din cazurile în care primești invitații să dai Like la cine știe ce pagini. Despre concursuri și [concursomani](/posts/uitilizatorul-jucator-vs-utilizatorul-cumparator-din-campaniile-online/) am vorbit deja, ei cad într-o categorie separată.
 
 **Cum foloseșt Suggest Page – ghid de bun simț**
 

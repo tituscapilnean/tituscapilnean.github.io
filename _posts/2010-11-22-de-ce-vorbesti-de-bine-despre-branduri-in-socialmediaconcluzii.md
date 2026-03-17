@@ -11,7 +11,7 @@ author: titus_capilnean
 
 _click pe imaginea din dreapta pentru un grafic_
 
-__[](/wp-content/uploads/2010/11/9010_loverespectaxis350px.gif)Mi-am amintit că m-am apucat acum vreo 3 săptămâni să pun o întrebare și anume – de ce oamenii vorbesc de bine despre unele branduri prin conturile lor de rețele sociale. Îi mulțumesc lui Cristi pentru ajutorul dat în strângerea de răspunsuri.
+__Mi-am amintit că m-am apucat acum vreo 3 săptămâni să pun o întrebare și anume – de ce oamenii vorbesc de bine despre unele branduri prin conturile lor de rețele sociale. Îi mulțumesc lui Cristi pentru ajutorul dat în strângerea de răspunsuri.
 
 Premisa de la care am pornit și pe care am vrut să o verific a fost că **utilizatorii de internet care au conturi pe rețelele sociale vor scrie de bine despre un brand în momentul în care ei au o experiență puternic pozitivă cu brandul respectiv**. În jurul acestei ipoteze am construit și răspunsurile posibile la întrebare.
 
@@ -20,7 +20,7 @@ Acum, după ce **149 de persoane au bifat cel puțin o variantă de răspuns** ,
 Primele trei rezultate sunt cele care țin de **experiența pozitivă** și de **calitatea produselor**.  
 
 
-[](/wp-content/uploads/2010/11/rezultate.jpg)
+
 
 **56% dintre cei care au răspuns au spus că produsele trebuie să fie de calitate**. Mă gândesc la faptul că o companie ar trebui, din capul locului, să facă doar produse de calitate. Dar asta e valabil doar într-o lume ideală.
 
