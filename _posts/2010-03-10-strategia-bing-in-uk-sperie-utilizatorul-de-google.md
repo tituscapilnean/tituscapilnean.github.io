@@ -10,4 +10,4 @@ Bing a mai făcut campanii pe TV, în UK şi nu numai, prin care a încercat să
 
 Mie pur și simplu nu mi s-a părut tare. deloc
 
-Am mai scris despre Bing [aici](/posts/bing-cautatorul-destept-nou/) și [aici](/posts/una-pe-zi-cel-mai-prost-gingle/).
+Am mai scris despre Bing aici și aici.

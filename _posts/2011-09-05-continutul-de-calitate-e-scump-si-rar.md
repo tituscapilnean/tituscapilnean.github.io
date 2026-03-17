@@ -6,7 +6,7 @@ tags: ["content", "cost", "online"]
 author: titus_capilnean
 ---
 
-Cam de aia n-am mai scris de mai mult de două săptămâni. În marea ecuație de care povesteam [aici](/posts/cum-calculezi-pretul-unui-articol-pe-blog/), scrisul pe blog nu a mai dat cu plus. Azi, totuși, mi-a atras atenția un articol de-al lui Lorand(care scrie și el rar, din aceleași considerente).
+Cam de aia n-am mai scris de mai mult de două săptămâni. În marea ecuație de care povesteam aici, scrisul pe blog nu a mai dat cu plus. Azi, totuși, mi-a atras atenția un articol de-al lui Lorand(care scrie și el rar, din aceleași considerente).
 
 ”De ce nu exista asemenea continut la noi e usor de explicat, insa solutia este la indemana noastra: cativa oameni talentati (filmare, editare video, muzica, actorie) – metodele de monetizare sunt multiple, de la advertising la product placement, endorsement si chiar acces restrictionat/pe baza de abonament. Si de ce nu, vanzare de recuzita (acolo unde este cazul), vanzare de continut (download) si obiecte branded.” (restul aici)
 

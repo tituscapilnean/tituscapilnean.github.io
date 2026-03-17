@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2009/11/google.jpg
 ---
 
-Acum o lună de zile am primit invitația în Google Wave și am dat mai departe alte [7 invitații, pentru cititorii de pe blog.](/posts/cum-sa-pui-mana-google-wave/) După ce am început să îl folosesc, în regim de test, cu alte 2-3 persoane, Wave mi s-a părut interesant prin noutate, nu atât prin ceea ce știe să facă.
+Acum o lună de zile am primit invitația în Google Wave și am dat mai departe alte 7 invitații, pentru cititorii de pe blog. După ce am început să îl folosesc, în regim de test, cu alte 2-3 persoane, Wave mi s-a părut interesant prin noutate, nu atât prin ceea ce știe să facă.
 
 
 

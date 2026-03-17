@@ -20,7 +20,7 @@ sursa foto
 
 ————————————————————————–
 
-Este a doua lună în care scriu despre statisticile de pe Facebook. [Statistici Facebook pe luna August 2009](/posts/statistici-facebook-la-zi/) puteţi să găsiţi în articolul meu anterior, primul din serie. În fiecare lună voi publica datele Facebook aduse la zi, cu modificări faţă de luna anterioară în paranteze.
+Este a doua lună în care scriu despre statisticile de pe Facebook. Statistici Facebook pe luna August 2009 puteţi să găsiţi în articolul meu anterior, primul din serie. În fiecare lună voi publica datele Facebook aduse la zi, cu modificări faţă de luna anterioară în paranteze.
 
 Aşadar, numerele românilor pe Facebook în Septembrie 2009 arată în felul următor:
 

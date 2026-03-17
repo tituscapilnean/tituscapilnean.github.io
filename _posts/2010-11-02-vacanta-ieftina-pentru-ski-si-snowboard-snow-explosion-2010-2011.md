@@ -20,7 +20,7 @@ Dar zic să detaliem puțin toată treaba, ca să pară cât mai credibilă, nu 
 
 **Despre cazare:**
 
-Anul trecut se ținea [în Austria](/posts/snow-explosion-e-pe-bune/), la niște case cu un fel de apartamente, într-un complex hotelier de peste lac de pârtie. În 2011 e în Franța. Din câte am văzut și în Puy Saint Vincent, tot despre apartamente e vorba, cu camere de 2, 3, 4 sau 6 persoane.
+Anul trecut se ținea în Austria, la niște case cu un fel de apartamente, într-un complex hotelier de peste lac de pârtie. În 2011 e în Franța. Din câte am văzut și în Puy Saint Vincent, tot despre apartamente e vorba, cu camere de 2, 3, 4 sau 6 persoane.
 
 Știu, nu e neapărat sex-friendly, mai ales dacă mergi singurel și ajungi să fii cazat în apartamentul de 6, împreună cu încă cineva în cameră. Dar te descurci – prin băi, gentlemen’s agreement sau alte soluții mai radicale.
 

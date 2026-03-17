@@ -16,7 +16,7 @@ Anul ăsta nu a făcut excepție, așa că merită să citiți notițele pe care
 
 Directiva e-privacy a fost implementată, ceea ce înseamnă că, acum, în România, setările browserului constituie acceptul utilizatorilor de a primi cookieuri pe calculator, păstrând avantajele pe care această tehnologie le-a adus în România.
 
-Publicitatea pe site-uri cu conținut ilegal și redefinirea datelor personale este în lucru, în curs de reglementare. Există o alternativă la [ACTA](/posts/de-ce-sunt-de-acord-cu-acta/) – OBA:DTSG – cadru și principii de autoreglementare. În UK și Germania au început să fie construite ”liste negre” cu siteuri cu conținut ilegal. În România, s-a vorbit doar cu AIMR. Nu există alte discuții cu alte entități, iar rolul discuțiilor este de a opri distribuția de materiale ilegale.
+Publicitatea pe site-uri cu conținut ilegal și redefinirea datelor personale este în lucru, în curs de reglementare. Există o alternativă la ACTA – OBA:DTSG – cadru și principii de autoreglementare. În UK și Germania au început să fie construite ”liste negre” cu siteuri cu conținut ilegal. În România, s-a vorbit doar cu AIMR. Nu există alte discuții cu alte entități, iar rolul discuțiilor este de a opri distribuția de materiale ilegale.
 
 Revizuirea legii protecției datelor cu caracter personal va fi votată la anul, prin aprilie, când se va adopta o noua reglementare strictă a colectării și folosirii datelor personale pe internet. IAB România dorește să introducă ”datele pseudononime”, pe bază modelului german, pentru păstrarea posibilității de profilare a userilor online. Dacă legea iese în formă asta, IMMurile din piață pot să dispară.
 
@@ -134,7 +134,7 @@ Pași de conversație:
 
 
 
-_Carlsberg – văzusem campania la[Interact Barcelona](/posts/piata-romaneasca-de-online-vazuta-de-la-interact-barcelona-2012/), însă nu văzusem și rezultatele_
+_Carlsberg – văzusem campania laInteract Barcelona, însă nu văzusem și rezultatele_
 
 Brand attribution – 98%  
 Share of choice – 37% (de fiecare data când cineva dădea click pe un banner de bere, de 0.37 ori era carlsberg).

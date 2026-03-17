@@ -52,7 +52,7 @@ si a ajuns la:
 
 
 
-*printre puținele campanii care au ajuns pe adsoftheworld.com , despre care [am mai scris mai demult](/posts/new-media-la-unirii-si-universitate/).
+*printre puținele campanii care au ajuns pe adsoftheworld.com , despre care am mai scris mai demult.
 
 **Branduri internaționale**
 

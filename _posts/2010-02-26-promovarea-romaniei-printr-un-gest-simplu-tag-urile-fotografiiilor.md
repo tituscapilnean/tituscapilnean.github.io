@@ -6,7 +6,7 @@ tags: ["google", "promovare", "romania"]
 author: titus_capilnean
 ---
 
-Am fost Miercuri seară la un mic eveniment, organizat de AIESEC(o întâlnire între foşti şi actuali membri), în Cinematecă. Parte din eveniment a fost o serie de 6 prezentări despre promovarea României. nimic inovativ pe partea asta, e o discuție de când lumea și pământul că nu știm/nu vrem să ne promovăm țara – am scris și eu un articol la un moment dat, despre [controversata campanie ”Land of choice”](/posts/spoof-campania-romania-the-land-of-choice-via-happyfish/).
+Am fost Miercuri seară la un mic eveniment, organizat de AIESEC(o întâlnire între foşti şi actuali membri), în Cinematecă. Parte din eveniment a fost o serie de 6 prezentări despre promovarea României. nimic inovativ pe partea asta, e o discuție de când lumea și pământul că nu știm/nu vrem să ne promovăm țara – am scris și eu un articol la un moment dat, despre controversata campanie ”Land of choice”.
 
 Cele 6 prezentări nu s-au ținut oricum, ci după regulile Pecha-Kucha – adică fiecare prezentare a avut **20 de slide-uri a câte 20 de secunde fiecare – deci maxim 6 minute și 40 de secunde** pentru fiecare prezentare. A fost o mică provocare pentru fiecare dintre noi, nu mai făcusem prezentări de genul ăsta până acum.
 

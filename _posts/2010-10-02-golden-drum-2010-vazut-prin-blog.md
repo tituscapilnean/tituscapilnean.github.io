@@ -19,7 +19,7 @@ Despre Golden Drum 2010, _ediția cu numărul 17_ :
 
 
 
-Luni, 20 Septembrie, am primit un email în care scria că mi s-a aprobat cererea de acreditare. Eram la [Orange Online Meetup](/posts/orange-online-meetup-7-sem-cu-esearchvision-live/) și nu îmi venea să cred că organizatorii mi-au acceptat cererea de acreditare cu ajutorul acestui blog.
+Luni, 20 Septembrie, am primit un email în care scria că mi s-a aprobat cererea de acreditare. Eram la Orange Online Meetup și nu îmi venea să cred că organizatorii mi-au acceptat cererea de acreditare cu ajutorul acestui blog.
 
 Cineva mă întreba acum câtva timp câți bani am scos din blog. Dacă ar fi să adun toate evenimentele, întâlnirile și excursiile făcute cu ajutorul blogului probabil că mi-ar da o sumă de 4 cifre în euro, și asta în doar primul an și ceva de blogging mai serios. Lăsând gluma la o parte, am mai aflat ceva.
 

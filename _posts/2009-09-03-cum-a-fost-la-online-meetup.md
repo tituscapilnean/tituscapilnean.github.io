@@ -13,7 +13,7 @@ author: titus_capilnean
 >  Unde: Orange Concept Store  
 >  Cum: **Eveniment pe bază de invitație** – Social media și Optimizarea bugetelor
 
-[scris în articolul anterior despre meetup](/posts/online-meetup-la-orange-concept-store/)
+scris în articolul anterior despre meetup
 
 Am fost marţi seara şi am aflat că va fi în fiecare marţi de la începutul lunii(deci următoarele Online Meetups sunt pe **6 Octombrie** , pe **3 Noiembrie** şi pe **7 Decembrie** – pentru că pe 1 e liber oricum)
 

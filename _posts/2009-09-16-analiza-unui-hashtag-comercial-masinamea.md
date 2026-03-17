@@ -10,7 +10,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2009/09/povestea_unei_pasiuni-317x300.jpg
 ---
 
-Am scris în August despre [povestea hashtagului #inadolescenta](/posts/povestea-unui-hashtag-inadolescenta/), un hashtag pornit spontan și menținut de utilizatori. Atunci s-au înregistrat foarte multe tweets în prima parte a evoluției lui. Oricum puteți să aflați mai multe din articolul meu sau al lui Adrian Ciubotaru.
+Am scris în August despre povestea hashtagului #inadolescenta, un hashtag pornit spontan și menținut de utilizatori. Atunci s-au înregistrat foarte multe tweets în prima parte a evoluției lui. Oricum puteți să aflați mai multe din articolul meu sau al lui Adrian Ciubotaru.
 
 Succesul de care s-a bucurat #inadolsecenta a fost din cauza factorului emoțional. El a dat ocazia oamenilor:
 

@@ -17,4 +17,4 @@ Inițial m-am gândit că au ceva concurs cu superpremii, plus o campanie de Ads
 
 
 
-Dacă totuși fanii sunt reali, atunci rata de implicare a utilizatorilor în conversație e îngrijorător de mică. Oricum te-ai uita la pagină, ceva e în neregulă. Poate mă lămurește cineva, unul din [experții social media](/posts/cum-iti-dai-seama-ca-nu-esti-expert-social-media/) din piață, ce s-a întîmplat în cazul ăsta.
+Dacă totuși fanii sunt reali, atunci rata de implicare a utilizatorilor în conversație e îngrijorător de mică. Oricum te-ai uita la pagină, ceva e în neregulă. Poate mă lămurește cineva, unul din experții social media din piață, ce s-a întîmplat în cazul ăsta.

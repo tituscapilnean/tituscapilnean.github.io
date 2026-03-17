@@ -11,7 +11,7 @@ author: titus_capilnean
 ![Facebook logo](http://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Facebook.svg/266px-Facebook.svg.png)
     Image via Wikipedia
 
-Scriam acum 3 săptămâni că vreau să aflu **[de ce dai like pe Facebook](/posts/top-10-motive-pentru-care-dai-like-unui-brand-pe-facebook-2/) unei pagini** care reprezintă un brand.
+Scriam acum 3 săptămâni că vreau să aflu **de ce dai like pe Facebook unei pagini** care reprezintă un brand.
 
 Am făcut un poll la care au răspuns 84 de cititori, suficient cât să trag câteva concluzii.
 

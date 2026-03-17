@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/02/5-150x150.jpg
 ---
 
-Dacă n-ai citit anul trecut, în Decembrie 2010 am ținut un [training de comunicare online despre cum poate un ONG studențesc să folosească Social Media](/posts/concluziile-dupa-al-doilea-training-de-social-media-pe-care-l-am-tinut/) pentru a se face cât mai vizibil posibil pe internet și pentru a comunica și discuta cu studenții care petrec mult timp pe net.
+Dacă n-ai citit anul trecut, în Decembrie 2010 am ținut un training de comunicare online despre cum poate un ONG studențesc să folosească Social Media pentru a se face cât mai vizibil posibil pe internet și pentru a comunica și discuta cu studenții care petrec mult timp pe net.
 
 Atunci i-am învățat pe cei aproximativ 20 de participanți **cum să se joace cu Facebook, Twitter, cu blogul sau cu Youtube** și, cel mai important, **cum să le integreze** , ca să creeze o campanie online în adevăratul sens al cuvântului.
 
@@ -44,6 +44,6 @@ Premiile se acorda celor **3 studenti care demonstreaza ca au gasit cele mai mul
 
 ### Felicitări membrilor ASER, echipei lor de marketing/comunicare! Ați făcut o treabă mult mai bună decât multe companii care se vor a fi prezente în social media cu campaniile lor.
 
-N-aș vrea să mă opresc aici cu ținutul de [training-uri de comunicare online cu ajutorul Social Media](/tags/training/), așa că accept cu drag invitații.
+N-aș vrea să mă opresc aici cu ținutul de training-uri de comunicare online cu ajutorul Social Media, așa că accept cu drag invitații.
 
 update – a scris și Minxieee despre campanie

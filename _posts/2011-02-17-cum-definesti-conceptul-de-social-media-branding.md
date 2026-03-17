@@ -8,9 +8,9 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/02/7key_socialmedia_benefits_art3-150x150.jpg
 ---
 
-Am căutat aseară pe net conceptul de social media branding și am găsit foarte foarte puține referințe despre el, dintre care, evident, niciuna în limba română. Nici nu aveam pretenția de la așa ceva în țara în care concursurile de Like sunt încă prezente pe Facebook sau o campanie online se rezumă la ”îmi fac cont pe Facebook pentru firmă”, fără nicio urmă de [strategie de comunicare cu ajutorul social media](/posts/cum-construiesti-o-strategie-anuala-de-online/). Articolul nu e pentru ei.
+Am căutat aseară pe net conceptul de social media branding și am găsit foarte foarte puține referințe despre el, dintre care, evident, niciuna în limba română. Nici nu aveam pretenția de la așa ceva în țara în care concursurile de Like sunt încă prezente pe Facebook sau o campanie online se rezumă la ”îmi fac cont pe Facebook pentru firmă”, fără nicio urmă de strategie de comunicare cu ajutorul social media. Articolul nu e pentru ei.
 
-Totuși, e bine să definesc un concept care completează ceea ce am povestit acum ceva vreme pe blog, despre construirea unei [prezențe puternice online](/posts/4-pasi-pentru-o-prezenta-solida-in-social-media/) prin social media, mai ales în condițiile în care brandurile mari au început să aibă prezențe din ce în ce mai puternice în Social Media. Aici putem începe să vorbim despre branding.
+Totuși, e bine să definesc un concept care completează ceea ce am povestit acum ceva vreme pe blog, despre construirea unei prezențe puternice online prin social media, mai ales în condițiile în care brandurile mari au început să aibă prezențe din ce în ce mai puternice în Social Media. Aici putem începe să vorbim despre branding.
 
 ## **Conceptul de Branding**
 

@@ -9,7 +9,7 @@ author: titus_capilnean
 ![Planteaza un copac](http://www.austrianinformation.org/storage/images_july_aug_06/plant-a-tree.jpg)  
 sursa foto
 
-Am lansat ieri #TweetPlantarea pe Twitter ca să încurajez plantarea de copaci în spațiile verzi din România. Copacii sunt dați gratis de către Comisia Europeană prin [programul ”Plantează un copac cu un singur click”](/posts/facem-o-padure/), inclusiv cu instrucțiuni de plantare și îngrijire după.
+Am lansat ieri #TweetPlantarea pe Twitter ca să încurajez plantarea de copaci în spațiile verzi din România. Copacii sunt dați gratis de către Comisia Europeană prin programul ”Plantează un copac cu un singur click”, inclusiv cu instrucțiuni de plantare și îngrijire după.
 
 Durează 30 de secunde să te înregistrezi pe site, copacul vine între 1 și 3 săptămâni și poți să îl plantezi inclusiv la prieteni în grădină.
 

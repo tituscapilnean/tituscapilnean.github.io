@@ -6,7 +6,7 @@ tags: ["bizcamp", "branding", "comunicare", "online", "training"]
 author: titus_capilnean
 ---
 
-Ieri am vorbit în primul panel la [BizCamp](/posts/lunea-viitoare-vorbesc-la-bizcamp-despre-branding-personal-mai-precis-pe-online/) despre **branding personal** , așa cum îl văd eu făcut online și offline. Așa cum le-am zis și participanților, principalul takeaway este că brandul tău personal se construiește cu efort, consistență, coerență și constanță în ceea ce faci, comunici, vorbești, prin modul în care arăți, cu cine te asociezi, la ce evenimente mergi șamd.
+Ieri am vorbit în primul panel la BizCamp despre **branding personal** , așa cum îl văd eu făcut online și offline. Așa cum le-am zis și participanților, principalul takeaway este că brandul tău personal se construiește cu efort, consistență, coerență și constanță în ceea ce faci, comunici, vorbești, prin modul în care arăți, cu cine te asociezi, la ce evenimente mergi șamd.
 
 Nu era nevoie să fii în sală ca să vezi despre ce e vorba. Trebuie doar să te uiți pe Facebook, Twitter, Linkedin și pe blogul meu și să vezi cum mi-am construit singur brandul online.
 

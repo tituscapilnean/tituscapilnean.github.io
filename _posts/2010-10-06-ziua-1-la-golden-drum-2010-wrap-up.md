@@ -109,7 +109,7 @@ In momentul in care identifici un tip de consumator si construiesti un pachet pe
 
 Nimeni nu se trezeste ca fiind consumator. Oamenii au dorinte, vise, vor sa se distreze, nu vor sa te vada, ca advertiser, ca le vrei doar portofelul.
 
-Michael a vorbit din nou despre scara standardelor in advertising, training la care [am participat în 2009](/posts/leadership-in-creatie-michael-conrad/), cu Grădinița Cannes.
+Michael a vorbit din nou despre scara standardelor in advertising, training la care am participat în 2009, cu Grădinița Cannes.
 
 Ce nu trebuie sa uite publicitarul e ca atunci cand sta in interiorul normelor, nu are cum sa depaseasca nivelul 5(vezi topul din articolul de mai sus). Daca vrei sa creezi ceva nou si inovativ, trebuie sa provoci clientul sa te lase sa iesi din tipare.
 

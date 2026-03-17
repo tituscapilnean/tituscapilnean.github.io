@@ -20,7 +20,7 @@ Stabilește **obiectivul de comunicare** , pornind de la obiectivul de business 
 
 **Construiește un mecanism pe baza obiectivului** – aici depinde de atu-urile pe care le are produsul/serviciul tău, de strategia de client service, de discount-urile pe care vrei să le dai sau nu, de tipul de brand pe care vrei să ți-l construiești. Și mai depinde și de canalele pe care le alegi – abia aici vorbești de **social media**.
 
-(restul procesului [aici](/posts/cateva-idei-de-la-primul-meu-training-de-comunicare-in-social-media/))
+(restul procesului aici)
 
 Dar doar la nivel de canal, pentru că **strategia deja îți este conturată**.
 
@@ -32,4 +32,4 @@ Combat doar partea de vârstă – nu contează așa de mult ea, cât experienț
 
 Cam la asta se rezumă.
 
-_p.s. așa îți dai seama că[nu ești expert social media](/posts/cum-iti-dai-seama-ca-nu-esti-expert-social-media/)_
+_p.s. așa îți dai seama cănu ești expert social media_

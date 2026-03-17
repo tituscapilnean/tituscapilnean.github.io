@@ -10,7 +10,7 @@ author: titus_capilnean
 
 _Guest post scris de Delia Radu, PR Officer AIESEC București._
 
-Spre sfârşitul lunii mai, [AIESEC Bucureşti](/tags/aiesec/) trage un semnal de alarmă pentru al patrulea an consecutiv, în cadrul proiectului de responsabilitate socială **[Bucureştiul Fluieră Fault](/tags/bucurestiul-fluiera-fault/)**. Această ediţie va fi una cu totul deosebită, deoarece ne propunem că, la sfârşit, să fi schimbat cu adevărat mentalităţi, comportamente şi atitudini. Ne propunem să dăruim o nouă faţă Bucureştiului ca oraş, dar şi locuitorilor săi, în calitatea lor de membri ai unei comunităţi care acţionează responsabil şi sustenabil.
+Spre sfârşitul lunii mai, AIESEC Bucureşti trage un semnal de alarmă pentru al patrulea an consecutiv, în cadrul proiectului de responsabilitate socială **Bucureştiul Fluieră Fault**. Această ediţie va fi una cu totul deosebită, deoarece ne propunem că, la sfârşit, să fi schimbat cu adevărat mentalităţi, comportamente şi atitudini. Ne propunem să dăruim o nouă faţă Bucureştiului ca oraş, dar şi locuitorilor săi, în calitatea lor de membri ai unei comunităţi care acţionează responsabil şi sustenabil.
 
 Astfel, pe **22 mai, ora 11:00** , vă aşteptăm cu mare drag în **Piaţa Unirii**(Bucuresti), pentru a porni marşul care sperăm că va avea impact asupra oraşului în care trăim cu toţii.
 

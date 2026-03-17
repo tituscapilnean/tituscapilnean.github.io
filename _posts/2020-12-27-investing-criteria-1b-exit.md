@@ -6,7 +6,7 @@ tags: [investing, startups, unicorns, evaluation]
 author: titus_capilnean
 ---
 
-This year, one of the things that I managed to do was to structure the way I evaluate a company – for investment, partnership or even as a potential employer. This [investing criteria](/posts/my-investment-thesis) framework is a quick way to decide if it’s worth putting money in a company or not, based on a $1B exit goal.
+This year, one of the things that I managed to do was to structure the way I evaluate a company – for investment, partnership or even as a potential employer. This investing criteria framework is a quick way to decide if it’s worth putting money in a company or not, based on a $1B exit goal.
 
 ## The Investment Criteria
 

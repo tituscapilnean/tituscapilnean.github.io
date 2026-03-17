@@ -22,6 +22,6 @@ Au uşurat şi profilul de toate cutiile, statisticile şi alte diverse miniapli
 
 Îmi mai place foarte mult segmentul de evenimente ordonate după momentul în care se întâmplă şi importanţă. Util şi fără alte linkuri în plus.
 
-Merge mult mai bine pe mobil acum, dacă n-ai [aplicaţia de iPhone pentru Facebook](/posts/facebook-3-0-pentru-iphone-lansare-finala/) 😀
+Merge mult mai bine pe mobil acum, dacă n-ai aplicaţia de iPhone pentru Facebook 😀
 
 *Facebook Blog spune că ar avea şi o funcţionalitate de @mention gen Twitter, dar încă n-am reuşit să o fac să meargă.

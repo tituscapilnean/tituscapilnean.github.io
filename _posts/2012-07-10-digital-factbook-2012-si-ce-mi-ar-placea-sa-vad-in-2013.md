@@ -20,7 +20,7 @@ N-am verificat toate datele din factbook, las pe _colegii internauți mai riguro
   * ipotezele de creștere să fie mult mai bine argumentate – de ce o să crească cu 50%, pe ce ne bazăm(dincolo de datele din anii anteriori), ținând cont că 2012 e în alt context economic față de 2010 sau 2011
   * mi-ar place să văd o secțiune de **Online PR** în Factbook pentru 2013
   * nici secțiunea de **blogging** nu ar strica, având în vedere caracterul atipic pe care în are piața din .ro(mult mai mare și mai evidențiată decât oricare alta din Europa)
-  * o secțiune de **[Branded Content](/posts/cateva-trenduri-de-online-pentru-2012/)** și una de **[Advertising Games](/posts/cateva-trenduri-de-online-pentru-2012/)**
+  * o secțiune de **Branded Content** și una de **Advertising Games**
 
 
 

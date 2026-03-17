@@ -14,7 +14,7 @@ Da, caut **cea mai enervantă reclamă**. Reclama aia care te face să zgârii m
 
 Sigur o știi – e reclama aia a cărei melodie îți rămâne în minte și îți răsună acolo zile la rând, în momentele cele mai tâmpite, când vrei să te relaxezi, seara sau la vreo întâlnire importantă, unde trebuie să fii serios. O auzi și în somn. Sau în timp ce faci sex. Te urmărește peste tot și nu poți să scapi de ea.
 
-Am scris și pe blog de mai multe ori despre reclame enervante, ca de exemplu [Parizaki](/posts/una-pe-zi-parizache-cu-ursi-gumosi/), [Farmacia inimii, Catena](/posts/una-pe-zi-un-jingle-de-anii-80/) sau [Tranzactiv](/posts/transactiv-dezgust/).
+Am scris și pe blog de mai multe ori despre reclame enervante, ca de exemplu Parizaki, Farmacia inimii, Catena sau Tranzactiv.
 
 Hai să facem o listă cu **cele mai enervante reclame** , că vreau să găsesc cea mai enervantă dintre cele mai enervante reclame.
 

@@ -6,7 +6,7 @@ tags: ["bere", "distractiv", "spoof"]
 author: titus_capilnean
 ---
 
-După ce pe la sfârșitul lui Mai am scris articolul despre [berea Golden Brau](/posts/i-am-a-golden-brau-er/) și campania lor de punere în lumină a consumatorului de bere ce merită premiat, am primit pe Twitter link-ul către un spoof al campaniei.
+După ce pe la sfârșitul lui Mai am scris articolul despre berea Golden Brau și campania lor de punere în lumină a consumatorului de bere ce merită premiat, am primit pe Twitter link-ul către un spoof al campaniei.
 
 Spoof-ul aparține Happy Fish și ilustrează pasiunea unui șofer de autobuz, Costică Brehar, care merită o bere la 4.31, pentru că la 4.30 se scoală sau se trezește. Personajul nostru se îmbată progresiv pe parcursul reclamei și devine din ce în ce mai incoerent. Singura chestie care e în stare să o mai zică este că el vrea bere și că merită bere, evident cu berea în mână.
 

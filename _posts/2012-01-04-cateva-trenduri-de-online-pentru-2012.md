@@ -18,7 +18,7 @@ De câțiva ani se tot vorbește despre moartea bannerului și trecerea la alte 
 
 Conținutul branduit(traducere forțată) e o îmbinare eficace între conținut și branding, care dă credibilitate și consistență mesajelor pe care companiile le au de comunicat cu ajutorul(atenție, nu prin, ci cu ajutorul) principalilor publisheri online. Cred că e momentul în care o să trecem de la clasicele advertoriale, marcate ca atare, la secțiuni susținute, construite și menținute în strânsă colaborare cu departamentele de comunicare din rândul marilor investitori în publicitatea online.
 
-Desigur, campania de branded content nu trebuie să fie izolată de restul peisajului de comunicare, ci ar trebui să facă parte din [strategia anuală de online](/posts/cum-construiesti-o-strategie-anuala-de-online/), pe care fie și-a definitivat-o fiecare în decembrie, fie acum lucrează la ea și o va finaliza până la sfârșitul lunii curente.
+Desigur, campania de branded content nu trebuie să fie izolată de restul peisajului de comunicare, ci ar trebui să facă parte din strategia anuală de online, pe care fie și-a definitivat-o fiecare în decembrie, fie acum lucrează la ea și o va finaliza până la sfârșitul lunii curente.
 
 ## 2\. Jocuri cu recurență vs. one-shots
 

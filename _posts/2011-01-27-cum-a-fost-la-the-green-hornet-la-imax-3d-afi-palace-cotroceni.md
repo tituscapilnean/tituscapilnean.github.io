@@ -9,7 +9,7 @@ author: titus_capilnean
 ![Imax3D](http://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Imax3D.JPG/300px-Imax3D.JPG)
     Image via Wikipedia
 
-Am fost miercuri seară la **AFI Palace Cotroceni, la singurul cinematograf IMAX 3D din România**. Nu mai fusesem aici de la [Prince of Persia](/posts/prince-of-persia-sands-of-time-2/) și uitasem cum se vede 3D-ul autentic.
+Am fost miercuri seară la **AFI Palace Cotroceni, la singurul cinematograf IMAX 3D din România**. Nu mai fusesem aici de la Prince of Persia și uitasem cum se vede 3D-ul autentic.
 
 La cinema 3D obișnuit, din ăla digital, am mai fost între timp, însă pot să zic din start că nu se compară. IMAX e mai mare, e mai bun, simți că vin elementele grafice peste tine, se aude mișto, ce să mai. Merită.
 

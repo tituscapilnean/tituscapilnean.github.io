@@ -13,7 +13,7 @@ author: titus_capilnean
 
 În iulie 2009 cifrele **s-au dublat** , la 227.820 utilizatori din România, din care 210.860 peste 18 ani, 119.700 de sex feminin si 94.500 de sex masculin.
 
-Un studiu un pic mai detaliat aveți în articolul despre [numerele Facebook din România pe August – 255.000](/posts/statistici-facebook-la-zi/) și [numerele pe Septembrie 2009 – 270.000](/posts/statisitici-facebook-la-zi-septembrie-2009/), unde puteți să vedeți că a scăzut puțin rata de creștere.
+Un studiu un pic mai detaliat aveți în articolul despre numerele Facebook din România pe August – 255.000 și numerele pe Septembrie 2009 – 270.000, unde puteți să vedeți că a scăzut puțin rata de creștere.
 
 
 

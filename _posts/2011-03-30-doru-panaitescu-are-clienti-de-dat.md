@@ -6,7 +6,7 @@ tags: ["agentii", "campanii", "oferte", "oportunitate"]
 author: titus_capilnean
 ---
 
-Știu că mă citesc oameni care lucrează în agenții de online, de când am mai scris despre cei care fac [campanii pe bloguri](/posts/cine-face-campanii-pe-bloguri-in-romania/), plus alte ocazii mai vechi.
+Știu că mă citesc oameni care lucrează în agenții de online, de când am mai scris despre cei care fac campanii pe bloguri, plus alte ocazii mai vechi.
 
 În plus, cred că mă citesc și oameni care se pricep la **online, web copywriting, administrare de conturi de social media**(chiar și pentru firme mici/medii), deci pentru voi semnalez următorul articol:
 

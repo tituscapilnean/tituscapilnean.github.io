@@ -16,7 +16,7 @@ author: titus_capilnean
 
 sursa foto
 
-Din România lipsesc cu desăvârşire studiile despre audienţa de pe Facebook sau Twitter. Pentru cel din urmă am început un recensământ şi am publicat un [mini studiu](/posts/studiu-de-audienta-pe-twitter/) acum câteva zile.
+Din România lipsesc cu desăvârşire studiile despre audienţa de pe Facebook sau Twitter. Pentru cel din urmă am început un recensământ şi am publicat un mini studiu acum câteva zile.
 
 Numerele românilor pe Facebook arată în felul următor:
 
@@ -70,4 +70,4 @@ Doar Ucraina are un grad de penetrare mai mic la numărul de utilizatori Faceboo
 
 Mai avem de lucrat la social medi, la numărul de oameni de pe Facebook b-)
 
-Sper că v-a fost util articolul. Poate vă mai interesează şi [mini recensământul Twitter](/posts/studiu-de-audienta-pe-twitter/).
+Sper că v-a fost util articolul. Poate vă mai interesează şi mini recensământul Twitter.

@@ -23,4 +23,4 @@ Sunt doar 99 de locuri disponibile (limitare impusa de TED Global pentru prima e
 
 Ediția clujeană a TEDx e organizată tot de un fost AIESEC-er, în persoana lui Ștefan Teișanu, așa că putem să ne așteptăm la un eveniment foarte fain. Dacă ești din Cluj sau vrei să mergi în Cluj în perioada respectivă, înscrie-te la TEDx.
 
-Dacă vrei să vezi [cum a fost la TEDxBucharest 2009](/tags/tedx/), citește articolele pe care le-am scris despre eveniment. S-ar putea să îți dea un pic de insight asupra modului în care se desfășoară evenimentele astea și ce tip de conținut te poți aștepta să găsești.
+Dacă vrei să vezi cum a fost la TEDxBucharest 2009, citește articolele pe care le-am scris despre eveniment. S-ar putea să îți dea un pic de insight asupra modului în care se desfășoară evenimentele astea și ce tip de conținut te poți aștepta să găsești.

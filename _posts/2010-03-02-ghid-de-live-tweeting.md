@@ -48,16 +48,16 @@ Cu cât devii mai bun la asta, cu atât vei avea șansa să participi la mai mul
 
 P.S.: **Live tweet-urile/live blogging-ul făcut de mine până acum:**
 
-Webstock – [Concluzii și cuprins](/posts/webstock-concluzii-si-cuprins/), [Live Blog](/posts/webstock/), [Webstock 2009 pe Twitter](/posts/webstock09-pe-twitter/)
+Webstock – Concluzii și cuprins, Live Blog, Webstock 2009 pe Twitter
 
-Promotiile acum – [Cum se castiga un Effie](/posts/promotiile-acum-live-cum-se-ca%C8%99tiga-un-effie/), [Do-s and Don-ts](/posts/promotiile-acum-live-do-s-and-dont-s/), [Weiden+Kennedy si Ursus](/posts/promotiile-acum-live-wieden-kennedy-si-ursus/)
+Promotiile acum – Cum se castiga un Effie, Do-s and Don-ts, Weiden+Kennedy si Ursus
 
-RoNewMedia – [jurnalism vs blogging](/posts/ronewmedia-3-0-jurnalism-sau-blogging/), [vazut printr-un hashtag](/posts/ronewmedia-vazut-printr-un-hashtag/)(fara sa fiu acolo)
+RoNewMedia – jurnalism vs blogging, vazut printr-un hashtag(fara sa fiu acolo)
 
-Zilele Biz – [Concluzii](/posts/zilele-biz-cateva-impresii-si-concluzii/), [Live pe Twitter](/posts/zilele-biz-live-ziua-de-marketing-si-media/)
+Zilele Biz – Concluzii, Live pe Twitter
 
-TEDxBucharest – [live tweet și follow-up](/posts/povestea-tedxbucharest-asa-cum-a-fost/)
+TEDxBucharest – live tweet și follow-up
 
-Orange Meetup – [live tweeting](/posts/orange-meetup-live-tweet/)
+Orange Meetup – live tweeting
 
-și prima conferință la care am făcut asta – [Marketing Innovation Conference](/posts/cum-am-castigat-un-ipod-shuffle/), unde am câștigat un iPod Shuffle
+și prima conferință la care am făcut asta – Marketing Innovation Conference, unde am câștigat un iPod Shuffle

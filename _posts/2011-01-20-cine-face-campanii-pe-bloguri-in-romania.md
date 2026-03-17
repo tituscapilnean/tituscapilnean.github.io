@@ -40,7 +40,7 @@ THE PRACTICE este una dintre firmele de PR cu cea mai bogată experiență în c
 2activePR ofera servicii complete de consultanta in comunicare corporate si de marketing, management de criza, campanii de informare si educare, platforme si proiecte CSR, servicii de event management si marketing, servicii de audit online, campanii de social media. Din portofoliul digital al agentiei fac parte Lenovo Romania, Coty Cosmetics (Rimmel, Astor), Ingrid Vlasov, URSUS Breweries (URSUS, Timisoreana), P&G (P&G Beauty, Braun), Anchor Grup (Plaza Mall, Bucuresti Mall).  
 In 2009, 2activePR a devenit, oficial, partenerul afiliat al retelei internationale Fleishman-Hillard in Romania.
 
-Wunderman – agentie de digital, anul trecut am fost implicat si eu in campania pentru Nokia, [Goana dupa Blogger](/posts/imi-schimb-numele-din-titus-in-ovi/). Nu-mi vine să cred că am uitat de ei.
+Wunderman – agentie de digital, anul trecut am fost implicat si eu in campania pentru Nokia, Goana dupa Blogger. Nu-mi vine să cred că am uitat de ei.
 
 MRM Worldwide, mecanismul de interactive al grupului McCann: creatori de Vanda dupa chipul si asemanarea lor, headhunteri de missez si misteri Koyosi, lideri de sindicat la uzina “Cuptorul” By Burn, deschizatori de America pentru batoane de ciocolata cu rom. Din cand in cand arhivam totul aici, loc de aruncat cu ochiul: www.mrmworldwide.ro/blog/
 

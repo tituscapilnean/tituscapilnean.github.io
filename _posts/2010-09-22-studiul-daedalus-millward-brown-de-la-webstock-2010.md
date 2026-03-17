@@ -6,7 +6,7 @@ tags: ["daedalus", "statistici", "studiu"]
 author: titus_capilnean
 ---
 
-În sfârșit am reușit să revăd prezentarea Daedalus de la [ediția din 2010 a Webstock](/posts/webstock-2010-live-update/). În ea o să vezi peisajul rețelelor sociale din România, ponderi și procente pentru fiecare din rețelele mari.
+În sfârșit am reușit să revăd prezentarea Daedalus de la ediția din 2010 a Webstock. În ea o să vezi peisajul rețelelor sociale din România, ponderi și procente pentru fiecare din rețelele mari.
 
 Așa cum spuneam și în articolul live, vorbim mai mult despre Facebook în ultima vreme, în locul Hi5-ului din 2009.
 

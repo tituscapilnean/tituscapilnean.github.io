@@ -8,11 +8,11 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2011/08/less_is_more-150x150.jpg
 ---
 
-Au trecut mai mult de două luni de la lansarea inițiativei lui Chinezu împreună cu Revista Biz(și anume Blogal Intiative) și cred că le-ar prinde bine un mic feedback de la unul din participanții de la prima lor campanie – [BCR Refinanțare](/tags/refinantare/).
+Au trecut mai mult de două luni de la lansarea inițiativei lui Chinezu împreună cu Revista Biz(și anume Blogal Intiative) și cred că le-ar prinde bine un mic feedback de la unul din participanții de la prima lor campanie – BCR Refinanțare.
 
 N-are rost să intru într-o polologhie despre cât de bine e să implici în campanii( altele decât cele strict de PR) și bloggeri mai mici, dar mai mulți, că treaba asta crește blogosfera și impulsionează oamenii să crească și să scrie mai bine. Asta-i foarte bine și din punctul ăsta salut inițiativa.
 
-Totuși, nu pot să nu observ faptul că de la prima campanie, cu premii destul de motivante și consistente, n-am mai văzut ceva de anvergura aia. Am tot primit anunțuri de campanii de 150 Euro premiul cel mare sau chiar mai mici (aici, aici sau aici). Pe mine genul ăsta de campanii nu o să mă prindă niciodată(am scris [aici de ce](/posts/cum-calculezi-pretul-unui-articol-pe-blog/)) și cred că mai sunt mulți alții ca mine.
+Totuși, nu pot să nu observ faptul că de la prima campanie, cu premii destul de motivante și consistente, n-am mai văzut ceva de anvergura aia. Am tot primit anunțuri de campanii de 150 Euro premiul cel mare sau chiar mai mici (aici, aici sau aici). Pe mine genul ăsta de campanii nu o să mă prindă niciodată(am scris aici de ce) și cred că mai sunt mulți alții ca mine.
 
 Propunerea mea pentru Blogal Initiative este să facă mai bine **o(una bucată) campanie pe lună** , dar cu premii mai mari, în locul a 10 campanii mici. Nu de alta, dar se plictisesc și cititorii dacă le dăm campanii una după alta.
 

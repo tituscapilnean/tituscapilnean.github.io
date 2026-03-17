@@ -17,7 +17,7 @@ author: titus_capilnean
 
 _Nefiind fizic în capitală, am trimis „un tânăr speranț” să afle ce mai fac colegii de la Ymens prin norii pe care îi administrează pentru IMM-uri. Despre cloud și scalabilitate s-a vorbit mult în piață, mai ales după experiența Black Friday, când traficul a fost neobișnuit de mare pe site-urile de ecommerce. Acelea sunt momentele în care softurile dau rateuri, serverele nu alocă suficient de repede resurse și e bine să ai la îndemână o soluție scalabilă de găzduire. Nu zic mai multe, vă las cu povestea lui Robert Lazăr, care a fost la fața locului._
 
-Azi, 29 Noiembrie, ne-am întâlnit cu cei de la Ymens şi de la IBM în Skybar, o locaţie aflată la înălţime, pe Dorobanţi. Accesul s-a făcut pe baza unor insigne cu [QR code](/posts/codurile-qr-ghid-de-utilizare/) pe ele. La scanarea codului, invitaţii erau direcţionaţi către o pagină care le confirmă acccesul (Acces Granted). O iniţiativă simpatică.
+Azi, 29 Noiembrie, ne-am întâlnit cu cei de la Ymens şi de la IBM în Skybar, o locaţie aflată la înălţime, pe Dorobanţi. Accesul s-a făcut pe baza unor insigne cu QR code pe ele. La scanarea codului, invitaţii erau direcţionaţi către o pagină care le confirmă acccesul (Acces Granted). O iniţiativă simpatică.
 
 Discuţia a fost deschisă de Lucian Mândruţă, în calitate de blogger. M-a amuzat că m-a selectat pe mine că exemplu din public. Cică semăn cu prietenul fiicei lui pentru că am părut creţ. Ideea era că Lucian era sceptic în privinţa job-ului acestuia şi credea că e un pierde-vară, dar a descoperit că acesta lucrează în cloud. El lucra de pe unde apucă folosind o tabletă sau un laptop. Se pare că acesta e viitorul.
 
@@ -31,7 +31,7 @@ Am aflat că, din momentul încheierii contractului, este garantată protecţie 
 
 Asta o fi pentru că e în nori(cloud) şi potopul e terestru?
 
-N-a fost [prima întâlnire](/posts/ymens-ro-cloud-services-pentru-toti/) cu ei și, cu siguranță, nici ultima.
+N-a fost prima întâlnire cu ei și, cu siguranță, nici ultima.
 
 _Foto via Mihai Baboi_
 

@@ -18,6 +18,6 @@ O să îl sărbătorim sper cu darts, biliard, bere, bowling, ping-pong și alte
 
 Cam despre asta e vorba. Scoate de la naftalină spiritul de competiție și transformă-te în **after-hours athlete**. Eu așa fac, pentru că joi mă duc la party!
 
-Da, sunt **blogger oficial**. Și da, am mai fost la o [petrecere PUMA](/posts/diseara-ma-duc-sa-imi-personalizez-niste-pume/), probabil [unul din cele mai bune evenimente](/posts/puma-graffitti-creative-factory-pantofi-sport-personalizati-in-6-saptamani/) la care am participat în ultimii ani. Oare cu cine mă văd de data asta?
+Da, sunt **blogger oficial**. Și da, am mai fost la o petrecere PUMA, probabil unul din cele mai bune evenimente la care am participat în ultimii ani. Oare cu cine mă văd de data asta?
 
 **update:** Înscrie-te în echipa națională de after-hours sport, ca să te sponsorizeze PUMA, să dea niște petreceri pentru tine și să curgă cu groupies

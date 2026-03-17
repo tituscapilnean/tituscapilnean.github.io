@@ -6,7 +6,7 @@ tags: ["1-iunie", "copii", "fapta-buna", "zibo"]
 author: titus_capilnean
 ---
 
-M-am apucat de ceva vreme să mă aplec și asupra unor cauze un pic mai sociale, mai ales de când am văzut prima dată ”[Săptămâna familiei, săptămâna fără TV](/posts/consumul-excesiv-de-tv-dauneaza-grav-copilului-tau/)”, a Zibo.ro. Tot de la ei a venit următoarea idee. Să punem pe bloguri următorul manifest:
+M-am apucat de ceva vreme să mă aplec și asupra unor cauze un pic mai sociale, mai ales de când am văzut prima dată ”Săptămâna familiei, săptămâna fără TV”, a Zibo.ro. Tot de la ei a venit următoarea idee. Să punem pe bloguri următorul manifest:
 
 ## Pentru părinți
 

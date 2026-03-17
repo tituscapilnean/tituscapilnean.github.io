@@ -11,7 +11,7 @@ poza de la Fun gift
 
 Ai ajuns **student** în București sau prin țară. Articolul ăsta se adresează mai mult celor din **anul 1** , dar nu îi exclude pe ceilalți. Povestesc din perspectiva anului 1 pentru că acela e din punctul meu de vedere anul potrivit pentru o mică aventură în ONG-uri/organizații studențești, ca alternativă la frecatul grav al mentei prin baruri, terase și cafenele.
 
-Da, **am fost și eu ONGist** la un moment dat(vedeți [tag-ul AIESEC](/tags/aiesec/)), am fost în AIESEC București timp de aproape 3 ani(de prin 2006) și am învățat o grămadă de chestii – vedeți despre Titus și contul meu de linkedin pentru mai multe detalii.
+Da, **am fost și eu ONGist** la un moment dat(vedeți tag-ul AIESEC), am fost în AIESEC București timp de aproape 3 ani(de prin 2006) și am învățat o grămadă de chestii – vedeți despre Titus și contul meu de linkedin pentru mai multe detalii.
 
 Da, cred că e importată o experiență pe timpul facultății din următoarele motive:
 

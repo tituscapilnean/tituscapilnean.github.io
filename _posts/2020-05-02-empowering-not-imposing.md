@@ -56,7 +56,7 @@ Back to my personal story. What helped me turn around was asking myself:
 
 If the answer was no, I would shut up and let others move on with their desired path. If it was yes, I would try to ask more questions. I would also be able to suggest other outcomes as I learned more about what I didn’t know.
 
-Next time you feel like you want to grab people and show them the way forcefully, don’t. [Choose your battles](/posts/competitive-people-choose-your-battles).
+Next time you feel like you want to grab people and show them the way forcefully, don’t. Choose your battles.
 
 Think of it like you are across the field from them. Instead of trying to pull them to your original position, walk towards them and ask them to walk towards you. Now you both have a slightly different perspective about the problem. Now you can try to see a shared path to the solution. Ask questions, listen and walk with them to the shared solution.
 

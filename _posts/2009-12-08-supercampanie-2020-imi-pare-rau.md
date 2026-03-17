@@ -15,6 +15,6 @@ author: titus_capilnean
 
 E o campanie fără cuvinte.
 
-Vezi articolul [ăsta pentru explicație](/posts/ai-ratat-si-defrisarea/).
+Vezi articolul ăsta pentru explicație.
 
 sursa pozelor

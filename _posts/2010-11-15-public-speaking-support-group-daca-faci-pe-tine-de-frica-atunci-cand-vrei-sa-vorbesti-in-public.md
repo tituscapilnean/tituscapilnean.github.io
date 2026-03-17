@@ -35,4 +35,4 @@ Cel mai probabil îi voi vizita din nou, peste două săptămâni(, de data asta
 
 Citește mai departe:
 
-> Am scris anul trecut despre [cum ar trebui să fie structurat un discurs](/posts/ce-lipseste-la-evenimentele-din-bucuresti/).
+> Am scris anul trecut despre cum ar trebui să fie structurat un discurs.

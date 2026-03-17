@@ -9,7 +9,7 @@ author: titus_capilnean
 ![Earned media integrated purchase path](http://farm4.static.flickr.com/3564/3598672142_05385d6cf8_m.jpg)
     Image by dirkshaw via Flickr
 
-Am început discuția [aici](/posts/cum-construiesti-o-strategie-anuala-de-online/), după care Lorand m-a rugat să scriu un articol mai concentrat pe earned media.
+Am început discuția aici, după care Lorand m-a rugat să scriu un articol mai concentrat pe earned media.
 
 _Earned media(în online_) se definește, ca la școală, ca fiind acele materiale de promovare online produse de utilizatori de internet independent de influența directă și financiară a marketingului companiei tale. Se traduce prin articole pe bloguri, tweeturi, update-uri pe Facebook, clipuri pe Youtube/Trilulilu, fotografii pe Flick/Picasa sau mai știu eu ce rețea socială obscură.
 

@@ -8,11 +8,11 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2012/11/Experts2_Fotolia_8872776_XS-150x150.jpg
 ---
 
-Acum ceva vreme scriam despre cum poți să [te ferești de țepe](/posts/ghid-anti-teapa-pentru-clientii-de-online/), despre cum [se cumpără fani](/posts/s-a-dus-dracului-afacerea-cu-cumparatul-de-fani/) și ce consecințe are acțiunea asta asupra activității brandului pe Facebook.
+Acum ceva vreme scriam despre cum poți să te ferești de țepe, despre cum se cumpără fani și ce consecințe are acțiunea asta asupra activității brandului pe Facebook.
 
-Dacă Prigoană a înțeles în primăvară că nu trebuia să cumpere fani din India, antreprenorii români nu obosesc în a face spam cu ofertele lor, de data asta, localizate. Poate, poate cade vreun [expert social media](/posts/cum-iti-dai-seama-ca-nu-esti-expert-social-media/) în plasă.
+Dacă Prigoană a înțeles în primăvară că nu trebuia să cumpere fani din India, antreprenorii români nu obosesc în a face spam cu ofertele lor, de data asta, localizate. Poate, poate cade vreun expert social media în plasă.
 
-Astăzi îl prezint pe un tânăr care vinde fani la ofertă. Ce relevanță pentru brand, ce [ROI](/posts/cum-se-masoara-roi-ul-in-comunicare/)?
+Astăzi îl prezint pe un tânăr care vinde fani la ofertă. Ce relevanță pentru brand, ce ROI?
 
 Priviți mai jos oferta de conturi false/roboței:
 

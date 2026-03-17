@@ -31,7 +31,7 @@ Acum câteva concluzii de la Ziua de Media şi Marketing:
 Concluzii generale:  
 – multă lume a dat cifre de social media neverificate şi vechi  
 – Facebook e _the new black_ în industrie  
-– a lipsit accentul pe studii de caz şi conţinutul concret la unele prezentări, deşi au fost ţinute foarte bine, spre deosebire de [ultima dată când am criticat modul în care se pregătesc speakerii](/posts/ce-lipseste-la-evenimentele-din-bucuresti/)
+– a lipsit accentul pe studii de caz şi conţinutul concret la unele prezentări, deşi au fost ţinute foarte bine, spre deosebire de ultima dată când am criticat modul în care se pregătesc speakerii
 
 Puteţi citi chestii scrise mult mai extensiv de :
 

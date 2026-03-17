@@ -18,7 +18,7 @@ Dacă eu sunt fan Vodafone, dar nu le comentez la statusuri și nici nu le dau l
 
 Deci goana după like-uri și interacțiuni pe Wall a fost limitată din start, de la rădăcină.
 
-Nici nu mă mir după asta că **numărul de interacțiuni a scăzut, în medie, cu 50%** – sper că toți [experții social media](/posts/cum-iti-dai-seama-ca-nu-esti-expert-social-media/) au obeservat scăderea asta. Interacțiuni mai puține = apariții în top news/pe wall-uri mai puține = costuri mai mari pentru fiecare fan adus = ad-uri mai puțin eficiente.
+Nici nu mă mir după asta că **numărul de interacțiuni a scăzut, în medie, cu 50%** – sper că toți experții social media au obeservat scăderea asta. Interacțiuni mai puține = apariții în top news/pe wall-uri mai puține = costuri mai mari pentru fiecare fan adus = ad-uri mai puțin eficiente.
 
 Din cauza asta, **brandurile vor fi nevoite sa bage cu 50% mai mulți bani în ad-uri** , ca să își poată menține rata de creștere cu care erau obișnuiți șefii de la marketing/comunicare.
 

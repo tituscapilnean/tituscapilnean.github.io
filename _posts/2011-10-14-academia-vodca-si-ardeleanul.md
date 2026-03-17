@@ -25,7 +25,7 @@ Primul dintre artiștii ăștia a început treaba aseară, **în clădirea Acade
 
 Lăsând politica la o parte, am fost foarte plăcut surprins de modul în care Absolut a fost integrat în Academie, de organizarea evenimentului și de calitatea băuturii de la bar(evident, tot cu Absolut).
 
-Lui George îi povesteam chiar la fața locului(mersi de invitație, apropo) despre faptul că lansarea Absolut Blank se înscrie în linia celor mai bune evenimente la care am mai fost, ca blogger([Lansarea Puma Creative Factory din 2010](/posts/puma-graffitti-creative-factory-pantofi-sport-personalizati-in-6-saptamani/), [Karting-ul cu bloggeri](/posts/cel-mai-bun-sofer-din-grand-prix-ul-blogosferei/)), cu toate că singurul element de interactivitate a fost dat de baruri, unde băutura curgea rânduri după rânduri.
+Lui George îi povesteam chiar la fața locului(mersi de invitație, apropo) despre faptul că lansarea Absolut Blank se înscrie în linia celor mai bune evenimente la care am mai fost, ca blogger(Lansarea Puma Creative Factory din 2010, Karting-ul cu bloggeri), cu toate că singurul element de interactivitate a fost dat de baruri, unde băutura curgea rânduri după rânduri.
 
 
 

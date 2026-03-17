@@ -12,16 +12,16 @@ După ce am văzut la Piticu și la Simona articolele care făceau retrospectiva
 
 Lista arată în felul următor:
 
-  1. [Transfer de la o facultate la alta](/posts/transfer-de-la-o-facultate-la-alta/) – scris în 2009 
-  2. [Cum va arăta Titusblogul în 2011](/posts/cum-va-arata-titusblogul-in-2011/) – SEO Spam accidental pe 31 Decembrie 2010 
-  3. [De acum poți să schimbi numele paginilor de Facebook](/posts/de-acum-po%C8%9Bi-sa-schimbi-numele-paginii-de-facebook/) – am fost primul care a publicat știrea
-  4. [Cum mi-am amintit de vamaiotul pokerist](/posts/cum-mi-am-amintit-de-vamaiotul-pokerist/) – articol cu care am participat la ultimul concurs de cantitate pe blog. 
-  5. [RoNewMedia 5.0 Live Blogging](/posts/ronewmedia-5-0-live-blogging/) – de la ediția din 2010 
-  6. [Webstock 2010 Live Update](/posts/webstock-2010-live-update/) – încă un live de anul trecut 
-  7. [Povestea TEDxBucharest 2010 așa cum a fost](/posts/povestea-tedxbucharest-2010-asa-cum-a-fost/) – desfășurător și concluzii 
-  8. [Cel mai tare anunț de angajare de până acum](/posts/cel-mai-tare-anunt-de-angajare-de-pana-acum/) – de la băieții de la SnackTools 
-  9. [Cum a fost la Iarmaroc 2010](/posts/cum-a-fost-la-iarmaroc-2010/) – povestea scandalului de anul ăsta, părțile bune și noroiul 
-  10. [Cum să faci o campanie basic pe Facebook](/posts/cum-sa-faci-o-campanie-basic-pe-facebook/) – un how pentru IMM-uri 
+  1. Transfer de la o facultate la alta – scris în 2009 
+  2. Cum va arăta Titusblogul în 2011 – SEO Spam accidental pe 31 Decembrie 2010 
+  3. De acum poți să schimbi numele paginilor de Facebook – am fost primul care a publicat știrea
+  4. Cum mi-am amintit de vamaiotul pokerist – articol cu care am participat la ultimul concurs de cantitate pe blog. 
+  5. RoNewMedia 5.0 Live Blogging – de la ediția din 2010 
+  6. Webstock 2010 Live Update – încă un live de anul trecut 
+  7. Povestea TEDxBucharest 2010 așa cum a fost – desfășurător și concluzii 
+  8. Cel mai tare anunț de angajare de până acum – de la băieții de la SnackTools 
+  9. Cum a fost la Iarmaroc 2010 – povestea scandalului de anul ăsta, părțile bune și noroiul 
+  10. Cum să faci o campanie basic pe Facebook – un how pentru IMM-uri 
 
 
 

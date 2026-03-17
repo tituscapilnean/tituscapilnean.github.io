@@ -8,4 +8,4 @@ author: titus_capilnean
 
 Apple a răspuns frumos și subtil la atacul celor de la Motorola Droid. Ei au fost primii, lor nu le pasă de Droid – doar dacă e R2D2 🙂
 
-Citiți și ce am scris despre celălalt [iDont – cu Motorola](/posts/idont-adica-eu-nu-el-da/).
+Citiți și ce am scris despre celălalt iDont – cu Motorola.

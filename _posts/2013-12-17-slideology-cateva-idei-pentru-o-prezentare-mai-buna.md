@@ -18,7 +18,7 @@ Deci Powerpoint-ul, Prezi-ul sau alte softuri de prezentare nu-s esența, ci sup
 
 > +75 words is a Document. 50 words is a Teleprompter
 
-Asta apropo de slide-urile încărcate pe care le-am tot văzut la evenimentele autohtone. [Repetăm lecțiile](/posts/ce-lipseste-la-evenimentele-din-bucuresti/) până se aude la toată lumea.
+Asta apropo de slide-urile încărcate pe care le-am tot văzut la evenimentele autohtone. Repetăm lecțiile până se aude la toată lumea.
 
 > Time needed to prepare for a presentation (30 slides) – 30-95 hours. Use word-mapping to get out of the cliché/cheesy metaphor trap. Sketch complete ideas, not just images.
 

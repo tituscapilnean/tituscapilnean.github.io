@@ -9,7 +9,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2010/09/troll_2-272x300.jpg
 ---
 
-De fiecare dată când fac [live blogging](/tags/live-blog/), trebuie să stau cel puțin o noapte, ca să pot așeza niște concluzii pe hârtia digitală a blogului. La [Webstock 2010](/posts/webstock-2010-live-update/) n-am făcut excepție, doar că, dis de dimineață, am citit două articole foarte bune despre conferință.
+De fiecare dată când fac live blogging, trebuie să stau cel puțin o noapte, ca să pot așeza niște concluzii pe hârtia digitală a blogului. La Webstock 2010 n-am făcut excepție, doar că, dis de dimineață, am citit două articole foarte bune despre conferință.
 
   
 _*sursa foto_

@@ -6,7 +6,7 @@ tags: ["2010", "animest", "festival-de-animatie"]
 author: titus_capilnean
 ---
 
-Din 2008 urmăresc festivalul ăsta, în 2009 am şi fost acolo, [mi-a plăcut](/posts/animest-deschidere-cu-skepsis/) atât de mult încât am fost şi la retrospectiva de anul ăsta. Ce să mai, sunt fan **Anim’est**.
+Din 2008 urmăresc festivalul ăsta, în 2009 am şi fost acolo, mi-a plăcut atât de mult încât am fost şi la retrospectiva de anul ăsta. Ce să mai, sunt fan **Anim’est**.
 
 Clipul de mai jos e promo-ul de anul ăsta.
 

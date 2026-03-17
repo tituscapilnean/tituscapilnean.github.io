@@ -28,7 +28,7 @@ De aici și subiectul articolului: nu mergi la plajă în Barce. E cam ca la Efo
 
 În peripluul nostru dinspre plajă spre centru, am trecut prin și ne-am jucat în Jardins de Fontsere i Mestre, o parte din parcul ce adăpostește grădina zoologică și Palatul Parlamentului, pe care le-am lăsat pentru o altă vizită.
 
-Am bifat și Arcul de Triumf, acoperit parțial de o sponsorizare bancară pentru NBA și am luat-o tot la picior spre centru, spre celebra Rambla, pe unde am încercat să găsim un restaurant cât mai bine dosit, date fiind sfaturile primite [anterior](/posts/cel-mai-bun-ghid-pentru-barcelona/).
+Am bifat și Arcul de Triumf, acoperit parțial de o sponsorizare bancară pentru NBA și am luat-o tot la picior spre centru, spre celebra Rambla, pe unde am încercat să găsim un restaurant cât mai bine dosit, date fiind sfaturile primite anterior.
 
 Ne-am plasat la _Nostromo_ , unde pentru 15 euro/om am mâncat 2 feluri de mâncare, desert și am primit câte o băutură – totul de la un spaniol și un chinez de o amabilitate rară. Locul se vedea că e mai restrâns, că se gătește cu pasiune, pentru puțini oameni – aveau vreo 7 mese, cu totul.
 

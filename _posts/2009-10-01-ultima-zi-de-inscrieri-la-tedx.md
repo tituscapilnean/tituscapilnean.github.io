@@ -15,6 +15,6 @@ Sfatul meu este să faceţi un exerciţiu foarte simplu. Gândiţi-vă **5 minut
 
 Dacă nu ştiţi ce este TED şi TEDx Bucharest, mai jos am ataşat câteva resurse de unde puteţi află mai multe:
 
-[Despre TEDxBucharest](/posts/tedxbucharest-16-octombrie-mare-concurs/)
+Despre TEDxBucharest
 
-[Idei în 18 minute bucata.](/posts/13-idei-noi-18-minute-fiecare/)
+Idei în 18 minute bucata.

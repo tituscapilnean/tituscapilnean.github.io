@@ -8,7 +8,7 @@ author: titus_capilnean
 #   - http://tituscapilnean.ro/wp-content/uploads/2013/07/IMG_4307-e1374538629720-150x150.jpg
 ---
 
-Luna trecută am fost în China, cu primul curs din programul de Rotation al Executive MBA-ului de la HULT (am terminat anul 1, mai e unul, gotta plan vara viitoare deja), unde am vizitat [Hong Kong](/posts/cateva-idei-despre-hong-kong/)-ul și [Shanghai](/posts/china-e-mai-putin-comunista-decat-imi-imaginam/)-ul. Despre ambele am scris și de bine și de rău, dar de punctat ar fi, înainte să încep povestea San Francisco-ului și a Californiei centrale, că nu mi-au plăcut oamenii, așa în general. Erau puși pe țepe, pe șmechereală, nu puteai să ai încredere în nimeni care vorbea engleză.
+Luna trecută am fost în China, cu primul curs din programul de Rotation al Executive MBA-ului de la HULT (am terminat anul 1, mai e unul, gotta plan vara viitoare deja), unde am vizitat Hong Kong-ul și Shanghai-ul. Despre ambele am scris și de bine și de rău, dar de punctat ar fi, înainte să încep povestea San Francisco-ului și a Californiei centrale, că nu mi-au plăcut oamenii, așa în general. Erau puși pe țepe, pe șmechereală, nu puteai să ai încredere în nimeni care vorbea engleză.
 
 Ei, m-am tot gândit ce m-a surprins cel mai tare la America și ce mi-a plăcut cel mai mult. Oamenii. Oamenii ăștia sunt prietenoși pe stradă, la magazin, la mall, la coadă, în autobuz, în parc, în bar, la hotel, la școală, peste tot. E o cultură a respectului reciproc, a prieteniei, a bunei dispoziții. Am întâlnit foarte mulți oameni foarte relaxați. Poate nu e toată țara așa, dar zona San Francisco – Santa Cruz – Monterey e fix cum am descris-o mai sus, deci extrem de primitoare și locuibilă.
 

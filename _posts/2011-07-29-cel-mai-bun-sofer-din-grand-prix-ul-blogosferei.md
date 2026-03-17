@@ -27,7 +27,7 @@ Lecțiile au fost excelente pentru finală, unde am reușit să concurez cu 4 se
 
 
 
-Cu toate astea, am luat doar locul 9, dar a fost una din cele mai faine experiențe pe care le-am avut ca blogger. Rivalizează cu [săritul cu parașuta](/posts/aerul-e-mai-tare-la-3000-de-metri-deasupra-pamantului/)(UTV) și cu petrecerea [Puma](/posts/puma-graffitti-creative-factory-pantofi-sport-personalizati-in-6-saptamani/) de anul trecut.
+Cu toate astea, am luat doar locul 9, dar a fost una din cele mai faine experiențe pe care le-am avut ca blogger. Rivalizează cu săritul cu parașuta(UTV) și cu petrecerea Puma de anul trecut.
 
 Toată nebunia s-a petrecut în ciruitul din Pipera-Tunari, la AMCKart. Cu siguranță o să revin și la ei.
 

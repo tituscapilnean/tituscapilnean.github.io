@@ -48,6 +48,6 @@ Unii comentatori au mers mai departe și au spus că Twitter s-ar transforma în
 
 Cred că e nevoie de un grad de maturitate și un scop al comunicării ca să poți comunica pe Twitter cu succes. Altfel vei rămâne în scurt timp doar cu spammeri în Followers.
 
-Revenind la România, am spus și în [recensământul utilizatorilor](/posts/studiu-de-audienta-pe-twitter/) de Twitter în România, că doar **5% din românii de pe Twitter dun adolescenți.**
+Revenind la România, am spus și în recensământul utilizatorilor de Twitter în România, că doar **5% din românii de pe Twitter dun adolescenți.**
 
 Este sau nu este Twitter și pentru adolescenți? Eu zic că nu.

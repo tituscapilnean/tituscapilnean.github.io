@@ -16,7 +16,7 @@ _Webstock_
 
 _European Web 2.0 Events: Webstock in RomaniaFollowing the model of Seedcamp and Techcrunch 50, a new non-traditional conference took shape: Webstock (paraphrasing ‘69 Woodstock music festival)._
 
-_In some ways, Webstock is more like a Web 2.0 festival than a startup conference. They call it an “unconference” because it’s not like a traditional conference where only certain people are allowed to speak)._ de pe [thenextweb.com](thenextweb.com)
+_In some ways, Webstock is more like a Web 2.0 festival than a startup conference. They call it an “unconference” because it’s not like a traditional conference where only certain people are allowed to speak)._ de pe [thenextweb.com](https://thenextweb.com)
 
 Neaţa! Pentru cititorii mei, care nu sunt acum la Webstock, am adaugat **Webstock TV** aici.
 

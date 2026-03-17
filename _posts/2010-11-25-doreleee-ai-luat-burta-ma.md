@@ -6,7 +6,7 @@ tags: ["dorel", "sector7", "spoof"]
 author: titus_capilnean
 ---
 
-Sector 7(creatorii [EFIX](/posts/una-pe-zi-e-fix-ca-painea-calda/)) lovește din nou. Dacă ți-era dor de Dorel și de echipa de muncitori, atunci clipul ăsta îți satisface pofta.
+Sector 7(creatorii EFIX) lovește din nou. Dacă ți-era dor de Dorel și de echipa de muncitori, atunci clipul ăsta îți satisface pofta.
 
 **Later Edit:** Clipul e din Septembrie 2009, deci înainte de EFIX. Merci, Vlad!
 

@@ -12,7 +12,7 @@ author: titus_capilnean
 
 Bine, uneori sunt mov, dacă îi bate cineva sau le dă PX-41, dar să nu ne pierdem în detalii. Am fost aseară la Despicable Me 2, în AFI, la Cinema City, în 3D (technical, nu IMAX), grație Ro Image. Ca să înțelegi filmul, din punctul meu de vedere, trebuie să vezi și prima parte, pentru că altfel nu înțelegi cine e Gru, care e treaba cu fetele lui, cu minionii sau cu câinele dubios. Nu-i obligatoriu, dar ajută la construcția ”big picture”-ului.
 
-Filmul e plin de scene foarte amuzante, are niște povești de dragoste, are bătăi, are conspirație, organizații secrete și un virus (PX-41) care transformă orice creatură într-un fel de zombie. De asta cred că trebuie văzut și [World War Z](/posts/world-war-z-ziua-z-apocalipsa-3d/) înainte, ca să te distrezi și de asemănarea între comportamentele zombiilor de acolo și a celor din Despicable Me. Bine, ăștia ultimii sunt mult mai amuzanți.
+Filmul e plin de scene foarte amuzante, are niște povești de dragoste, are bătăi, are conspirație, organizații secrete și un virus (PX-41) care transformă orice creatură într-un fel de zombie. De asta cred că trebuie văzut și World War Z înainte, ca să te distrezi și de asemănarea între comportamentele zombiilor de acolo și a celor din Despicable Me. Bine, ăștia ultimii sunt mult mai amuzanți.
 
 Agnes are, din nou, cea mai tare replică din film, când compară capul lui Gru cu un ou din care iese un pui. Priceless.
 
