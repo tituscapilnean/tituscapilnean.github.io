@@ -9,34 +9,42 @@ effort: max
 
 Generate a publish-ready blog post for tituscapilnean.ro by analyzing the user's top-performing LinkedIn and X (Twitter) posts from the past week.
 
-## Step 1: Gather inputs (ASK BEFORE PROCEEDING)
+## Step 1: Gather inputs
 
-Before doing any analysis or writing, ask the user for ALL of the following:
+The user will typically provide most inputs inline when invoking the skill. Parse what they give you and only ask for what's missing.
 
-1. **LinkedIn export file path** — an `.xlsx` file exported from LinkedIn Analytics (Content tab). If not provided via `$ARGUMENTS`, ask for it.
-2. **X/Twitter export file path** — a `.csv` file exported from X Analytics. If not provided via `$ARGUMENTS`, ask for it.
-3. **Angle or theme preference** — ask: "Is there a specific angle, theme, or narrative you want to emphasize, or should I find the throughline from your top posts?"
-4. **What to exclude** — ask: "Any topics or posts you want me to skip or downplay?"
-5. **Civic tie-in** — ask: "How prominent should the Civic connection be? Options: no mention, subtle/implicit, or explicit."
-6. **Title preference** — ask: "Do you have a working title in mind, or should I propose options after analysis?"
+Required inputs:
+1. **LinkedIn export file path** - an `.xlsx` file exported from LinkedIn Analytics (Content tab). If not provided via `$ARGUMENTS`, ask for it.
+2. **X/Twitter export file path** - a `.csv` file exported from X Analytics. If not provided via `$ARGUMENTS`, ask for it.
+3. **Drafts path** - usually `/Users/tituspml/Documents/Code/social-post-booster-bot/drafts/`. The user may provide this or you can default to it.
 
-Do NOT proceed to Step 2 until the user has answered these questions.
+Optional inputs (use defaults if not specified):
+4. **Angle or theme preference** - default: find the throughline from top-performing posts.
+5. **What to exclude** - default: nothing excluded.
+6. **Civic tie-in** - default: no mention.
+7. **Title preference** - default: propose 3 options after analysis.
+
+Do NOT ask for inputs the user already provided. Only ask for missing required inputs.
 
 ## Step 2: Read and analyze source data
 
+Run all three data reads in parallel:
+
 ### LinkedIn (.xlsx)
 - Use a Python venv at `/tmp/xlsx_venv` to install `openpyxl` if needed and parse the spreadsheet
-- Extract the TOP POSTS sheet — identify posts ranked by impressions and engagements
-- The spreadsheet contains URLs and metrics but NOT post text — you will need to ask the user to paste the text of their top posts, OR check if full post drafts exist in `/Users/tituspml/Documents/Code/social-post-booster-bot/drafts/` (files named `YYYY-MM-DD.md`)
+- Extract the TOP POSTS sheet, which has two ranked lists: by engagements (left columns) and by impressions (right columns)
+- Each row contains: Post URL, Post publish date, and the metric. No post text is included.
+- Correlate post dates with drafts to get full text
 
 ### X/Twitter (.csv)
-- Parse the CSV directly — it contains full post text in the "Post text" column
+- Parse the CSV directly. It contains full post text in the "Post text" column
 - Rank by impressions and engagements
 - Filter to original posts (exclude replies starting with @)
 
 ### Existing drafts
-- Check `/Users/tituspml/Documents/Code/social-post-booster-bot/drafts/` for full-length post drafts that match the date range
-- These contain the complete text that was used for LinkedIn posts
+- Read drafts from `/Users/tituspml/Documents/Code/social-post-booster-bot/drafts/` for dates matching the export range
+- Files are named `YYYY-MM-DD.md` and contain full LinkedIn + X post text, sources, and evaluation scores
+- These are the primary source of post content. Match draft dates to LinkedIn export dates to correlate metrics with full text
 
 ## Step 3: Analyze tone from recent blog posts
 
@@ -49,13 +57,12 @@ Read the 3 most recent English-language posts from `_posts/` to calibrate:
 
 ## Step 4: Identify themes and propose structure
 
-From the top-performing posts across both platforms:
-- Identify the 4-6 strongest themes by combined engagement
-- Find the narrative throughline that connects them
-- Propose 3 title options to the user
-- Propose a section outline (H2 headers) to the user
+Present a ranked table of top posts showing LinkedIn and X metrics side by side, with the theme for each. Then:
+- Identify the narrative throughline that connects them
+- Propose 3 title options
+- Propose a section outline (H2 headers)
 
-**Wait for user approval of title and structure before writing.**
+Keep the proposal concise. **Wait for user approval of title and structure before writing.**
 
 ## Step 5: Write the article
 
@@ -71,6 +78,8 @@ From the top-performing posts across both platforms:
 - **Data**: Include specific numbers, company names, and examples from the source posts. These are what made the posts perform.
 - **Perspective**: First-person where it adds credibility ("Here's what I keep seeing..."), third-person analytical elsewhere.
 - **No fluff**: No "in today's rapidly evolving landscape." No "let's dive in." No "without further ado."
+- **No em dashes**: Use periods, commas, or colons instead. Never use the — character.
+- **No self-referential metrics**: Don't mention post impressions, engagement numbers, or "this was my top post" in the article itself. The data informs which themes to cover, but stays behind the scenes.
 - **Closing**: Callback to the title or opening. One sentence. Make it land.
 - **Length**: 1,200-2,000 words. Long enough to develop ideas, short enough to hold attention.
 
