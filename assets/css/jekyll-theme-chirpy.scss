@@ -1,0 +1,290 @@
+---
+---
+
+$font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+
+@use 'abstracts/variables' with (
+  $theme: '{{ site.theme_mode }}',
+  $font-family-base: $font-family,
+  $font-family-heading: $font-family
+);
+
+/* prettier-ignore */
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* append your custom style below */
+
+/* ---------- Brand palette ---------- */
+
+:root {
+  --color-1: #27f598; /* mint */
+  --color-2: #27ebf5; /* cyan */
+  --color-3: #2784f5; /* blue */
+  --off-white: #faf9f5;
+  --brand-gradient: linear-gradient(
+    90deg,
+    var(--color-1) 0%,
+    var(--color-2) 50%,
+    var(--color-3) 100%
+  );
+}
+
+/* Light: off-white surfaces, ink-darkened brand colors for text (WCAG AA) */
+@mixin brand-light {
+  --main-bg: var(--off-white);
+  --main-border-color: #ebe9e1;
+  --text-color: #2b2e33;
+  --text-muted-color: #5e636b;
+  --heading-color: #16181c;
+  --label-color: #4a4f57;
+  --blockquote-border-color: var(--color-2);
+  --blockquote-text-color: #5e636b;
+  --link-color: #1a63c2;
+  --link-underline-color: rgb(39 132 245 / 35%);
+  --button-bg: var(--off-white);
+  --btn-border-color: #e6e4dc;
+  --checkbox-checked-color: var(--color-3);
+  --img-bg: radial-gradient(circle, #ffffff 0%, #f2f1eb 100%);
+  --menu-bg: var(--off-white);
+  --menu-border-color: var(--off-white);
+  --menu-highlight-bg: rgb(39 235 245 / 12%);
+
+  --site-title-color: #16181c;
+  --site-subtitle-color: #5e636b;
+  --sidebar-bg: #f2f1eb;
+  --sidebar-border-color: #e6e4dc;
+  --sidebar-muted-color: #4a4f57;
+  --sidebar-active-color: #16181c;
+  --sidebar-hover-bg: rgb(39 235 245 / 14%);
+  --sidebar-btn-bg: var(--off-white);
+  --sidebar-btn-color: #5e636b;
+  --avatar-border-color: var(--off-white);
+
+  --topbar-bg: rgb(250 249 245 / 78%);
+  --topbar-text-color: #2b2e33;
+  --search-border-color: #e6e4dc;
+  --input-focus-border-color: var(--color-3);
+
+  --post-list-text-color: #4a4f57;
+  --btn-patinator-text-color: #2b2e33;
+  --btn-paginator-hover-color: rgb(39 132 245 / 12%);
+
+  --toc-highlight: #1a63c2;
+  --btn-share-hover-color: var(--color-3);
+  --card-bg: #ffffff;
+  --card-hover-bg: #f2f1eb;
+  --card-shadow:
+    rgb(22 24 28 / 4%) 0 2px 6px 0, rgb(22 24 28 / 7%) 0 0 0 1px;
+  --footnote-target-bg: rgb(39 235 245 / 22%);
+  --tb-odd-bg: #f5f4ef;
+  --tb-border-color: #e6e4dc;
+  --kbd-bg-color: var(--off-white);
+  --prompt-tip-bg: rgb(39 245 152 / 16%);
+  --prompt-tip-icon-color: #0b7a4b;
+  --prompt-info-bg: rgb(39 235 245 / 16%);
+  --prompt-info-icon-color: #0a7480;
+
+  --tag-border: #e6e4dc;
+  --tag-hover: rgb(39 132 245 / 12%);
+  --search-tag-bg: #f2f1eb;
+  --categories-hover-bg: rgb(39 235 245 / 10%);
+  --categories-icon-hover-color: #1a63c2;
+  --timeline-node-bg: var(--color-3);
+  --timeline-year-dot-color: var(--off-white);
+
+  --highlight-bg-color: #f2f1eb;
+  --inline-code-bg: rgb(39 132 245 / 8%);
+  --code-color: #1f3f6b;
+
+  .highlight,
+  .highlight .w {
+    background-color: #f2f1eb;
+  }
+}
+
+/* Dark: near-black blue-gray, brand colors bright enough to use as text */
+@mixin brand-dark {
+  --main-bg: #121519;
+  --main-border-color: #22272e;
+  --text-color: #c9ccd1;
+  --text-muted-color: #8b9099;
+  --heading-color: var(--off-white);
+  --blockquote-border-color: var(--color-3);
+  --link-color: var(--color-2);
+  --link-underline-color: rgb(39 235 245 / 35%);
+  --button-bg: #181c21;
+  --btn-border-color: #262b33;
+  --checkbox-checked-color: var(--color-2);
+  --menu-bg: #181c21;
+  --menu-highlight-bg: rgb(39 235 245 / 10%);
+
+  --site-title-color: var(--off-white);
+  --sidebar-bg: #0e1114;
+  --sidebar-border-color: #1d2228;
+  --sidebar-active-color: var(--off-white);
+  --sidebar-hover-bg: rgb(39 235 245 / 10%);
+  --sidebar-btn-bg: #181c21;
+  --avatar-border-color: #0e1114;
+
+  --topbar-bg: rgb(18 21 25 / 72%);
+  --input-focus-border-color: var(--color-2);
+
+  --btn-paginator-hover-color: rgb(39 132 245 / 22%);
+
+  --toc-highlight: var(--color-2);
+  --btn-share-hover-color: var(--color-2);
+  --card-bg: #181c21;
+  --card-hover-bg: #22272e;
+  --footnote-target-bg: rgb(39 132 245 / 35%);
+  --tb-odd-bg: #181c21;
+  --tb-even-bg: #14171b;
+  --prompt-tip-bg: rgb(39 245 152 / 10%);
+  --prompt-tip-icon-color: var(--color-1);
+  --prompt-info-bg: rgb(39 235 245 / 10%);
+  --prompt-info-icon-color: var(--color-2);
+
+  --tag-hover: rgb(39 132 245 / 22%);
+  --categories-icon-hover-color: var(--color-2);
+  --timeline-node-bg: var(--color-2);
+  --timeline-year-dot-color: #121519;
+
+  --highlight-bg-color: #181c21;
+
+  .highlight,
+  .highlight .w {
+    background-color: #181c21;
+  }
+}
+
+:root[data-bs-theme='light'] {
+  @include brand-light;
+}
+
+:root[data-bs-theme='dark'] {
+  @include brand-dark;
+}
+
+@media (prefers-color-scheme: light) {
+  :root:not([data-bs-theme]) {
+    @include brand-light;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-bs-theme]) {
+    @include brand-dark;
+  }
+}
+
+/* ---------- Typography ---------- */
+
+/* The theme hardcodes Lato / Oswald in a few spots */
+.pagination,
+kbd,
+#archives .date.day,
+.tag span,
+.share-mastodon {
+  font-family: $font-family;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+
+#sidebar .site-title {
+  font-weight: 800;
+}
+
+::selection {
+  background: rgb(39 235 245 / 35%);
+}
+
+/* ---------- Brand accents ---------- */
+
+/* Thin gradient strip along the top of every page */
+body::before {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: var(--brand-gradient);
+  z-index: 1100;
+  pointer-events: none;
+}
+
+/* Gradient ring around the avatar */
+#sidebar #avatar {
+  box-shadow: none;
+  padding: 3px;
+  background: var(--brand-gradient);
+
+  img {
+    border-radius: 50%;
+  }
+}
+
+/* Active nav item gets a gradient marker */
+#sidebar ul li.nav-item.active .nav-link {
+  position: relative;
+
+  &::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 22%;
+    bottom: 22%;
+    width: 3px;
+    border-radius: 3px;
+    background: linear-gradient(180deg, var(--color-1), var(--color-3));
+  }
+}
+
+/* Replace the theme's orange link hover (%link-hover) with brand blue */
+.content a:not(.img-link):hover,
+.post-meta a:not([class]):hover,
+.post-tail-wrapper .license-wrapper > a:hover,
+.post-edit > a:hover,
+footer a:hover,
+#breadcrumb a:hover,
+#access-lastmod a:hover,
+#page-category a:hover,
+#page-tag a:hover,
+#search-results a:hover {
+  color: var(--color-3) !important;
+  border-bottom: 1px solid var(--color-3);
+}
+
+.content a:not(.img-link) {
+  transition: border-color 0.2s ease, color 0.2s ease;
+}
+
+/* Post titles on the home list */
+#post-list .card-title {
+  font-weight: 700;
+}
+
+#post-list .card-wrapper:hover .card-title {
+  color: var(--link-color);
+}
+
+/* Blockquotes */
+blockquote {
+  border-left-width: 3px !important;
+}
+
+.pagination .page-item.active .page-link {
+  color: var(--link-color);
+  font-weight: 700;
+}
