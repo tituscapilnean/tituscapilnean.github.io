@@ -4,10 +4,7 @@ date: 2009-12-10 11:32:14 +0000
 categories: ["Altele de online", "Social Media"]
 tags: ["alegeri", "chestii-interesante", "distractiv", "dume", "meme", "politica", "social-media"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/12/Memes-danger-388x300.png
 ---
-
 
 
 sursa foto
@@ -29,7 +26,7 @@ Raspuns : Intrebati-l pe Geoana.
 “S-a gasit baietelul batut de Basescu…….se numeste Mircea Geoana!”
 
 “Ce face acum Vanghelie? – Caută pe goagal să vadă ce înseamnă diaspora, să o cheme la ordine”.  
-  
+
 “Cine este în spatele lui Băsescu? Mircea Geoană”.
 
 Cel mai scurt banc: “Geoană, preşedinte!”

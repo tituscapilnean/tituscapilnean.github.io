@@ -4,8 +4,6 @@ date: 2009-10-14 09:13:27 +0000
 categories: ["Evenimente"]
 tags: ["aiesec", "aplicare", "bucharest", "bucuresti", "recruitment", "recrutare"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/10/n656500891_1069718_8381-400x300.jpg
 ---
 
 Mai țin minte anul trecut, când pe vremea asta, mai aveam exact 2 zile până la închiderea aplicărilor pentru AIESEC București și îmi doream să afle cât mai multă lume despre asta. De aceea acum scriu articolul de față. Nu numai AIESEC București are recrutarea în perioada asta, ci și Craiova, Pitești, Ploiești, Galați, Constanța, Iași, Cluj, Târgu Mureș, Sibiu, Brașov, Oradea și Timișoara.

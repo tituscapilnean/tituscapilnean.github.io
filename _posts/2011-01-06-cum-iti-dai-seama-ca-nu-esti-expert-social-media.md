@@ -4,9 +4,9 @@ date: 2011-01-06 09:25:19 +0000
 categories: ["Social Media"]
 tags: ["parere", "social-media"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/01/expert-150x150.png
 ---
+![](/assets/img/posts/2011/cum-iti-dai-seama-ca-nu-esti-expert-social-media/expert-150x150.png)
+
 
 N-am putut să mă abțin să scriu nu despre subiectul ăsta, de care mă simt destul de aproape.
 

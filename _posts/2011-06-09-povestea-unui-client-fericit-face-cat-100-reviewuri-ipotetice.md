@@ -4,9 +4,9 @@ date: 2011-06-09 11:16:45 +0000
 categories: ["Publicitate"]
 tags: ["bcr", "bloggeri", "campanie", "idei", "refinantare"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/06/ct_camp_refinantare_smart_bcr.jpg
 ---
+![](/assets/img/posts/2011/povestea-unui-client-fericit-face-cat-100-reviewuri-ipotetice/ct_camp_refinantare_smart_bcr.jpg)
+
 
 În general, nu sunt fan credite pentru că ajungi să plătești de multe ori dublu sau chiar triplu valorii sumei împrumutate. De exemplu, dacă iei 20.000 euro pe 20 de ani, poți să plătești vreo 60.000 euro la finalul perioadei.
 

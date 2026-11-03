@@ -4,11 +4,6 @@ date: 2010-09-28 12:32:09 +0000
 categories: ["Marketing", "Social Media"]
 tags: ["foursquare", "nokia", "web-2.0"]
 author: titus_capilnean
-# BROKEN_IMAGES: 4 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/09/startech1.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/09/p_480_320_EF224441-2600-4A31-871F-5A6B70EDD1EE.jpeg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/09/p1-400x104.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/09/4sqcnn-319x300.jpg
 ---
 
 Ieri Nokia România a anunţat pe Twitter că Foursquare a introdus, în premieră, aplicaţia pentru Symbian(sistemul de operare de pe telefoanele Nokia) în Ovi Store.

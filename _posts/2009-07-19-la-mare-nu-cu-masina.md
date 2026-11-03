@@ -4,12 +4,6 @@ date: 2009-07-19 20:49:11 +0000
 categories: ["Altele de online"]
 tags: ["anunt", "distractiv", "mare", "masina"]
 author: titus_capilnean
-# BROKEN_IMAGES: 5 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/07/Photo-0074-400x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/07/Photo-0078-400x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/07/Photo-0080-400x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/07/Photo-0082-400x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/07/Photo-0084-400x300.jpg
 ---
 
 Sâmbătă dimineață am plecat spre mare cu mașina, dis de dimineață, pe la 6 jumate, care s-a transformat în 7 și ceva până ne-am adunat toți pasagerii. Am plecat cu un Fiat Punto care promitea să ne ducă destul de repede pe plajă, pe unii în Saturn, pe alții în Vamă. Ar fi trebuit să plecăm mai devreme, știu, mai ales că vineri se blocase drumul spre mare, pe seară.
@@ -22,6 +16,8 @@ Mișcarea asta, la început inteligentă, a ajuns apoi să ne aducă în mijlocu
 
   
   
+![Photo-0074](/assets/img/posts/2009/la-mare-nu-cu-masina/Photo-0074-400x300.jpg)
+
 Eram aproape ultimii într-o coloană care se mișca cu 5 km/h din când în când. Motivul l-am aflat mai încolo, apropiindu-ne de Cernavodă. Am văzut 4 accidente – în total 30 de mașini lovite, oameni accidentați și cioburi + îndoituri pe șosea. Peste tot era plin de poliție și ambulanțe. Atunci am aflat că autostrada fusese închisă cu totul din cauza accidentelor – deci dinspre București nu se mai putea intra.
 
 Am depășit și porțiunea asta cu greu și am decis cu toții că e mai bine să o luăm pe ruta Medgidia – Ciocârlia – Movila Verde – Pecineaga – 23 August – Mangalia, cu drum mai prost, dar liber. Ca idee, prima porțiune, cam 5km e plină de cratere adânci și faci slalom ca în poligon. După ce treci de asta, intri pe DN spre Negru Vodă, drum de 80-90 km/h viteză medie, mașini deloc, peisaje frumoase și semnal doar pe Cosmote 🙂 .

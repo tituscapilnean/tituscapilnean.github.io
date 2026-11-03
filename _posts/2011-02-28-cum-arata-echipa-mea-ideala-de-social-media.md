@@ -4,9 +4,9 @@ date: 2011-02-28 20:27:39 +0000
 categories: ["Online Training"]
 tags: ["echipa", "expert", "internship", "job", "social-media"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/02/logo_SDV-_fonts-400x77.png
 ---
+![](/assets/img/posts/2011/cum-arata-echipa-mea-ideala-de-social-media/logo_SDV-_fonts-400x77.png)
+
 
 Dacă până acum am vorbit despre strategii și ghiduri, e timpul să povestim și despre oameni(inspirația mi-a venit de aici).
 

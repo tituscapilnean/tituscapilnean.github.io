@@ -4,10 +4,10 @@ date: 2009-07-12 16:05:25 +0000
 categories: ["Social Media"]
 tags: ["domeniu", "hosting", "mutare", "nou", "online"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/07/wordpress_icons.jpg
 ---
 
+
+![wordpress_icons](/assets/img/posts/2009/m-am-mutat-aici-e-acasa/wordpress_icons.jpg)
 
 Salut la început de săptămână!
 

@@ -4,8 +4,6 @@ date: 2012-10-22 08:27:11 +0000
 categories: ["Social Media"]
 tags: ["branduri", "facebook", "global", "pagini"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/10/28625109.jpg
 ---
 
 Nu trece luna fără o găselniță a Facebook și nu zic asta în sensul cel mai bun. Dacă Timeline, până la urmă, e o chestiune destul de bună, cel puțin în privința online stalking-ului și al prezenței brandurilor (care a devenit mai colorată), treaba asta cu paginile globale de brand e o mână pierzătoare.

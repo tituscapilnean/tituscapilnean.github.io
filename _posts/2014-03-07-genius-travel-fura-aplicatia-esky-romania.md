@@ -4,9 +4,6 @@ date: 2014-03-07 17:18:36 +0000
 categories: ["Marketing"]
 tags: ["aplicatie", "furt", "online"]
 author: titus_capilnean
-# BROKEN_IMAGES: 2 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2014/03/geniusfurt-150x150.png
-#   - http://tituscapilnean.ro/wp-content/uploads/2014/03/eskyoriginal-150x150.png
 ---
 
 Am scris acum ceva vreme pe Facebook despre o aplicație mișto făcută de eSKY România – **Cât de bine cunoști lumea?**. Puține aplicații de la noi se ridică la nivelul de complexitate și de calitate a User Experience-ului. Dar cum suntem în România, niște băieți de la Genius Travel s-au gândit că e ok să copieze conceptul și mecanica.
@@ -14,6 +11,10 @@ Am scris acum ceva vreme pe Facebook despre o aplicație mișto făcută de eSKY
 
 
 
+
+![](/assets/img/posts/2014/genius-travel-fura-aplicatia-esky-romania/geniusfurt-150x150.png)
+
+![](/assets/img/posts/2014/genius-travel-fura-aplicatia-esky-romania/eskyoriginal-150x150.png)
 
 Au executat băieții tot, ca la carte, la nivel de:
 

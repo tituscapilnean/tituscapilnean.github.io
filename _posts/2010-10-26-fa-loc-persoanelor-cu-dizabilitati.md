@@ -4,10 +4,9 @@ date: 2010-10-26 07:30:00 +0000
 categories: ["Evenimente"]
 tags: ["dizabilitati", "umanitar", "vox-populi"]
 author: titus_capilnean
-# BROKEN_IMAGES: 2 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/10/3360734315_c5618a0495_z-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/10/Poster-5-212x300.jpg
 ---
+![](/assets/img/posts/2010/fa-loc-persoanelor-cu-dizabilitati/3360734315_c5618a0495_z-150x150.jpg)
+
 
 _Acesta este un articol pornit de la un Guest Post primit din partea lui Teo Zăbavă, Active Watch AMP._
 

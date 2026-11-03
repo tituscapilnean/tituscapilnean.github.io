@@ -4,8 +4,6 @@ date: 2010-10-08 07:00:57 +0000
 categories: ["Publicitate"]
 tags: ["2010", "conferinta-de-presa", "ghid", "golden-drum"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/10/DSC01810-400x300.jpg
 ---
 
 Golden Drum Open Awards Ceremony – la categoriile Interactive, Advertising Campaigns, Design & Art Directions, PR și Piran Portoroz Poster competition
@@ -13,6 +11,8 @@ Golden Drum Open Awards Ceremony – la categoriile Interactive, Advertising Cam
 – cu **Olivier Altman** , Pubicis (advertising campaigns) – venit mai tarziu, **Bram de Rooij** , Euro RSCG (interactive), **Roger Kennedy** , Saatchi & Saatchi (design in art direction and Piran Portoroz Poster Award), **Yonathan Dominitz** , Mindscapes (media) și **Eliza Rogalski** , Tempo (PR) – în ordinea de mai jos:
 
 
+
+![](/assets/img/posts/2010/sfaturi-pentru-cei-care-scriu-aplicari-pentru-festivaluri-golden-drum-2010/DSC01810-400x300.jpg)
 
 _Jurizarea – cum a decurs?_
 

@@ -4,8 +4,6 @@ date: 2012-11-29 07:24:44 +0000
 categories: ["Online Training"]
 tags: ["gratuit", "intrebari", "online", "sfaturi"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/11/freeadvice1-400x300.jpg
 ---
 
 În general, nu mă dau înapoi de la a da sfaturi și soluții oricui mă întreabă. Îmi place să contribui cu perspectiva mea asupra unei probleme la care omul cu întrebarea a considerat că aș avea competența să răspund. Nu contează dacă nu ne cunoaștem foarte bine sau ne știm de o viață. Nu numai că îmi dă acel ”warm, fuzzy feeling inside”, ci mă ajută să îmi exersez gândirea pentru treburile pe care le am în propria mea ogradă profesională, așa că e win-win.
@@ -13,6 +11,8 @@ author: titus_capilnean
 Și mai pot să câștig un prieten, dacă e cazul.
 
 
+
+![](/assets/img/posts/2012/intrebarile-si-sfaturile-gratuite/freeadvice1-400x300.jpg)
 
 (sursa foto)
 

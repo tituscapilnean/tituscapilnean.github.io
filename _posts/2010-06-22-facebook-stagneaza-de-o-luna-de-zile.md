@@ -4,10 +4,6 @@ date: 2010-06-22 10:19:14 +0000
 categories: ["Social Media"]
 tags: ["numere-facebook", "utilizatori"]
 author: titus_capilnean
-# BROKEN_IMAGES: 3 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/06/sum_countriesRO__3-400x230.png
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/06/pie_age_countriesRO__3-400x190.png
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/06/pie_countriesRO__3-400x190.png
 ---
 
 Ultima dată când am scris despre numărul de utilizatori români de pe Facebook, era în plină creștere, susținut de reclamele TV ale Vodafone(în principal, care a și introdus ulterior serviciul 0.facebook.com accesibil doar din rețeaua lor , prin care nu consumi date dacă stai pe Facebook).
@@ -38,7 +34,6 @@ Uitându-mă la evoluția de anul trecut a Facebook, ne putem aștepta liniști�
   * vin turiștii din vacanță și vor să își pună pozele pe net -> Facebook
   * încep campaniile de promovare de toamnă, în Telecom
   * intră o nouă generație la liceu/facultate, deci își fac conturi de Facebook, dacă nu au deja
-
 
 
 De când Twitter a început să fie din ce în ce mai instabil, Facebook este mult mai atractiv pentru interactivitatea pe care o garantează, dacă ai un număr suficient de prieteni activi.

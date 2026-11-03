@@ -4,8 +4,6 @@ date: 2011-06-23 08:16:36 +0000
 categories: ["Social Media"]
 tags: ["idei", "leapsa", "planuri", "vise"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/06/wishful_thinking180-150x150.jpg
 ---
 
   

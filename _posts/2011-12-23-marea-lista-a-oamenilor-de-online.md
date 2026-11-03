@@ -4,9 +4,9 @@ date: 2011-12-23 10:25:51 +0000
 categories: ["Altele de online"]
 tags: ["comunicare", "oameni", "online", "recrutare"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/12/Penguins-Explain-Social-Media-450X312_0-150x150.gif
 ---
+![](/assets/img/posts/2011/marea-lista-a-oamenilor-de-online/Penguins-Explain-Social-Media-450X312_0-150x150.gif)
+
 
 Că tot suntem în prag de 2012 și încercăm să fim mai buni, mai deștepți și mai ok cu cei din jurul nostru, m-am gândit eu că n-am mai citit de multă vreme despre tinerii de valoare ai online-ului românesc. Da, există, dar percepția mea e că n-ar fi extraordinar de mulți. Cu toate astea, am încredere că pot fi contrazis din punctul ăsta de vedere, că putem face o mare listă a oamenilor mișto care lucrează în online-ul românesc.
 

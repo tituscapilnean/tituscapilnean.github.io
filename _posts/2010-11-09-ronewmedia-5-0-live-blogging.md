@@ -4,16 +4,9 @@ date: 2010-11-09 08:06:00 +0000
 categories: ["Evenimente", "Social Media"]
 tags: ["live-blog", "ronewmedia"]
 author: titus_capilnean
-# BROKEN_IMAGES: 8 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/11/photo-1-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/11/photo-2-400x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/11/photo-3-400x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/11/photo-4-400x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/11/photo-5-400x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/11/photo-6-400x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/11/photo-7-400x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/11/photo-8-400x300.jpg
 ---
+![](/assets/img/posts/2010/ronewmedia-5-0-live-blogging/photo-1-150x150.jpg)
+
 
 Azi toată ziua sunt la **RoNewMedia 5.0** , unul din evenimentele mari cu și pentru industria de online din România. M-au invitat cei de la BitDefender să particip și să comentez ceea ce vor spune invitații speciali de la Facebook, Yahoo, Google sau Orange, dar și ceilalți vorbitori de pe parcursul zilei.
 
@@ -34,6 +27,8 @@ Despre Check-in nu povestesc, vorbim după – urmează primul debate!
 >  Host: Dragos Stanca – RoNewMedia
 
 
+
+![](/assets/img/posts/2010/ronewmedia-5-0-live-blogging/photo-2-400x300.jpg)
 
 Începem RoNewMedia 5.0 cu un panel plin de nume importante. Din start sunt curios care va fi abordarea, pentru că titlul mi se pare tipic pentru industria de la noi – lupta. Chiar aseară discutam cu cineva – n-ar trebui să ne luptăm, ci ar trebui să lucrăm împreună.
 
@@ -87,6 +82,8 @@ Pauză – 20 minute, să mai recuperăm din întârziere.
 
 
 
+![](/assets/img/posts/2010/ronewmedia-5-0-live-blogging/photo-3-400x300.jpg)
+
 Facebook e o mișcare, nu un website. E o comunitate. Și angajează. Facebook.com/Careers
 
 Mark a fost al doilea angajat de la Facebook din afara US. Primul lucru pe care l-a zis e că nu contează dacă stai mult pe Facebook, asta nu înseamnă căte și pricepi să faci campanii cu ajutorul lui.
@@ -121,6 +118,8 @@ Treaba e în felul următor – nu trebuie să așteptăm Facebook să facă ino
 
 
 
+![](/assets/img/posts/2010/ronewmedia-5-0-live-blogging/photo-4-400x300.jpg)
+
 Urmează Colin. Are 25 de ani de experiență și a zis că toată publicitatea va ajunge să fie digitală. Ei s-au orinetat acum și pe mobile.
 
 Doar în românia rata de penetrare a mobilelor este de 110%. Cei din sală au mai mult de 1 telefon. E o piață încă neexploatată.
@@ -143,6 +142,8 @@ Caracteristicile de mai sus se suprapun din multe puncte de vedere. Dacă îți 
 >  12:45-13:00 Q&A Session
 
 
+
+![](/assets/img/posts/2010/ronewmedia-5-0-live-blogging/photo-5-400x300.jpg)
 
 Sărim peste prezentarea de companie.
 
@@ -173,6 +174,8 @@ Potol.
 
 
 
+![](/assets/img/posts/2010/ronewmedia-5-0-live-blogging/photo-6-400x300.jpg)
+
 Marvin a vorbit la RoNoeMedia în 2008. De atunci s-au schimbat foarte multe lucruri. Online-ul încă e în creștere, deci avem loc în piață. Display-ul n-a murit, va fi locul în care se poate inova. La fel și SEM, vor apărea din ce în ce mai multe posibilități de promovare.
 
 Dacă **Yahoo! vorbește despre Facebook** , atunci e clar care e următoarea platformă de top pentru următorii 3 ani, cel puțin.
@@ -198,6 +201,8 @@ Industria o să crească mai mult, atunci când vom învăța să privim dincolo
 
 
 
+![](/assets/img/posts/2010/ronewmedia-5-0-live-blogging/photo-7-400x300.jpg)
+
 Tim începe prezentarea despre Netlog. Pare o platformă interesantă de care am auzit prea puțin.
 
 Social media e ca o petrecere. Vorbești direct, vii cu o poveste, dai complimente, spui ce îți place, ce nu îți place. Trebuie să fii cât mai uman.
@@ -220,6 +225,8 @@ Păcat că n-au foarte mulți useri în România sau în lume. Nu se pot bate cu
 >  16:30 – 16:45 Q&A Session
 
 
+
+![](/assets/img/posts/2010/ronewmedia-5-0-live-blogging/photo-8-400x300.jpg)
 
 John ne vorbește de inovația care vine din experiențele pe care ai cu cei din jurul tău – nice video.
 

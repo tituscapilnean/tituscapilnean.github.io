@@ -4,10 +4,10 @@ date: 2011-01-10 12:30:10 +0000
 categories: ["Social Media"]
 tags: ["facebook", "fals", "se-inchide", "stire"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/12/facebook.png
 ---
 
+
+![](/assets/img/posts/2011/se-inchide-facebook-nu/facebook.png)
 
 Umblă de vineri o veste falsă pe internet, care spune că Facebook se închide pe 15 Martie. Zvonul ăsta vine în tonul deceselor false anunțate pe rețelele sociale, pe care jurnaliștii incompetenți sau în căutare de senzațional le preiau fără să le verifice.
 

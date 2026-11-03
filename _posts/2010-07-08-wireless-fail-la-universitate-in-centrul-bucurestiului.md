@@ -4,11 +4,11 @@ date: 2010-07-08 08:29:56 +0000
 categories: ["Altele de online", "Cu telefonul"]
 tags: ["bucuresti", "wireless"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/07/wireless-module-191x300.jpg
 ---
 
   
+![](/assets/img/posts/2010/wireless-fail-la-universitate-in-centrul-bucurestiului/wireless-module-191x300.jpg)
+
 Ieri seară am avut nevoie de un pic de internet, pe la ora 7 și ceva. O ardeam aiurea prin zonă și n-am vrut să intru în ceva cafenea/să merg la ceva terasă, ci vroiam să stau în parc, la Universitate, lângă spitalul Colțea(da, în parcul ăla cu arteziane mișto). E mai multă liniște și mă pot concentra mai fain acolo decât în vacarmul din Lipscani.
 
 În mod normal, aveam internetul mobil la mine și n-ar fi trebuit să depind de wireless la fața locului, însă ieri parcă a fost zona crepusculară acolo, pentru că, deși aveam semnal, netul nu mergea. Până la urmă am renunțat și am zis să testez minunea de internet de la Universitate, cu care se tot lăudau diverși edili că ar funcționa.

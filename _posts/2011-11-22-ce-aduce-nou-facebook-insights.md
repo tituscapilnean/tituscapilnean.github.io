@@ -4,15 +4,13 @@ date: 2011-11-22 08:45:41 +0000
 categories: ["Altele de online"]
 tags: ["analize", "facebook", "insights", "nou"]
 author: titus_capilnean
-# BROKEN_IMAGES: 3 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/11/insights-273x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/11/structura-reach-400x183.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/11/viral-reach-400x160.jpg
 ---
 
 De dimineață s-a activat pe paginile mele de Facebook noul sistem de **Insights** , prin care pot să văd mai multe date relevante pentru rapoarte și analize care să mă ajute să înțeleg mai bine structura fanilor, stilul cel mai potrivit de comunicare, modul în care se propagă mesajul etc.
 
 
+
+![](/assets/img/posts/2011/ce-aduce-nou-facebook-insights/insights-273x300.jpg)
 
 ###  Și totuși, ce aduce în plus Facebook Insights?
 

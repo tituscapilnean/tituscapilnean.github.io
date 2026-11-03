@@ -4,9 +4,9 @@ date: 2011-06-21 06:33:42 +0000
 categories: ["Evenimente"]
 tags: ["comunicare", "idei", "live-blog", "marketing360", "online"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/06/marketing360_feat-150x150.jpg
 ---
+![](/assets/img/posts/2011/idei-de-la-marketing-360-live-blogging/marketing360_feat-150x150.jpg)
+
 
 Azi sunt toată ziua la **Marketing 360** , conferință organizată de Manafu&Co(Evensys) și o să captez pe blog toate ideile bune pe care le aud aici. Tot ce trebuie să faci este să dai refresh din când în când și vor apărea informații noi.
 

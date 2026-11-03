@@ -4,8 +4,6 @@ date: 2010-03-29 16:44:56 +0000
 categories: ["Social Media"]
 tags: ["castigatori", "roblogfest-2010"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/03/striphandler.ashx-400x138.gif
 ---
 
 

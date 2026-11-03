@@ -4,11 +4,11 @@ date: 2011-09-18 21:04:16 +0000
 categories: ["Marketing"]
 tags: ["c&c", "groupon", "karting", "reduceri", "teapa"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/09/reduceri-de-pret.jpg
 ---
+![](/assets/img/posts/2011/ce-trebuie-sa-faci-ca-sa-nu-iti-iei-teapa-cu-site-urile-de-reduceri/reduceri-de-pret.jpg)
 
-**Update:** Reprezentanții Groupon au promis că îmi restituie suma și că îmi dau și un voucher cadou, drept compensație. Bună treabă! Bravo](/wp-content/uploads/2011/09/reduceri-de-pret.jpg)
+
+**Update:** Reprezentanții Groupon au promis că îmi restituie suma și că îmi dau și un voucher cadou, drept compensație. Bună treabă! Bravo
 
 Cred că un articol de genul ăsta trebuia să citesc și eu înainte să mă enervez azi cu niște cupoane de karting ieftin pe care le luasem de ceva vreme de pe Groupon.ro. Întâi spun povestea și apoi pașii pe care cred eu că trebuie să îi urmeze oricine ca să fie mulțumit de cupoanele de reducere cumpărate de pe unul din zecile de site-uri de la noi.
 

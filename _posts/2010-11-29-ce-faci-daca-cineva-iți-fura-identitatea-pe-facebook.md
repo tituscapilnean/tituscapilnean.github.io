@@ -4,9 +4,6 @@ date: 2010-11-29 13:17:09 +0000
 categories: ["Social Media"]
 tags: ["facebook", "furt", "identitate"]
 author: titus_capilnean
-# BROKEN_IMAGES: 2 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/11/identity-man-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/11/pyuric-400x248.png
 ---
 
 Astăzi, prin coincidență, am primit din două părți câte o poveste despre cineva căreia îi fusese furată/copiată identitatea pe Facebook.

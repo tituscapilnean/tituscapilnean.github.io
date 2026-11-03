@@ -4,8 +4,6 @@ date: 2009-07-28 20:47:27 +0000
 categories: ["Istoria reclamelor bune"]
 tags: ["mcdonalds", "milkshake", "vaca"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/07/McDRealMilkshake-212x300.jpg
 ---
 
 

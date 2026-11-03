@@ -4,15 +4,6 @@ date: 2012-11-29 18:46:31 +0000
 categories: ["Evenimente"]
 tags: ["cloud", "ibm", "scalabilitate", "ymens"]
 author: titus_capilnean
-# BROKEN_IMAGES: 8 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/11/DSC0022-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/11/DSC0035-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/11/DSC0109-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/11/DSC0111-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/11/DSC0082-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/11/DSC0085-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/11/DSC0092-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/11/DSC0101-150x150.jpg
 ---
 
 _Nefiind fizic în capitală, am trimis „un tânăr speranț” să afle ce mai fac colegii de la Ymens prin norii pe care îi administrează pentru IMM-uri. Despre cloud și scalabilitate s-a vorbit mult în piață, mai ales după experiența Black Friday, când traficul a fost neobișnuit de mare pe site-urile de ecommerce. Acelea sunt momentele în care softurile dau rateuri, serverele nu alocă suficient de repede resurse și e bine să ai la îndemână o soluție scalabilă de găzduire. Nu zic mai multe, vă las cu povestea lui Robert Lazăr, care a fost la fața locului._
@@ -34,6 +25,22 @@ Asta o fi pentru că e în nori(cloud) şi potopul e terestru?
 N-a fost prima întâlnire cu ei și, cu siguranță, nici ultima.
 
 _Foto via Mihai Baboi_
+
+![_DSC0022](/assets/img/posts/2012/scalabilitate-in-cloud-cu-ymens-si-ibm/DSC0022-150x150.jpg)
+
+![_DSC0035](/assets/img/posts/2012/scalabilitate-in-cloud-cu-ymens-si-ibm/DSC0035-150x150.jpg)
+
+![_DSC0109](/assets/img/posts/2012/scalabilitate-in-cloud-cu-ymens-si-ibm/DSC0109-150x150.jpg)
+
+![_DSC0111](/assets/img/posts/2012/scalabilitate-in-cloud-cu-ymens-si-ibm/DSC0111-150x150.jpg)
+
+![_DSC0082](/assets/img/posts/2012/scalabilitate-in-cloud-cu-ymens-si-ibm/DSC0082-150x150.jpg)
+
+![_DSC0085](/assets/img/posts/2012/scalabilitate-in-cloud-cu-ymens-si-ibm/DSC0085-150x150.jpg)
+
+![_DSC0092](/assets/img/posts/2012/scalabilitate-in-cloud-cu-ymens-si-ibm/DSC0092-150x150.jpg)
+
+![_DSC0101](/assets/img/posts/2012/scalabilitate-in-cloud-cu-ymens-si-ibm/DSC0101-150x150.jpg)
 
 
 

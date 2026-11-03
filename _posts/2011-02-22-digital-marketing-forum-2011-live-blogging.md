@@ -4,14 +4,9 @@ date: 2011-02-22 07:34:38 +0000
 categories: ["Evenimente"]
 tags: ["conferinta", "live-blog", "online"]
 author: titus_capilnean
-# BROKEN_IMAGES: 6 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/02/logo-150x150.png
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/02/SDC14509-400x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/02/SDC14533-400x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/02/zoso-BCR-stii-banking-358x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/02/a-400x229.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/02/baiat-joe.jpg
 ---
+![](/assets/img/posts/2011/digital-marketing-forum-2011-live-blogging/logo-150x150.png)
+
 
 **Digital Marketing Forum 2011**(22-23 Februarie) e prima conferință de online din 2011, începe sub zăpezi în București și este a 5-a ediție. Am scris și anul trecut despre el, însă doar de pe Twitter. Nu mai pierd vremea cu alte introduceri.
 
@@ -135,6 +130,8 @@ ONG-urile sunt lideri de comunicare pentru că au devenit o resursă de povești
 În primul rând trebuie să asculți, apoi să analizezi care sunt subiectele principale și apoi să generezi povești pe baza acestor _insight-uri_.
 
 
+![](/assets/img/posts/2011/digital-marketing-forum-2011-live-blogging/SDC14509-400x300.jpg)
+
 Cu ocazia asta am aflat că și Nike și Puma și Reebok au făcut papuci personalizați.
 
 **Cu ce rămânem?**
@@ -171,6 +168,8 @@ Un alt exemplu este să scurtezi drumul de la om la mesajul prinicipalde comunic
 
 **Exemplu** – faci succes online cu un overlayer pentru Citibank sau Toyota, în care încorporezi un microsite.
 
+
+![](/assets/img/posts/2011/digital-marketing-forum-2011-live-blogging/SDC14533-400x300.jpg)
 
 Deși eTarget au zis că display-ul(mă rog, offline) n-ar trebui amestecat cu rezultatele de pe search, Adrian are dreptatea lui – dacă vezi un banner, s-ar putea să cauți pe Google compania respectivă. De asta e bine să ai atât campanii de display standard, cât și search engine ads pe cuvintele cheie legate de brandul/produsul/serviciul tău.
 
@@ -225,6 +224,8 @@ Apoi am trecut din nou prin procesul de Earned, Owned și Paid media, cu mențiu
 
 * * *
 
+![](/assets/img/posts/2011/digital-marketing-forum-2011-live-blogging/zoso-BCR-stii-banking-358x300.jpg)
+
 _Filip Pieczynski_ – Vice President, Gemius SA ne vorbește despre performanța campaniilor și analiza rezultatelor. Așa cum ne spune Filip, rapoartele lor publice au devenit celebre foarte repede, pentru că în România e o nevoie foarte mare de cifre despre piața de online.
 
 Cele mai folosite forme de creative-uri – **Leaderboard, Skyscraper** și **Rectangle**(din standardul IAB). Celalte formate nu prea sunt reprezentate. Situația e cam la fel și în Ungaria. În schimb, în Polonia au inventat double Leaderboard.
@@ -254,6 +255,8 @@ Mobexpert – decizii la birou – reducere de 15% la birouri, nimic special. Au
 
 Joe – propria ta rețea socială offline – au luat exemple din online(cauze, mod invizibil) și le-au transferat în offline – unde nu poți să stai invizibil și chiar poți să rezolvi ceva
 
+
+![](/assets/img/posts/2011/digital-marketing-forum-2011-live-blogging/baiat-joe.jpg)
 
 Au strâns 40.000 de coduri de ambalaje, 100.000 utilizatori unici, din care 10% înregistrați pe site.
 

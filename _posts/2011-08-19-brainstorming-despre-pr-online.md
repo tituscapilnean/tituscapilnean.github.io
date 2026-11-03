@@ -4,9 +4,8 @@ date: 2011-08-19 06:18:11 +0000
 categories: ["Relatii Publice"]
 tags: ["brainstorming", "idei", "imm", "online"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/08/1-150x150.jpg
 ---
+
 
 …sau mai bine zis blogstorming. Vă rog să mă ajutați un pic cu câteva idei.
 

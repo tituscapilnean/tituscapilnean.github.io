@@ -4,11 +4,6 @@ date: 2012-10-04 13:34:56 +0000
 categories: ["Evenimente", "Publicitate"]
 tags: ["cloud", "romania", "saas", "ymens"]
 author: titus_capilnean
-# BROKEN_IMAGES: 4 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/10/20121003_111207-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/10/20121003_111211-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/10/IMG_20121003_111916-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/10/IMG_20121003_114356-150x150.jpg
 ---
 
 _De data asta, pe blog l-am chemat pe Robert Lazăr. Un tânăr de viitor în ale online-ului, care a așternut povestea unei lansări mai cu cântec și cu soft în nori._
@@ -39,6 +34,14 @@ Să redăm și puțin din scenetă:
 
 
 
+
+![](/assets/img/posts/2012/ymens-ro-cloud-services-pentru-toti/20121003_111207-150x150.jpg)
+
+![](/assets/img/posts/2012/ymens-ro-cloud-services-pentru-toti/20121003_111211-150x150.jpg)
+
+![](/assets/img/posts/2012/ymens-ro-cloud-services-pentru-toti/IMG_20121003_111916-150x150.jpg)
+
+![](/assets/img/posts/2012/ymens-ro-cloud-services-pentru-toti/IMG_20121003_114356-150x150.jpg)
 
 Dupa scenetă, băietii de la Ymens au început să prezinte serioși produsul și să răspundă la întrebări.
 

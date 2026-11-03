@@ -4,8 +4,6 @@ date: 2010-12-23 07:37:05 +0000
 categories: ["Evenimente"]
 tags: ["networking", "ong", "sfaturi"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/12/821356_blog-150x150.jpg
 ---
 
 Am multă experiență cu și în ONG-uri, mai mult prin prisma faptului că am fost membru AIESEC timp de vreo 3 ani. După, însă, am avut contact și cu alte ONG-uri prin oamenii cu care m-am văzut pe la evenimente și întâlniri de online. Stau de fiecare dată de vorbă cu ei, pentru că sunt oameni faini și plin de idei și inițiative(mă rog, majoritatea dintre ei). Cu toate aste, mai toți au o carență mare când vine vorba de **follow-up.**

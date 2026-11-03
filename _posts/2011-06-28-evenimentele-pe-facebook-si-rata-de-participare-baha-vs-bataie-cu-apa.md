@@ -4,9 +4,6 @@ date: 2011-06-28 06:00:56 +0000
 categories: ["Social Media"]
 tags: ["campanii", "events", "facebook", "participare"]
 author: titus_capilnean
-# BROKEN_IMAGES: 2 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/06/baha-336x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/06/bataieapa-400x233.jpg
 ---
 
 Urmăresc îndeaproape mecanismele de comunicare pe care le pune Facebook la dispoziție și pot să zic din capul locului că Events este cel mai plin de spam și cel mai lipsit de orice urmă de eficiență, pentru că te lasă să inviți toată lista ta de prieteni, iar prietenii tăi pot invita, la rândul lor întreaga lor listă ș.a.m.d. Există și scripturi care să te ajute să faci asta, însă nu scriu articolul ăsta ca să te învăț să faci spam. Recent, am văzut două exemple foarte bune de folosire a evenimentelor pe Facebook, unul care ilustrează AȘA DA și unul care ilustrează AȘA NU:
@@ -16,6 +13,8 @@ Urmăresc îndeaproape mecanismele de comunicare pe care le pune Facebook la dis
 _Hard facts:_ au fost invitați în jur de 30.000 de oameni, au dat Attending 5000 de oameni, au dat Maybe cam 2000 și au participat aprox. 2500- 3000.
 
 
+
+![](/assets/img/posts/2011/evenimentele-pe-facebook-si-rata-de-participare-baha-vs-bataie-cu-apa/baha-336x300.jpg)
 
 Treaba asta s-a întâmplat nu pentru că au făcut spam ca demenții, ci pentru că au adunat în jurul conceptului o comunitate de petrecăreți.
 

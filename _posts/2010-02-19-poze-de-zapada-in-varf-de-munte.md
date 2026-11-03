@@ -4,10 +4,6 @@ date: 2010-02-19 08:38:50 +0000
 categories: ["Altele de online"]
 tags: []
 author: titus_capilnean
-# BROKEN_IMAGES: 3 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/02/DSC00413-400x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/02/DSC00414-400x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/02/DSC00454-224x300.jpg
 ---
 
 În dimineața asta sparg o nouă sticlă de șampanie pe o corabie fictivă – particip la primul meu concurs foto(nu că aș avea ceva talent la așa ceva, dar cine știe, poate impresionez pe cineva cu pozele absolut geniale pe care le-am făcut weekendul trecut la 2000 de metri deasupra lumii).

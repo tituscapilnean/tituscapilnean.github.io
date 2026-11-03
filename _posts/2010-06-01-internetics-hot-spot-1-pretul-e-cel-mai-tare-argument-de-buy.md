@@ -4,8 +4,6 @@ date: 2010-06-01 22:04:25 +0000
 categories: ["Evenimente", "Social Media"]
 tags: ["hot-spot", "internetics"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/06/photo6-150x150.jpg
 ---
 
 Aprilie – Iunie e sezon de evenimente, așa că am destul de mult de lucru în meseria de participant la ele. Mă duc din 2 motive foarte clare: 1 – networking, 2 – învăț lucruri noi. Criteriile precedente le aplic și în momentul în care evaluez dacă evenimentul la care tocmai am fost e unul util pentru mine sau nu.

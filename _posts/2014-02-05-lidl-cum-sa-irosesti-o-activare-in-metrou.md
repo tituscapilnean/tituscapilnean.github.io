@@ -4,9 +4,9 @@ date: 2014-02-05 14:35:39 +0000
 categories: ["Marketing"]
 tags: ["concept", "executie", "fail", "lidl", "qr-code"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2014/02/photo-400x300.jpg
 ---
+![photo](/assets/img/posts/2014/lidl-cum-sa-irosesti-o-activare-in-metrou/photo-400x300.jpg)
+
 
 Mă enervează să văd că un concept așa de mișto să rateze la capitolul ”activare” într-un loc în care mustește de telefoane mobile deștepte, capabile să scaneze QR code-ul ăla blestemat.  
   

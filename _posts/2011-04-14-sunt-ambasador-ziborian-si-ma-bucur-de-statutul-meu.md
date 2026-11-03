@@ -4,9 +4,9 @@ date: 2011-04-14 16:44:36 +0000
 categories: ["Publicitate"]
 tags: ["ambasador", "campanie", "zibo"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/04/65952-zibo-simple.jpg
 ---
+![](/assets/img/posts/2011/sunt-ambasador-ziborian-si-ma-bucur-de-statutul-meu/65952-zibo-simple.jpg)
+
 
 Zibo.ro, universul online al copiilor, a decis in conformitate cu Principiile Zibo urmatoarele:
 

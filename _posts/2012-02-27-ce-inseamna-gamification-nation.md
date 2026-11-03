@@ -4,11 +4,11 @@ date: 2012-02-27 12:17:27 +0000
 categories: ["Online Training"]
 tags: ["facebook", "gamification", "jocuri", "online"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/02/90142430011120170_qwQJoppo_c-150x150.jpg
 # EMBED_ISSUES: 1 embed(s) need review
 #   - [iframe] http://www.slideshare.net/slideshow/embed_code/11764998
 ---
+![](/assets/img/posts/2012/ce-inseamna-gamification-nation/90142430011120170_qwQJoppo_c-150x150.jpg)
+
 
 Am ținut săptămâna trecută o prezentare(scurtă) despre Gamification la Digital Marketing Forum 2012. Dincolo de slide-urile pe care le-am publicat în finalul acestui articol, cred că e foarte important să revin un pic la întrebarea mea preferată din sală: ”Având toate canalele de comunicare la dispoziție și toate tacticile, cum argumentezi în fața unui investitor/șef necesitatea unui joc online pentru comunicarea de brand?”
 

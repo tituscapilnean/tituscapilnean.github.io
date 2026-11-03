@@ -4,11 +4,11 @@ date: 2009-08-04 15:13:35 +0000
 categories: ["Evenimente"]
 tags: ["ase", "birocratie", "facultate", "transfer"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/08/Photo-0084-342x300.png
 ---
 
 
+
+![Photo-0084](/assets/img/posts/2009/transferul-de-la-o-facultate-la-alta-episodul-2/Photo-0084-342x300.png)
 
 Acum 2 săptămâni am scris un articol cu cei 7 pași pentru un transfer de la o facultate la alta, studiu de caz pe transferul meu de la Finanțe-Bănci, ASE, la Româno-Americană – Marketing.
 

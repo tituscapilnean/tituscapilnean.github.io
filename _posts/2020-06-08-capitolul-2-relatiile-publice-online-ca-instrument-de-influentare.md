@@ -4,8 +4,6 @@ date: 2020-06-08 03:55:42 +0000
 categories: ["PR 3.0"]
 tags: []
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2020/06/Screen-Shot-2020-06-07-at-8.52.11-PM-400x218.png
 ---
 
 ## **2.1. Procesul de influențare în mediul online**
@@ -104,6 +102,8 @@ Din păcate, și România face parte dintre ele, cu o rată de penentrare a Inte
 
 Mai jos se poate vedea cum a crescut numărul de utilizatori de Internet din țara noastră în ultimii 10 ani:
 
+
+![](/assets/img/posts/2020/capitolul-2-relatiile-publice-online-ca-instrument-de-influentare/Screen-Shot-2020-06-07-at-8.52.11-PM-400x218.png)
 
 _Figura nr.1 – Evoluția utilizatorilor de Internet în România_
 

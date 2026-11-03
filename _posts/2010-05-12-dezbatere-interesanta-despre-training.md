@@ -4,9 +4,9 @@ date: 2010-05-12 14:39:46 +0000
 categories: ["Social Media"]
 tags: ["dezbatere", "training"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/05/debate-tude-300x300.jpg
 ---
+![debate-tude](/assets/img/posts/2010/dezbatere-interesanta-despre-training/debate-tude-300x300.jpg)
+
 
 Azi am descoperit pe Twitter o mică dezbatere între Andrei Pleșu și Adi Florea, despre trining, terminologii, utilitate. Discuția a pornit de la articolul scris de dl. Pleșu în Dilema Veche.
 

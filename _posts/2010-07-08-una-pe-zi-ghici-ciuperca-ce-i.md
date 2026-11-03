@@ -4,10 +4,10 @@ date: 2010-07-08 14:36:50 +0000
 categories: ["Istoria reclamelor bune"]
 tags: ["print"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/07/1269913896_13-most-unique-and-smartest-ads-you-ve-never-seen.jpg
 ---
 
+
+![](/assets/img/posts/2010/una-pe-zi-ghici-ciuperca-ce-i/1269913896_13-most-unique-and-smartest-ads-you-ve-never-seen.jpg)
 
 Asta e una din reclamele la care trebuie să fi avut experienţe similare anterioare, cu aripioare sau shaorme. Nu zic mai multe pe front page, te las să te prinzi singur.
 

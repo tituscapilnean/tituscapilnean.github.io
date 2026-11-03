@@ -4,8 +4,6 @@ date: 2009-08-03 08:15:00 +0000
 categories: ["Altele de online"]
 tags: []
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/08/Photo-0084-400x300.jpg
 ---
 
 S-a terminat săptămâna de lucrat de la mare și ne-am întors cu bine înapoi în București.

@@ -4,9 +4,9 @@ date: 2010-11-02 12:11:18 +0000
 categories: ["Social Media"]
 tags: ["altele-de-online", "muzica", "online"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/11/vama_veche_2009-150x150.jpg
 ---
+![](/assets/img/posts/2010/viral-chirila-vs-stanca-sau-invers/vama_veche_2009-150x150.jpg)
+
 
 O parte din voi ați văzut distracția de pe Twitter despre recentul articol al lui Tudor Chirilă, care, se aude, că își lansează o piesă nouă pe joi, cu trupa Vama.
 

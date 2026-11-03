@@ -4,9 +4,9 @@ date: 2011-10-24 10:17:52 +0000
 categories: ["Altele de online"]
 tags: ["aplicatie", "google", "persoane-disparute"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/10/obama-milk-carton-150x150.jpg
 ---
+![](/assets/img/posts/2011/google-lanseaza-people-finder-in-turcia/obama-milk-carton-150x150.jpg)
+
 
 Până azi nici nu știam că Google are un serviciu prin care te ajută să găsești persoanele dispărute ca urmare a dezastrelor naturale sau a altor incidente(pe care le-ai înregistrat în sistemul lor). E ca un fel de anunț pe cutia de lapte în Statele Unite, doar că se materializează într-un badge pe care îl pui pe site-uri.
 

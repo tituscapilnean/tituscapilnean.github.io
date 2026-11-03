@@ -4,9 +4,9 @@ date: 2012-12-19 05:56:34 +0000
 categories: ["Marketing"]
 tags: ["asa-nu", "bricolaj", "chitante", "recomandare", "retur"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/12/mr_Bricolge-150x150.jpg
 ---
+![](/assets/img/posts/2012/evitati-mr-bricolage/mr_Bricolge-150x150.jpg)
+
 
 Nu-mi face plăcere să scriu articole de genul ăsta, am mai spus-o și în alte rânduri, dar cred că e necesar ca brandurile să știe și de genul ăsta de feedback.
 

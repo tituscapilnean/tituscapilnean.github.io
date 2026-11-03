@@ -4,9 +4,8 @@ date: 2011-02-18 08:25:19 +0000
 categories: ["Social Media"]
 tags: ["cititori", "client", "continut", "cum-sa", "vox-populi"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/02/content-or-design-150x150.gif
 ---
+
 
 _Guest post scris de Flo(siteguru.ro)_
 

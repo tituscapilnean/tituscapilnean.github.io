@@ -4,9 +4,9 @@ date: 2010-10-26 17:00:00 +0000
 categories: ["Istoria reclamelor bune"]
 tags: ["parizaki", "viral"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/10/263618_gummy_bears-150x150.jpg
 ---
+![](/assets/img/posts/2010/una-pe-zi-parizache-cu-ursi-gumosi/263618_gummy_bears-150x150.jpg)
+
 
 Datorită Ligiei, am dat peste clipul de mai jos, în care o să auzi o parodie enervantă după celebrul cântec Gummy Bears, cu peste 80 milioane de vizionări pe Youtube. Diferența față de original este că parodia e coloana sonoră a unei reclame pentru Parizer Parizaki, aparent grecesc. Reclama a venit pe rețea, iar ai noștri i-au pus un sound-over în limba română.
 

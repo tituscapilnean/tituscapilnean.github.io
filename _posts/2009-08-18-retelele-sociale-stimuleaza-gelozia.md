@@ -4,11 +4,11 @@ date: 2009-08-18 07:00:22 +0000
 categories: ["Social Media"]
 tags: ["analiza", "cuplu", "gelozie", "inedit", "social-media"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/08/1287381111_3b0e2cdc37-400x266.jpg
 ---
 
 
+
+![1287381111_3b0e2cdc37](/assets/img/posts/2009/retelele-sociale-stimuleaza-gelozia/1287381111_3b0e2cdc37-400x266.jpg)
 
 sursa FOTO
 

@@ -4,10 +4,10 @@ date: 2009-11-27 07:45:45 +0000
 categories: ["Evenimente"]
 tags: ["comunicare", "conferinta", "media", "piata", "zilele-biz"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/11/Untitled-1.png
 ---
 
+
+![ZileleBiz](/assets/img/posts/2009/zilele-biz-live-ziua-de-marketing-si-media/Untitled-1.png)
 
 Am ajuns de ceva vreme la Zilele Biz, în ultima zi, cea de Media și Marketing. Ziua începe cu câteva discursuri triste din partea publisherilor români, care ne povestesc cât de mult a căzut piața de media și cât de mult va mai cădea. Superconstructiv.
 

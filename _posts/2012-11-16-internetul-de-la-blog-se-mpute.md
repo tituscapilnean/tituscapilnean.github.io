@@ -4,9 +4,9 @@ date: 2012-11-16 05:42:02 +0000
 categories: ["Altele de online"]
 tags: ["bloguri", "campanii", "online", "pr"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/11/DSC_0609-150x150.jpg
 ---
+![](/assets/img/posts/2012/internetul-de-la-blog-se-mpute/DSC_0609-150x150.jpg)
+
 
 Simt de ceva mai bine de 6 luni că plutește prin aerul blogoferic și cel al agențiilor o ceață a segregării, un iz de decadență al primului grup și o urmă de dispreț din partea celui de-al doilea grup.
 

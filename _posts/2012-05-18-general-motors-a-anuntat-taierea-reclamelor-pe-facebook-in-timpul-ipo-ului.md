@@ -4,9 +4,9 @@ date: 2012-05-18 09:55:46 +0000
 categories: ["Social Media"]
 tags: ["facebook", "general-motors", "ipo", "reclame"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/05/gm-logo-going-up-150x150.png
 ---
+![](/assets/img/posts/2012/general-motors-a-anuntat-taierea-reclamelor-pe-facebook-in-timpul-ipo-ului/gm-logo-going-up-150x150.png)
+
 
 Acum 3 zile, General Motors anunța că renunță la reclamele pe Facebook, motivând că nu sunt relevante pentru business-ul lor(nu aduc vânzările scontate). (detalii aici)
 

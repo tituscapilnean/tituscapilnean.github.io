@@ -4,8 +4,6 @@ date: 2010-03-09 17:31:22 +0000
 categories: ["Marketing", "Social Media"]
 tags: ["live-blog", "online-meetup", "orange-meetup"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/03/orange-meetup.jpg
 ---
 
 

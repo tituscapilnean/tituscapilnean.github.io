@@ -4,8 +4,6 @@ date: 2010-05-19 07:09:43 +0000
 categories: ["Evenimente"]
 tags: ["bucuresti", "concurs", "explorare"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/05/logo.png
 ---
 
   

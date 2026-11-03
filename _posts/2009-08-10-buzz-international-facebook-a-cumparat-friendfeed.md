@@ -4,10 +4,6 @@ date: 2009-08-10 20:38:08 +0000
 categories: ["Social Media"]
 tags: ["analiza", "anunt", "buzz", "facebook", "friendfeed"]
 author: titus_capilnean
-# BROKEN_IMAGES: 3 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/08/ffeeed-362x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/08/stats.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/08/tw-400x176.jpg
 ---
 
 Cel mai fierbinte subiect al momentului, pe social media, este achiziția FriendFeed de către Facebook. FriendFeed este un agregator de rețele sociale construit de 4 foști angajați la Google.
@@ -15,6 +11,8 @@ Cel mai fierbinte subiect al momentului, pe social media, este achiziția Friend
 În momentul ăsta FriendFeed e blocat la autentificări noi:
 
 
+
+![ffeeed](/assets/img/posts/2009/buzz-international-facebook-a-cumparat-friendfeed/ffeeed-362x300.jpg)
 
 Puteți citi despre subiect pe site-urile internaționale cu detalii și comentarii fierbinți legate de una din cele mai importante achiziții din online – mii de tweet, sute de comentarii deja :
 
@@ -31,6 +29,8 @@ TheStandard.com – Facebook acquires Friendfeed, care a prevăzut achiziția Fr
 Cel mai interesant lucru este evoluția prețului acțiunii FriendFeed din Aprilie 2008 până în Septembrie 2008, de la 47 $ pe acțiune la 3 $ pe acțiune – numai bun pentru achiziție. La acea emisiune de acțiuni Friendfeed strânsese doar 5 milioane de $.
 
 
+
+![stats](/assets/img/posts/2009/buzz-international-facebook-a-cumparat-friendfeed/stats.jpg)
 
 În fine, în acest moment se vorbește de Facebook + FriendFeed = moartea Twitter.
 
@@ -49,6 +49,8 @@ Se chinuie și ei…micuții 🙂
 Facebook şi FriendFeed, pe prima pagină la trending topics pe Twitter, deci omoară Twitter, ci mai degrabă îl stimulează în acest moment. 
 
 
+
+![tw](/assets/img/posts/2009/buzz-international-facebook-a-cumparat-friendfeed/tw-400x176.jpg)
 
 **Update 3:**
 

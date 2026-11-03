@@ -4,9 +4,9 @@ date: 2011-05-19 22:21:09 +0000
 categories: ["Altele de online"]
 tags: ["aiesec", "bucuresti", "bucurestiul-fluiera-fault", "eco", "fault", "vox-populi"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/05/bff-186x300.jpg
 ---
+![](/assets/img/posts/2011/un-mars-si-multe-idei-pentru-o-capitala-curata-si-civilizata-bucurestiul-fluiera-fault/bff-186x300.jpg)
+
 
 _Guest post scris de Delia Radu, PR Officer AIESEC București._
 

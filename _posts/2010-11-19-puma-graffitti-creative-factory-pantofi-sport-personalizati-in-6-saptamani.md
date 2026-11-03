@@ -4,12 +4,9 @@ date: 2010-11-19 13:46:09 +0000
 categories: ["Evenimente", "Publicitate"]
 tags: ["creativitate", "lansare", "puma"]
 author: titus_capilnean
-# BROKEN_IMAGES: 4 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/11/ipad4-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/11/P1060900-010-400x224.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/11/IMG_0642-400x266.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/11/149842_10150091440021204_757311203_7189185_3201115_n-400x225.jpg
 ---
+![](/assets/img/posts/2010/puma-graffitti-creative-factory-pantofi-sport-personalizati-in-6-saptamani/ipad4-150x150.jpg)
+
 
 _Așa se face un eveniment de lansare_
 
@@ -20,7 +17,6 @@ Am ajuns acolo pentru că PUMA a adus în România programul lor prin care poți
 Dacă mergi în AFI Palace Cotroceni le sfârșitul lunii, îți personalizezi o pereche de pantofi și **în 6 săptămâni vin la tine**. N-o să mai aibă nimeni combinația aia de culori și materiale, pentru că sunt foarte multe variante pe care le poți combina.
 
 Treaba asta se face destul de simplu, printr-un soft de iPad, fără să fie nevoie să știi design.
-
 
 
 Trebuie doar să îți alegi culorile, materialele și să le îmbini cum știi tu mai bine.
@@ -35,11 +31,14 @@ Ne-au întâmpinat organizatorii la intrarea in Kristal Glam Club(undeva în Pip
 
 ****
 
+![](/assets/img/posts/2010/puma-graffitti-creative-factory-pantofi-sport-personalizati-in-6-saptamani/IMG_0642-400x266.jpg)
+
 Apoi am intrat și, pentru că am venit mai devreme, am putut să ne jucăm în voie cu iPad-urile și să ne facem încălțări personalizate. Eu mi-am făcut unii cu negru și albastru, dar am uitat să le fac poză – **fun moment #2**
 
 Guess Who și Andi Moisescu au desenat câte 10 perechi de pumeți și i-au expus în mijlocul eveniementului – i-am văzut pe toți și mi-au plăcut cel mai mult ăștia(făcuți de _Guess Who_):
 
 
+![](/assets/img/posts/2010/puma-graffitti-creative-factory-pantofi-sport-personalizati-in-6-saptamani/149842_10150091440021204_757311203_7189185_3201115_n-400x225.jpg)
 
 Ai lui Andi Moisescu erau un pic mai colorați și nu neapărat pe gustul meu. Oricum, ăsta a fost **fun moment #3**
 

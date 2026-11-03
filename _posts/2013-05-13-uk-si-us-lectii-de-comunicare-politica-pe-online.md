@@ -4,9 +4,9 @@ date: 2013-05-13 07:49:15 +0000
 categories: ["Online Training"]
 tags: ["comunicare", "digital", "infrastructura", "internet", "online", "partide", "politica"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/05/vote-150x150.jpg
 ---
+![vote](/assets/img/posts/2013/uk-si-us-lectii-de-comunicare-politica-pe-online/vote-150x150.jpg)
+
 
 Uneori găsesc resurse foarte mișto pe internet, unde sunt lăsate pentru posteritate niște insight-uri din marile campanii sau de la conferințe sau evenimente la care nu am ajuns și nici nu aș fi ajuns în mod normal.
 

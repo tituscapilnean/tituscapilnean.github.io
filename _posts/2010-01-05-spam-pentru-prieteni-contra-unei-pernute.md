@@ -4,8 +4,6 @@ date: 2010-01-05 14:13:46 +0000
 categories: ["Social Media"]
 tags: ["facebook", "perna", "spam"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/01/fbshit-400x292.jpg
 ---
 
 Primesc sute de invitații în fiecare lună la tot felul de grupuri tâmpite de Facebook. Majoritatea sunt de Farmville sau ”hai să fim cel mai mare grup de Facebook pentru că….” și urmează o serie de cauze sociale pentru care te-ai simți imoral să refuzi invitația de la prietenii tăi. Eu le ignor total 🙂

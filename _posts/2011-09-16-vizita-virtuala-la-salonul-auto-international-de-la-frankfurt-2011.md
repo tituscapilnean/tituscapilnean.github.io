@@ -4,9 +4,9 @@ date: 2011-09-16 10:15:31 +0000
 categories: ["Altele de online"]
 tags: []
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/09/736408l-400x255.jpg
 ---
+![](/assets/img/posts/2011/vizita-virtuala-la-salonul-auto-international-de-la-frankfurt-2011/736408l-400x255.jpg)
+
 
 Unul din lucrurile care îmi plac cel mai mult despre internet este că poți să ajungi ușor în locuri pe care altfel n-ai putea să le vezi fără planificare, efort, timp și bani.
 

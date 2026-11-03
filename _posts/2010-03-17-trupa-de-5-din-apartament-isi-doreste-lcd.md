@@ -4,8 +4,6 @@ date: 2010-03-17 07:34:39 +0000
 categories: ["Publicitate"]
 tags: ["alexandrion", "concurs"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/03/tv-400x272.jpg
 ---
 
 M-am mutat cu încă 4 prieteni, de cam o lună, într-un apartament foarte fain. Gașca formată din Adina, Carmen, Oana, Mircea și eu, prezent aici e mulțumită în mare măsură de mișcarea făcută.

@@ -4,10 +4,10 @@ date: 2012-06-11 08:08:49 +0000
 categories: ["Filme Bucuresti"]
 tags: ["baneasa", "digiplex", "film"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/06/mad3_character_large_332x363_sonya-274x300.jpg
 ---
 
+
+![](/assets/img/posts/2012/am-fost-la-madagascar-3-fugariti-prin-europa-2012/mad3_character_large_332x363_sonya-274x300.jpg)
 
 Începem săptămâna cu altceva decât alegeri sau cu altfel de alegeri. Am fost vineri la Madagascar 3, al treilea film din seria de care nu pot să mă mai satur.
 

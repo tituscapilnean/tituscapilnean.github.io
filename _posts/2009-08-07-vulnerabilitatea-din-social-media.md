@@ -4,8 +4,6 @@ date: 2009-08-07 06:48:55 +0000
 categories: ["Social Media"]
 tags: ["anunt", "atac", "denial-of-service", "facebook", "google", "twitter"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/08/achmed.jpg
 ---
 
 ![](http://cache0.techcrunch.com/wp-content/uploads/2009/08/ddos.jpg)

@@ -4,8 +4,6 @@ date: 2012-02-15 14:34:38 +0000
 categories: ["Marketing"]
 tags: ["continut", "dilema", "plata"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/02/37453-0-dilema_veche-150x150.jpg
 ---
 
 Citeam pe Wall-Street că Dilema Veche se mută pe sistem de acces cu plată pentru mare parte din conținutul lor. Ei vor să meargă pe modelul New York Times, însă prețurile sunt adaptate la piața din România.

@@ -4,8 +4,6 @@ date: 2010-01-06 10:02:33 +0000
 categories: ["Social Media"]
 tags: ["liste", "twitter"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/01/blockunblock.png
 ---
 
 La sfârșitul lunii Octombrie, Twitter a introdus listele, ca un nou mod de socializare. Ele adună utilizatorii de același tip și, prin asta, fac mai ușoară găsirea grupurilor cu aceleași interese. În teorie, sună extraordinar de bine. Asta până când unii utilizatori de Twitter se gândesc că ar fi cool să creeze niște liste mai la mișto, așa 🙂

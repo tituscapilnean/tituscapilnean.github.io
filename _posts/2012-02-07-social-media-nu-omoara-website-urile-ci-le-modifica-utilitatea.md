@@ -4,9 +4,9 @@ date: 2012-02-07 12:09:43 +0000
 categories: ["Altele de online"]
 tags: ["social-media", "trenduri", "website"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/02/hub.jpg
 ---
+![](/assets/img/posts/2012/social-media-nu-omoara-website-urile-ci-le-modifica-utilitatea/hub.jpg)
+
 
 Din ce în ce mai mulți bani intră în Facebook, Google, Twitter advertising și din ce în ce mai mult trafic migrează spre rețelele sociale. Cu ocazia asta, mulți marketeri și piariști ar fi tentață să zică – gata, renunțăm la website și ne mutăm cu totul în rețelele sociale, pentru că acolo stă publicul nostru țintă.
 

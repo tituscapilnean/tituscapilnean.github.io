@@ -4,9 +4,6 @@ date: 2010-10-06 21:25:20 +0000
 categories: ["Evenimente"]
 tags: ["2010", "golden-drum"]
 author: titus_capilnean
-# BROKEN_IMAGES: 2 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/10/lotusumbrella-400x282.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/10/aIMAG0058-226x300.jpg
 ---
 
 Acum multe ore s-a terminat **prima zi dinGolden Drum 2010**, pe care am început-o încă de dimineață, de la prima oră, când ne-am prezentat conștiincioși la check-in. Nu s-a trezit prea multă lume la 9, așa că a mers repede.

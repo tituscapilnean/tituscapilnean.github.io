@@ -4,8 +4,6 @@ date: 2013-02-11 10:34:49 +0000
 categories: ["Relatii Publice"]
 tags: ["online", "responsabilitate", "share"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/02/sopa-and-pipa-protest-takes-it-to-the-streets-in-nyc-video-2ed38c9bc2-400x224.jpg
 ---
 
 Am citit acum o vreme articolul de pe Econsultancy, în care un italian n-a vrut să plătească nota și a fost victimizat pe net (culmea!). Ridicol, dar a fost foarte dăunător pentru restaurantul care a pățit-o. Văd zilnic mii de comentarii și articole care zboară cu Share și Like/Tweet pe internet, fără niciun discernământ. Fiecare dintre aceste fluxuri de texte și imagini pot dăuna la un moment dat unei entități comerciale, spirituale sau individuale.
@@ -13,6 +11,8 @@ Am citit acum o vreme articolul de pe Econsultancy, în care un italian n-a vrut
 Chiar dacă apus epoca chain-mailurilor corporatiste, cred că businessurile și brandurile văd singure că s-a schimbat modul în care circulă informațiile și „ _dezinformațiile_ ”.
 
 
+
+![](/assets/img/posts/2013/responsabilitatea-shareuluiretweetului-pe-internet/sopa-and-pipa-protest-takes-it-to-the-streets-in-nyc-video-2ed38c9bc2-400x224.jpg)
 
 **Prostim poporul cu televizorul** s-a transformat în **prostim poporul cu internetul**
 

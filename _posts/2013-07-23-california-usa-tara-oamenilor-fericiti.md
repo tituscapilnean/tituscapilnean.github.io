@@ -4,9 +4,9 @@ date: 2013-07-23 07:18:26 +0000
 categories: ["Turism"]
 tags: ["calatorii", "mba", "usa"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/07/IMG_4307-e1374538629720-150x150.jpg
 ---
+![IMG_4307](/assets/img/posts/2013/california-usa-tara-oamenilor-fericiti/IMG_4307-e1374538629720-150x150.jpg)
+
 
 Luna trecută am fost în China, cu primul curs din programul de Rotation al Executive MBA-ului de la HULT (am terminat anul 1, mai e unul, gotta plan vara viitoare deja), unde am vizitat Hong Kong-ul și Shanghai-ul. Despre ambele am scris și de bine și de rău, dar de punctat ar fi, înainte să încep povestea San Francisco-ului și a Californiei centrale, că nu mi-au plăcut oamenii, așa în general. Erau puși pe țepe, pe șmechereală, nu puteai să ai încredere în nimeni care vorbea engleză.
 

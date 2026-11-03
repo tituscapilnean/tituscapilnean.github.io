@@ -4,9 +4,9 @@ date: 2012-10-12 10:56:09 +0000
 categories: ["Evenimente"]
 tags: ["2012", "iab-forum", "publicitiate", "viitor"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/10/online-ads-150x150.jpg
 ---
+![](/assets/img/posts/2012/publicitatea-se-schimba-clientul-nu-prea-iab-forum-2012/online-ads-150x150.jpg)
+
 
 Când e vorba de schimbare, publicitatea online ar trebui să fie lider, în avangardă, având în vedere că în fiecare an apar platforme noi, rețele noi și mor o parte din cele vechi. Cu toate astea, încă e destul de întâlnită la noi gândirea de tip „pâlnie”, când vine vorba de online. Am întâlnit următoarele două abordări:
 

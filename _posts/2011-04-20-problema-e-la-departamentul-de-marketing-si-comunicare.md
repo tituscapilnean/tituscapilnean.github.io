@@ -4,9 +4,9 @@ date: 2011-04-20 11:25:17 +0000
 categories: ["Marketing"]
 tags: ["analiza", "conversie", "media", "online", "social-media", "unici"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/04/media-buying-150x150.jpg
 ---
+![](/assets/img/posts/2011/problema-e-la-departamentul-de-marketing-si-comunicare/media-buying-150x150.jpg)
+
 
 Prima persoană responsabilă de modul în care o companie se promovează online este chiar omul de marketing/comunicare online din companie, cel care dă comandă, aprobă și modifică toate campaniile online pe care compania le derulează. **Agențiile** sunt, de regulă, **executantele** deciziilor pe care le ia clientul, cu toate că, în mod normal, ar trebui să ofere analiza și expertiza lor în analiza mediaplanului și în alegerea celor mai bune mixuri de bugete.
 

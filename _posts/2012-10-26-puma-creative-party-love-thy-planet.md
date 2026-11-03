@@ -4,11 +4,6 @@ date: 2012-10-26 15:43:58 +0000
 categories: ["Altele de online"]
 tags: ["asa-da", "lansare", "love-thy-planet", "puma", "vox-populi"]
 author: titus_capilnean
-# BROKEN_IMAGES: 4 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/10/20121025_105140-400x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/10/20121025_142833-400x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/10/20121025_142951-400x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/10/20121025_105807-400x300.jpg
 ---
 
 _În 2010 am fost la un eveniment al Puma,cu ocazia lansării Creative Factory. De atunci și până acum, experiența aia a rămas de referință din punct de vedere al modului în care au implicat invitații de la lansare și modul în care au gestionat și livrat „brand experience”-ul._
@@ -19,6 +14,8 @@ La invitaţia celor de la Standout am ajuns la Puma Creative Party. Unii dintre 
 
 
 
+![](/assets/img/posts/2012/puma-creative-party-love-thy-planet/20121025_105140-400x300.jpg)
+
 La acest party au participat atât bloggeri cât şi persoane care au aflat de eveniment de pe Facebook. S-au strâns mulţi oameni să vadă cum funcţionează minunea şi de ce nu, ca să câştige 2000 de euro. Aşadar, s-au format echipe a câte 5 persoane care au primit câte un tricou şi câte o geantă pe care să poată picta.
 
 **Dar ce să pictezi când nu vezi?**
@@ -27,13 +24,19 @@ Asta e partea cea mai amuzantă la conceptul acesta care revoluţionează indust
 
 
 
+![](/assets/img/posts/2012/puma-creative-party-love-thy-planet/20121025_142833-400x300.jpg)
+
 Pentru a desena pe tricouri sau genţi am avut la dispoziţie şi şabloane cu mesaje amuzante sau optimiste. Şabloanele erau fotografii printate în mod negativ şi transparente. Tu umpleai tricoul de vopsea “incolora” puneai fotografia şi apoi ieşeai la soare. Lumina nu trecea prin părţile întunecate ale fotografiei, iar astfel după ce se imprimau culorile duceai tricoul la spălat ca să-l cureţi de vopseaua neactivată.
 
 
 
+![](/assets/img/posts/2012/puma-creative-party-love-thy-planet/20121025_142951-400x300.jpg)
+
 Tricoul meu a fost o demonstraţie a antitalentului artistic aşa că nu i-am făcut nicio poza, dar experienţa a fost una tare faină, care pe mine m-a făcut să mă simt de parcă aş developa filme în lumea contemporană. Am văzut şi tricouri care arătau ca scoase din magazin. Chiar te intrebai cât ar fi costat. Un astfel de tricou a câştigat şi premiul de 2000 de euro.
 
 
+
+![](/assets/img/posts/2012/puma-creative-party-love-thy-planet/20121025_105807-400x300.jpg)
 
 Ideea este că şi tu poţi face astfel de tricouri şi chiar ai şansa de a participa şi tu într-un concurs. Acum poţi să te exprimi prin tricouri unice şi originale realizate chiar de tine. În acest moment doar locuitorii din România, Rusia, Africa de Sud și Polonia pot participa la concurs, deci șanse maxime pentru un concurs internațional.
 

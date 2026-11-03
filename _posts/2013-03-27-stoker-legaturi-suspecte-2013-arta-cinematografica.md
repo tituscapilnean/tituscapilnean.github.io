@@ -4,9 +4,6 @@ date: 2013-03-27 09:21:40 +0000
 categories: ["Filme Bucuresti"]
 tags: ["2013", "film", "nicole-kidman", "thriller"]
 author: titus_capilnean
-# BROKEN_IMAGES: 2 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/03/stoker1-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/03/Stoker-Mia-Wasikowska1-150x150.jpg
 ---
 
 Am fost aseară la un film mortal, la propriu. _Stoker_ sau _Legături suspecte_ e un film care, după părerea mea, ar trebui să aibă restricție pentru persoanele sub 18 ani, nu sub 15. Zic asta nu pentru că ar fi rău, ci pentru că e plin de comportamente deviante și de violență + sex (bine, nu explicit).
@@ -18,5 +15,9 @@ Mi-a plăcut mult, dincolo de suspansul și situațiile surprinzătoare din film
 
 
 
+
+![stoker1](/assets/img/posts/2013/stoker-legaturi-suspecte-2013-arta-cinematografica/stoker1-150x150.jpg)
+
+![Stoker - Mia Wasikowska](/assets/img/posts/2013/stoker-legaturi-suspecte-2013-arta-cinematografica/Stoker-Mia-Wasikowska1-150x150.jpg)
 
 Premiera e vineri, 29 Martie. Mulțumesc **Odeon Film** și **Cinema City** , respectiv **Oxygen PR** pentru invitație.

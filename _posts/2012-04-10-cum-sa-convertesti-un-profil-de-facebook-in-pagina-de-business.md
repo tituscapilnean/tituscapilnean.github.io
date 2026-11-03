@@ -4,8 +4,6 @@ date: 2012-04-10 16:08:53 +0000
 categories: ["Online Training"]
 tags: ["conversie", "facebook", "pagina", "vox-populi"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/04/poza-1-366x300.png
 ---
 
 _**articol scris de fratele meu, Sergiu, expert online în devenire**_
@@ -23,6 +21,8 @@ Acum, chiar dacă procedeul de convertire este destul de simplu (vezi mai jos), 
 – Salvează-ți o copie a content-ului postat pe Facebook, deoarece la mutare se vor salva doar pozele de profil si prietenii și subscriber-ii (transformați în fani). Asta se poate face din secțiunea de Setări ale Contului, la secțiunea Setări Generale.
 
 
+
+![](/assets/img/posts/2012/cum-sa-convertesti-un-profil-de-facebook-in-pagina-de-business/poza-1-366x300.png)
 
 – Fă-ți un plan post-conversie: ce content vrei să păstrezi din cel salvat, la ce interval vrei să îl repostezi, astfel încât să nu te părăsească fanii din cauza paginii goale sau din cauza supra-postărilor, cum să interacționezi cu fanii în noul format, ce campanii poți să lansezi pe FacebookAds, etc…
 

@@ -4,18 +4,11 @@ date: 2009-11-02 23:26:01 +0000
 categories: ["Marketing", "Social Media"]
 tags: ["2009", "facebook", "noiembrie", "numere-facebook", "romania", "statistici"]
 author: titus_capilnean
-# BROKEN_IMAGES: 8 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/08/facebook_logo-400x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/11/crestere-400x220.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/11/varste2-400x249.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/11/sexe2-400x240.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/11/studii2-400x252.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/11/relatii2-400x287.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/11/regiune2-400x218.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/11/ad-400x247.jpg
 ---
 
 
+
+![facebook_logo](/assets/img/posts/2009/facebook-a-depasit-400-000-de-utilizatori-romani/facebook_logo-400x150.jpg)
 
 **Seria de creșteri** în online-ul autohton – nișa social media – continuă cu Facebook, după ce Hi5 a detronat oficial, prin SATI tot ce mișcă la nivel de accesări și afișări pe .ro – aducând pe masă 800.000 de vizitatori unici în fiecare zi. În luna noiembrie e rândul Facebook să schimbe prefixul la numărul de utilizatori români.
 
@@ -26,6 +19,8 @@ Acum 47 de zile am scris că Facebook depășea 300.000 de utilizatori. În doar
 Așa cum am făcut-o în rândurile trecute, am analizat din nou ratele de creștere și am văzut că numărul de utilizatori români pe Facebook a crescut de pe 15 septembrie, când s-a depășit numărul de 300.000, cu **25%, până la 414.020 utilizatori** , rata de creștere redresându-se.
 
 
+
+![crestere](/assets/img/posts/2009/facebook-a-depasit-400-000-de-utilizatori-romani/crestere-400x220.jpg)
 
 Numerele românilor pe Facebook arată în felul următor:
 

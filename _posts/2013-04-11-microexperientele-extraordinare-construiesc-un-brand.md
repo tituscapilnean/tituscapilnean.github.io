@@ -4,13 +4,13 @@ date: 2013-04-11 09:22:43 +0000
 categories: ["Marketing", "Online Training"]
 tags: ["aiesec", "branding", "intern", "training"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/04/aiesec-branding-150x150.png
 # EMBED_ISSUES: 1 embed(s) need review
 #   - [iframe] http://prezi.com/embed/39mwj7aeeu7b/?bgcolor=ffffff&lock_to_path=0&autoplay=0&autohide_ctrls=0&features=undefined&disabled_features=undefined
 ---
 
 
+
+![aiesec branding](/assets/img/posts/2013/microexperientele-extraordinare-construiesc-un-brand/aiesec-branding-150x150.png)
 
 _Primul meu training despre branding – pentru AIESEC Bucuresti_
 

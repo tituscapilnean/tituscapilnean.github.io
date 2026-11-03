@@ -4,9 +4,9 @@ date: 2012-05-17 14:47:15 +0000
 categories: ["Evenimente"]
 tags: ["csr", "lectii", "trenduri"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/05/logo.jpg
 ---
+![](/assets/img/posts/2012/cateva-trenduri-de-csr-pentru-2012-2013/logo.jpg)
+
 
 Zilele trecute am fost la European CSR Lessons, una din puținele conferințe despre responsabilitate într-o țară prea puțin preocupată de genul ăsta de probleme. Doar dacă te uiți în jurul tău, la magazin, pe stradă, la locul de muncă, îți dai seama că nu știi foarte multe din lucrurile pe care le fac sau nu le fac companiile cu care interacționezi în fiecare zi.
 

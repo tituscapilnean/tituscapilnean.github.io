@@ -4,9 +4,9 @@ date: 2011-07-27 10:28:19 +0000
 categories: ["Altele de online"]
 tags: ["domeniu-web", "keyhost", "schimbare"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/07/domain-names-dice-150x150.jpg
 ---
+![](/assets/img/posts/2011/titusblog-net-devine-tituscapilnean-ro/domain-names-dice-150x150.jpg)
+
 
 După mai mult de 2 ani de blogging, am decis că e timpul să trec pe domeniu .ro, domeniu care coincide cu numele meu. Normal și natural. Mă întreb de ce n-am făcut asta până acum.
 

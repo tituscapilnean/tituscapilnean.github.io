@@ -4,13 +4,13 @@ date: 2010-06-08 19:02:31 +0000
 categories: ["Social Media"]
 tags: ["evenimente", "facebook", "liste"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/06/facebook_logo-400x150.jpg
 ---
 
 Citeam săptămâna trecută un articol interesant de-al lui Alex despre ce trebuie să alegi: Pagină de Facebook sau Grup de Facebook. El a sumarizat decizia într-un raționament simplu – **grupul** este pentru **pasiuni/domenii de interes comune** , iar **pagina** pentru **enitități/branduri**.
 
 
+
+![facebook_logo](/assets/img/posts/2010/facebook-intel-despre-evenimente/facebook_logo-400x150.jpg)
 
 De aici și datorită unei întrebări, mi-a venit ideea să scriu despre **Evenimentele de pe Facebook** , atașate fie la grupuri, fie la pagini. Evenimentele permit construirea unei liste de invitați, confirmați, probabili, în așteptare sau care au refuzat invitația. Așa poți sății evidența oamenilor pe care îi aștepți la evenimente, teoretic măcar.
 

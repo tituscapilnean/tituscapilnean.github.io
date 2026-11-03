@@ -4,9 +4,9 @@ date: 2012-10-01 08:56:10 +0000
 categories: ["Evenimente"]
 tags: ["conferinta", "internet", "mobile", "vox-populi"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/09/SM-150x150.png
 ---
+![](/assets/img/posts/2012/internet-mobile-world-2012-cu-ce-am-plecat-de-acolo/SM-150x150.png)
+
 
 _Ocazional, mai primesc internauți în vizită pe blog. De data asta, găzduiesc un articol scris de**Andra Suciu** despre experiența de la Internet & Mobile World pe care au avut-o cei de la agenția **Butterfly Media Group**. Articolul este o completare la ideea de „experiență contra text” pe care am promovat-o aici. Vă las să lecturați._
 

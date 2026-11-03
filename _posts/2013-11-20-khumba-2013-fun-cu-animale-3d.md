@@ -4,9 +4,9 @@ date: 2013-11-20 12:46:26 +0000
 categories: ["Filme Bucuresti"]
 tags: ["3d", "animatie", "film", "khumba"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/11/image010-150x150.jpg
 ---
+![image010](/assets/img/posts/2013/khumba-2013-fun-cu-animale-3d/image010-150x150.jpg)
+
 
 Nimic nu merge mai bine la suflet după o zi lungă la muncă decât o animație 3D cu jumate de sală plină cu copii. Bine, din rândul 2 nu era așa de sesizabil și sunetul filmului a acoperit foarte bine țipetele din sală. Dar nu despre asta e vorba 🙂
 

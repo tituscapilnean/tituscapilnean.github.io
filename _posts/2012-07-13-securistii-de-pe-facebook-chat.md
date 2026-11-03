@@ -4,9 +4,9 @@ date: 2012-07-13 10:26:57 +0000
 categories: ["Social Media"]
 tags: ["chat", "facebook", "monitorizare"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/07/SystemMonitoring_01-150x150.jpg
 ---
+![](/assets/img/posts/2012/securistii-de-pe-facebook-chat/SystemMonitoring_01-150x150.jpg)
+
 
 Mă mir că nu a observat încă și nu a punctat nimeni faptul că Facebook monitorizează conversațiile private de pe chat mai ceva ca tovarășii securiști de pe vremuri. Cică se uită după cuvinte cheie care indică activități ilegale sau înjurături.
 

@@ -4,9 +4,9 @@ date: 2012-02-22 06:19:37 +0000
 categories: ["Online Training"]
 tags: ["campanii", "online", "reguli", "teapa"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/02/teapa_romania-223x300.jpg
 ---
+![](/assets/img/posts/2012/ghid-anti-teapa-pentru-clientii-de-online/teapa_romania-223x300.jpg)
+
 
 Cred că fiecare om care lucrează în online de cel puțin 2 ani a auzit povești de genul “am luat țeapă de la bloggerul x sau agenția y” și, evident, la încă un cui în sicriul industriei de advertising online(așa cum înțeleg unii să o facă).
 

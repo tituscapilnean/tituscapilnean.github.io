@@ -4,9 +4,9 @@ date: 2012-05-01 06:52:10 +0000
 categories: ["Marketing"]
 tags: ["internet", "iphone", "teapa"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/04/iphone-150x150.jpg
 ---
+![](/assets/img/posts/2012/tepe-cu-iphone-4-si-iphone-4s-cumparate-de-pe-okazii/iphone-150x150.jpg)
+
 
 …și nu numai. De curând, am auzit o poveste foarte interesantă. Oareșcine cumpărase acum câteva săptămâni un iPhone 4 de pe un site de anunțuri(de data asta a fost okazii.ro, dar la fel de bine poate să fie oricare altul). Toate bune și frumoase, omul obținuse un preț ok, era fericit și mulțumit. Și-a pus abonamentul în telefon și a început să se poarte normal.
 

@@ -4,8 +4,6 @@ date: 2010-11-24 08:30:13 +0000
 categories: ["Social Media"]
 tags: ["analiza", "linkedin", "romania", "statistici"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/11/Be-Found-on-LinkedIn1.jpg
 ---
 
 ![Image representing LinkedIn as depicted in Cru...](http://www.crunchbase.com/assets/images/resized/0001/1055/11055v8-max-450x450.png)

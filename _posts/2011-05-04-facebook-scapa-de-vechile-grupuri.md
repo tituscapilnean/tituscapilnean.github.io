@@ -4,13 +4,13 @@ date: 2011-05-04 14:40:19 +0000
 categories: ["Social Media"]
 tags: ["facebook", "grupuri", "promovare", "schimbari"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/05/facebookGroups-400x113.jpg
 ---
 
 Dacă ai intrat recent pe un grup de Facebook, ai văzut asta:
 
 
+
+![](/assets/img/posts/2011/facebook-scapa-de-vechile-grupuri/facebookGroups-400x113.jpg)
 
 Hai să clarificăm care-i treaba: grupul vechi, atunci când acesta e arhivat, va fi convertit la noul format grupuri. Aproape tot de la grupul vechi va fi disponibil în grupul arhivat, cu câteva excepţii.
 

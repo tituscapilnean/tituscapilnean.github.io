@@ -4,8 +4,6 @@ date: 2010-03-08 17:37:04 +0000
 categories: ["Altele de online"]
 tags: ["8-martie", "urari"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/03/smiley_big_grin_sticker-p217878688010588288qjcl_400-150x150.jpg
 ---
 
 

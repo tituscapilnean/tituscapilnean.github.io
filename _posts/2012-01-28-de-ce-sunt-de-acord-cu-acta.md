@@ -4,9 +4,9 @@ date: 2012-01-28 09:48:26 +0000
 categories: ["Altele de online"]
 tags: ["2012", "acta", "consecinte", "legi"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/01/Acta.jpg
 ---
+![](/assets/img/posts/2012/de-ce-sunt-de-acord-cu-acta/Acta.jpg)
+
 
 După ce lumea s-a plictisit de SOPA, acum a apărut un nou subiect de agitație pentru micul pirat – fraudator pe online, respectiv în grupurile anarhiste anonymus, de hackeri sau mai știu eu ce. Nu intru în detalii, mai multe puteți citi aici despre ACTA(sursă activistă), ACTA(document oficial din Australia).
 

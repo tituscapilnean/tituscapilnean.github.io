@@ -4,8 +4,6 @@ date: 2010-03-25 13:26:35 +0000
 categories: ["Evenimente", "Marketing"]
 tags: ["creativitate", "margarina", "prforum"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/03/margarina.jpg
 ---
 
   

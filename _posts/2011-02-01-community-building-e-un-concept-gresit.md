@@ -4,11 +4,6 @@ date: 2011-02-01 08:23:56 +0000
 categories: ["Online Training"]
 tags: ["comunitate", "cum-sa", "social-media", "trenduri"]
 author: titus_capilnean
-# BROKEN_IMAGES: 4 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/12/facebook_logo-400x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/02/youtube-logo2-400x282.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/02/apple-logo1-248x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/02/google_logo1-400x166.jpg
 ---
 
 ![Mark Zuckerberg at South by Southwest in 2008.](http://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Mark_Zuckerberg_-_South_by_Southwest_2008_-_3.jpg/300px-Mark_Zuckerberg_-_South_by_Southwest_2008_-_3.jpg)
@@ -35,6 +30,8 @@ Comunitatea, în sine, este un grup de oameni. Nu se bazează pe produse, brandu
 Concret, chestia asta **se reflectă** în câteva dintre produsele și serviciile cu notorietate maximă în lume:
 
 
+![](/assets/img/posts/2011/community-building-e-un-concept-gresit/facebook_logo-400x150.jpg)
+
 Facebook ajută oamenii să comunice mai bine cu prietenii lor. Ei făceau asta oricum, însă Facebook le-a dat posibilitatea să o facă mai ușor și mai rapid, cu mai mulți oameni. **Rezultatul** – Facebook are 600 milioane de utilizatori.
 
 
@@ -43,6 +40,8 @@ Youtube ajută oamenii să se exprime video mult mai ușor, să dea clipurile cu
 
 Apple satisface simultan nevoia oamenilor de gadget-uri și de accesorii care să le dea un statut social. Îi ajută să fie mai cool cu aparaturi utile și interesante. **Rezultatul** – Apple valorează 25 miliarde de dolari.
 
+
+![](/assets/img/posts/2011/community-building-e-un-concept-gresit/google_logo1-400x166.jpg)
 
 Google nu și-a propus să reinventeze internetul, în schimb, ei și-au propus să îl organizeze, pe gratis, urmând să facă bani din alte servicii (publicitate contextuală). **Rezultatul** – Google a devenit verb sinonim pentru căutarea pe internet.
 

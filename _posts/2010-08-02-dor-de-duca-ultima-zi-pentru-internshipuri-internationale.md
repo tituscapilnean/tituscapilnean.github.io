@@ -4,10 +4,10 @@ date: 2010-08-02 14:43:02 +0000
 categories: ["Altele de online"]
 tags: ["aiesec", "international", "joburi"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/08/4371267477087__aiesec-7971051-400x195.gif
 ---
 
+
+![](/assets/img/posts/2010/dor-de-duca-ultima-zi-pentru-internshipuri-internationale/4371267477087__aiesec-7971051-400x195.gif)
 
 Da, AIESEC recrutează studenți sau absolvenți de mai puțin de 2 ani, pe care să îi trimită în internshipuri internaționale de super-calitate 🙂
 

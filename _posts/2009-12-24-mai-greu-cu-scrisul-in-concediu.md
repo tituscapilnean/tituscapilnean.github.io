@@ -4,8 +4,6 @@ date: 2009-12-24 12:35:56 +0000
 categories: ["Altele de online"]
 tags: ["altele-de-online", "craciun"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/12/santa-claus-and-rudolf-reindeer-pop-art-print-102.jpg
 ---
 
 De ieri am intrat într-o stare nefamiliară mie – aka concediu.

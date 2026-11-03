@@ -4,9 +4,9 @@ date: 2012-04-21 08:27:57 +0000
 categories: ["Social Media"]
 tags: ["asa-nu", "cumparat", "facebook", "fani"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/04/Buy-Facebook-Fans-150x150.png
 ---
+![](/assets/img/posts/2012/s-a-dus-dracului-afacerea-cu-cumparatul-de-fani/Buy-Facebook-Fans-150x150.png)
+
 
 Una din părțile bune ale Timeline-ului este că poți să vezi foarte clar dacă o pagină are un număr de fani pe bune sau dacă i-a cumpărat din ceva țară asiatică(tot sunt buni ei la produs orice ieftin și în cantități mari).
 

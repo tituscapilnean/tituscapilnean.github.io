@@ -4,9 +4,9 @@ date: 2009-11-23 13:18:03 +0000
 categories: ["Social Media"]
 tags: ["depresie", "facebook", "fail", "job", "vacanta"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/11/Picture-72.png
 ---
+![Picture-72](/assets/img/posts/2009/depresia-facebook-si-asiguratorii/Picture-72.png)
+
 
 Știți cum ne punem noi pe Facebook pozele?
 

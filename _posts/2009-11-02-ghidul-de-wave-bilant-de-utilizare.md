@@ -4,8 +4,6 @@ date: 2009-11-02 10:42:14 +0000
 categories: ["Social Media"]
 tags: ["cum-se-foloseste", "ghid-wave", "google-wave", "social-media"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/11/google.jpg
 ---
 
 Acum o lună de zile am primit invitația în Google Wave și am dat mai departe alte 7 invitații, pentru cititorii de pe blog. După ce am început să îl folosesc, în regim de test, cu alte 2-3 persoane, Wave mi s-a părut interesant prin noutate, nu atât prin ceea ce știe să facă.

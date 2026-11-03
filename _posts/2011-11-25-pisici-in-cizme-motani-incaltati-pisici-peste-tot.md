@@ -4,9 +4,9 @@ date: 2011-11-25 13:59:28 +0000
 categories: ["Filme Bucuresti"]
 tags: ["afi", "film", "imax", "motanul-incaltat", "samsung"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/11/puss-in-boots-735370l-imagine-226x300.jpg
 ---
+![](/assets/img/posts/2011/pisici-in-cizme-motani-incaltati-pisici-peste-tot/puss-in-boots-735370l-imagine-226x300.jpg)
+
 
 Una de chestiile care mă fac să iubesc și mai mult blogul este lista de evenimente și lansări la care ajung datorită faptului că voi mă citiți și eu scriu. Serios, mare parte din evenimentele la care am fost invitat s-au datorat blogului, iar o serie de oameni faini i-am cunoscut prin faptul că ei m-au citit la un moment dat și le-a plăcut ce scriam.
 

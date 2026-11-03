@@ -4,9 +4,9 @@ date: 2012-09-11 07:38:23 +0000
 categories: ["Altele de online"]
 tags: []
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/09/catbert.jpg
 ---
+![](/assets/img/posts/2012/exista-corporatii-bune-si-corporatii-naspa/catbert.jpg)
+
 
 Citeam ieri articolul lui Răzvan și m-a ”lovit” următorul aspect – există în mentalul colectiv două tipuri de corporații: cea nașpa, opresivă, fixistă, nebună și arhicunoscută, respectiv cea ok, de care nu știe și nu vorbește nimeni pentru că e plictisitor să fii ok.
 

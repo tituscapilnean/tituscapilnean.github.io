@@ -4,8 +4,6 @@ date: 2010-01-14 19:59:04 +0000
 categories: ["Social Media"]
 tags: ["sinucidere", "social-media"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/01/suicide450.jpg
 ---
 
 

@@ -4,11 +4,11 @@ date: 2013-01-28 06:31:04 +0000
 categories: ["Marketing"]
 tags: ["lectie", "londra", "media", "virgin"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/01/virginwifilondon-400x209.png
 ---
 
 
+
+![](/assets/img/posts/2013/strategia-virgin-media-wifi-si-metroul-londonez/virginwifilondon-400x209.png)
 
 Metroul londonez este un loc mai trist decât metroul bucureștean pentru că nu ai, de regulă, semnal, ceea ce înseamnă că nu poți să stai pe Facebook sau să te dai pe Twitter ca la noi. Sau să citești știrile ca omul.
 

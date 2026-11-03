@@ -4,9 +4,9 @@ date: 2012-04-03 13:26:15 +0000
 categories: ["Altele de online"]
 tags: ["business", "incepator", "online", "preturi"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/04/work-for-free-150x150.png
 ---
+![](/assets/img/posts/2012/cat-ceri-atata-face-axioma-de-business-online-si-offline/work-for-free-150x150.png)
+
 
 Citeam pe la prânz un articol despre cum să faci bani puțini muncind mult în online și nu numai. Problema de bază, pe care mulți o reclamă, însă puțini vorbesc despre ea, este că oamenii aflați la început pot să își ia țeapă dacă nu știu cât să ceară pe servicul pe care îl oferă:
 

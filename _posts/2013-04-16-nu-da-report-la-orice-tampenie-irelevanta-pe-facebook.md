@@ -4,8 +4,6 @@ date: 2013-04-16 07:52:35 +0000
 categories: ["Social Media"]
 tags: ["2013", "facebook", "pericole", "prostie", "report"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/04/facebook-reporting-guide-400x258.jpg
 ---
 
 _for the author: Joy, I salute your red flag, this must hit mainstream media._
@@ -26,5 +24,7 @@ Vă las cu paragraful cel mai semnificativ:
 > _Thanks to your delicate sensibilities,**I didn’t get to read her report until it was 5 her time**. **Four hours ago I could have possibly prevented another one of her rape** s. I could have had the police waiting for him when he arrived at her house. Four hours from now I’ll probably cry myself to sleep because I didn’t get to. Thanks again, to people who obviously need to stay the fuck off of the internet. Why did her report not come up faster? Because she’s seven, she reported the picture as a lesser offense that reported properly would have bumped it up the queue past all of your cries of visual injustice._
 
 Și folosiți cu încredere ghidul de mai jos:
+
+![facebook-reporting-guide](/assets/img/posts/2013/nu-da-report-la-orice-tampenie-irelevanta-pe-facebook/facebook-reporting-guide-400x258.jpg)
 
 (sursa foto)

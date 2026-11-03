@@ -4,11 +4,6 @@ date: 2020-11-02 04:26:24 +0000
 categories: ["Publicitate"]
 tags: ["guest-post", "sergiu-capilnean"]
 author: titus_capilnean
-# BROKEN_IMAGES: 4 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2020/11/123135118_10217625302965713_6627157642811246070_n.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2020/11/123166267_10217625303765733_5104781941390380430_o.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2020/11/123136935_10217625304325747_5103846055637050631_o.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2020/11/123163790_10217625305005764_3481196437064229636_o-1024x588.jpg
 ---
 
 _Articol scris de Sergiu Capilnean, public affairs expert cu experienta in cadrul German Marshall Fund, Aspen Institute, Petrom si EIR, initial postat pe Facebook. L-am editat putin si adapta pentru blog._
@@ -67,7 +62,11 @@ Nu știu, încă nu am citit programul, dar îmi dau seama că nu o să mai pot 
 Agregarea numărului de măsuri la nivel de categorie susține suspiciunea din numărarea cuvintelor că principalele obiective ale USR Plus ar fi să nu mai murim în spitale și să nu mai fim săraci, după cum se poate vedea în poza 1.
 
 
+![](/assets/img/posts/2020/analiza-serial-programul-de-guvernare-al-usr-plus-pentru-alegerile-parlamentare-2020-ii/123135118_10217625302965713_6627157642811246070_n.jpg)
+
 Puncte și pentru asta. Dar corelarea numărului de măsuri cu numărul de cuvinte parcă adâncește îngrijorarea privind înțelegerea comună a conceptelor între autori.
+
+![](/assets/img/posts/2020/analiza-serial-programul-de-guvernare-al-usr-plus-pentru-alegerile-parlamentare-2020-ii/123166267_10217625303765733_5104781941390380430_o.jpg)
 
 În poza doi e indicatorul pe care l-am denumit ”gradul de detaliere al măsurilor”, practic numărul de caractere din textul angajamentului împărțit la numărul de măsuri din angajament. Dacă titlul are conotații negative pentru măsurile care beneficiază de mai puține cuvinte, ar putea fi privit și invers, ca productivitate a cuvintelor în măsuri. Nu judec.
 
@@ -116,7 +115,11 @@ Documentul PDF îl percep ca pe un document programatic mai serios, spre deosebi
 Mi-ar fi plăcut să văd o aplicare mai riguroasă a unei structuri clare. Mi-ar fi plăcut să văd aceeași terminologie în toate capitolele. Cred că folosirea unui standard comun ar fi ajutat cititorul prin oferirea de predictibilitate și ar putea ajuta și când (sau dacă) va veni implementarea programului, prin identificarea ușoară a elementelor de acțiune îndeplinite, a obiectivelor atinse și așa mai departe. Elementul de tracking al unui plan e important și pentru implementator, și pentru manager și, fiind vorba de un program de guvernare, și pentru cei afectați de măsurile/propunerile/direcțiile/acțiunile cuprinse în el.
 
 
+![](/assets/img/posts/2020/analiza-serial-programul-de-guvernare-al-usr-plus-pentru-alegerile-parlamentare-2020-ii/123136935_10217625304325747_5103846055637050631_o.jpg)
+
 Pe partea numărului de măsuri (sau mă rog, a elementelor de acțiune de cel mai jos nivel), poza 3 (sus) arată o situație ceva mai echilibrată decât în cazul programului de pe website. Capitolul Sănătate e responsabil pentru doar 15% din cele aproximativ 1200 de măsuri propuse, spre deosebire de proporția de 35% din 160 de măsuri în cazul website-ului.
+
+![](/assets/img/posts/2020/analiza-serial-programul-de-guvernare-al-usr-plus-pentru-alegerile-parlamentare-2020-ii/123163790_10217625305005764_3481196437064229636_o-1024x588.jpg)
 
 Locurile următoare din PDF arată o posibilă discrepanță în ce privește volumul între domeniile pentru care s-au elaborat măsuri și ce a fost ales pentru comunicare pe website. După Sănătate, cele mai proeminente capitole la numărul de măsuri sunt Politica Externă, Agricultura și Mediu. Totuși, recunosc că e nevoie de o mapare între angajamentele de pe website și capitolele din pdf înainte de a spune că website-ul nu reflectă programul.
 

@@ -4,8 +4,6 @@ date: 2010-02-18 09:15:16 +0000
 categories: ["Social Media"]
 tags: ["geolocation", "geotagging", "hoti", "twitter"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/02/geono-352x300.jpg
 ---
 
 Scriam acum ceva timp despre omul care a fost descoperit când jefuia o casă, pentru că a folosit Facebook de la calculatorul victimei. Atunci social media și dependența individului față de ea(venită din ego, orgoliu, spune-i cum vrei) au ajutat la prinderea lui destul de rapidă. Poliția s-a folosit de datele rămase în calculatorul victimei și în câteva ore pusese deja mâna pe individ.

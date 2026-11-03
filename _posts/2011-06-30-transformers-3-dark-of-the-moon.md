@@ -4,14 +4,14 @@ date: 2011-06-30 07:00:36 +0000
 categories: ["Filme Bucuresti"]
 tags: ["film", "imax", "samsung", "transformers"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/06/IMG_20110630_005935-400x220.jpg
 ---
 
 Aseară, la invitația fetelor de la Oxygen PR, am fost la Samsung IMAX, în AFI Palace Cotroceni, să văd un film de mare efect – Transformers 3, în full 3D IMAX – senzație autentică, cu popcorn, suc, bere, bloggeri și multă acțiune. Da, se poate vedea deja la IMAX, iar de duminică și la alte cinema-uri City.
 
 Înainte să povestesc ce mi-a plăcut și ce mi s-a părut inedit, trebuie să precizez că e pentru prima dată când reușesc să ajung la timp la film, drept pentru care am câștigat un Optimus Prime de jucărie, cu care să mă laud pe blog și la birou.
 
+
+![](/assets/img/posts/2011/transformers-3-dark-of-the-moon/IMG_20110630_005935-400x220.jpg)
 
 Da, se transformă.
 

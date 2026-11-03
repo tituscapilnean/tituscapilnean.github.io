@@ -4,8 +4,6 @@ date: 2009-08-05 11:35:45 +0000
 categories: ["Istoria reclamelor bune"]
 tags: ["inedit"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/08/AnyMinuteNow.jpg
 ---
 
 

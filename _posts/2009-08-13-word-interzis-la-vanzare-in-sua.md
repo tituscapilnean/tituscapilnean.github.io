@@ -4,11 +4,11 @@ date: 2009-08-13 12:05:11 +0000
 categories: ["Marketing"]
 tags: ["anunt", "international", "microsoft", "proces", "stire"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/08/63985029_105ded6441.jpg
 ---
 
 
+
+![63985029_105ded6441](/assets/img/posts/2009/word-interzis-la-vanzare-in-sua/63985029_105ded6441.jpg)
 
 sursa FOTO
 

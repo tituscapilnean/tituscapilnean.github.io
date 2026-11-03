@@ -4,8 +4,6 @@ date: 2012-02-09 12:35:39 +0000
 categories: ["Online Training"]
 tags: ["infografice", "online", "pinterest"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/02/pinterest-400x194.png
 ---
 
 Deși era în prim plan pe afară, la noi nu prea a prins Pinterest. Am auzit de ea abia recent, când am și cerut invitație pentru cont. La prima vedere, pare un _del.icio.us_ restricționat doar pentru imagini și clipuri(mai puțin cele de pe Vimeo, se pare), așa că nu-i dădeam mari șansă să mă prindă.

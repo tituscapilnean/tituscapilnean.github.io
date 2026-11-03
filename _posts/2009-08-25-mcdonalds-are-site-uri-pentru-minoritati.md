@@ -4,9 +4,6 @@ date: 2009-08-25 06:21:40 +0000
 categories: ["Social Media"]
 tags: ["mcdonalds", "minoritati", "online", "sua"]
 author: titus_capilnean
-# BROKEN_IMAGES: 2 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/08/356black-400x256.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/08/myinspirasain-400x257.jpg
 ---
 
 Azi dimineață am găsit o serie de linkuri foarte interesante care duc la două site-uri făcute de McDonald’s pentru două minorități etnice din Statele Unite:

@@ -4,9 +4,9 @@ date: 2010-11-05 15:02:28 +0000
 categories: ["Istoria reclamelor bune"]
 tags: ["barbati", "cadbury", "ciocolata"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/11/cadbury-150x150.jpg
 ---
+![](/assets/img/posts/2010/una-pe-zi-ciocolata-e-mai-buna-decat-barbatul/cadbury-150x150.jpg)
+
 
 Cel puțin asta susțin cei de la Cadbury, cu reclama lor argentiniană.
 

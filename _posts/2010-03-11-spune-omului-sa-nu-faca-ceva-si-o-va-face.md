@@ -4,11 +4,11 @@ date: 2010-03-11 16:01:49 +0000
 categories: ["Publicitate"]
 tags: ["inedit"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/03/StrideGumMystery-219x300.jpg
 ---
 
 
+
+![StrideGumMystery](/assets/img/posts/2010/spune-omului-sa-nu-faca-ceva-si-o-va-face/StrideGumMystery-219x300.jpg)
 
 Poți să citești ce e scris mai sus?
 

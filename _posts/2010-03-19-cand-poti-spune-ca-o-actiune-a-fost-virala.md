@@ -4,11 +4,11 @@ date: 2010-03-19 08:49:42 +0000
 categories: ["Social Media"]
 tags: ["facebook", "viral", "youtube"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/03/viral-359x300.jpg
 ---
 
 
+
+![viral](/assets/img/posts/2010/cand-poti-spune-ca-o-actiune-a-fost-virala/viral-359x300.jpg)
 
 Miercuri a avut loc un eveniment la Orange Concept Store, care a avut ca temă principală viralele – ce sunt și cum se fac ele. Nu am fost la eveniment, însă am citit câteva reacții la adresa conținutului prezentat. Detaliul care mi-a atras atenția și m-a făcut să scriu articolul de față este următoarea afirmație:
 

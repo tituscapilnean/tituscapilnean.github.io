@@ -4,9 +4,9 @@ date: 2013-09-25 16:48:45 +0000
 categories: ["Evenimente", "Online Training"]
 tags: ["forum", "iab", "online", "trenduri"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/09/iab-forum.jpg
 ---
+![iab-forum](/assets/img/posts/2013/pe-1-octombrie-iab-forum-aduce-un-1-mai-toamna/iab-forum.jpg)
+
 
 Scriam acum ceva vreme că avem nevoie de o zi de respiro și toamna, că se cere un 1 mai pe 1 octombrie. Exact asta își propune anul ăsta IAB Forum-ul, să fie un răgaz din alergătura campaniilor și promoțiilor de toamnă, din campaniile online pe care le derulăm. Practic, în ziua aia se merge, cu mic, cu mare, la eveniment, se socializează, se află trenduri pe 2013-2014, se văd analize pe primele 9 luni din anul care tocmai se scurge și se merge apoi acasă încărcat de muncă.
 

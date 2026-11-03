@@ -4,9 +4,6 @@ date: 2011-08-10 08:00:20 +0000
 categories: ["Social Media"]
 tags: ["bere", "golden-brau", "masini", "postaci"]
 author: titus_capilnean
-# BROKEN_IMAGES: 2 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/08/postac-pe-blogul-meu-400x158.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/08/postac-anti-golden-brau-400x170.jpg
 ---
 
 Weekend-ul trecut a fost Golden Brau CarMania și la Iași, după ce acum două săptămâni fusese la București. De la București, toate bune și frumoase, lumea a fost fericită(vezi aici și aici), așa că am recomandat mai departe evenimentul și pentru bloggeri din alte orașe.
@@ -15,11 +12,15 @@ Weekend-ul trecut a fost Golden Brau CarMania și la Iași, după ce acum două 
 
 
 
+![](/assets/img/posts/2011/postacii-anti-golden-brau-si-carmania-la-iasi/postac-pe-blogul-meu-400x158.jpg)
+
 După cum puteți vedea, omul se plângea de organizare, iar postacul #2 îl susținea în anonimatul dat de un IP diferit și de a@a.ro la adresa de email. 
 
 Evident, elucubrațiile au rămas în pending(inițial vroiam să le bag direct în spam, însă nu puteam să fiu apoi martor la următoarele comentarii:
 
 
+
+![](/assets/img/posts/2011/postacii-anti-golden-brau-si-carmania-la-iasi/postac-anti-golden-brau-400x170.jpg)
 
 Băiatul a mai comentat de zor și ar mai fi comentat dacă nu îl cenzuram. Acum rămâne de văzut care dintre concurenții/haterii lui Golden Brau au săvârști mârlănia asta? Mă ajută vreun expert în IP-uri și tracing? Poate dăm de micuți și îi demascăm un pic, pentru că nu-i frumos ce au făcut.
 

@@ -4,10 +4,9 @@ date: 2010-12-23 14:00:11 +0000
 categories: ["Istoria reclamelor bune"]
 tags: ["bloggeri"]
 author: titus_capilnean
-# BROKEN_IMAGES: 2 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/12/COSMOTE2_08181806.bmp
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/12/164496_10150108881971204_757311203_7444391_5094249_n-253x300.jpg
 ---
+![](/assets/img/posts/2010/una-pe-zi-reclama-cu-piticu-de-la-cosmote/COSMOTE2_08181806.bmp)
+
 
 Am citit pe blogul lui Piticu despre noua reclamă de la Cosmote.
 

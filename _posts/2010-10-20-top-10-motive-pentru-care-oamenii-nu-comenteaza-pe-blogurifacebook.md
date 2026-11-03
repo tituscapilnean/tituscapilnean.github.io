@@ -4,9 +4,9 @@ date: 2010-10-20 09:00:13 +0000
 categories: ["Social Media"]
 tags: ["oameni", "psihologie"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/10/blog-comment-icon-150x150.png
 ---
+![](/assets/img/posts/2010/top-10-motive-pentru-care-oamenii-nu-comenteaza-pe-blogurifacebook/blog-comment-icon-150x150.png)
+
 
 Bun, treaba stă așa.
 

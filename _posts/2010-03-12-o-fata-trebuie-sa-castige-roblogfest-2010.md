@@ -4,8 +4,6 @@ date: 2010-03-12 12:32:51 +0000
 categories: ["Social Media"]
 tags: ["campanie", "fete", "roblogfest-2010"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/03/logo-2010.gif
 ---
 
   

@@ -4,8 +4,6 @@ date: 2013-03-20 13:07:51 +0000
 categories: ["Filme Bucuresti"]
 tags: ["3d", "cinema-city", "croods", "film", "odeon"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/03/thecroodssneakpeek-11413-400x225.jpg
 ---
 
 Când am ieșit de la film, aseară, am zis că n-am mai râs așa de bine de la _Ice Age_ încoace. Serios, trebuie să mergeți să vedeți The Croods (în 3D sau nu), chiar dacă (sau tocmai pentru că) pare un film pentru copii.
@@ -17,6 +15,8 @@ Totul se schimbă când fata cea mare cunoaște un băiat deștept și pleacă �
 Mi-au plăcut în egală măsură replicile și modul în care au fost realizate animalele și fauna în tot soiul de combinații de tipul: _aligatocâine, pisicotigru cu colți, lebădăfant_ etc.
 
 
+
+![thecroodssneakpeek-11413](/assets/img/posts/2013/am-ras-bine-la-the-croods-2013-aseara-in-3d/thecroodssneakpeek-11413-400x225.jpg)
 
 E făcut de creatorii **Madagascar** , așa că merită văzut. Se lansează la noi **pe 22 Martie**.
 

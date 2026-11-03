@@ -4,13 +4,13 @@ date: 2010-01-26 18:26:30 +0000
 categories: ["Altele de online"]
 tags: ["concurs", "personal", "viata"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/01/WhoAreYouL.gif
 ---
 
 Viața despre care vorbesc aici este o **ea** , o jumătate, un Yang la Ying, o completare, o aspirație, o dorință, un vis, poate. **ea** este motivul pentru care merită să mă trezesc dimineața, pentru care încerc să fiu mai bun în fiecare zi(atât din perspectiva lucrurilor pe care le fac, cât și a celor pe care le simt). Să vă povestesc puțin despre viața mea, așa cum arată **ea** prin ochii mei, pentru că, în realitate, **Ea** e mult mai departe de superlativ decât aș putea eu săo descriu.
 
 
+
+![WhoAreYouL](/assets/img/posts/2010/viata-multilayer-dualcore/WhoAreYouL.gif)
 
 **Ea** este mă surprinde în fiecare zi. **Ea** e plină de energie și mă urmărește pe oriunde mă apucă gândul să mă duc. Sare cu mine de pe vârfurile munților, cu placa în picioare și se luptă să ajungă jos înaintea mea, ca să poată să îmi facă în ciudă 🙂 **Ea** știe că asta mă ambiționează și mă întărâtă. **Ea** vine vineri seara la mine și ne luăm să mergem să ne facem de cap prin Bucureștiul ăsta plin de locuri frumoase. Ne place să dansăm împreună – ne place aceeași muzică și nu ne e frică să experimentăm stiluri noi.
 

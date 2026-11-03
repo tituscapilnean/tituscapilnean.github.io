@@ -4,9 +4,9 @@ date: 2010-11-11 07:41:19 +0000
 categories: ["Social Media"]
 tags: ["ronewmedia", "vox-populi"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/11/howimg_03-150x150.jpg
 ---
+![](/assets/img/posts/2010/ronewmedia-5-ziua-2-review/howimg_03-150x150.jpg)
+
 
 _Guest Post scris de Sabina Ionescu_
 

@@ -4,11 +4,11 @@ date: 2010-03-02 07:00:33 +0000
 categories: ["Social Media"]
 tags: ["ghiduri"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/03/live-tweeting-400x195.jpg
 ---
 
 
+
+![live-tweeting](/assets/img/posts/2010/ghid-de-live-tweeting/live-tweeting-400x195.jpg)
 
 Ideea acestui articol a pornit de la un tweet primit de la @Minxieee:
 

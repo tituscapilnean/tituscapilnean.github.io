@@ -4,9 +4,9 @@ date: 2012-02-14 12:05:48 +0000
 categories: ["Relatii Publice"]
 tags: ["arrp", "cercetare"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/02/logo-arrp.gif
 ---
+![](/assets/img/posts/2012/pune-umarul-la-reconstructia-breslei-de-relatii-publice-in-romania/logo-arrp.gif)
+
 
 Am primit pe email un chestionar de la ARRP(Asociația Română de Relații Publice). Mă invită să iau parte la studiul lor privind activitatea pe care ar trebui să o aibă în viitor.
 

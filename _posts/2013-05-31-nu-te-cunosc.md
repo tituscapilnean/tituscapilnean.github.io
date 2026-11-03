@@ -4,9 +4,8 @@ date: 2013-05-31 15:12:04 +0000
 categories: ["Social Media"]
 tags: ["conexiuni", "din-online", "eticheta", "prietenie"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/05/32651228-150x150.jpg
 ---
+
 
 Dragă adăugător de prieteni pe Facebook,
 

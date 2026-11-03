@@ -4,8 +4,6 @@ date: 2010-02-16 08:57:14 +0000
 categories: ["Social Media"]
 tags: ["buzz", "facebook", "poll", "twitter"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/02/twitter-v-facebookv-buzz.jpg
 ---
 
 

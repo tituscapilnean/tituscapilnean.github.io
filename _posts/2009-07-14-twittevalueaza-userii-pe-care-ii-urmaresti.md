@@ -4,8 +4,6 @@ date: 2009-07-14 19:28:29 +0000
 categories: ["Social Media"]
 tags: ["comunicare", "dileme", "online", "twitter"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/07/twitter-fail-whale-400x273.png
 ---
 
   

@@ -4,11 +4,10 @@ date: 2009-07-24 15:04:43 +0000
 categories: ["Altele de online"]
 tags: ["anunt", "blogging", "calatorie", "job", "locuri-de-blog", "mare", "vineri"]
 author: titus_capilnean
-# BROKEN_IMAGES: 2 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/07/images_laptop-beach-400x265.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/07/porto_seaside_drink-400x300.jpg
 ---
 
+
+![images_laptop-beach](/assets/img/posts/2009/plecare-la-mare-2-0/images_laptop-beach-400x265.jpg)
 
 Da, iar plec. Iar la mare.
 

@@ -4,8 +4,6 @@ date: 2010-12-22 13:36:54 +0000
 categories: ["Marketing", "Publicitate", "Social Media"]
 tags: ["2011", "cool", "trenduri"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/12/96473_1_230-150x150.jpg
 ---
 
 În fiecare an te gândești ce naiba o să fie la modă în anul următor, în ce direcție se duc lucrurile, ce colecții de modă vor apărea, ce gadgeturi noi o să vezi prin magazine sau ce produse o să se vândă cel mai bine.

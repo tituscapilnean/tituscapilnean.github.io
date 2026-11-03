@@ -4,9 +4,6 @@ date: 2010-05-27 10:22:50 +0000
 categories: ["Evenimente", "Social Media"]
 tags: ["offline", "pizza-hut", "vernisaj"]
 author: titus_capilnean
-# BROKEN_IMAGES: 2 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/05/IMG_0802.JPG
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/05/IMG_0804.JPG
 ---
 
 Am fost aseară la un mic eveniment offline, pentru oamenii din online, să ne mai vedem și noi la față, dincolo de avatarurile de Twitter, pozele de pe Facebook sau articolele de pe bloguri. Întrunirea s-a ținut în spațiul și cu suportul(adică mâncarea, băutura și înghețata, toate 2.0) Pizza Hut.

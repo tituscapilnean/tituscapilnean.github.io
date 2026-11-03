@@ -4,8 +4,6 @@ date: 2009-08-03 13:50:26 +0000
 categories: ["Altele de online"]
 tags: ["blogger", "gadget", "online", "telecom"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/08/305425495_92592d5f81_o-400x300.jpg
 ---
 
 

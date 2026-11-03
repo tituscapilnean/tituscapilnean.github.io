@@ -4,14 +4,13 @@ date: 2011-07-23 07:20:28 +0000
 categories: ["Social Media"]
 tags: ["bizsmscamp", "paraul-rece", "social-media", "vox-populi"]
 author: titus_capilnean
-# BROKEN_IMAGES: 2 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/07/DSC_0008-400x267.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/07/DSC_0001-400x267.jpg
 ---
 
 Un guest post surpriza semnat Mateus. 🙂
 
 
+
+![](/assets/img/posts/2011/despre-bizsmscamp/DSC_0008-400x267.jpg)
 
 După un drum aglomerat şi o masă bună, lumea se pregăteşte de conferinţă. Ceva e, totuşi, diferit. Nu e feeling-ul ăla de conferinţă la HoJo. Îmi dau seama imediat cum încep bloggerii să se prezinte:
 
@@ -42,6 +41,8 @@ La sfârşitul conferinţei, suntem invitaţi la proţap, foc de tabără. Seara
 La 1 dimineaţa mă retrag. O mână de oameni stau în jurul focului stins şi cântă, pe rând, la chitară. Se ştie cine-i vedeta. 😀
 
 Ultimul semn de viaţă îl dă Haotik, pe Twitter. “Printre cei care au rezistat eroic pana la final #bizsmscamp”
+
+![](/assets/img/posts/2011/despre-bizsmscamp/DSC_0001-400x267.jpg)
 
 **Bonus: priveliştea din balcon**
 

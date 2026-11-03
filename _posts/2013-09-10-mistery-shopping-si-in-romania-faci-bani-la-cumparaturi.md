@@ -4,9 +4,9 @@ date: 2013-09-10 09:30:18 +0000
 categories: ["Marketing"]
 tags: ["cercetare", "client-misterios", "locuri-de-munca", "marketing"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/09/jobs-logo-apply-now-150x150.jpg
 ---
+![jobs-logo-apply-now](/assets/img/posts/2013/mistery-shopping-si-in-romania-faci-bani-la-cumparaturi/jobs-logo-apply-now-150x150.jpg)
+
 
 E criză, lumea nu prea are locuri de muncă, iar tinerii sub 25 de ani sunt cel mai loviți de problema asta. Întrebați orice părinte cu copii mari cât de ok o duc și ei și ai lor. Unii fac internships, alții studiază în continuare, alții protestează anti orice sau pur și simplu se plictisesc acasă.
 

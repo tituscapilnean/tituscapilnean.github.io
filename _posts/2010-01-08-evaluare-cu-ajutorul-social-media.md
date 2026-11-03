@@ -4,8 +4,6 @@ date: 2010-01-08 07:51:26 +0000
 categories: ["Altele de online", "Social Media"]
 tags: ["johari-window", "social-media", "test"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/01/johari.window.gif
 ---
 
 Acum 2 zile am citit un articol pe blogul lui Bobby Voicu, despre Johari Window. Unealta de care vorbea Bobby în articolul respectiv te ajută să afli ce cred oamenii despre tine, printr-o serie de caracteristici cheie.

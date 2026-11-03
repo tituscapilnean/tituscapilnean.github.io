@@ -4,8 +4,6 @@ date: 2010-02-17 07:35:22 +0000
 categories: ["Altele de online"]
 tags: ["bicicleta", "metrou", "regulament", "role"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/02/photo31-386x300.jpg
 ---
 
 Când mă întorceam de la Ziua Mişcării, anul trecut, m-a prins o ploaie puternică pe la Dristor. Eram pe bicicletă, aşa că am zis că iau metroul până la Grigorescu, ca să nu mă ud mai tare decât reuşisem să o fac deja. Zis şi făcut.
@@ -15,6 +13,8 @@ Am coborât la metrou cu bicicletă cu tot şi am dat să intru în zona de pero
 Atunci n-am crezut că scrie în regulamentul metroului că **nu am voie să intru cu bicicleta**. De ieri însă, am observat că, pe mânere, au apărut extrase din regulamentul Metrorex, asta dacă tot nu cumpără nimeni publicitate pe ele. Scrie așa:
 
 
+
+![photo\(3\)](/assets/img/posts/2010/regulamentul-la-metrou-interzis-cu-bicicleta-si-role/photo31-386x300.jpg)
 
 _*scuze pentru calitatea jalnică a pozei – iPhone 3G nu are stabilizator 🙂_
 

@@ -4,9 +4,9 @@ date: 2010-01-28 07:14:12 +0000
 categories: ["Social Media"]
 tags: []
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/01/troll_2-272x300.jpg
 ---
+![troll_2](/assets/img/posts/2010/comedia-cu-demaio-si-pintica-in-casa-mondenului/troll_2-272x300.jpg)
+
 
 Trolii sunt măsura succesului. Anul trecut, prin septembrie, octombrie, aveam și eu trollii mei. Între timp s-au retras, pentru că n-am mai publicat articole așa de controversate și mi-a mai scăzut ritmul de scriere.
 

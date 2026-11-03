@@ -4,9 +4,9 @@ date: 2010-06-05 21:41:51 +0000
 categories: ["Publicitate"]
 tags: ["concurs", "geanta", "laptop"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/06/photo7-225x300.jpg
 ---
+![My Burton](/assets/img/posts/2010/laptop-de-156-in-rucsac-de-12/photo7-225x300.jpg)
+
 
 Așa am ajuns să îmi car eu aparatul vital – DELL 1555 Studio, cu rezoluția lui de 1920×1080, split screen și alte cele. Dar nu despre el e vorba aici, ci despre recipientul de care am zis și în titlu.
 

@@ -4,8 +4,6 @@ date: 2010-07-29 07:27:04 +0000
 categories: ["Cu telefonul"]
 tags: ["concurs", "recenzie"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/07/iphone-3g-8gb-black-59291d61bea5181a66a0f77b8a43c183.jpg
 ---
 
 

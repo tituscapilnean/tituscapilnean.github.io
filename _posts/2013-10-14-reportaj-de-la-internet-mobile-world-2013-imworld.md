@@ -4,11 +4,11 @@ date: 2013-10-14 07:30:39 +0000
 categories: ["Evenimente"]
 tags: ["2013", "cum-a-fost", "imworld", "online", "trenduri", "vox-populi"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/10/anticiparea-viitorului-si-internetul-lucrurilor-tendintele-mondiale-prezentate-la-zi-la-imworld-2013-150x150.jpg
 # EMBED_ISSUES: 1 embed(s) need review
 #   - [iframe] http://www.slideshare.net/slideshow/embed_code/27100236
 ---
+![anticiparea-viitorului-si-internetul-lucrurilor-tendintele-mondiale-prezentate-la-zi-la-imworld-2013](/assets/img/posts/2013/reportaj-de-la-internet-mobile-world-2013-imworld/anticiparea-viitorului-si-internetul-lucrurilor-tendintele-mondiale-prezentate-la-zi-la-imworld-2013-150x150.jpg)
+
 
 _Textul de mai jos e scris de Mirela Petre, Communication Specialist la eSKY.ro. Pe această cale îi mulțumesc și lui Cristi pentru invitație la Internet& Mobile World 2013, cu toate că n-am reușit să ajung din motive foarte work – related._
 

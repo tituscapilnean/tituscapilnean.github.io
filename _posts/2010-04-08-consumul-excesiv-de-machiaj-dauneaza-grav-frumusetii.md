@@ -4,8 +4,6 @@ date: 2010-04-08 12:47:49 +0000
 categories: ["Publicitate"]
 tags: ["campanie", "nivea"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/04/logo-nivea-manifest.jpg
 ---
 
 Cei care mă cunosc bine știu că sunt foarte pretențios când vine vorba de fete – era o vreme când nu umblam decât cu blonde(natural, nu vopsit) cu ochii albaștri. Acum mi-am mai diversificat puțin aria, pentru că descopăr frumusețe, indiferent de culoarea ochilor sau a părului. Le văd pe stradă, le vezi în restaurante, cafenele și cluburi, la facultate, la birou, în benzinărie, la volan. Și totuși pe mare parte dintre ele nu le văd cu adevărat, pentru că sunt ascunse după un blindaj puternic. Da, sunt machiate, excesiv, să ascundă cât mai mult posibil din imperfecțiuni.

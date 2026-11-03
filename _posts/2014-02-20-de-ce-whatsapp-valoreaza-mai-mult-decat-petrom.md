@@ -4,9 +4,9 @@ date: 2014-02-20 16:03:31 +0000
 categories: ["Business & Investitii"]
 tags: ["evaluare", "facebook", "petrom", "whatsapp"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2014/02/facebook_whatsapp_ny333_41171393-150x150.jpg
 ---
+![facebook_whatsapp_ny333_41171393](/assets/img/posts/2014/de-ce-whatsapp-valoreaza-mai-mult-decat-petrom/facebook_whatsapp_ny333_41171393-150x150.jpg)
+
 
 De aseară vuiește internetul despre faptul că Facebook a plătit o căruță de bani și acțiuni pentru Whatsapp. De ce ar da Mark Zuckerberg 19 miliarde pentru o aplicație care produce cel mult 450 milioane de dolari pe an (Whatsapp costă 1 USD/an, deși multă lume încă îl are gratis și are 450 de milioane de useri)?
 

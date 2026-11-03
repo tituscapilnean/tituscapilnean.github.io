@@ -4,9 +4,9 @@ date: 2011-06-15 07:38:24 +0000
 categories: ["Social Media"]
 tags: ["facebook", "mecanism", "seo", "social-media"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/06/white-hat-seo-150x150.jpg
 ---
+![](/assets/img/posts/2011/facebook-influenteaza-indirect-rezultatele-google/white-hat-seo-150x150.jpg)
+
 
 Atât Facebook, cât și alte rețele sociale neindexabile, pot să influențeze indirect rezultatele din Google și/sau din alte motoare de căutare(că doar Google nu e singurul). Cred că, dincolo de raportul SEOmoz, pe care l-am agățat de pe blogul lui Alex Negrea, e important de reținut următorul efect:
 

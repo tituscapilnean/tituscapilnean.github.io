@@ -4,9 +4,9 @@ date: 2011-09-15 07:31:58 +0000
 categories: ["Online Training"]
 tags: ["agentie", "bloggeri", "comportament", "idei", "serial"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/05/q2-what-to-do-150x150.gif
 ---
+![](/assets/img/posts/2011/bloggerul-si-agentia-de-pr-i/q2-what-to-do-150x150.gif)
+
 
 Unul din cele mai savuroase momente, generator de subiecte, folclor și momente penibile este cel în care bloggerul este pus în postura să discute cu o agenție de PR.
 

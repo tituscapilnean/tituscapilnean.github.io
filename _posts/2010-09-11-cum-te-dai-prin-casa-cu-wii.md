@@ -4,8 +4,6 @@ date: 2010-09-11 16:34:46 +0000
 categories: ["Publicitate"]
 tags: ["nintendo", "wii"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/09/300px_Nintendo_wii.jpg
 ---
 
 Mi-am amintit de Wii acum 1 lună, când Rita se lăuda pe Facebook că a primit unul cadou și deja ne gandeam că nu o să o mai scoată nimeni din casă vreo 2-3 luni. În același timp, am primit o propunere interesantă de la www.evomag.ro, să scriu o recenzie despre Wii. Cei care mă cunosc știu că nu am așa ceva acasă(nu că nu mi-aș dori, ci pentru că am investit toți banii în mașină, laptop și iPhone. E pe listă și ăsta), dar nu m-aș fi angrenat la așa ceva dacă nu aș fi fost în iarnă la Snow Explosion.

@@ -4,12 +4,12 @@ date: 2010-07-06 11:54:56 +0000
 categories: ["Altele de online", "Social Media"]
 tags: ["distractiv", "femei", "wordpress"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/07/tumblr_l4wgvp7vJC1qz4s3wo1_500-396x300.jpg
 ---
 
 Stăteam și mă gândeam azi dimineață că wordpress-ul poate fi comparat cu o femeie și viceversa, iar din comparația asta să se nască o grămadă de flirturi, conversații și replici noi de agățat. Totul a pornit de la o poză, mai jos, găsită pe unul din cele mai bune bloguri de print/package/inspirație:
 
+
+![](/assets/img/posts/2010/iubiri-blogosferice/tumblr_l4wgvp7vJC1qz4s3wo1_500-396x300.jpg)
 
 E cumva clar că imaginea de mai sus duce cu gândul la control, că acea consolă foarte bine plasată te ajută să cotrolezi mintea fetei(vezi firul care duce spre cap 🙂 ). Bine ,dacă o dăm la întors, să nu supărăm fetele prea tare, utilitatea consolei este să te joci mai ușor cu purtătoarea de joystickuri 🙂 La naiba, tot în diverse am dat-o.
 

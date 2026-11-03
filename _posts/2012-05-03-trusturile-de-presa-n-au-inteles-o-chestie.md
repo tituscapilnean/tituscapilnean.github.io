@@ -4,9 +4,9 @@ date: 2012-05-03 14:56:47 +0000
 categories: ["Publicitate"]
 tags: ["online", "presa", "trafic", "website"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/05/1-150x150.jpg
 ---
+![](/assets/img/posts/2012/trusturile-de-presa-n-au-inteles-o-chestie/1-150x150.jpg)
+
 
 Mă uit la televizor. Prin natura jobului, ajung să trec pe la toate trusturile de mare angajament, ce servesc cu drag și spor spre informarea întregului popor(na că a ieșit!). Fără excepție, cu toții au început să promoveze masiv prezențele pe Facebook. Toți au comunități, toți invită la comentarii.
 

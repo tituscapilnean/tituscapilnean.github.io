@@ -4,9 +4,9 @@ date: 2012-10-10 11:47:41 +0000
 categories: ["Evenimente", "Online Training"]
 tags: ["branding", "comunicare", "online", "venture-mentoring"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/10/467-l-150x150.jpg
 ---
+![](/assets/img/posts/2012/majoritatea-start-up-urilor-au-nevoie-de-comunicare-si-branding/467-l-150x150.jpg)
+
 
 Asta am observat, cât timp m-am mai învârtit pe lângă companii în dezvoltare (ca să nu le zic la început). Numitorul comun a fost de o lipsă/prioritate redusă a activității de comunicare și branding ”corporate”. Pur și simplu, lăsau treaba asta pe ultimul loc – logo, site, mesaje de brand, un pic de self promo, un pic de PR – și nu creșteau așa de repede pe cât ar fi putut.
 

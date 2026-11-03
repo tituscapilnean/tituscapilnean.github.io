@@ -4,8 +4,6 @@ date: 2010-07-29 11:00:36 +0000
 categories: ["Publicitate"]
 tags: ["adfel", "grand-spoof"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/07/adfel.jpg
 ---
 
 Nu se prea agită nimeni pe blogosferă în legătură cu ediția asta de ADfel, așa că o să o fac eu 🙂

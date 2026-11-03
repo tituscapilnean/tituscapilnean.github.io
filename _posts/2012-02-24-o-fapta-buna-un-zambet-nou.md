@@ -4,9 +4,9 @@ date: 2012-02-24 09:39:23 +0000
 categories: ["Publicitate"]
 tags: ["dentist", "fapta-buna", "implant"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/02/make-you-smile-150x150.jpg
 ---
+![](/assets/img/posts/2012/o-fapta-buna-un-zambet-nou/make-you-smile-150x150.jpg)
+
 
 De cele mai multe ori poți să faci fapte bune cu eforturi mici. Un ajutor, un cuvânt bun, o încurajare, o atenție sau un **zâmbet** pot să facă diferența în cazurile cele mai neașteptate.
 

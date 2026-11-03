@@ -4,30 +4,13 @@ date: 2009-07-31 09:56:06 +0000
 categories: ["Social Media"]
 tags: ["analiza", "distractiv", "razboi", "vineri"]
 author: titus_capilnean
-# BROKEN_IMAGES: 18 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/07/world_war_two_explained_0000_pas1-400x129.png
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/07/world_war_two_explained_0001_pas2-400x119.png
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/07/world_war_two_explained_0003_razboi-400x136.png
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/07/world_war_two_explained_0004_pas4-400x109.png
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/07/world_war_two_explained_0005_pas5-400x99.png
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/07/world_war_two_explained_0006_pas6-400x114.png
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/07/world_war_two_explained_0007_soviet-400x174.png
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/07/world_war_two_explained_0008_statele-400x144.png
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/07/world_war_two_explained_0009_statele-2.png
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/07/world_war_two_explained_0011_soviet2-400x113.png
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/07/world_war_two_explained_0012_japs-400x231.png
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/07/world_war_two_explained_0013_rusi-400x274.png
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/07/world_war_two_explained_0014_americanii-ue-400x260.png
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/07/world_war_two_explained_0015_pol-400x126.png
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/07/world_war_two_explained_0017_bomba-312x300.png
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/07/world_war_two_explained_0018_over-400x242.png
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/07/world_war_two_explained_0019_cold-war-400x221.png
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/07/world_war_two_explained_0020_neutrii-400x137.png
 ---
 
 Am găsit pe internet o istorisire foarte tare despre al doilea război mondial în imagini și text – amuzant, real, ironic 🙂
 
 
+
+![world_war_two_explained_0000_pas1](/assets/img/posts/2009/explicatie-scurta-al-2-lea-razboi-mondial/world_war_two_explained_0000_pas1-400x129.png)
 
 Germania s-a aliat cu Austria, mă rog, sau a înglobat Austria și a luat o rangă în mână ca să o căsăpească pe Polonia, iar, pentru că tot așa a început și primul război mondial. Unele lucruri nu se schimbă :>
 

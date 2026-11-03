@@ -4,9 +4,9 @@ date: 2011-01-07 08:00:15 +0000
 categories: ["Social Media"]
 tags: ["2010", "articol", "live-blog"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/01/micro-bloggingsites2-150x150.jpg
 ---
+![](/assets/img/posts/2011/top-10-articole-pe-titusblog-in-2010/micro-bloggingsites2-150x150.jpg)
+
 
 După ce am văzut la Piticu și la Simona articolele care făceau retrospectiva anului trecut pe blog, am zis că ar fi util să mă uit și eu care au fost cele mai citite articole de pe blogul meu.
 

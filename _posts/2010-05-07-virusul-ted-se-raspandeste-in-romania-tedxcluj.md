@@ -4,11 +4,11 @@ date: 2010-05-07 09:34:17 +0000
 categories: ["Evenimente"]
 tags: ["cluj", "invitatii", "tedx"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/05/tedxcluj-400x187.jpg
 ---
 
 
+
+![tedxcluj](/assets/img/posts/2010/virusul-ted-se-raspandeste-in-romania-tedxcluj/tedxcluj-400x187.jpg)
 
 In 21 mai are loc prima conferinta TEDxCluj. Tudor Giurgiu, presedintele TIFF, este amfitrionul zilei. Printre vorbitori sunt Katie Rizvi (Femeia ANului 2009 in Romania), Dan Cristea (campionul mondial la debate in 2009), Sorin MIsiriantu (actor si regizor la Teatrul National Cluj), Cor Geertsma (expat, antreprenor in Cluj) si altii, toti oameni extrem de interesanti.
 

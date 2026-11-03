@@ -4,9 +4,9 @@ date: 2011-10-25 06:27:54 +0000
 categories: ["Altele de online"]
 tags: ["legal", "live-blog", "probleme", "social-media", "solutii"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/10/1308696129-29-150x150.jpg
 ---
+![](/assets/img/posts/2011/probleme-legale-de-care-te-poti-lovi-in-online/1308696129-29-150x150.jpg)
+
 
 Mă aflu azi la Legal Issues în Social Media, prima conferință de genul ăsta de la noi. O să notez principalele idei mai jos, așa cum v-am obișnuit. _Refresh des, pentru că actualizez_.
 

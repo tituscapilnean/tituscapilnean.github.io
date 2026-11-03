@@ -4,9 +4,9 @@ date: 2010-11-22 12:44:54 +0000
 categories: ["Social Media"]
 tags: ["analiza", "antreprenoriat", "concluzii", "studiu"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/11/netcamp-150x150.jpg
 ---
+![](/assets/img/posts/2010/portretul-antreprenorului-roman-din-online/netcamp-150x150.jpg)
+
 
 Cu ocazia NetCamp 2010, de pe 6-8 Decembrie, Evensys a început, încă de luna trecută, un studiu a antreprenorilor online din România.
 

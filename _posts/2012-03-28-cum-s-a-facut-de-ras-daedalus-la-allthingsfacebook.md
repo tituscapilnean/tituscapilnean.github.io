@@ -4,8 +4,6 @@ date: 2012-03-28 08:29:07 +0000
 categories: ["Altele de online"]
 tags: ["facebook", "online", "realitatea", "romania", "top"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/03/top-facebook-271x300.png
 ---
 
 Am citit pe site-ul Magazinul Progresiv următoarea afirmație:

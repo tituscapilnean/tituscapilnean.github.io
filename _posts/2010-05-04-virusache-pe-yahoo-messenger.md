@@ -4,8 +4,6 @@ date: 2010-05-04 10:06:28 +0000
 categories: ["Social Media"]
 tags: ["messenger", "virus", "yahoo"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/05/virus.jpg
 ---
 
 Am câţiva prieteni virusaţi pe Yahoo! Messenger şi trimit mass-uri constant, cu următoarele linkuri.

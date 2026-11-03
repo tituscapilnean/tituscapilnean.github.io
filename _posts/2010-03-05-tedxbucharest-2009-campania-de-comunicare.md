@@ -4,11 +4,9 @@ date: 2010-03-05 07:01:06 +0000
 categories: ["Evenimente", "Social Media"]
 tags: ["evaluare", "tedxbucharest"]
 author: titus_capilnean
-# BROKEN_IMAGES: 3 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/03/tedx.PNG
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/03/grafic-aparitii-media-TEDxBucharest-400x273.PNG
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/03/grafic2-aparitii-media-TEDxBucharest-400x274.PNG
 ---
+![tedx](/assets/img/posts/2010/tedxbucharest-2009-campania-de-comunicare/tedx.PNG)
+
 
 Am descoperit după ceva timp că nu am publicat raportul de PR al TEDxBucharest 2009 – deși rezultatele au fost cel puțin uimitoare, la nivel de apariții media, online și offline. Scriind aplicarea pentru **roblogfest 2010** , l-am recitit după multă vreme și cred că o să ți se pară și ție interesant.
 
@@ -95,6 +93,10 @@ Graficele de distribuţie a apariţiilor media:
 
 
 
+
+![grafic aparitii media TEDxBucharest](/assets/img/posts/2010/tedxbucharest-2009-campania-de-comunicare/grafic-aparitii-media-TEDxBucharest-400x273.PNG)
+
+![grafic2 aparitii media TEDxBucharest](/assets/img/posts/2010/tedxbucharest-2009-campania-de-comunicare/grafic2-aparitii-media-TEDxBucharest-400x274.PNG)
 
 Promovarea unui eveniment exclusivist, derivat dintr-una din cele mai fascinante conferințe la nivel global, construit în jurul inovației a avut cel mai relevant impact în mediul online și social media, mediile care cunosc o evoluție exponențială încă și azi. Deși evenimentul s-a desfășurat într-una din cele mai aglomerate perioade ale anului din punct de vedere al intensității și cantității de subiecte de presă, în vinerea fără guvern, **TEDxBucharest** a adunat 194 de apariții, dintre care **177 au reprezentat știri, anunțuri și relatări pe portaluri, website-uri și blog-uri**.
 

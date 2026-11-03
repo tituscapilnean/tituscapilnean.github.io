@@ -4,9 +4,9 @@ date: 2011-07-27 08:00:03 +0000
 categories: ["Evenimente"]
 tags: ["film", "movieplex", "super-8", "vox-populi"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/07/image002-208x300.jpg
 ---
+![](/assets/img/posts/2011/super-8-la-movieplex-bucuresti/image002-208x300.jpg)
+
 
 _Guestpost scris de Sergiu Căpîlnean, care a fost la film, la invitația Ro Image 2000(mulțumim!)._
 

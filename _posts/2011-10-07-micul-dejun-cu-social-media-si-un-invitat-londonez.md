@@ -4,8 +4,6 @@ date: 2011-10-07 09:30:46 +0000
 categories: ["Evenimente"]
 tags: ["londra", "online", "smbreakfast", "tom-ollerton", "uk"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/10/IMG_20111007_103313-400x300.jpg
 ---
 
 La invitația și inițiativa STANDOUT, respectiv găzduiți de Cantina Sport Bar(cafea bună, fresh de portocale proaspete și bruschete delicioase:) ), ne-am adunat în dimineața asta să povestim de-ale online-ului în oglindă.
@@ -13,6 +11,8 @@ La invitația și inițiativa STANDOUT, respectiv găzduiți de Cantina Sport Ba
 Cum se face online în România zicem noi, iar cum se face în UK, una din cele mari mari piețe de profil din Europa, ne povestește oaspetele nostru: **Tom Ollerton** (Associate Director, Skive London)
 
 
+
+![](/assets/img/posts/2011/micul-dejun-cu-social-media-si-un-invitat-londonez/IMG_20111007_103313-400x300.jpg)
 
 ### Mai jos am pus ideile principale:
 

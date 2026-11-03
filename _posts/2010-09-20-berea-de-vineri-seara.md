@@ -4,12 +4,11 @@ date: 2010-09-20 15:04:36 +0000
 categories: ["Evenimente"]
 tags: ["bere", "degustare", "offline"]
 author: titus_capilnean
-# BROKEN_IMAGES: 2 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/09/127408814894.png
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/09/12680582227787.png
 ---
 
 Dat fiind faptul că iar am evadat din București în weekend, iar ajung să scriu numai luni despre chestiile faine făcute vineri. Așadar, vinerea asta, moment în care toți corporatiștii cad lați în paturi, terminați de plantație, eu, la invitația lui Ionuț și împreună cu alți bloggeri de vază ai urbei, am fost să bem bere.
+
+![](/assets/img/posts/2010/berea-de-vineri-seara/127408814894.png)
 
 Nimic neobișnuit până aici, doar că am fost să bem bere la Beer’o’clock, în pasajul Villacrosse, un beerhouse despre care doar auzisem că are bere foarte bună, însă nu îl testasem încă. Și n-am băut oricum și orice, ci am fost întreținuți toată seara de către reprezentanții jollybeers.net.  
 

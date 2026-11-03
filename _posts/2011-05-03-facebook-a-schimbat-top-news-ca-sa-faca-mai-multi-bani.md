@@ -4,9 +4,9 @@ date: 2011-05-03 07:45:16 +0000
 categories: ["Social Media"]
 tags: ["facebook", "interactiuni", "schimbari"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/05/facebookfeed.png
 ---
+![](/assets/img/posts/2011/facebook-a-schimbat-top-news-ca-sa-faca-mai-multi-bani/facebookfeed.png)
+
 
 Hai să vă povestesc ce n-au înțeles ăștia de la MarketPilgrim.
 

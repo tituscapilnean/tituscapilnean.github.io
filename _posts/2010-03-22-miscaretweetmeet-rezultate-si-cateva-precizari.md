@@ -4,13 +4,13 @@ date: 2010-03-22 19:58:13 +0000
 categories: ["Evenimente", "Social Media"]
 tags: ["bicicleta", "flowboard", "reguli", "tweetmeet"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/03/25566_376305715891_656500891_3873486_7123701_n-384x300.jpg
 ---
 
 Joi, pe după masă, mi-a venit o idee – **să adun niște lume și să mergem să ne dăm prin Herăstrău.** De miercuri am o nouă jucărie, un flowboard de toată frumusețea, cu 14 roți, pe care mă dau exact ca pe snowboard, doar că nu am nevoie de zăpadă.N-am lăsat ideea moartă și am pus de un Twtvite(o platformă care te ajută să vezi câți oameni îți confirmă o invitație).
 
 
+
+![25566_376305715891_656500891_3873486_7123701_n](/assets/img/posts/2010/miscaretweetmeet-rezultate-si-cateva-precizari/25566_376305715891_656500891_3873486_7123701_n-384x300.jpg)
 
 Am dat pe Twitter și am primit nu mai puțin de **17 ReTweets**. Cu toate astea, doar **66 de oameni au dat click** pe un link care vorbeas despre mișcare în Herastrău, sâmbăta, ca să mai scăpăm de lene. Nu mă așteptam să găsesc prea multă lume, însă, datorită lui George Hari Popescu, care a promovvat acțiunea și cu ajutorul blogului lui, ieșirea mea semispontană cu flowboard-ul s-a transformat într-un veritabil Bikewalk anticipat(au fost peste 10-12 cicliști).
 

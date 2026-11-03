@@ -4,11 +4,11 @@ date: 2010-09-14 10:25:33 +0000
 categories: ["Evenimente"]
 tags: ["aiesec", "practica", "training", "university"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/09/au-294x300.jpg
 ---
 
 Dacă ai mai urmărit Țara lui Andrei, mai precis jurnalul, ai văzut că, din când în când, mai scriu și acolo. De data asta, am scris despre Școala de Responsabilitate Socială, organizată de prietenii din AIESEC București.
+
+![](/assets/img/posts/2010/mai-scriu-si-prin-alte-parti/au-294x300.jpg)
 
 Proiectul face parte din AIESEC University, unul din proiectele pe care le-am condus și eu cu drag la un moment dat, în 2008(și la care am pus umărul și l-am trecut prin chinurile facerii prin 2007, la prima ediție).
 

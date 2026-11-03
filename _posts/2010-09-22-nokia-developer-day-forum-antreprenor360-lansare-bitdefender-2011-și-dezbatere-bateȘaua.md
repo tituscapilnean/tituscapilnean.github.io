@@ -4,9 +4,6 @@ date: 2010-09-22 08:04:44 +0000
 categories: ["Evenimente"]
 tags: ["antivirus", "biz", "conferinta", "dezbatere", "lansare", "nokia"]
 author: titus_capilnean
-# BROKEN_IMAGES: 2 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/09/logo-forumnokia.gif
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/09/Forum-Antreprenor360_1285138191378.png
 ---
 
 Toamna mereu se organizează foarte multe evenimente în paralel. De cele mai multe ori, **nu toate ți se adresează** , însă ai vrea să vezi măcar despre ce se discută la întâlnirile la care nu poți să ajungi. Acum ceva timp am descoperit Widget-urile de Twitter și faptul că pot să le pun în paralel pe blog.

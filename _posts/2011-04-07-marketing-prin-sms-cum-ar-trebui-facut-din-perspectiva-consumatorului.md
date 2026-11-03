@@ -4,9 +4,9 @@ date: 2011-04-07 15:48:52 +0000
 categories: ["Marketing"]
 tags: ["asa-da", "asa-nu", "cum-se-face", "idei", "sms"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/04/sms-uri-amuzante-150x150.gif
 ---
+![](/assets/img/posts/2011/marketing-prin-sms-cum-ar-trebui-facut-din-perspectiva-consumatorului/sms-uri-amuzante-150x150.gif)
+
 
 Am de mai multă vreme în draft titlul acestui articol. Ideea mi-a venit, inițial, de pe Twitter, pentru că 140 de caractere este fix aproape de dimensiunea SMS-ului(160). Din pricina asta, marketerii mobili ar avea multe de învățat de la interacțiunile pe care cei câteva mii de utilizatori de Twitter le au în fiecare zi în România.
 

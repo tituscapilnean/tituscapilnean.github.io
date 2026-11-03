@@ -4,9 +4,9 @@ date: 2011-04-12 12:39:40 +0000
 categories: ["Marketing"]
 tags: ["h&m", "idee", "metrou", "social-media"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/04/hm21-150x150.jpg
 ---
+![](/assets/img/posts/2011/pauza-de-shopping-o-idee-de-marketing-neconventional/hm21-150x150.jpg)
+
 
 Zilele trecute m-am dat un pic mai mult cu metroul decât de obicei și am ajuns pe la Piața Unirii 2. Acolo toți stâlpii sunt îmbrăcați frumos în niște elemente de branding H&M. Nimic rău până aici, H&M a împânzit tot Bucureștiul cu bannere outdoor uriașe, așa că era normal să o facă și la metrou.
 

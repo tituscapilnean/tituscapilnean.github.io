@@ -4,8 +4,6 @@ date: 2009-09-11 07:11:10 +0000
 categories: ["Social Media"]
 tags: ["anunt", "facebook", "facebook-lite", "lansare", "nou"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/09/lite-400x195.jpg
 ---
 
 > **Facebook Lite** is a faster, simpler way to keep in touch with your friends. If you like it, you may choose to use it instead of the regular Facebook. We still have work to do before it’s done, but we’d love to get your feedback on what we’ve built so far.
@@ -15,6 +13,8 @@ Aceasta e mesajul care îl afişează Facebook atunci când intri pentru prima d
 L-au ciuntit pe vechiul Facebook de un sidebar şi multe meniuri şi funcţionalităţi neatinse de mine aproape niciodată. Acum ai 3 butoane – scrii, urci poze sau urci video, un sidebar cu reclame(_doar 1 în loc de 3_) şi oameni pe care s-ar putea să îi cunoşti, un search box, notificări la baza ecranului şi meniul de sus, pus şi el la cură de slăbire:
 
 
+
+![lite](/assets/img/posts/2009/facebook-la-cura-de-slabire/lite-400x195.jpg)
 
 Se mişcă mult mai repede şi mai uşor decât varianta full a aplicaţiei şi cred că o să o păstrez ca interfaţă principală pentru Facebook. Poate aşa nu o să se mai blocheze Firefox când se încarcă mai greu 🙂
 

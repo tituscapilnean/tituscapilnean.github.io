@@ -4,8 +4,6 @@ date: 2010-02-05 08:46:55 +0000
 categories: ["Social Media"]
 tags: ["blogger", "leapsa", "rutina"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/02/19871129-400x282.gif
 ---
 
 Am tot amânat momentul în care să fac un mic articol despre ”rutina mea de blogger”(provocare lansată de Chinezu). Motivul era că nu consideram că am o rutină de tipul ăsta. Azi dimineațăă mi-am dat seama că ar putea fi numit cumva rutină micul meu program de zi. Să trec puțin prin el, ca să înțelegi exact ce vreau să zic.
@@ -19,9 +17,7 @@ Programul de lucru nu are rost sa îl expun aici, așa că trec direct la seară
   3. Mă duc acasă și mă apuc de treabă la orice alt proiect mai lucrez în timpul meu liber
 
 
-
 Ajung să mă culc pe la 11-12 în zilele bune și nu, nu folosesc taskwriter sau alte tooluri, ci **sfântul Notepad** 🙂
-
 
 
 sursa comic-ului

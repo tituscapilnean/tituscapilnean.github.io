@@ -4,9 +4,9 @@ date: 2012-02-18 12:16:10 +0000
 categories: ["Marketing"]
 tags: ["mizerie", "pub", "romania"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/02/rude_irish_saying_tshirt-p235340209796518741z7tqq_400-150x150.jpg
 ---
+![](/assets/img/posts/2012/oscars-pub-un-loc-de-cacat/rude_irish_saying_tshirt-p235340209796518741z7tqq_400-150x150.jpg)
+
 
 Inițial mă gândeam să scriu un articol lung, să îi fac praf, dar nici măcar atât nu merită. Dacă mă citești de multă vreme, știi că nu obișnuiesc să scriu articole de genul ăsta decât atunci când e 100% cazul. Acum e.
 

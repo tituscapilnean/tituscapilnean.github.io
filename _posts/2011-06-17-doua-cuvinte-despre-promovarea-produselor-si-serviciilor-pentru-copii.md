@@ -4,9 +4,9 @@ date: 2011-06-17 12:41:57 +0000
 categories: ["Social Media"]
 tags: ["campanie", "concurs", "online", "social-media", "zibo"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/06/4dcbc1b2-f6a8-4b22-a97d-4b1aadcb6abf-150x150.jpg
 ---
+![](/assets/img/posts/2011/doua-cuvinte-despre-promovarea-produselor-si-serviciilor-pentru-copii/4dcbc1b2-f6a8-4b22-a97d-4b1aadcb6abf-150x150.jpg)
+
 
 Ca om de **comunicare și marketing** , te lovești de tot felul de restricții și bariere când vine vorba de canalele și campaniile pe care le poți face. Ba ideea e exagerată, ba clientul nu e de acord, ba nu poți să intri pe canalul X sau Y pentru că sunt restricții, ba nu e prea etic să transmiți mesajele în stilul în care vrei, ba nu e targetul tău acolo, ba e greu să ajungi într-un mod cinstit la targetul tău și aș putea să măresc lista la infinit.
 

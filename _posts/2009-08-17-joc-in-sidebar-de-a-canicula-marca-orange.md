@@ -4,8 +4,6 @@ date: 2009-08-17 11:15:12 +0000
 categories: ["Publicitate"]
 tags: ["blogosfera", "joc", "online", "orange"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/08/11954452882053745474jean_victor_balin_arrow_orange_right.svg.hi-316x300.png
 ---
 
 De astăzi Orange a lansat o nouă campanie pe bloguri, cu un widget – joculeț. E foarte tare că îți testează îndemânarea la mânuirea mouse-ului/touchpad-ului, dar și viteza de calcul. Mi l-am instalat și eu.
@@ -22,6 +20,8 @@ via refresh.ro**
 Jocul îl am în sidebar și vă invit să îl jucați.
 
 
+
+![11954452882053745474jean_victor_balin_arrow_orange_right.svg.hi](/assets/img/posts/2009/joc-in-sidebar-de-a-canicula-marca-orange/11954452882053745474jean_victor_balin_arrow_orange_right.svg.hi-316x300.png)
 
 sursa foto
 

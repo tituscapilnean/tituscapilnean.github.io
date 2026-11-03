@@ -4,8 +4,6 @@ date: 2009-12-03 10:49:44 +0000
 categories: ["Social Media"]
 tags: ["crestere", "facebook", "farmville", "twitter"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/12/facebook.jpg
 ---
 
 Ați ghicit, articolul ăsta este despre cum **Facebook** a depășit **350 de milioane de utilizatori** , cu cei 445.000 de români pe el. Nu asta e însă știrea principală, ci faptul că Farmville a ajuns să aibă mai mulți utilizatori activi decât **Twitter**.

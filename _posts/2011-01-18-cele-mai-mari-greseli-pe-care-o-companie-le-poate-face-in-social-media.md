@@ -4,9 +4,9 @@ date: 2011-01-18 11:36:56 +0000
 categories: ["Online Training"]
 tags: ["fail", "social-media", "strategie"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/11/social-media-landscape-150x150.jpg
 ---
+![](/assets/img/posts/2011/cele-mai-mari-greseli-pe-care-o-companie-le-poate-face-in-social-media/social-media-landscape-150x150.jpg)
+
 
 Am pornit articolul de la o întrebare de pe Quora.com și m-am gândit că ar fi util să discutăm un pic mai în detaliu despre piața de la noi.
 

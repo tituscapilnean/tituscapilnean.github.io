@@ -4,9 +4,8 @@ date: 2010-10-31 16:33:39 +0000
 categories: ["Altele de online"]
 tags: ["copii", "educatie", "personal"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/10/cza1544l-150x150.jpg
 ---
+
 
 Contextul e de așa natură încât să mă pună să mă gândesc la cât de importantă e educația pe care părinții reușesc să o **insufle/inspire** copiilor. Dar și cât de important e modul și momentul în care se produce procesul de educație.
 
@@ -18,7 +17,7 @@ Contextul e de așa natură încât să mă pună să mă gândesc la cât de im
 Observă cum am evitat verbul **a da**. Educația nu i-o dai copilului, pentru că nu știe ce să facă cu ea. O să învețe în cel mai bun caz niște reguli/interdicții, pe care le va da cu grație mai departe și copiilor lui. Și ei mai departe, și tot așa.
 
 Educația poți să o privești ca pe un set de raționamente și instrumente prin care **copilul învață să ia cele mai bune decizii** , cântărind prin argumente, în funcție de fiecare situație în parte.  
-  
+
 Din câte am observat, mai ales pe stradă, în parc, la terasă, **majoritatea părinților țipă la copiii lor și le spun ce ar trebui să facă**.
 
 Copilul se obișnuiește cu treaba asta și se așteaptă ca de fiecare dată părintele să îi zică ce e bine și ce e rău, nu se mai maturizează și se scaldă într-o dulce mediocritate. Asta în cazul bun, că în cazul rău, copilul se intoxică de atâtea sfaturi și se apucă să facă exact pe dos, undeva în adolescență – bea, fumează, face sex neprotejat, etc. Și se poate pierde in rebeliune, într-un alt fel de mediocritate.

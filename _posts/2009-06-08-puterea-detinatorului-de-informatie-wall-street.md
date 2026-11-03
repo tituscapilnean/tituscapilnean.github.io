@@ -4,11 +4,11 @@ date: 2009-06-08 05:45:00 +0000
 categories: ["Altele de online"]
 tags: ["capitalism", "film", "manipulare", "piata"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/06/WallStreet-400x160.jpg
 ---
 
 
+
+![WallStreet](/assets/img/posts/2009/puterea-detinatorului-de-informatie-wall-street/WallStreet-400x160.jpg)
 
 Incep cu un citat reprezentativ pentru ce se intampla acum in economie: ”Du-te sa produci ceva, inceteaza sa mai faci bani pe vanzarile si cumpararile facute de altii.” – tatal lui Bud Fox
 

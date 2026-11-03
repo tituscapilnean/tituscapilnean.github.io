@@ -4,8 +4,6 @@ date: 2009-10-21 09:06:15 +0000
 categories: ["Evenimente"]
 tags: ["epilog", "multumiri", "tedx", "tedxbucharest", "tweets"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/10/DSC_0561-400x266.jpg
 ---
 
 Articolul ăsta îl scriu în special pentru colegii mei de la TEDxBucharest:
@@ -15,6 +13,8 @@ Articolul ăsta îl scriu în special pentru colegii mei de la TEDxBucharest:
 update: și desigur partenerilor și prietenilor de pe tedxbucharest.com
 
 
+
+![DSC_0561](/assets/img/posts/2009/tedx-reactii-pe-twitter/DSC_0561-400x266.jpg)
 
 _poză de Alex Spineanu_
 

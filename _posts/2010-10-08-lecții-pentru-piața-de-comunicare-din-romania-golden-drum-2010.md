@@ -4,12 +4,6 @@ date: 2010-10-08 15:20:17 +0000
 categories: ["Marketing", "Publicitate"]
 tags: ["2010", "concluzii", "golden-drum"]
 author: titus_capilnean
-# BROKEN_IMAGES: 5 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/10/DSC01873-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/10/DSC01877-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/10/DSC01880-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/10/DSC01883-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/10/DSC01937-e1286550936814.jpg
 ---
 
 Trebuie să facem lucrurile pe care credem că nu putem să le facem
@@ -37,6 +31,14 @@ Modul ăsta de gândire se potrivește cu o idee pe care o am despre schimbare: 
 
 
 
+
+![DSC01873](/assets/img/posts/2010/lecții-pentru-piața-de-comunicare-din-romania-golden-drum-2010/DSC01873-150x150.jpg)
+
+![DSC01877](/assets/img/posts/2010/lecții-pentru-piața-de-comunicare-din-romania-golden-drum-2010/DSC01877-150x150.jpg)
+
+![DSC01880](/assets/img/posts/2010/lecții-pentru-piața-de-comunicare-din-romania-golden-drum-2010/DSC01880-150x150.jpg)
+
+![DSC01883](/assets/img/posts/2010/lecții-pentru-piața-de-comunicare-din-romania-golden-drum-2010/DSC01883-150x150.jpg)
 
 **Feed the passion – McDonalds World Cup 2010 sponsorship**
 
@@ -82,6 +84,8 @@ Revenind la PR, specialiştii din acest moment trebuie să se integreze – digi
 
 **Diferenţa dintre agenţiile de PR şi cele interactive** : primele lucrează cu mediile şi tehnologiile pe care le au la dispoziţie, Faceboo, bloguri, Twitter, etc. iar agenţiile de interactive creează tehnologii noi pentru comunicare.
 
+
+![](/assets/img/posts/2010/lecții-pentru-piața-de-comunicare-din-romania-golden-drum-2010/DSC01937-e1286550936814.jpg)
 
 Casele mari de comunicare(care oferă media, PR, advertising şi digital) nu funcţionează din cauza faptului că un client nu va lucra cu compania care are deja competitorul lui direct în portofoliu pe unul din paliere.
 

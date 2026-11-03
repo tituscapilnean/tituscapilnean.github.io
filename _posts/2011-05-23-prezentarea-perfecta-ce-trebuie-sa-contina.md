@@ -4,9 +4,9 @@ date: 2011-05-23 21:43:01 +0000
 categories: ["Altele de online"]
 tags: ["invitatie", "prezentare", "vorbitor"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/05/mkt24t.jpg
 ---
+![](/assets/img/posts/2011/prezentarea-perfecta-ce-trebuie-sa-contina/mkt24t.jpg)
+
 
 Peste câteva zile o să vorbesc la **Marketing 24/7** (mai precis pe **2 și 3 Iunie**), una din cele mai mari și mai importante conferințe regionale de profil. Ea se desfășoară la Sibiu și o să aibă printre invitați pe Marius Ghenea, plus alți 20 de speakeri pe care îi vei putea întâlni în cele două zile.
 

@@ -4,10 +4,9 @@ date: 2011-05-27 14:52:21 +0000
 categories: ["Evenimente"]
 tags: ["bcr", "bloggeri", "csr", "gri", "raportare"]
 author: titus_capilnean
-# BROKEN_IMAGES: 2 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/05/IMG_20110526_153939-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/05/IMG_20110526_153917-400x300.jpg
 ---
+![](/assets/img/posts/2011/bcr-transparenta-si-ong-urile/IMG_20110526_153939-150x150.jpg)
+
 
 Am fost ieri la sediul BCR, la invitația lui Dragoș Dehelean, la evenimentul de lansare/feedback pe raportul de responsabilitate al BCR-ului pentru 2009-2010.
 

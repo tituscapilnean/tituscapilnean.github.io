@@ -4,9 +4,9 @@ date: 2010-06-01 12:25:34 +0000
 categories: ["Social Media"]
 tags: ["2010", "iarmaroc", "reactie"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/06/vinyl_shape_iarmaroc_logo-150x150.jpg
 ---
+![vinyl_shape_iarmaroc_logo](/assets/img/posts/2010/reactii-organizatorii-iarmaroc-2010-si-au-cerut-scuze/vinyl_shape_iarmaroc_logo-150x150.jpg)
+
 
 Am găsit din întâmplare pe Feeder.ro un articol care se cocea de mai multă vreme. Organizatorii Iarmaroc 2010 și-au cerut oficial scuze de la participanți, artiști, expozanți, de la toată lumea. Cel mai relevant citat e următorul:
 

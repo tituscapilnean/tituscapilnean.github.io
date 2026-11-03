@@ -4,8 +4,6 @@ date: 2009-07-17 06:45:47 +0000
 categories: ["Altele de online"]
 tags: ["bucuresti", "distractiv", "inedit", "metrou"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/07/Photo-0073k-400x300.jpg
 ---
 
 **Petrache Poenaru (** 1799-1875) a fost inginer si matematician, fondator al Colegiilor Nationale din Bucuresti si Craiova, inventatorul stiloului si creator al steagului Romaniei moderne.
@@ -14,6 +12,8 @@ author: titus_capilnean
 
 Nu se putea ca folie respective să nu scape de băieții creativi, care au și un pix la îndemână. Normal că au umblat și au modificat scrisul, într-un stil umoristic ce amintește de clasa a 5-a, a 6-a.
 
+
+![Photo-0073k](/assets/img/posts/2009/ce-a-avut-cu-bietul-petrache/Photo-0073k-400x300.jpg)
 
 Vă mai amintiți cum se făcea mișto în generală?
 

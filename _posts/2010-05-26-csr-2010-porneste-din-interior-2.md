@@ -4,8 +4,6 @@ date: 2010-05-26 20:28:05 +0000
 categories: ["Evenimente"]
 tags: ["2010", "conferinta", "csr"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/05/chartcsr10.jpg
 ---
 
 Știu că sună dramatic titlul și că în mod normal nu se potrivește cu o conferință corporate, însă de data asta, mi s-a părut cea mai relevantă idee pe care am putut să o desprind de etajul 21, din Intercontinental.

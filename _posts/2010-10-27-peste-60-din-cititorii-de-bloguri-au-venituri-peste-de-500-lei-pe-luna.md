@@ -4,10 +4,9 @@ date: 2010-10-27 12:00:55 +0000
 categories: ["Marketing", "Social Media"]
 tags: ["bloguri", "romania", "trafic", "utilizatori"]
 author: titus_capilnean
-# BROKEN_IMAGES: 2 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/10/blue-growth-chart-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/10/blogdemografice_4_income-400x200.jpg
 ---
+![](/assets/img/posts/2010/peste-60-din-cititorii-de-bloguri-au-venituri-peste-de-500-lei-pe-luna/blue-growth-chart-150x150.jpg)
+
 
 Blogosfera din România a ajuns să fie vizitată de peste 53% din totalul de oameni care stau pe internet pe teritoriul țării. Am făcut o mică analiză a evoluției creșterii blogurilor din 2008 până în prezent(cam atunci au început să apară primele cifre despre bloguri în România).
 

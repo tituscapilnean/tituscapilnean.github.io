@@ -4,9 +4,9 @@ date: 2011-02-07 08:20:14 +0000
 categories: ["Online Training"]
 tags: ["campanie", "exemplu", "facebook", "training", "twitter", "youtube"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/02/5-150x150.jpg
 ---
+![](/assets/img/posts/2011/cum-am-ajutat-un-ong-studentesc-sa-invete-social-media/5-150x150.jpg)
+
 
 Dacă n-ai citit anul trecut, în Decembrie 2010 am ținut un training de comunicare online despre cum poate un ONG studențesc să folosească Social Media pentru a se face cât mai vizibil posibil pe internet și pentru a comunica și discuta cu studenții care petrec mult timp pe net.
 

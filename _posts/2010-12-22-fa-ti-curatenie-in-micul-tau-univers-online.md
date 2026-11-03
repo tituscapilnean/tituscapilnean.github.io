@@ -4,9 +4,9 @@ date: 2010-12-22 06:00:51 +0000
 categories: ["Social Media"]
 tags: ["brand", "online", "personal"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/12/girls-partying-150x150.jpg
 ---
+![](/assets/img/posts/2010/fa-ti-curatenie-in-micul-tau-univers-online/girls-partying-150x150.jpg)
+
 
 Să zicem că ai intrat pe internet pentru prima dată undeva acum 8-10 ani, când ne distram încă pe dial-up, respectiv pe UTP de 4 kB/s. Pe atunci erau alte site-uri, alte comunități, alte social media, deși încă nu se numeau așa.
 

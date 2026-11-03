@@ -4,9 +4,9 @@ date: 2014-03-28 07:50:42 +0000
 categories: ["Altele de online"]
 tags: ["aplicatii", "comanda", "livrare", "mancare", "mobil"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2014/03/food-delivery-service-300x225.jpg
 ---
+![food-delivery-service-300x225](/assets/img/posts/2014/problema-de-corporatist-sau-freelancer-de-unde-comand-de-mancare/food-delivery-service-300x225.jpg)
+
 
 Nu sunt mare fan al gătitului, nu-mi place să îmi iau mâncare la pachet și nu mă prea omor după sandvișurile sau caserolele de la supermarketuri. N-am putut niciodată să iau mai mult de 2 sau 3 ori pe săptămână mâncare cu mine la birou sau acasă, drept pentru care mă plimb prin restaurantele bucureștene sau să comand mâncare de pe net sau pe mobil, prin aplicații. Dacă de pe net e destul de simplu să dai un search pe ”comandă mâncare bucurești” (respectiv numele orașului din țară), pe mobil nu-s așa de multe opțiuni.
 

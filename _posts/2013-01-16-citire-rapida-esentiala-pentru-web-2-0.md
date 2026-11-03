@@ -4,9 +4,9 @@ date: 2013-01-16 08:32:23 +0000
 categories: ["Online Training"]
 tags: ["2013", "citit", "digital", "online"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/01/speed_reading_1-150x150.jpg
 ---
+![](/assets/img/posts/2013/citire-rapida-esentiala-pentru-web-2-0/speed_reading_1-150x150.jpg)
+
 
 Dacă tot am început anul cu predicții, ar trebui să mă ating un pic și de capitalul uman al internetului, cei cu care facem campanii, cei care ne citesc blogurile, ne dau like-uri, tweeturi și mai știu eu ce. Adică voi, deci și tu.
 

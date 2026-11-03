@@ -4,13 +4,6 @@ date: 2010-10-05 20:18:23 +0000
 categories: ["Altele de online"]
 tags: ["2010", "golden-drum", "slovenia", "venetia"]
 author: titus_capilnean
-# BROKEN_IMAGES: 6 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/10/DSC01702-400x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/10/DSC01664-377x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/10/DSC01673-400x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/10/DSC01699-308x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/10/DSC01668-400x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/10/DSC01718-400x300.jpg
 ---
 
 Am ajuns într-un final în Portoroz, după 2 escale italiene, una în Veneția și una în Trieste. De când am aflat că mergem la Golden Drum, am căutat variante cât mai directe spre festival și așa am ajuns la itinerariul București – Veneția – Trieste – Piran(Portoroz), timp în care n-am putut evita statul peste 3 ore în Veneția.
@@ -20,6 +13,8 @@ Am fost offline toată ziua pentru că wireless-ul e scump. Deși există mai mu
 În mod normal, ca să vizitezi un oraș ca Veneția, îți trebuie cel puțin o zi, în care să te bucuri de fiecare stradă, curte, gondolă, canal sau pod. Noi am nimerit fix în extrasezon, deci aglomerația era minimă.
 
 
+
+![](/assets/img/posts/2010/venetia-la-pas-in-3-ore/DSC01702-400x300.jpg)
 
 Cel mai mult ne-a plăcut să ne plimbăm pe străzile din afara rutelor turistice, pe unde fie erau doar localnici, fie nu era absolut nimeni (da, erau piațete goale, pasaje pustii, liniște)
 

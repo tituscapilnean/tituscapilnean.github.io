@@ -4,9 +4,9 @@ date: 2013-05-15 07:19:27 +0000
 categories: ["Marketing"]
 tags: ["content", "marketing", "online"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/05/Content_Marketing_Mix1-01-150x150.png
 ---
+![Content_Marketing_Mix1-01](/assets/img/posts/2013/reach-si-engagement-masurare-in-content-marketing/Content_Marketing_Mix1-01-150x150.png)
+
 
 La rugămintea lui Alin, am scris câteva rânduri pentru blogul lui despre starea ”industriei” de content marketing. Le redau mai jos.
 

@@ -4,15 +4,6 @@ date: 2010-05-11 06:29:51 +0000
 categories: ["Publicitate"]
 tags: ["expozitie", "istorie"]
 author: titus_capilnean
-# BROKEN_IMAGES: 8 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/05/IMG_0111-400x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/05/Ursus-olimpic3-400x266.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/05/IMG_0113-400x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/05/IMG_11-225x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/05/HEADACHE_1.preview-399x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/05/IMG_0126-400x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/05/Nivea987-259x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/05/IMG_0116-400x300.jpg
 # EMBED_ISSUES: 1 embed(s) need review
 #   - [iframe] http://www.norc.ro/embed.aspx?id=217f72c9d3dff348c9ba46188f844e41&ppa=180.9&r=108.9&vla=8.3&lz=60&acc=9c5d68f4-2133-48b5-b57a-45f91453b1a9
 ---

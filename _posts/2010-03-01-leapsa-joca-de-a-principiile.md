@@ -4,8 +4,6 @@ date: 2010-03-01 07:00:50 +0000
 categories: ["Social Media"]
 tags: ["leapsa", "persoanl"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/02/tumblr_kyb9q8cFRy1qzr04eo1_400.png
 ---
 
 Cred că n-am mai primit o leapșă de la Olimpiadele Comunicării, de anul trecut, când am fost foarte entuziasmat că am primit-o :). De data asta, am observat un ping-back în interfața de administrare a WordPress-ului. E de la Laura primit. Mi-a pasat o provocare la joacă – care sunt principiile după care mă ghidez în viață, după care mă orientez, etc.

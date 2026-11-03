@@ -4,9 +4,9 @@ date: 2012-03-14 08:41:22 +0000
 categories: ["Istoria reclamelor bune"]
 tags: ["campanie", "mad-men", "serial"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/03/madmen-371x300.png
 ---
+![](/assets/img/posts/2012/si-serialele-au-campanii-de-promovare-online/madmen-371x300.png)
+
 
 Spuneam în articolul despre Web 3.0 că online-ul va integra din ce în ce mai multe părți din viața noastră, de la mersul la magazin, uitatul la televizor, planificatul vacanțelor, căutatul de școli și grădinițe, găsitul de oameni care să îți renoveze casa etc.
 

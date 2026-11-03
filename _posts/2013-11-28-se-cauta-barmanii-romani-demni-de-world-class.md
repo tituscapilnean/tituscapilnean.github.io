@@ -4,8 +4,6 @@ date: 2013-11-28 10:43:04 +0000
 categories: ["Evenimente"]
 tags: ["barmani", "concurs", "diageo", "world-class"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/11/1459347_472775886164631_1058868601_n-400x225.jpg
 # EMBED_ISSUES: 1 embed(s) need review
 #   - [iframe] //www.youtube.com/embed/Ki09fL3tptI
 ---
@@ -15,6 +13,8 @@ Ieri am fost la lansarea oficială, în România, a programul de instruire DIAGE
 Pe lângă faptul că am asistat la producția artistică câtorva cocktail-uri interesante (dintre care cel mai cel a fost _Smoky Zacapa Manhattan_ -ul), am zis să încerc să mă recalific drept barman. Poza de mai jos mi-e martor că mi-am dat silința și am produs un cocktail cel puțin decent, pe bază de rom, cu vanilie, lime și portocală.
 
 
+
+![1459347_472775886164631_1058868601_n](/assets/img/posts/2013/se-cauta-barmanii-romani-demni-de-world-class/1459347_472775886164631_1058868601_n-400x225.jpg)
 
 Bine, n-aș fi reușit să îl fac atât de bun dacă nu mă ghida maestrul Aristotelis Papadopoulos. E barman de la 16 ani, are mai bine de 28 de ani de experiență în domeniul mixologiei și a câștigat competiția DIAGEO Reserve WORLD CLASS în 2009.
 

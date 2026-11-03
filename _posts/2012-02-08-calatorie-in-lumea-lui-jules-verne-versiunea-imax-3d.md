@@ -4,9 +4,8 @@ date: 2012-02-08 21:41:24 +0000
 categories: ["Filme Bucuresti"]
 tags: ["film", "imax", "jules-verne", "samsung"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/02/Journey-2-The-Mysterious-Island-150x150.jpg
 ---
+
 
 Am fost la avampremiera filmului Călătoria 2 – Insula Misterioasă, o adaptare după poveștile lui Jules Verne. Mersi Oxygen PR pentru invitație, sunteți niște drăguțe, ca întotdeauna. M-am mai întâlnit p-acolo cu Corina, Andra, Arhi și consoarta lui, Bunescu și Roxana.
 

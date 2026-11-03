@@ -4,10 +4,9 @@ date: 2011-03-24 18:21:25 +0000
 categories: ["Evenimente"]
 tags: ["nokia", "offline", "online", "ski", "snowboard"]
 author: titus_capilnean
-# BROKEN_IMAGES: 2 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/03/199273_10150163619398973_309382398972_8329085_3864364_n-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/03/200440_10150165731078973_309382398972_8355825_4106327_n-400x266.jpg
 ---
+![](/assets/img/posts/2011/shoot-n-ride-cu-nokia-romania-prin-sinaia-si-la-balea-lac/199273_10150163619398973_309382398972_8329085_3864364_n-150x150.jpg)
+
 
 În afara programului meu corporatist, mai am timp să și evadez din București în weekenduri și când o fac, vreau să o fac bine, pentru că trebuie să mă dezinternetizez.
 

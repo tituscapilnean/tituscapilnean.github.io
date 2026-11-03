@@ -4,8 +4,6 @@ date: 2011-01-19 09:00:20 +0000
 categories: ["Online Training"]
 tags: ["cum-sa-faci", "facebook", "ghid"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/01/suggest-to-friends-400x292.jpg
 ---
 
 ![Facebook logo](http://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Facebook.svg/266px-Facebook.svg.png)

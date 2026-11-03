@@ -4,9 +4,6 @@ date: 2009-08-19 12:16:08 +0000
 categories: ["Altele de online", "Social Media"]
 tags: ["desen", "destractiv", "online", "poza", "social-media"]
 author: titus_capilnean
-# BROKEN_IMAGES: 2 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/08/Internet_University_Cast_by_elontirien-536x1024.png
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/08/7mBO6-400x223.png
 ---
 
 

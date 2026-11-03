@@ -4,11 +4,11 @@ date: 2009-12-04 10:08:49 +0000
 categories: ["Social Media"]
 tags: ["analiza", "basescu", "dezbatere", "geoana", "hashtag", "marinarul", "nu", "penibil", "rapita"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/12/geoana+basescu_b-400x241.jpg
 ---
 
 
+
+![geoana+basescu_b](/assets/img/posts/2009/nu-dezbatere-neanaliza-de-hashtag/geoana+basescu_b-400x241.jpg)
 
 sursa foto
 

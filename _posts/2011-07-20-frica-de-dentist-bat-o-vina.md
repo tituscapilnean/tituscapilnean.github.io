@@ -4,9 +4,9 @@ date: 2011-07-20 11:56:37 +0000
 categories: ["Altele de online", "Publicitate"]
 tags: ["airflow", "bloggeri", "clinica", "dentestet", "dentist", "detartraj", "frica", "periaj"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/07/dent-estet-lanseaza-abonamentele-individuale-pentru-servicii-stomatologice-79000-400x243.jpg
 ---
+![](/assets/img/posts/2011/frica-de-dentist-bat-o-vina/dent-estet-lanseaza-abonamentele-individuale-pentru-servicii-stomatologice-79000-400x243.jpg)
+
 
 Săptămâna trecută am făcut, poate, cel mai mare pas din ultimii 10 ani, în materie de îngrijirea dinților proprii. Mi-am făcut curaj și, la invitația lui Doru, am mers într-o vizită la cel mai bun cabinet dentar din București. Bine, n-am fost la sediul lor pentru adulți, am fost la clinica pentru copii, însă tot am încăput în scaun.
 

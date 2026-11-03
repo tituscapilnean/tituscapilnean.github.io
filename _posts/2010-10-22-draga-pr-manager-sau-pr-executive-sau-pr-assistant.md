@@ -4,9 +4,9 @@ date: 2010-10-22 13:04:01 +0000
 categories: ["Marketing"]
 tags: ["lectie", "scrisoare", "vox-populi"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/10/timthumb.php_-150x150.jpg
 ---
+![](/assets/img/posts/2010/draga-pr-manager-sau-pr-executive-sau-pr-assistant/timthumb.php_-150x150.jpg)
+
 
 _Articolul este un**Guest Post** de la o marketeuză, care dorește să rămână anonimă. Acest lucru nu scade în niciun caz din importanța lecțiilor de mai jos. Foarte tare mesaj. De citit pentru orice specialist/specialistă în PR_
 

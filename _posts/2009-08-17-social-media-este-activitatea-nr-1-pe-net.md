@@ -4,8 +4,6 @@ date: 2009-08-17 08:54:56 +0000
 categories: ["Evenimente", "Social Media"]
 tags: ["anunt", "comunicare", "inedit", "online", "social-media", "video"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/08/3598356119_bd22769c3e_o-400x220.jpg
 ---
 
 Social Media a depășit stadiul de modă și a devenit mainstram, cel puțin în străinătate. La noi o să vină puțin mai târziu, pentru că decalajul se păstrează și în cazul ăsta. Dar nu despre decalaj vreau să vorbesc aici, ci despre datele impresionante afișate în clip:
@@ -67,7 +65,6 @@ _Se prevede sfârșitul cărților tipărite pe hârtie. Nu va mai fi nevoie pur
 15\. Pe Facebook se distribuie zilnic peste 1,5 milioane de piese de conținut online(text, link, foto, video, etc.)
 
 16\. Campaniile pe social media arată mai mult a planificare de petrecere, agregare și producere de conținut decât a advertising. Modul de a face lucrurile seamănă mai mult cu consultanța – se ascultă, apoi se vinde.
-
 
 
 sursa FOTO

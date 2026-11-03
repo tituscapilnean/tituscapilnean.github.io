@@ -4,9 +4,9 @@ date: 2013-03-18 08:46:04 +0000
 categories: ["Evenimente"]
 tags: ["2013", "autism", "balul-albastru", "caritate", "eveniment"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/03/540773_482920898424523_88265667_n-150x150.png
 ---
+![540773_482920898424523_88265667_n](/assets/img/posts/2013/participa-la-balul-albastru-2013/540773_482920898424523_88265667_n-150x150.png)
+
 
 Dacă lucrezi la companie care e pe profit, atunci probabil că n-ai niciun motiv să nu ceri o sponsorizare din partea ei pentru un bilet la **Balul Albastru 2013** și să contribui la sprijinirea tinerilor cu autism.
 

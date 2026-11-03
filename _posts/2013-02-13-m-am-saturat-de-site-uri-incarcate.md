@@ -4,9 +4,6 @@ date: 2013-02-13 12:44:48 +0000
 categories: ["Altele de online"]
 tags: ["2013", "design", "rant", "web"]
 author: titus_capilnean
-# BROKEN_IMAGES: 2 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/02/amazon-2001-400x160.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/02/1minimalist-in-webdesign-400x213.jpg
 ---
 
 Voi nu?

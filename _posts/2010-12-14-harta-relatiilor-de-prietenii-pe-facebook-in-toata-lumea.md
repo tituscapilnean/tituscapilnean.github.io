@@ -4,9 +4,6 @@ date: 2010-12-14 09:04:11 +0000
 categories: ["Social Media"]
 tags: ["facebook", "harta", "relatii"]
 author: titus_capilnean
-# BROKEN_IMAGES: 2 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/12/fb-relationships-full-400x199.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/12/earthlights_dmsp_big-400x200.jpg
 ---
 
 Un intern de la Facebook s-a gândit să folosească sistemul de baze de date(Open Graph) și să creeze o imagine care reprezintă toate relațiile de prietenie din întreaga lume(bine, a țărilor care Folosesc intens Facebook).

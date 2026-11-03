@@ -4,12 +4,11 @@ date: 2010-11-22 07:40:44 +0000
 categories: ["Marketing", "Social Media"]
 tags: ["analiza", "branduri", "concluzii", "sondaj"]
 author: titus_capilnean
-# BROKEN_IMAGES: 2 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/11/9010_loverespectaxis350px-150x150.gif
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/11/rezultate.jpg
 ---
 
 _click pe imaginea din dreapta pentru un grafic_
+
+![](/assets/img/posts/2010/de-ce-vorbesti-de-bine-despre-branduri-in-socialmediaconcluzii/9010_loverespectaxis350px-150x150.gif)
 
 __Mi-am amintit că m-am apucat acum vreo 3 săptămâni să pun o întrebare și anume – de ce oamenii vorbesc de bine despre unele branduri prin conturile lor de rețele sociale. Îi mulțumesc lui Cristi pentru ajutorul dat în strângerea de răspunsuri.
 

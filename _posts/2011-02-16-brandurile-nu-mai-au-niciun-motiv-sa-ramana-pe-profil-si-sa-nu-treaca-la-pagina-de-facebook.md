@@ -4,8 +4,6 @@ date: 2011-02-16 09:33:28 +0000
 categories: ["Online Training"]
 tags: ["facebook", "ghiduri", "nume-pagina"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/12/facebook.png
 ---
 
 De când a trecut Facebook la noile facilități pentru pagini, nu mai există niciun motiv pentru care companiile, atât cele mari, cât și cele mici, să rămână în continuare pe profiluri de persoane. Am discutat mai demult pe tema asta și mai mulți administratori de conturi de Facebook și ei susțineau sus și tare că profilul îi avantajează.

@@ -4,9 +4,9 @@ date: 2014-04-09 08:05:52 +0000
 categories: ["Turism"]
 tags: ["calatorii", "interviu", "siguranta"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/07/IMG_4307-e1374538629720-150x150.jpg
 ---
+![IMG_4307](/assets/img/posts/2014/sfaturi-de-calatorie-pe-blogul-isro-solutions/IMG_4307-e1374538629720-150x150.jpg)
+
 
 Călătoresc destul de mult de vreo 2-3 ani, mai ales din pricina Executive MBA-ului. De exemplu, azinoapte m-am întors dintr-un mic trip în Europa Centrală via Budapesta, Bratislava, Cracovia și Kosice 🙂 Dar nu despre asta voiam să scriu. Cât timp eram plecat, ISRO Solutions au publicat pe blogul lor câteva idei de-ale mele despre siguranța în călătorii.
 

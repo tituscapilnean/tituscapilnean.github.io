@@ -4,9 +4,6 @@ date: 2011-09-29 11:20:04 +0000
 categories: ["Online Training"]
 tags: ["date-personale", "facebook", "lege", "online"]
 author: titus_capilnean
-# BROKEN_IMAGES: 2 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/09/fbhelp-400x60.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/09/facebook-trolling-194x300.jpg
 ---
 
 Am găsit pe net via Twitter o poză prin care ni se explică foarte frumos, pe pași, cum putem să dăm de lucru angajaților Facebook.

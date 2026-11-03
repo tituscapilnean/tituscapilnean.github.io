@@ -4,9 +4,6 @@ date: 2011-06-20 08:01:43 +0000
 categories: ["Publicitate"]
 tags: ["banner", "bcr", "campanie", "idei", "refinantare", "sfaturi", "widget"]
 author: titus_capilnean
-# BROKEN_IMAGES: 2 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/06/refinantare-400x217.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/06/tweet-titus-400x159.jpg
 ---
 
 Vineri am primit un newsletter de la Blogal Initiative, cum că landingul de campanie pentru BCR Refinanțare s-a schimbat.
@@ -14,6 +11,8 @@ Vineri am primit un newsletter de la Blogal Initiative, cum că landingul de cam
 Surpriza mea maximă a fost să văd că noul landing page arată așa:
 
 
+
+![](/assets/img/posts/2011/calculatorul-de-refinantare-widget-pe-bloguri-si-site-uri-iii/refinantare-400x217.jpg)
 
 Deci pe site-ul BCR poți acum să îți calculezi exact cât te costă refinanțarea, cât câștigi, în comparație cu creditul vechi și ce costuri extra mai ai, pe lângă dobândă.
 
@@ -24,6 +23,8 @@ Setezi perioada și afli exact cât o să ai de plătit pe lună. Perfect.
 Mă bucur să văd că BCR citește sfaturile de pe Twitter:
 
 
+
+![](/assets/img/posts/2011/calculatorul-de-refinantare-widget-pe-bloguri-si-site-uri-iii/tweet-titus-400x159.jpg)
 
 Da, ideea a fost a mea, pe 14 Iunie, pe Twitter. Haters gonna hate.
 

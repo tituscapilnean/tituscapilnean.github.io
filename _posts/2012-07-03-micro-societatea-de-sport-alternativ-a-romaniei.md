@@ -4,9 +4,9 @@ date: 2012-07-03 13:06:19 +0000
 categories: ["Evenimente"]
 tags: ["mountainboard", "piatra-neamt", "ski", "surf", "switch"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/07/282759_10150979667853153_362743026_n-150x150.jpg
 ---
+![](/assets/img/posts/2012/micro-societatea-de-sport-alternativ-a-romaniei/282759_10150979667853153_362743026_n-150x150.jpg)
+
 
 Mă dau pe snowboard din 2007, m-am dat pe skateboard câțiva ani prin Baia Mare, m-am dat și mă voi mai da cu bicicleta(inclusiv pe coclauri, chiar dacă mai rar în ultima vreme), așa că am tot avut contact cu oamenii pasionați de sporturi extreme/alternative în România. Spun alternative pentru că nu sunt considerate sporturi olimpice și nu pun accent pe competitivitate/competiție, ci pe plăcerea de a face sport și de a socializa.
 

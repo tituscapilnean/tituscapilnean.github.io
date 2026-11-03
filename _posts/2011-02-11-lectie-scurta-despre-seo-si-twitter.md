@@ -4,9 +4,9 @@ date: 2011-02-11 08:00:51 +0000
 categories: ["Online Training"]
 tags: ["campanii", "cautari", "google", "integrare", "seo", "social-media", "vox-populi"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/12/twitter.png
 ---
+![](/assets/img/posts/2011/lectie-scurta-despre-seo-si-twitter/twitter.png)
+
 
 _Guest post scris de Dan Brasoveanu, pasionat de internet, web marketing to be more exact. Imi place sa dezbat o idee buna cu prietenii, alaturi de o muzica buna pe fundal si o bautura fina. Calatoresc cu spor, placere si drag._
 

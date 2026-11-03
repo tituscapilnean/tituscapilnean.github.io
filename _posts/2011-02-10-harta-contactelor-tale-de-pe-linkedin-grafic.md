@@ -4,8 +4,6 @@ date: 2011-02-10 08:00:23 +0000
 categories: ["Social Media"]
 tags: ["contacte", "harta", "linkedin", "retea"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/02/inmap-355x300.gif
 ---
 
 ![This is icon for social networking website. Th...](http://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/256px-Linkedin.svg.png) Image via Wikipedia 

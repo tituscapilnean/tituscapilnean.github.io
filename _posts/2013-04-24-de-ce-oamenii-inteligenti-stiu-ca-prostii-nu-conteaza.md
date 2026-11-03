@@ -4,9 +4,9 @@ date: 2013-04-24 07:24:54 +0000
 categories: ["Altele de online"]
 tags: ["destepti", "oameni", "prosti", "societate"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/04/keep-calm-and-ignore-idiots-24-187x300.png
 ---
+![keep-calm-and-ignore-idiots-24](/assets/img/posts/2013/de-ce-oamenii-inteligenti-stiu-ca-prostii-nu-conteaza/keep-calm-and-ignore-idiots-24-187x300.png)
+
 
 Am citit aberația asta ieri despre cum proștii câștigă.
 

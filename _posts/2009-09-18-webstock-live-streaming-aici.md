@@ -4,8 +4,6 @@ date: 2009-09-18 04:02:26 +0000
 categories: ["Social Media"]
 tags: ["2009", "embed", "in-direct", "live-streaming", "webstock"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/09/webstock.jpg
 # EMBED_ISSUES: 1 embed(s) need review
 #   - [iframe] http://assets.whispercast.ro/player/events/player.html?event_id=2009_09_WebStock
 ---

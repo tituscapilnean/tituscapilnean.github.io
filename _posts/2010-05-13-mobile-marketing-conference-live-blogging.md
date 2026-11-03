@@ -4,19 +4,6 @@ date: 2010-05-13 06:28:15 +0000
 categories: ["Evenimente"]
 tags: ["conferinta", "live-blog", "mobile-marketing"]
 author: titus_capilnean
-# BROKEN_IMAGES: 12 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/05/20100513_008-399x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/05/20100513_016-399x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/05/20100513_020-399x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/05/20100513_023-399x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/05/20100513_024-225x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/05/20100513_027-399x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/05/20100513_032-399x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/05/56717512-300x300.png
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/05/20100513_052-399x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/05/20100513_055-399x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/05/20100513_057-399x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/05/20100513_058-399x300.jpg
 ---
 
 **Update:**
@@ -42,6 +29,8 @@ Cuprins(click și te duce direct la secțiunea respectivă de live-blog):
 Începutul Mobile Marketing Conference s-a lăsat un pic așteptat, până a venit marea majoritate a invitaților și a participanților. Am profitat de partea asta să mai discut cu lumea prin sală și să fac primele poze cu Nokia N900.
 
 
+
+![20100513_008](/assets/img/posts/2010/mobile-marketing-conference-live-blogging/20100513_008-399x300.jpg)
 
 Pentru început, Cristi Manafu ne povestește despre istoria de 2 ani a conferinței, MMC 2010 fiind a 3-a ediție. Anul ăsta aflăm despre idei, tendințe și soluții pentru brandurile care își doresc prezență pe media mobile. Vom avea parte și de câteva studii de caz, așa cum poți să vezi în agenda conferinței, deci se pot extrage soluții și din experiențele celorlalți.
 

@@ -4,10 +4,6 @@ date: 2011-05-12 09:17:10 +0000
 categories: ["Publicitate"]
 tags: ["blogger", "citroen", "ds3"]
 author: titus_capilnean
-# BROKEN_IMAGES: 3 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/05/IMG_20110509_184807-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/05/IMG_20110509_184816-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/05/IMG_20110509_184826-150x150.jpg
 ---
 
 Am avut mașina, am predat-o. Cine trebuie să știe, știe de ce. Da, știu, sunt un egoist, doar eu m-am dat cu ea. Din cauza asta m-ați blestemat și am profitat de faptul că DS3-ul de la Citroen nu are senzor de parcare decât pe spate. Am aflat treaba asta ”the hard way”. Nu mai contează.
@@ -19,6 +15,12 @@ Merci Cerecomand și Citroen pentru cei 200 km cât am condus DS3-ul. Poze și i
 
 
 
+
+![](/assets/img/posts/2011/sunt-un-egoist-ds3/IMG_20110509_184807-150x150.jpg)
+
+![](/assets/img/posts/2011/sunt-un-egoist-ds3/IMG_20110509_184816-150x150.jpg)
+
+![](/assets/img/posts/2011/sunt-un-egoist-ds3/IMG_20110509_184826-150x150.jpg)
 
 Părți bune:
 

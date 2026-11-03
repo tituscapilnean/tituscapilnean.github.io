@@ -4,9 +4,9 @@ date: 2011-10-17 16:51:03 +0000
 categories: ["Evenimente"]
 tags: ["challenge", "how-to-web", "romania", "startup", "venture-capital"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/11/how-to-web-2010-logo-400x271.jpg
 ---
+![](/assets/img/posts/2011/vii-cu-startup-ul-in-urmatoarele-3-zile-iti-iei-banii/how-to-web-2010-logo-400x271.jpg)
+
 
 Dacă ar fi așa de simplu, am fi cu toții antreprenori și oameni de afaceri. Cu toate astea, competiția Startup Challenge de la How To Web, la care poți să te înscrii până pe 20 Octombrie, cu un Elevator Pitch și formularul ăsta completat.
 

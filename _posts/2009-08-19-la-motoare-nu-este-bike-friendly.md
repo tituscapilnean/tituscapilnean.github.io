@@ -4,10 +4,6 @@ date: 2009-08-19 06:59:11 +0000
 categories: ["Altele de online"]
 tags: ["bucuresti", "cu-bicicleta", "distractiv", "intamplari", "sport"]
 author: titus_capilnean
-# BROKEN_IMAGES: 3 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/08/IMG_02201-400x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/08/IMG_02211-400x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/08/IMG_0223-400x300.jpg
 ---
 
 N-am mai scris aseară pentru că am fost pentru prima oară după mult timp la **”Trainee Beer”** , cu prietenii din AIESEC București. **”Trainee Beer”** este o ieșire săptămânală la bere în care socializăm ,cunoaștem oamenii veniți prin programul de Exchange al organizației să lucreze în București, bem o bere liniștită într-o marți seara și punem țara la cale.
@@ -23,6 +19,8 @@ A fost unul din cele mai populare „Trainee Beers”, având în vedere că mes
 **Miezul problemei** din seara trecută a fost faptul că mi-am luat bicicletă. ”Furia albastră” mi-a intrat în posesie pe la ora 20:30, după schimbul de bunuri și valori de rigoare, alături de o **chitanță de mână**(mulțumesc @arhi pentru sugestie și o recomand oricui, nu de alta dar s-ar putea după ce dai banii omului, el să strige ”hoții” după tine și să rămâi și fără bani și fără bicicletă, eventual și cu o bătută de la organe).
 
 
+
+![IMG_0223](/assets/img/posts/2009/la-motoare-nu-este-bike-friendly/IMG_0223-400x300.jpg)
 
 Așa arată noul meu vehicul de transport persoane – capacitate 1 loc. 😀
 

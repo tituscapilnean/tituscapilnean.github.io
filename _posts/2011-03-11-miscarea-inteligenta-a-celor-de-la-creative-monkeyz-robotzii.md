@@ -4,10 +4,9 @@ date: 2011-03-11 08:00:51 +0000
 categories: ["Marketing"]
 tags: ["analiza", "creative-monkeyz", "facebook", "robotzii", "youtube"]
 author: titus_capilnean
-# BROKEN_IMAGES: 2 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/03/robotzy-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/03/creativemokeyz-crestere-274x300.jpg
 ---
+![](/assets/img/posts/2011/miscarea-inteligenta-a-celor-de-la-creative-monkeyz-robotzii/robotzy-150x150.jpg)
+
 
 Nu mi-a plăcut niciodată să mă grăbesc cu afirmaţii despre variile schimbări de pe internet. Cazul de faţă a fost cu atât mai bizară şi mai greu de înţeles, cu cât creatorii serialului Robotzii îşi tăiau, aparent, principală sursă de promovare: Youtube.
 
@@ -32,6 +31,8 @@ Faptul că Robotzii s-au mutat exclusiv pe site-ul creativemonkeyz.com a generat
 În plus, aseară, odată cu lansarea episodului 7, şi **pagina lor de Facebook** a avut de câştigat din mişcarea asta. Într-o singură zi, pagină lor a crescut cât alte pagini într-un an, fără să investească în ad-uri – **au depăşit 18.000 de fani adunaţi într-o singură zi** , ajungând la peste **55.000 de fani pe Facebook**.
 
 
+
+![](/assets/img/posts/2011/miscarea-inteligenta-a-celor-de-la-creative-monkeyz-robotzii/creativemokeyz-crestere-274x300.jpg)
 
 sursa: Facebrands.ro
 

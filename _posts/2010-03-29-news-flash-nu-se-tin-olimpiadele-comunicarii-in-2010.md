@@ -4,11 +4,11 @@ date: 2010-03-29 12:52:15 +0000
 categories: ["Evenimente"]
 tags: ["olimpiadele-comunicarii", "stire"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/03/logo.gif
 ---
 
 
+
+![logo](/assets/img/posts/2010/news-flash-nu-se-tin-olimpiadele-comunicarii-in-2010/logo.gif)
 
 > Dupa cum stiti, anul 2010 este, din toate punctele de vedere, un an dificil pentru intreaga industrie de comunicare.
 

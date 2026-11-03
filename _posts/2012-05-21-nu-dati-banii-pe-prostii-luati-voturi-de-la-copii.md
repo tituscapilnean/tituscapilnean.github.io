@@ -4,8 +4,6 @@ date: 2012-05-21 10:20:41 +0000
 categories: ["Social Media"]
 tags: ["facebook", "fail", "politica"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/05/maroti-facebook-400x250.png
 ---
 
 De pe 10 Mai suntem în plină campanie electorală. Au apărut deja fețele imprimate cu mult sârg pe outdoor-uri colorate, emisiunile TV cu dedicație, se lucrează în București la renovări de te miri ce au pățit toți, ce să mai, duduie.
@@ -15,6 +13,8 @@ De pe 10 Mai suntem în plină campanie electorală. Au apărut deja fețele imp
 Astăzi prezentăm cazul lui Cezar Maroti, foarte popular pe Facebook în rândurile copiilor de 13-17 ani.
 
 
+
+![](/assets/img/posts/2012/nu-dati-banii-pe-prostii-luati-voturi-de-la-copii/maroti-facebook-400x250.png)
 
 N-am nimic cu omul, însă nu înțeleg care e strategia din spatele rezultatului. O să îi ducă de mână pe părinți, să le spună ce să voteze? Dacă da, atunci clar merită o bombonică pentru efort.
 

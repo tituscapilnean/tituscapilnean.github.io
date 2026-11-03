@@ -4,13 +4,13 @@ date: 2010-05-12 19:41:17 +0000
 categories: ["Social Media"]
 tags: ["semantic-web", "viitor", "web-2.0"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/05/semanticmap2-400x234.jpg
 ---
 
 **Update: Lasă-ți părerea în comentarii – în care din Web-uri suntem? 2.0, 3.0? 4.0?**
 
 
+
+![semanticmap2](/assets/img/posts/2010/web-4-0-e-departe/semanticmap2-400x234.jpg)
 
 _Source: Nova Spivack and Radar Networks_
 

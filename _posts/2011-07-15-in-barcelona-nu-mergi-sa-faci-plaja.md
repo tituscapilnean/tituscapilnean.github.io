@@ -4,9 +4,9 @@ date: 2011-07-15 08:25:56 +0000
 categories: ["Turism"]
 tags: ["barcelona", "campanie", "city-break", "excursie", "paravion"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/07/1649694-View_from_park_Guel-Barcelona-150x150.jpg
 ---
+![](/assets/img/posts/2011/in-barcelona-nu-mergi-sa-faci-plaja/1649694-View_from_park_Guel-Barcelona-150x150.jpg)
+
 
 Mergi să te plimbi, să vizitezi, să explorezi. E un oraș frumos de mama focului, însă fără plaje spectaculoase. Are niște petice lungi de nisip, însă dă mai mult a Eforie Nord decât a Spania. Mai bine faci lucruri mai interesante. Cel puțin eu asta am înțeles din cele 4 zile de vacanță în Barcelona.
 

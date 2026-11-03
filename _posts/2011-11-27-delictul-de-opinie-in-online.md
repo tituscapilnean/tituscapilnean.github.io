@@ -4,9 +4,9 @@ date: 2011-11-27 13:57:41 +0000
 categories: ["Relatii Publice"]
 tags: ["delict-de-opinie", "online", "pareri"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/11/prison-150x150.jpg
 ---
+![](/assets/img/posts/2011/delictul-de-opinie-in-online/prison-150x150.jpg)
+
 
 Cam din 2007 am început să lucrez cu instrumentele de comunicare pe care le pune la dispoziție internetul și m-am lovit de mai multe ori de un fenomen pe care nu l-am prea luat în seamă înainte să fiu și eu vizat de efectul lui: _delictul de opinie_.
 

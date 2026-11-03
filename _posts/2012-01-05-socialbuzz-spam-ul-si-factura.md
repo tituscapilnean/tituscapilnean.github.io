@@ -4,8 +4,6 @@ date: 2012-01-05 09:48:08 +0000
 categories: ["Altele de online"]
 tags: ["romania", "servicii", "spam"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/01/image-400x106.png
 ---
 
 Mai trebuie să scriu și articole de tipul ăsta – atenție cui dați bani pentru serviciile de comunicare online. Băieții deștepți de la Socialbuzz.ro promit următorul lucru:

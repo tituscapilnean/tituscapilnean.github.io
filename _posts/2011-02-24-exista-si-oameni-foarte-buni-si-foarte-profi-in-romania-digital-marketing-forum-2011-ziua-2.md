@@ -4,9 +4,9 @@ date: 2011-02-24 09:12:02 +0000
 categories: ["Evenimente"]
 tags: ["2011", "conferinta", "digital-forum", "live-blog", "online"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/02/logo-150x150.png
 ---
+![](/assets/img/posts/2011/exista-si-oameni-foarte-buni-si-foarte-profi-in-romania-digital-marketing-forum-2011-ziua-2/logo-150x150.png)
+
 
 Ieri, la Digital Marketing Forum, în ziua de workshops, am rămas foarte plăcut surprins de 3 oameni. Treaba asta a început de dimineață, când, pe cât de sceptic eram, pe atât de mult am fost surprins cât de multe lucruri faine se fac în piața de la noi.
 

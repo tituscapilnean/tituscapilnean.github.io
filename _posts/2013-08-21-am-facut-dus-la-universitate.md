@@ -4,9 +4,9 @@ date: 2013-08-21 09:13:37 +0000
 categories: ["Altele de online"]
 tags: ["bucuresti", "cotidian", "dus", "intersectie"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/08/photo-1-e1377076259711-150x150.jpg
 ---
+![Dușul de la universitate](/assets/img/posts/2013/am-facut-dus-la-universitate/photo-1-e1377076259711-150x150.jpg)
+
 
 Aseară am făcut imprudența de a conduce prin piața Universității cu geamul lăsat. Era puțin mai răcoare, mergea.
 

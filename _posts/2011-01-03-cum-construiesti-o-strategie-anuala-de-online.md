@@ -4,8 +4,6 @@ date: 2011-01-03 09:09:59 +0000
 categories: ["Social Media"]
 tags: ["online", "social-media", "strategie"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/01/OwnedEarnedPaid-400x218.jpg
 ---
 
 ![Sketch for Twitter. See also the author's desc...](http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Twttr_sketch-Dorsey-2006.jpg/300px-Twttr_sketch-Dorsey-2006.jpg)
@@ -32,6 +30,8 @@ Paid media=Media închiriată – bloguri, site-uri, bannere, advertoriale, camp
 Earned media=Fani, prieteni, clienți satisfăcuți care au scris despre experiența lor cu tine, colaboratori mulțumiți, ei nu sunt plătiți să scrie de bine despre tine, dar, cu toate astea, o fac.
 
 
+
+![](/assets/img/posts/2011/cum-construiesti-o-strategie-anuala-de-online/OwnedEarnedPaid-400x218.jpg)
 
 Toate prezențele media trebuie, în primul rând, să fie coerente, să prezinte informații la zi.
 

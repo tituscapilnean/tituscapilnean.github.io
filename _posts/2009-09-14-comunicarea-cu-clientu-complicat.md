@@ -4,11 +4,11 @@ date: 2009-09-14 11:19:59 +0000
 categories: ["Marketing"]
 tags: ["analiza", "client", "comunicare", "designer", "furnizor"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/09/softwareproject-600x450-400x300.jpg
 ---
 
 
+
+![softwareproject-600x450](/assets/img/posts/2009/comunicarea-cu-clientu-complicat/softwareproject-600x450-400x300.jpg)
 
 Să vă explic cum stă treaba când lucrezi în sistemul furnizor – client. Tipul ăsta de treburi **nu le-am avut la job, ci în afara lui, pe unde mai fac diverse freelance-uri**(site-uri – atât html, cât și WordPress, campanii, design-uri, etc. – dacă vă interesează, contactați-mă, mă pricep).
 

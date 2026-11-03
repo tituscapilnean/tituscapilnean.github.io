@@ -4,9 +4,6 @@ date: 2010-08-30 17:50:58 +0000
 categories: ["Social Media"]
 tags: ["concurs", "goana", "nokia", "ovi"]
 author: titus_capilnean
-# BROKEN_IMAGES: 2 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/08/pas3-257x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/08/Mesaj-de-la-Chinezu-320x300.jpg
 ---
 
 Vineri am discutat pe Yahoo Messenger cu Chinezu, pentru care am dat un mini-interviu, în cadrul Goanei dupa Bloggeri, pornită de Nokia România şi în care participăm amîndoi. Îi mulţumesc şi aici de articolul dedicat, de linkuri şi de faptul că şi-a luat nişte timp să ne ia interviu tuturor contracandidaţilor lui. Şi-a făcut şi el nişte material pentru blog, ne-am făcut şi noi un pic de reclamă la el, că doar e cel mai citit din toată lista aia de gonaci după Ovi 🙂

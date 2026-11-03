@@ -4,9 +4,9 @@ date: 2013-11-23 11:10:50 +0000
 categories: ["Business & Investitii"]
 tags: ["branding", "business", "tara"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/11/RTEmagicC_02_logo.jpg.jpg
 ---
+![RTEmagicC_02_logo.jpg](/assets/img/posts/2013/concluzia-proasta-cu-marketingul-de-tara/RTEmagicC_02_logo.jpg.jpg)
+
 
 Văd din ce în ce mai des tot felul de străini de sorginte insulară europeană că se dau peste cap în a zice despre țara noastră că are potențial, că e frumoasă, că e un paradis natural și așa mai departe. În felul ăsta e coafat și articolul de pe Ziare.com. Nu-l contrazic decât parțial, pentru că a concluzionat prost. Pe la mijlocul articolului chiar îmi dăduse speranța că a înțeles cum merge dezvoltarea unei țări (bazată pe valorificarea de resurse interne, producție, industrie, minerit și infrastructură), dar a încheiat așa:
 

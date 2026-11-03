@@ -4,9 +4,9 @@ date: 2011-03-08 09:53:02 +0000
 categories: ["Relatii Publice"]
 tags: ["2010", "campanii", "csr"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/03/csr20lightbulbmedium-150x150.jpg
 ---
+![](/assets/img/posts/2011/responsabilitatea-sociala-digitala-in-2010/csr20lightbulbmedium-150x150.jpg)
+
 
 Corina m-a invitat acum ceva vreme să scriu despre responsabilitate socială(aka CSR), mai precis ce campanii din 2010 mi-au sărit în ochi. Având în vedere că data limită pentru articole este 14 martie, m-am pus jos, am stat 10 minute și am răspuns la întrebările de mai jos:
 

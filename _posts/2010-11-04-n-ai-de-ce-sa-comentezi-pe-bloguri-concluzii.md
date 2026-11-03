@@ -4,9 +4,9 @@ date: 2010-11-04 08:15:33 +0000
 categories: ["Social Media"]
 tags: ["analiza", "blogging", "concluzii", "entuziasm"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/11/professional-blogger_id3720781_size480_2row-150x150.jpg
 ---
+![](/assets/img/posts/2010/n-ai-de-ce-sa-comentezi-pe-bloguri-concluzii/professional-blogger_id3720781_size480_2row-150x150.jpg)
+
 
 Am pus o întrebare acum vreo 2 săptămâni, care între timp, cu ajutorul cititorilor, s-a transformat în sondaj. Am vrut să ştiu de ce nu comentează lumea pe bloguri în special, însă nu numai. I-am întrebat şi de Facebook, Twitter şi alte reţele de socializare pe care mai au conturi, pentru că, în esenţă, e vorba de acelaşi lucru: **reacții**.
 

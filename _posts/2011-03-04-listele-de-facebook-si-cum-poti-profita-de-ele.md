@@ -4,12 +4,6 @@ date: 2011-03-04 09:10:25 +0000
 categories: ["Social Media"]
 tags: ["cum-sa-faci", "facebook", "liste", "vox-populi"]
 author: titus_capilnean
-# BROKEN_IMAGES: 5 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/03/1rsPXcSmamO0SU_79ayD5Oc9uyK7WNWs-400x164.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/03/1CNjy1YYz8Ose9vBonbW3MLdYXx1SP4o-389x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/03/1mffVFyyIV8A6lKi7iAMbJ8Rn0UAyYwI-400x151.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/03/1UJfwbHvoIOYYGnKMu4FRJF-v0UimgXk-331x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/03/1YvKjTSJLRYiGkm-eGOPtENDZ4WOxV0U-400x298.jpg
 ---
 
 _Guest post scris de Cristian Voiculescu – Redactor revista Fitzuica, Coordonator voluntari Proiectul Everystudent.ro in cadrul Asociatia Alege Viata_
@@ -26,6 +20,8 @@ Listele de pe facebook ne permit să facem același lucru și online.
 
 Pentru discuție, să zicem că ai nevoie să creezi lista cu cei din București. Mergi la account>edit friends> create list
 
+
+![](/assets/img/posts/2011/listele-de-facebook-si-cum-poti-profita-de-ele/1rsPXcSmamO0SU_79ayD5Oc9uyK7WNWs-400x164.jpg)
 
 **La ce te ajută concret?  
 **

@@ -4,13 +4,13 @@ date: 2013-01-09 12:42:32 +0000
 categories: ["Marketing"]
 tags: ["asa-nu", "olinescu", "sinucidere", "tv"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/01/3904783912_b432d09c75-150x150.jpg
 # EMBED_ISSUES: 1 embed(s) need review
 #   - [iframe] http://embed.trilulilu.ro/muzica-pop/malina-olinescu-merci-comercial
 ---
 
 
+
+![](/assets/img/posts/2013/merci-ar-trebui-sa-isi-schimbe-tema-din-reclama/3904783912_b432d09c75-150x150.jpg)
 
 De sărbători, Merci a pompat puternic reclame pe TV, mizând să crească vânzările. Treaba asta nu e rea, prinde bine la volum și dă poporului o idee de cadou. Problema e că, din lipsă de altceva, au folosit același jingle ca acum câțiva ani, produs în colaborare cu defuncta Mălina Olinescu.
 

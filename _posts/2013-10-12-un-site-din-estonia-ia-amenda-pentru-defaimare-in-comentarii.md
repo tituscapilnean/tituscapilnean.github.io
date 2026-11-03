@@ -4,8 +4,6 @@ date: 2013-10-12 14:05:32 +0000
 categories: ["Altele de online"]
 tags: ["decizie", "internet", "judecata", "online", "trolls"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/10/delfi-394x300.png
 ---
 
 Ieri, Curtea Europeană a Drepturilor omului a decis că un site de știri din Estonia e responsabil de comentariile defăimătoare publicate de utilizatori pe platforma lor la adresa unei companii de feribot-uri (nu se publică numele companiei), deci că amenda (mică, ce-i drept) dată de un tribunal local este validă.
@@ -15,6 +13,8 @@ Inclusiv (aș zice, mai ales) comentariile anonime se încadrează aici.
 Problema ridicată de curte este că site-ul DELFI a fost pasiv și permisiv față de niște comportamente evident malițioase la adresa companiei în discuție.
 
 
+
+![delfi](/assets/img/posts/2013/un-site-din-estonia-ia-amenda-pentru-defaimare-in-comentarii/delfi-394x300.png)
 
 Treaba asta sper **să creeze un precedent pentru toate site-urile de știri din Europa** și, prin urmare, **din România** , pentru că zona de comentarii a ajuns să fie un spațiu de spam, minciună, violență verbală și propagandă. Violența verbală, diseminarea de informații false și spam-ul ar trebui să fie **filtrate de TOATE site-urile** , prin lege, indiferent de afiliere.
 

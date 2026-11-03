@@ -4,8 +4,6 @@ date: 2010-03-16 18:19:53 +0000
 categories: ["Social Media"]
 tags: ["guvern", "online", "romania"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/03/e-romania.png
 ---
 
 Am urmărit aseară și astăzi aparițiile pe bloguri legate de cel mai recent scandal online – platforma eRomania, care a fost evaluată la 500 milioane de euro – costuri distribuite pe 4 ani(până în 2013) și cu venituri previzionate de 280 milioane euro. Nu am de gând să dezbat absurditatea proiectului, ci mai degrabă să arăt modul în care el a fost prezentat în blogosferă(atât independentă, cât și mogulizată).

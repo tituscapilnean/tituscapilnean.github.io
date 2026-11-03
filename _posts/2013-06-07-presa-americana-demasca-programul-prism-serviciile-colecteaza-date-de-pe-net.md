@@ -4,9 +4,9 @@ date: 2013-06-07 08:55:06 +0000
 categories: ["Social Media"]
 tags: ["americani", "date", "nsa", "prism", "securitatea"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/06/big-brother-poster-150x150.jpg
 ---
+![big-brother-poster](/assets/img/posts/2013/presa-americana-demasca-programul-prism-serviciile-colecteaza-date-de-pe-net/big-brother-poster-150x150.jpg)
+
 
 Nu pune nimic pe internet de care nu ești 100% că ar fi ok să fie afișat în centrul orașului, pe un panou publicitar. Mai mult, nu trimite nimic pe mail sau nu vorbi nimic la telefon de care nu ești sigur că nu poate fi folosit împotriva ta. Big brother is watching din toate părțile, atât la noi, cât și afară.
 

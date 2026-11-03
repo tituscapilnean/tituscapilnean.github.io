@@ -4,9 +4,9 @@ date: 2012-12-18 14:15:23 +0000
 categories: ["Marketing"]
 tags: ["cookie", "iab", "legislatie", "parlament", "ue"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/12/cookiepolicy.jpg
 ---
+![](/assets/img/posts/2012/frica-de-necunoscut-cookies-si-parlamentarii-europeni/cookiepolicy.jpg)
+
 
 De când cu expansiunea internetului, autoritățile de toate calibrele sunt din ce în ce mai preocupate de tema protecției datelor cu caracter personal. Da, e o temă pe care marketerii și PR-iștii online ar trebui să o stăpânească – e acel _terms of service_ pe care nu-l prea citește nimeni, dar care te poate scăpa de procese costisitoare și clienți supărați.
 

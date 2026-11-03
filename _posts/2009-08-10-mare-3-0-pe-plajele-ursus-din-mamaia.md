@@ -4,15 +4,6 @@ date: 2009-08-10 15:51:48 +0000
 categories: ["Evenimente"]
 tags: ["bere", "h2o", "leandri", "mare", "plaja", "ursus"]
 author: titus_capilnean
-# BROKEN_IMAGES: 8 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/08/ursus-summer-adventure-400x143.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/08/h2o-385x300.png
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/08/IMG_0022-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/08/IMG_0026-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/08/IMG_0039-225x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/08/IMG_0041-225x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/08/IMG_0070-225x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/08/IMG_0089-225x300.jpg
 ---
 
 Am început să fiu o apariție destul de frecventă pe la mare, așa cum s-a întâmplat și acum două săptămâni, când am lucrat la mare, și acum un weekend, când ne-am relaxat la mare, cum am fost și weekend-ul ăsta, pe plajă la Mamaia și cu scurte drumuri prin Vamă, noaptea.
@@ -20,11 +11,15 @@ Am început să fiu o apariție destul de frecventă pe la mare, așa cum s-a î
 Drumul a fost destul de liber(am plecat pe la 5 și jumătate – 6 din București, pe autostradă), chiar dacă am stat un pic la coadă pentru trecerea pe la punctul de taxare din Fetești. Totuși n-am stat la cozi interminabile, de 10-15 km, ca în zilele anterioare, de le dăduseră pe toate posturile TV. A fost un drum ok și am ajuns în aproximativ 2 ore și jumătate în Constanța.
 
 
+![ursus-summer-adventure](/assets/img/posts/2009/mare-3-0-pe-plajele-ursus-din-mamaia/ursus-summer-adventure-400x143.jpg)
+
 Acolo, ne-am întâlnit cu câștigătorul concursului de pe subiectiv.ro, sponsorizat de Ursus Summer Adventure. Din păcate, Alex Mihăileanu nu a reușit să vină și el la mare.
 
 În prima zi am fost pe plaja H2O, din capătul de nord al Mamaiei, unde în perioada 16 Iulie – 30 August se desfășoară demonstrații și concursuri de sporturi extreme – noi am prins sâmbătă **kitesurfing, BMX air, windsurfing, mountainboarding**.
 
 
+
+![h2o](/assets/img/posts/2009/mare-3-0-pe-plajele-ursus-din-mamaia/h2o-385x300.png)
 
 Când am ajuns la plaja H2O, demonstrațiile de kitesurfing și windsurfing erau deja în toi, fiind undeva la 5-6 scoase deja în larg pentru a delecta publicul privitor. Kitesurfing-ul este un sport de apă care se practică folosind o placă de surf modificată cu legături de prindere a picioarelor. Kitesurferul foloseste puterea vântului ca să se propulseze prin apă, captându-l cu ajutorul unui zmeu uriaș(de aici kitesurfing)
 

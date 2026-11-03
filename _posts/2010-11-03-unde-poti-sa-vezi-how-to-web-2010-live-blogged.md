@@ -4,9 +4,9 @@ date: 2010-11-03 13:53:09 +0000
 categories: ["Evenimente"]
 tags: ["centralizator", "howtoweb", "live-blog"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/11/how-to-web-2010-logo-150x150.jpg
 ---
+![](/assets/img/posts/2010/unde-poti-sa-vezi-how-to-web-2010-live-blogged/how-to-web-2010-logo-150x150.jpg)
+
 
 Am văzut de dimineaţă, pe Twitter, că se înghesuie lumea la How To Web să facă live blogging.
 

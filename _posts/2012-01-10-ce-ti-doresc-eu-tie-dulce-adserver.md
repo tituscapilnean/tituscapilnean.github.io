@@ -4,9 +4,9 @@ date: 2012-01-10 11:44:48 +0000
 categories: ["Altele de online"]
 tags: ["adserver", "cum-aleg", "online", "romania"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/01/image_35-150x150.png
 ---
+![](/assets/img/posts/2012/ce-ti-doresc-eu-tie-dulce-adserver/image_35-150x150.png)
+
 
 Când am intrat în corporație, una din primele mele griji a fost să mă asigur că există o soluție de adserving prin care monitorizez campaniile online de pe site-urile tradiționale de publishing. Fără el te cam bazezi pe ochiometrie și pe estimări date de publisheri și poți să:
 

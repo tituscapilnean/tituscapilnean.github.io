@@ -4,8 +4,6 @@ date: 2012-10-18 06:15:42 +0000
 categories: ["Filme Bucuresti"]
 tags: ["2012", "asterix", "cinema", "film", "obelix", "romania"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/10/home-1348059477-S9-1818.jpg
 ---
 
 Miercuri am fost la avanpremiera filmului Asterix și Obelix – În slujba Majestății Sale, la Cinema City din Sun Plaza, în 3D (mulțumesc de invitație, RO Image).
@@ -17,5 +15,7 @@ Filmul este integral în franceză, aviz celor care vor să și-o exerseze (trai
 Premiera are loc _vineri, 19 Octombrie_ și eu zic că merită, mai ales dacă vă aduceți aminte de desenele animate cu cele două personaje sau de revistele cu benzi desenate de pe vremuri.
 
 
+
+![](/assets/img/posts/2012/asterix-si-obelix-in-slujba-majestatii-sale-2012-film-facut-de-francezi-ca-sa-faca-misto-de-englezi/home-1348059477-S9-1818.jpg)
 
 (sursa foto)

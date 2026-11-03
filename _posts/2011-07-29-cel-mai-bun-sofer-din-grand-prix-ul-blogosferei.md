@@ -4,10 +4,9 @@ date: 2011-07-29 10:39:13 +0000
 categories: ["Evenimente", "Publicitate"]
 tags: ["amckart-pipera", "condus", "disney", "formula-1", "masini-2", "viteza"]
 author: titus_capilnean
-# BROKEN_IMAGES: 2 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/07/283379_224881744221800_100000999296216_612938_7602487_n-e1311935602390-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/07/IMG_20110729_085609-400x300.jpg
 ---
+![](/assets/img/posts/2011/cel-mai-bun-sofer-din-grand-prix-ul-blogosferei/283379_224881744221800_100000999296216_612938_7602487_n-e1311935602390-150x150.jpg)
+
 
 Unii ar zice că Alex a fost cel mai bun, însă eu știu ce mi-a zis Titi Aur, după ce am coborât din Volvo S60, după o tură de circuit: _”Ai fost cel mai bun de până acum. Ai mers greșit, totuși, dar ai fost mai bun”_.
 

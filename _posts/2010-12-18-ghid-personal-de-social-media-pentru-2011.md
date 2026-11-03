@@ -4,10 +4,6 @@ date: 2010-12-18 13:24:53 +0000
 categories: ["Social Media"]
 tags: ["blogging", "facebook", "ghiduri", "linkedin", "twitter"]
 author: titus_capilnean
-# BROKEN_IMAGES: 3 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/12/facebook_logo-400x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/12/twitter-logo-400x147.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/12/linkedin_logo_1-e1292678665134-400x145.jpg
 ---
 
 ![Free twitter badge](http://upload.wikimedia.org/wikipedia/commons/1/1b/Twitter_Badge_1.png)
@@ -32,6 +28,8 @@ Pentru ei am scris micul **ghid de bun simț de folosire a social media în 2011
 
 ****
 
+![](/assets/img/posts/2010/ghid-personal-de-social-media-pentru-2011/facebook_logo-400x150.jpg)
+
   1. Facebook nu trebuie să reflecte toate părțile din viața ta. Nu ești obligat să pui nimic acolo ce n-ai arăta offline prietenilor, șefilor, familiei sau unor necunoscuți de pe stradă. Asta-i regula de bază pentru rețeaua asta. Majoritatea oamenilor o încalcă. Și eu am încălcat-o de câteva ori(în cei 4 ani de cât folosesc rețeaua). E bine că se poate corecta – ștergi poza/post-ul/video-ul/link-ul
   2. Nu te juca toată ziua Failville sau mai știu eu ce mizerii, cu care îți spamezi apoi prietenii. Majoritatea au intrat pe Facebook să țină legătura cu tine, nu să te ajute să îți fertilizezi recolta.
   3. Aplicațiile au un buton de Block(dacă devin enervante) și un buton de Skip(în momentul în care îți cer să inviți alți 10-20-50 de prieteni). Folosește-le cu încredere.
@@ -42,6 +40,8 @@ Pentru ei am scris micul **ghid de bun simț de folosire a social media în 2011
 
 ****
 
+![](/assets/img/posts/2010/ghid-personal-de-social-media-pentru-2011/twitter-logo-400x147.jpg)
+
   1. Nu te purta ca un robot. Twitter e mai mult decât RSS feed-ul tău. Dincolo de linkurile de pe blog mai trebuie să faci câteva chestii ca să devii relevant.
   2. Nu face spam. Dacă te apuci să menționezi utilizatori de Twitter cu mulți followeri doar ca să îți dea ReTweet, atunci ai mari șanse să nu faci nimic pe Twitter. Mai bine intră în conversație cu ei, discută lucruri relevante, răspunde la întrebările lor. Dacă dai răspunsuri smart, ai mult mai multe șanse să îți dea ReTweet
   3. La nivel de conținut, e aceeași discuție ca la blog – 1-2 domenii, post-uri relevante, nu prea personale, că nu îți face bine.
@@ -51,6 +51,8 @@ Pentru ei am scris micul **ghid de bun simț de folosire a social media în 2011
 
 
 ****
+
+![](/assets/img/posts/2010/ghid-personal-de-social-media-pentru-2011/linkedin_logo_1-e1292678665134-400x145.jpg)
 
   1. Nu te împrieteni cu oameni ca pe Facebook. Aici e bine să fi avut cel puțin un contact offline anterior, în context de afaceri.
   2. Ține-ți profilul la zi, pune locurile de munca relevante, împreună cu experiențele care îți pot aduce atuuri pentru un eventual job mai bun. Nu uita să scrii și de rezultate.

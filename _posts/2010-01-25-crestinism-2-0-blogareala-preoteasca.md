@@ -4,9 +4,6 @@ date: 2010-01-25 11:28:35 +0000
 categories: ["Social Media"]
 tags: ["crestinism-2.0"]
 author: titus_capilnean
-# BROKEN_IMAGES: 2 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/01/273-262x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/01/photo2-200x300.jpg
 ---
 
 Astăzi am citit un articol extraordinar de tare. Papa(de la Roma) vrea ca preoțimea să promoveze valorile și învățătura dumnezeiască prin rețelele de socializare, din ce în ce mai populare printre enoriași. În sensul acesta, Papa a recomandat preoților să treacă la :
@@ -26,5 +23,9 @@ Eu știu de creștinism.net, sfaturiortodoxe.ro, torentcrestin.ro ( >:) ), crest
 În altă ordine de idei, pe iPhone este Biblia de vânzare, am văzut și calendarul ortodox și alte câteva aplicații religioase. Deci ne modernizăm și noi 🙂
 
 
+
+![273](/assets/img/posts/2010/crestinism-2-0-blogareala-preoteasca/273-262x300.jpg)
+
+![photo\(2\)](/assets/img/posts/2010/crestinism-2-0-blogareala-preoteasca/photo2-200x300.jpg)
 
 Ce ziceți? E bine ce se întâmplă 🙂 ?

@@ -4,9 +4,6 @@ date: 2011-07-22 11:34:29 +0000
 categories: ["Social Media"]
 tags: ["domeniu-web", "fail", "ing", "marlboro", "smecherie"]
 author: titus_capilnean
-# BROKEN_IMAGES: 2 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/07/marlboro.ro_-366x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/07/404.jpg
 ---
 
 E simplu.
@@ -19,10 +16,14 @@ Povestea sună așa – intri pe www.marlboro.ro și treci de avertizarea browse
 
 
 
+![](/assets/img/posts/2011/ce-aveau-in-comun-marlboro-si-ing-bank/marlboro.ro_-366x300.jpg)
+
 Surpriză, ajungi pe un site ING. Dubios, nu?
 
 Între timp, au scos site-ul(după ce am trimis ce trebuia la cine trebuia), însă ar trebui să rămână în istorie gafa asta, poate, poate nu o să mai vedem repetându-se în lunile/anii următori.
 
 
+
+![](/assets/img/posts/2011/ce-aveau-in-comun-marlboro-si-ing-bank/404.jpg)
 
 Ce alte exemple similare mai știți? Eu mai dau vodafoneromania.com(tot așa, trebuie să treci de avertizări).

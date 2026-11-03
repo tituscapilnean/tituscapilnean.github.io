@@ -4,9 +4,9 @@ date: 2012-01-04 12:17:41 +0000
 categories: ["Altele de online"]
 tags: ["2012", "comunicare", "online", "piata", "trenduri"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/01/2012-Doomsday1-150x150.jpg
 ---
+![](/assets/img/posts/2012/cateva-trenduri-de-online-pentru-2012/2012-Doomsday1-150x150.jpg)
+
 
 Am trecut de încă un an de criză, 2011, am intrat cu stil în 2012, an în care sper ca piața de online să crească, dacă nu toată, spre deosebire de anul trecut când am asistat la o scădere în termeni reali – vezi aici – cu toate că ROADS raporta creștere(incluzând noi publisheri în studiu).
 

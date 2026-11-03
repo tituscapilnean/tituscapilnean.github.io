@@ -4,9 +4,9 @@ date: 2011-02-17 08:25:28 +0000
 categories: ["Online Training"]
 tags: ["analiza", "facebook", "social-media", "twitter", "youtube"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/02/7key_socialmedia_benefits_art3-150x150.jpg
 ---
+![](/assets/img/posts/2011/cum-definesti-conceptul-de-social-media-branding/7key_socialmedia_benefits_art3-150x150.jpg)
+
 
 Am căutat aseară pe net conceptul de social media branding și am găsit foarte foarte puține referințe despre el, dintre care, evident, niciuna în limba română. Nici nu aveam pretenția de la așa ceva în țara în care concursurile de Like sunt încă prezente pe Facebook sau o campanie online se rezumă la ”îmi fac cont pe Facebook pentru firmă”, fără nicio urmă de strategie de comunicare cu ajutorul social media. Articolul nu e pentru ei.
 

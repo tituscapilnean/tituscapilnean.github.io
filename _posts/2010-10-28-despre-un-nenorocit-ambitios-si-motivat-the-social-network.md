@@ -4,14 +4,13 @@ date: 2010-10-28 07:41:55 +0000
 categories: ["Evenimente"]
 tags: ["facebook", "film", "the-social-network"]
 author: titus_capilnean
-# BROKEN_IMAGES: 2 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/06/facebook_logo-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/10/the_social_network_poster-202x300.jpg
 ---
 
 De ascultat în timp ce citești:
 
 
+
+![](/assets/img/posts/2010/despre-un-nenorocit-ambitios-si-motivat-the-social-network/facebook_logo-150x150.jpg)
 
 Am fost aseară la The Social Network, filmul cu și despre **Facebook/Mark Zuckerberg**.
 

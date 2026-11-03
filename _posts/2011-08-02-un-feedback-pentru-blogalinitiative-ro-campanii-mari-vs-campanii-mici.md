@@ -4,9 +4,9 @@ date: 2011-08-02 13:47:12 +0000
 categories: ["Altele de online"]
 tags: ["blogal-intiative", "campanii", "chinezu", "feedback", "idei"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/08/less_is_more-150x150.jpg
 ---
+![](/assets/img/posts/2011/un-feedback-pentru-blogalinitiative-ro-campanii-mari-vs-campanii-mici/less_is_more-150x150.jpg)
+
 
 Au trecut mai mult de două luni de la lansarea inițiativei lui Chinezu împreună cu Revista Biz(și anume Blogal Intiative) și cred că le-ar prinde bine un mic feedback de la unul din participanții de la prima lor campanie – BCR Refinanțare.
 

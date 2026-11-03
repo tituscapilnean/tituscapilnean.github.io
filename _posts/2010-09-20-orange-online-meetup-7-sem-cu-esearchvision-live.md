@@ -4,8 +4,6 @@ date: 2010-09-20 16:44:12 +0000
 categories: ["Evenimente", "Marketing"]
 tags: ["online-meetup", "orange", "sem"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/09/photo17.jpg
 ---
 
 > Diseara la Orange Online MeetUp avem doua invitate din Franta, care vor vorbi despre Search Engine Marketing(pe scurt SEM).

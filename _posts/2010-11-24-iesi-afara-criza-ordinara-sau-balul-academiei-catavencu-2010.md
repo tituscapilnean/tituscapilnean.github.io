@@ -4,13 +4,13 @@ date: 2010-11-24 12:40:42 +0000
 categories: ["Evenimente"]
 tags: ["online", "personal"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/11/Invitatie-Bal-Catavencu-400x148.jpg
 ---
 
 Merci Nic și Simona pentru invitație.
 
 
+
+![](/assets/img/posts/2010/iesi-afara-criza-ordinara-sau-balul-academiei-catavencu-2010/Invitatie-Bal-Catavencu-400x148.jpg)
 
 Deși am ajuns mai târziu, deci după decernările de premii(despre care poți să citești aici), tot am avut timp să ne simțim bine împreună.
 
