@@ -4,15 +4,11 @@ date: 2009-08-28 05:40:58 +0000
 categories: ["Cu telefonul", "Social Media"]
 tags: ["anunt", "aplicatie", "client", "facebook", "recomandare"]
 author: titus_capilnean
-# BROKEN_IMAGES: 5 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/08/facebook_logo-400x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/08/IMG_02571.PNG
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/08/IMG_0254-200x300.PNG
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/08/IMG_0255-200x300.PNG
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/08/IMG_0256-200x300.PNG
 ---
 
 
+
+![facebook_logo](/assets/img/posts/2009/facebook-3-0-pentru-iphone-lansare-finala/facebook_logo-400x150.jpg)
 
 Scriam acum câteva zile despre aplicația de Facebook 3.0 și despre faptul că are nevoie de ea ca să poată fi un competitor serios pentru Twitter.
 
@@ -55,6 +51,8 @@ Singurul **neajuns major** al Facebook pentru iPhone este că în continuare nu 
 Am făcut câteva screenshots:
 
 
+
+![IMG_0256](/assets/img/posts/2009/facebook-3-0-pentru-iphone-lansare-finala/IMG_0256-200x300.PNG)
 
 Interfața e mult mai ușor de folosit acum, pe bună dreptate a meritat așteptarea pentru 3.0
 

@@ -4,8 +4,6 @@ date: 2010-01-05 09:54:08 +0000
 categories: ["Altele de online"]
 tags: ["infokiosk", "intamplari", "metrou"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/01/photo8-383x300.jpg
 ---
 
 Dacă nu ați observat, de câteva luni au apărut niște ecrane noi la metrou. Ele o să ne anunțe de fiecare dată ce tren vine în stație, la ce oră și la ce oră vine cel din urma lui. Sistemul se vrea asemănător cu cel din Viena, unde știi foarte clar ce tren vine și la câte minute distanță este de stație(util mai ales când estimezi o eventuală întârziere românească 🙂 ).
@@ -13,6 +11,8 @@ Dacă nu ați observat, de câteva luni au apărut niște ecrane noi la metrou. 
 Panourile respective au început să funcționeze prin Decembrie, însă erau în probe:
 
 
+
+![photo\(8\)](/assets/img/posts/2010/ne-modernizam-la-metrou/photo8-383x300.jpg)
 
 Ieri am ieșit la un pahar de vorbă cu niște prieteni mai plimbăreți, cu care nu mă mai văzusem din 2009 :). La întoarcerea din Arcade, am luat-o ca oamenii pe la intrarea de la Gregory’s – Unirii 1 – Metrou.
 

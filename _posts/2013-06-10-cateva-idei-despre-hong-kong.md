@@ -4,11 +4,6 @@ date: 2013-06-10 06:49:56 +0000
 categories: ["Turism"]
 tags: ["2-zile", "hong-kong", "mba", "tura", "vizita"]
 author: titus_capilnean
-# BROKEN_IMAGES: 4 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/06/IMG_3139-400x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/06/IMG_3273-e1370847202286-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/06/IMG_3269-e1370846693146-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/06/IMG_3228-e1370846961173-150x150.jpg
 ---
 
 Am ajuns ieri seară (GMT +7) în Hong Kong. Cred că dacă ar fi să rezum în câteva cuvinte orașul, după cam 24 de ore de trăit în el, i-aș zice orașul extremelor: e foarte cald, foarte umed, foarte aglomerat, iar bogații au spații mari pe deal și săracii trăiesc în cutii de conserve/blocuri în oraș.
@@ -17,6 +12,8 @@ M-am plimbat destul de mult prin centru, unde m-au surprins două alte extreme �
 
 
 
+![IMG_3139](/assets/img/posts/2013/cateva-idei-despre-hong-kong/IMG_3139-400x300.jpg)
+
 Azi, de dimineață, am fost până sus, pe Victoria Peak, plus pe traseele din zonă. E mult mai respirabil aerul acolo și ai pe unde să te plimbi. Cred că e cea mai apropiată senzație de junglă tropicală pe care am trăit-o până acum. A fost nevoie să vin pe la hostel să mă schimb din cauza umezelii. Cea mai mișto chestie de sus, de acolo, dincolo de priveliște, a fost vegetația aia nouă, pe care nu o găsești la noi:
 
 
@@ -24,6 +21,12 @@ Azi, de dimineață, am fost până sus, pe Victoria Peak, plus pe traseele din 
 
 
 
+
+![](/assets/img/posts/2013/cateva-idei-despre-hong-kong/IMG_3273-e1370847202286-150x150.jpg)
+
+![](/assets/img/posts/2013/cateva-idei-despre-hong-kong/IMG_3269-e1370846693146-150x150.jpg)
+
+![](/assets/img/posts/2013/cateva-idei-despre-hong-kong/IMG_3228-e1370846961173-150x150.jpg)
 
 Mai am de văzut câteva chestii azi: Buddha, orașul dintre ziduri și niște lăcașe de cult tradiționale. Revin cu update.
 

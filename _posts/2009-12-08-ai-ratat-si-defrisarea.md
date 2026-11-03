@@ -4,8 +4,6 @@ date: 2009-12-08 09:17:51 +0000
 categories: ["Social Media"]
 tags: ["cop15", "copenhaga", "hopenhagen", "trending-topic", "twitter"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/12/zablog-400x140.jpg
 ---
 
 

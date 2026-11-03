@@ -4,9 +4,9 @@ date: 2010-11-01 08:31:08 +0000
 categories: ["Marketing", "Social Media"]
 tags: ["bloguri", "branduri", "facebook", "motive", "twitter"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/11/brand-760683-150x150.jpg
 ---
+![](/assets/img/posts/2010/de-ce-scrii-de-bine-despre-un-brand-pe-blogfacebooktwitter/brand-760683-150x150.jpg)
+
 
 Am citit în weekend pe blogul lui Cristi Manafu articolul ăsta. Dacă nu vrei să îl citești chiar acum, pe scurt e vorba despre motivele pentru care oamenii vorbesc(sau folosesc social media ca să vorbească) despre experiențele pozitive pe care le-au avut cu brandurile. În articolul lui, face referire la Seth Godin, cel care a scris lista celor 20 de motive pentru care oamenii devin ambasadori de branduri.
 

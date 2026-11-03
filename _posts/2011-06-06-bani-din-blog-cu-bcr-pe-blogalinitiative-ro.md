@@ -4,8 +4,6 @@ date: 2011-06-06 16:54:44 +0000
 categories: ["Publicitate"]
 tags: ["bcr", "blogal-intiative", "bloggeri", "bloguri", "campanii", "refinantare"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/06/logo.png
 ---
 
 Vă semnalez și eu că se poate să faci bani pe blog și fără să fii invitat de agenții în mediaplanuri de online.

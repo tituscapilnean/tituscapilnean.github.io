@@ -4,8 +4,6 @@ date: 2009-07-30 07:11:43 +0000
 categories: ["Publicitate"]
 tags: ["analiza", "campanie", "online", "social-media"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/07/dewfb.jpg
 ---
 
 Ieri nu am mai publicat pauza de reclame pentru că m-am luptat puțin cu o temă de WordPress mai îndărătnică, dar pe care am modelat-o cum am vrut eu, până la urma. Asta mi-a luat mai mult timp decât aș fi crezut și am amânat scrisul pe dimineață.Bună mișcare, pentru că am găsit o campanie foarte tare de la Mountain Dew.

@@ -4,9 +4,9 @@ date: 2011-06-02 17:50:56 +0000
 categories: ["Filme Bucuresti"]
 tags: ["film", "imax", "invitatie", "kung-fu-panda-2", "samsung"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/06/image004-208x300.jpg
 ---
+![](/assets/img/posts/2011/salvati-china-o-campanie-semnata-de-kung-fu-panda-2/image004-208x300.jpg)
+
 
 …zis și **Dragonul Războinic** , panda-ul uriaș trebuie să salveze China cea pură, nevinovată și ecologistă de furia industriașului, păunul cel rău și răzbunător.
 

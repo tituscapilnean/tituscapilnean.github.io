@@ -4,10 +4,9 @@ date: 2011-07-13 13:04:12 +0000
 categories: ["Relatii Publice"]
 tags: ["aparitii-media", "evz.ro", "facebook", "intrebari", "ziar"]
 author: titus_capilnean
-# BROKEN_IMAGES: 2 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/07/evz_ro_-__cel_mai_bun_portal_de_stiri_.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/07/IMG_20110713_155704-400x300.jpg
 ---
+![](/assets/img/posts/2011/interviu-in-evenimentul-zilei-cum-isi-pot-spori-companiile-numarul-de-fani-pe-facebook/evz_ro_-__cel_mai_bun_portal_de_stiri_.jpg)
+
 
 Săptămâna trecută am răspuns la câteva întrebări pentru un articol în Evenimentul Zilei, despre Facebook. Am apărut atât online, cât și în print(pe **12 Iulie**).
 

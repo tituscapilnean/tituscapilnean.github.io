@@ -4,8 +4,6 @@ date: 2010-11-20 08:12:45 +0000
 categories: ["Evenimente"]
 tags: ["expozitie", "imagine", "prieteni"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/11/invitatie-layout-261x300.jpg
 ---
 
 Diseară, la 6, la sediul Friends Advertising(la mansardă), are loc vernisajul trisec type – cu Sorin Bechira și Ștefan Romanu, doi ilustratori foarte foarte buni de la noi din țară:

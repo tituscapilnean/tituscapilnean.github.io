@@ -4,9 +4,9 @@ date: 2013-11-12 13:09:51 +0000
 categories: ["Turism"]
 tags: ["calatorii", "cultura", "maroc"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/11/Tangier_Medina_01-150x150.jpg
 ---
+![Tangier_Medina_01](/assets/img/posts/2013/cateva-idei-dupa-o-vizita-in-maroc/Tangier_Medina_01-150x150.jpg)
+
 
 Luna trecută am fost, pentru câteva zile, în Tanger, în nordul Africii. Am pus poze pe Facebook, însă n-am apucat să scriu vreo poveste de acolo (prietenii știu de ce). Totuși e și o parte bună, măcar acum scriu doar părțile esențiale, care au rămas în memorie după aproape 3 săptămâni.
 

@@ -4,11 +4,11 @@ date: 2012-04-05 16:04:30 +0000
 categories: ["Evenimente"]
 tags: ["abordare", "strategie", "studiu"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/04/influence-150x150.jpg
 # EMBED_ISSUES: 1 embed(s) need review
 #   - [iframe] http://www.slideshare.net/slideshow/embed_code/12299976
 ---
+![](/assets/img/posts/2012/o-idee-interesanta-de-la-pr-and-the-web/influence-150x150.jpg)
+
 
 > Cele mai credibile surse de informaţii: familia (+19), prietenii (+16), forumurile şi experţii (+14) versus spoturi TV (2) sau filmele de pe Youtube (-14) şi comentariile de pe bloguri (-10) – mai mulţi consumatori au spus că nu au încredere în mediul respectiv.
 > 

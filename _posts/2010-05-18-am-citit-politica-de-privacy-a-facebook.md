@@ -4,9 +4,9 @@ date: 2010-05-18 12:07:00 +0000
 categories: ["Social Media"]
 tags: ["facebook", "intimitate"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/05/facebook-privacy-151x300.jpg
 ---
+![facebook-privacy](/assets/img/posts/2010/am-citit-politica-de-privacy-a-facebook/facebook-privacy-151x300.jpg)
+
 
 Nu o dată, ci de câteva ori. Adică de fiecare dată când s-a schimbat ceva major în ea. Am fost pus în situația să o citesc, pentru că am lucrat cu clienți pe campanii cu ajutorul Facebook, unde cam trebuie să știi ce are voie user-ul să publice și ce nu. Dacă inițial politica asta era destul de simplă și de ușor de înțeles, cu cât a crescut rețeaua, cu atât a crescut și gradul de complexitate al excepțiilor, regulilor și al setărilor de intimitate.
 

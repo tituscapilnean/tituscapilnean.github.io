@@ -4,9 +4,9 @@ date: 2013-09-26 14:48:34 +0000
 categories: ["Business & Investitii"]
 tags: ["angajare", "cum-sa", "ge", "personalitate", "recrutare", "welch"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/09/unemploymentline380x260_crop380w-150x150.jpg
 ---
+![unemploymentline380x260_crop380w](/assets/img/posts/2013/cum-sa-te-angajezi-doua-pareri-de-la-top-manageri/unemploymentline380x260_crop380w-150x150.jpg)
+
 
 Azi am citit două articole interesante, unul de la Jack Welch, unul de la Beth Comstock, ambele pe Linkedin, despre ce caută ei la un potențial viitor membru al echipei lor.
 

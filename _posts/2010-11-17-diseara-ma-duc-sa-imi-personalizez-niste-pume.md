@@ -4,8 +4,6 @@ date: 2010-11-17 11:24:04 +0000
 categories: ["Publicitate"]
 tags: ["campanie", "creativitate", "puma"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/11/Puma-Creative-Factory-Andi-Moisescu-Guess-Who-13-225x300.jpg
 ---
 
 ![A photograph of the skateboarding trick called...](http://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Frontsiderock.jpg/300px-Frontsiderock.jpg)
@@ -37,6 +35,8 @@ E și mai cool faptul că în AFI Palace Cotroceni se deschide un magazin PUMA u
 Preview:
 
 
+
+![](/assets/img/posts/2010/diseara-ma-duc-sa-imi-personalizez-niste-pume/Puma-Creative-Factory-Andi-Moisescu-Guess-Who-13-225x300.jpg)
 
 foto Monden.info
 

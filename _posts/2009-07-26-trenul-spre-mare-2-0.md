@@ -4,9 +4,6 @@ date: 2009-07-26 21:33:14 +0000
 categories: ["Altele de online"]
 tags: ["baie", "cfr", "distractiv", "mare", "tren", "wc"]
 author: titus_capilnean
-# BROKEN_IMAGES: 2 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/07/Photo-00851-400x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/07/Photo-00841-400x300.jpg
 ---
 
 

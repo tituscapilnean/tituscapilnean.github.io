@@ -4,9 +4,9 @@ date: 2012-09-21 12:10:34 +0000
 categories: ["Evenimente"]
 tags: ["autism", "campanie", "vitantis"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/09/flyer-front1.jpg
 ---
+![](/assets/img/posts/2012/fapte-bune-maine-in-vitantis/flyer-front1.jpg)
+
 
 _Chiar dacă n-am cum să ajung, genul ăsta de inițiative merită toată atenția și participarea noastră. Pe scurt, conform statisticilor internaţionale, 1 din 100 de copii este afectat și fără tratament special, ei riscă să rămână izolați_
 

@@ -4,9 +4,9 @@ date: 2010-12-07 08:37:40 +0000
 categories: ["Social Media"]
 tags: ["cumparaturi-pe-net", "groupon"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/12/v4fBC-150x150.png
 ---
+![](/assets/img/posts/2010/groupon-romania-a-intrat-tata-lor-pe-piata/v4fBC-150x150.png)
+
 
 Știți zumzi, fundeals și alte site-uri similare? Toate s-au inspirat de la Groupon(din conceptul de shopping social – oferte speciale pentru grupuri mai mari de oameni).
 

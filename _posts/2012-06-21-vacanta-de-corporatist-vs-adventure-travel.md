@@ -4,9 +4,9 @@ date: 2012-06-21 09:35:12 +0000
 categories: ["Social Media"]
 tags: ["bloggeri", "online", "proiecte"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/06/2038-all-inclusive-150x150.jpg
 ---
+![](/assets/img/posts/2012/vacanta-de-corporatist-vs-adventure-travel/2038-all-inclusive-150x150.jpg)
+
 
 Se știe că marea masă a corporatiștilor, când nu merge în vamă, la hipstăreală, merge la all-inclusive în Bulgaria, Grecia sau Turcia. Cei mai avuți merg în alte all-inclusive-uri în Rep. Dominicană, Cuba sau Jamaica. Acolo totul e asigurat, superlux, mâncare la botul calului, ce să mai, de vis. Asta e pe de-o parte.
 

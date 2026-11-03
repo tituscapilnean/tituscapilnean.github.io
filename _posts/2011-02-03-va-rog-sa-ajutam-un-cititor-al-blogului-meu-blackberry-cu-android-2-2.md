@@ -4,8 +4,6 @@ date: 2011-02-03 13:35:16 +0000
 categories: ["Altele de online"]
 tags: ["blackberry", "comunitate", "telefon"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/02/question-mark-150x150.jpg
 ---
 
 Ieri am primit un email din partea lui Bogdan, cititor de-al meu, care zicea în felul următor:

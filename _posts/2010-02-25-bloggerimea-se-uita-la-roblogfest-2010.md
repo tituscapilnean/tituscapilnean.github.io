@@ -4,8 +4,6 @@ date: 2010-02-25 09:12:27 +0000
 categories: ["Social Media"]
 tags: ["bloggeri", "blogosfera", "concurs"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/02/logo-2010.gif
 ---
 
 Am tot auzit de RoBlogFest de când am intrat în industrie(adică de vreo 10 luni) și acum a venit acel moment fatidic: s-au deschis înscrierile la RoBlogFest 2010. Abia aștept să văd ce bloguri interesante/noi/populare/de nișă vor concura anul ăsta, mai ales că m-am înscris și eu la 2 dintre categorii – cel mai popular blog(unde o să am nevoie de ajutorul tău și al prietenilor tăi să mă voteze 🙂 ) și la categoria Campanii integrate de social media – cu TEDxBucharest 2010, unde iar o să am nevoie de susținere.

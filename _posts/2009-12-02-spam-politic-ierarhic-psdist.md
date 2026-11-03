@@ -4,9 +4,6 @@ date: 2009-12-02 21:05:24 +0000
 categories: ["Altele de online", "Social Media"]
 tags: ["electoral", "geoana", "iliescu", "mail", "spam"]
 author: titus_capilnean
-# BROKEN_IMAGES: 2 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/12/geoanageoaana.png
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/12/iliescuilici.png
 ---
 
 O ardem din nou politic și vă povestesc despre un **SPAM amuzant** primit astăzi.

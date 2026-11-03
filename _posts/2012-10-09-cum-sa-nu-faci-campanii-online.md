@@ -4,9 +4,9 @@ date: 2012-10-09 08:54:33 +0000
 categories: ["Online Training"]
 tags: ["asa-nu", "campanii", "cum-sa", "online"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/10/sales-funnel-150x150.png
 ---
+![](/assets/img/posts/2012/cum-sa-nu-faci-campanii-online/sales-funnel-150x150.png)
+
 
 Acum ceva vreme am fost la o prezentare de-a lui Doru Panaitescu, în care ne-a povestit, printre altele, și despre câteva moduri în care poți să faci praf o campanie online. Mi-am permis să le pun pe blog, alături de câteva completări din proprie experiență.
 

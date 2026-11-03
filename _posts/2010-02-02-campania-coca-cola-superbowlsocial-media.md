@@ -4,11 +4,6 @@ date: 2010-02-02 16:13:19 +0000
 categories: ["Marketing", "Publicitate", "Social Media"]
 tags: ["coca-cola", "pepsi", "superbowl"]
 author: titus_capilnean
-# BROKEN_IMAGES: 4 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/02/pepsi-400x247.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/02/coca-cola-2-398x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/02/coca-cola-3-396x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/02/coca-cola-1-400x249.jpg
 ---
 
 Superbowl este ”the Mecca” pentru advertiserii americani, locul unde se bat cele mai tari, cele mai ingenioase și cele mai haioase clipuri publicitare din partea celor mai mari companii internaționale. Totuși, unii decid să nu mai participe. Cel mai mare absent de la Superbowl 2010 va fi Pepsi, care a decis să investească banii respectivi(20 mil. $) în social media(am zis asta aici).
@@ -16,6 +11,8 @@ Superbowl este ”the Mecca” pentru advertiserii americani, locul unde se bat 
 Toate bune și frumoase până aici, un mare plus pentru Social Media.
 
 
+
+![pepsi](/assets/img/posts/2010/campania-coca-cola-superbowlsocial-media/pepsi-400x247.jpg)
 
 Problema apare când concurenții lor direcți – Coca Cola, se apucăsă investească în social media, pe lângă expunerea venită prin Superbowl. Să vă povestesc puțin despre cum arată campania lor integrată – Social Media + Superbowl.
 

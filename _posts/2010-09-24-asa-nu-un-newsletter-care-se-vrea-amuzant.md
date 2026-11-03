@@ -4,8 +4,6 @@ date: 2010-09-24 09:00:41 +0000
 categories: ["Marketing"]
 tags: ["fail", "newsletter"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/09/newsletter_mic_4c99bdff7ae912-400x282.jpg
 ---
 
 _**Disclaimer:** am văzut şi cazuri mai rele de newsletter-e, însă şi brandurile erau slabe, aşa că nu avea cum să le facă mai rău mesajul şi grafica respectivă_
@@ -17,6 +15,8 @@ Zilele trecute, mi-a trimis Laura un email cu un newsletter Lee Cooper. N-am nim
 _click to zoom_
 
 
+
+![](/assets/img/posts/2010/asa-nu-un-newsletter-care-se-vrea-amuzant/newsletter_mic_4c99bdff7ae912-400x282.jpg)
 
 Am tot încercat să îmi dau seama ce urmăresc cei care au făcut newsletter-ul ăsta, nepersonalizat în niciun fel şi căruia îi lipseşte complet “fairy dust”-ul.  
   

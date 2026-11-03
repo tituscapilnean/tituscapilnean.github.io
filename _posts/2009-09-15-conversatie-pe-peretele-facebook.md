@@ -4,10 +4,6 @@ date: 2009-09-15 05:45:37 +0000
 categories: ["Social Media"]
 tags: ["concurenta", "facebook", "functii-noi", "inedit", "twitter"]
 author: titus_capilnean
-# BROKEN_IMAGES: 3 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/09/fb-tw-400x281.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/09/linksd-323x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/09/tag-400x171.jpg
 ---
 
 Acum câteva zile am scris despre Facebook Lite și despre faptul că anunțaseră pe blogul lor că vor lansa o funcționalitate gen Twitter.
@@ -15,6 +11,8 @@ Acum câteva zile am scris despre Facebook Lite și despre faptul că anunțaser
 Inițial, @replys a fost funcțional doar în SUA, iar de azi-noapte funcțioanează și la noi.
 
 
+
+![fb tw](/assets/img/posts/2009/conversatie-pe-peretele-facebook/fb-tw-400x281.jpg)
 
 Ca să explic puțin contextul, Facebook a pornit un război de concurență cu Twitter. Au cumpărat Friendfeed pentru real-time search și au început să implementeze funcții asemănătoare sau complementare celor de pe Twitter. Acum două săptămâni lansaseră un mod de a ancora pagina ta de un cont de Twitter, fără a mai fi nevoie să intri pe contul de Twitter ca să publici ceva. O poți face direct de pe Facebook. Strike one.
 
@@ -28,6 +26,8 @@ La fel de bine, atât evenimente cât și pagini, le menționezi tot așa în st
 
 
 
+![linksd](/assets/img/posts/2009/conversatie-pe-peretele-facebook/linksd-323x300.jpg)
+
 Funcționalitatea asta transformă statusurile Facebook din afirmații în conversații, pentru că te poți adresa direct unui prieten. Mult mai ușor decât sa dai mesaje 🙂 Mesajul tău apare automat pe peretele celui căruia i te-ai adresat. Nu e conversație privată, așa că aveți grijă ce și cui ziceți, pentru că rămâne pe Timeline și vede toată lumea 🙂 Exact ca în Twitter.
 
 Avantajul Faceboo în momentul ăsta – număr de caractere nelimitat și 250 milioane de useri.
@@ -39,5 +39,7 @@ Vă recomand să încercați funcționalitatea asta și să îmi spuneți ce pă
 **Update:**
 
 Facebook îți trimite notificare prin e-mail:
+
+![tag](/assets/img/posts/2009/conversatie-pe-peretele-facebook/tag-400x171.jpg)
 
 

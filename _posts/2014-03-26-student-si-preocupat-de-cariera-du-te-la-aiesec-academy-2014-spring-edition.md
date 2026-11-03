@@ -4,8 +4,6 @@ date: 2014-03-26 17:25:05 +0000
 categories: ["Evenimente"]
 tags: ["aiesec", "cariera", "evenimente", "studenti"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2014/03/1904057_655340947835114_1872752826_n.jpg
 ---
 
 Nici nu a început bine primăvara că au și apărut primele evenimente studențești. Dacă te uiți în jur, o să vezi că nu mai e ca pe vremuri, când te cam angajai oriunde fără prea multe cuvinte. Nu, acum trebuie să te zbați un pic, să înveți din timp care e ideea cu cariera, ce vrei să faci în viață, cam unde vrei să ajungi și alte treburi de genul ăsta.
@@ -19,6 +17,8 @@ Sună bine. **Înscrierile pentru studenţi** sunt deschise până pe 31 Martie,
 **Partenerii principali:** P&G, ACCA, Nestlé, Ortec și Link Academy. Evenimentul este susţinut de INTACT Media Group.
 
 
+
+![1904057_655340947835114_1872752826_n](/assets/img/posts/2014/student-si-preocupat-de-cariera-du-te-la-aiesec-academy-2014-spring-edition/1904057_655340947835114_1872752826_n.jpg)
 
 _Despre AIESEC Bucureşti_
 

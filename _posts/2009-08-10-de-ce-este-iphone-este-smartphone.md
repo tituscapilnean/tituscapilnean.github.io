@@ -4,11 +4,11 @@ date: 2009-08-10 13:22:39 +0000
 categories: ["Cu telefonul"]
 tags: ["analiza", "de-ce", "demonstratie", "smartphone"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/08/phoneadexcerpt-400x198.jpg
 ---
 
 
+
+![phoneadexcerpt](/assets/img/posts/2009/de-ce-este-iphone-este-smartphone/phoneadexcerpt-400x198.jpg)
 
 sursa foto
 

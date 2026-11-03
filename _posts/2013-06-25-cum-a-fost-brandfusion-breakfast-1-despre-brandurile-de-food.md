@@ -4,9 +4,9 @@ date: 2013-06-25 09:45:22 +0000
 categories: ["Evenimente"]
 tags: ["branding", "fmcg", "food"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/06/1012118_10151671807750935_394813904_n-150x150.jpg
 ---
+![1012118_10151671807750935_394813904_n](/assets/img/posts/2013/cum-a-fost-brandfusion-breakfast-1-despre-brandurile-de-food/1012118_10151671807750935_394813904_n-150x150.jpg)
+
 
 Vinerea trecută am fost, dis de dimineață, la prima ediție a BrandFusion Breakfast, la the Hub. Acolo, împreună cu oameni de marketing din ”food”, am dezbătut câteva idei de branding pentru antreprenori pe care le putem prelua și adapta din case-study-urile de ”food” pe care le-am văzut.
 

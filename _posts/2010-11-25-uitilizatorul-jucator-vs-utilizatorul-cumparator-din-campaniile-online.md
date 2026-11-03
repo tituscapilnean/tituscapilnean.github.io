@@ -4,9 +4,6 @@ date: 2010-11-25 09:30:07 +0000
 categories: ["Marketing", "Social Media"]
 tags: ["campanii", "concursuri", "online", "sfaturi"]
 author: titus_capilnean
-# BROKEN_IMAGES: 2 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/11/166502795lLCdyM_fs-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/11/first_time_home_buyer-150x150.jpg
 ---
 
 ![Research on Iran. by Negar Mottahedeh Social M...](http://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/IranSocialMedia.jpg/300px-IranSocialMedia.jpg)

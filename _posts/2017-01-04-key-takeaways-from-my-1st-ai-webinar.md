@@ -4,8 +4,6 @@ date: 2017-01-04 15:03:59 +0000
 categories: ["English", "Startups"]
 tags: []
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.com/wp-content/uploads/2017/01/dg-1-1.png
 ---
 
 

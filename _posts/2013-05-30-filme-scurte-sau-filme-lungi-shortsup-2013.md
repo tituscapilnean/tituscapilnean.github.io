@@ -4,8 +4,6 @@ date: 2013-05-30 08:59:54 +0000
 categories: ["Evenimente"]
 tags: ["bucuresti", "filme-scurte", "shortsup"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/05/Julian-400x266.jpg
 # EMBED_ISSUES: 1 embed(s) need review
 #   - [iframe] http://www.youtube.com/embed/WTWAv29r1GE
 ---
@@ -23,5 +21,7 @@ Biletele: În avans prin MyTicket si Eventim la prețul de 30 de lei sau la even
 Eu mă duc.
 
 p.s. Ghiciți numele complet al personajului de mai jos:
+
+![Julian](/assets/img/posts/2013/filme-scurte-sau-filme-lungi-shortsup-2013/Julian-400x266.jpg)
 
 

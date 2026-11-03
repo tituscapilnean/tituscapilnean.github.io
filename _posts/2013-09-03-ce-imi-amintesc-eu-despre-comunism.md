@@ -4,9 +4,9 @@ date: 2013-09-03 09:32:17 +0000
 categories: ["Business & Investitii"]
 tags: ["anarhism", "capitalism", "comunism"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/09/Jos-capitalismul-520x260-400x200.jpg
 ---
+![Jos-capitalismul-520x260](/assets/img/posts/2013/ce-imi-amintesc-eu-despre-comunism/Jos-capitalismul-520x260-400x200.jpg)
+
 
 Eram foarte mic când a căzut comunismul. Aveam 2 ani și ceva. Cu toate astea, unele din primele amintiri pe care le am sunt de atunci, atât de tare erau marcați ai mei de perioada aia mizerabilă. Îmi amintesc foarte clar cum se întrerupea curentul și cum vorbeau în șoaptă să nu îi asculte cineva prin telefon sau prin microfoane. Îmi amintesc la fel de clar cum îmi făceau baie în lighean, cu apă încălzită la aragaz, pentru că nu mai aveam apă caldă.
 

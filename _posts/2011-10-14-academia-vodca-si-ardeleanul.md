@@ -4,10 +4,9 @@ date: 2011-10-14 11:49:14 +0000
 categories: ["Evenimente"]
 tags: ["lansare", "online", "vodka"]
 author: titus_capilnean
-# BROKEN_IMAGES: 2 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/10/IMG-20111013-00027-e1318592644111-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/10/IMG-20111013-00033-e1318592063672-400x189.jpg
 ---
+![](/assets/img/posts/2011/academia-vodca-si-ardeleanul/IMG-20111013-00027-e1318592644111-150x150.jpg)
+
 
 **Stop**. Dacă ai sub 18 ani, închide pagina. Nu, serios. Închide.
 
@@ -28,6 +27,8 @@ Lăsând politica la o parte, am fost foarte plăcut surprins de modul în care 
 Lui George îi povesteam chiar la fața locului(mersi de invitație, apropo) despre faptul că lansarea Absolut Blank se înscrie în linia celor mai bune evenimente la care am mai fost, ca blogger(Lansarea Puma Creative Factory din 2010, Karting-ul cu bloggeri), cu toate că singurul element de interactivitate a fost dat de baruri, unde băutura curgea rânduri după rânduri.
 
 
+
+![](/assets/img/posts/2011/academia-vodca-si-ardeleanul/IMG-20111013-00033-e1318592063672-400x189.jpg)
 
 Cu toate astea, toată lumea a consumat responsabil, că deh, eram toți artiști,bloggeri, vedete, șefi de agenții, oameni din industria de băuturi alcoolice sau organizatori de evenimente.
 

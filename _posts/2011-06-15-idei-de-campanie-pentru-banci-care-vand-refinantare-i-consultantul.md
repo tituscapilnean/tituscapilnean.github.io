@@ -4,9 +4,9 @@ date: 2011-06-15 15:12:40 +0000
 categories: ["Publicitate"]
 tags: ["banca", "bcr", "idei", "online", "refinantare", "sfaturi", "web-2.0"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/06/ct_camp_refinantare_smart_bcr.jpg
 ---
+![](/assets/img/posts/2011/idei-de-campanie-pentru-banci-care-vand-refinantare-i-consultantul/ct_camp_refinantare_smart_bcr.jpg)
+
 
 Continuăm seria articolelor despre refinanțare. Cum nu mă pricep așa de bine la sisteme bancare, o să povestesc pe blog câteva din ideile mele de campanie pentru produsul BCR(și, pe de altă parte, pentru orice alt produs bancar similar). Prima dintre ele mi-a venit după prima săptămână de campanie – desfășurată în mare măsură pe Twitter și bloguri, mai puțin masiv pe Facebook.
 

@@ -4,11 +4,11 @@ date: 2009-10-12 13:32:52 +0000
 categories: ["Evenimente"]
 tags: ["despre", "stire", "tedx", "tedxbucharest"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/09/black-ppt-logo.jpg
 ---
 
 
+
+![black-ppt-logo](/assets/img/posts/2009/the-blueprints-of-a-realized-dream/black-ppt-logo.jpg)
 
 Probabil că vă întrebați de ce i-am zis așa articolului – sună mai bine în engleză. Definește exact ceea ce este TEDx Bucharest în acest moment pentru mine și pentru noi, cei 12+ nebuni, adunați timp de câteva luni.
 

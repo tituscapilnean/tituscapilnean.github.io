@@ -4,8 +4,6 @@ date: 2009-10-27 11:49:43 +0000
 categories: ["Evenimente"]
 tags: ["radio", "tedx", "tedxbucharest"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/09/black-ppt-logo.jpg
 ---
 
 > Ediția din octombrie a TEDx, organizată de un a ilt grup de entuziaşti voluntari, a avut un alt titlu: TEDx Bucharest şi pe afiş nume de români extraordinari, dar şi invitați din străinătate. În capul listei, Nelvin Joseph, un antreprenor în domeniul Inteligenței Artificiale şi pasionat promotor al tehnologiilor eco. Alături de el: pictorița Alexandra Nechita, inventatorul Mircea Tudor, câştigătorul Salonului Invențiilor de la Geneva din acest an, alpinistul Alex Găvan şi alții. De această dată, în sală au fost 120 de invitați, aleşi cu atenție de către organizatori.  
@@ -22,5 +20,7 @@ author: titus_capilnean
 Așa a arătat primul meu interviu la radio. A rulat Duminică, în 11 limbi 🙂
 
 TEDxBucharest încă are ecouri 🙂
+
+![black-ppt-logo](/assets/img/posts/2009/tedx-bucharest-la-radio-romania-international/black-ppt-logo.jpg)
 
 

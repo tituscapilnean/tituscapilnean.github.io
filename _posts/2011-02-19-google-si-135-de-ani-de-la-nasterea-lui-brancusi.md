@@ -4,11 +4,10 @@ date: 2011-02-19 08:57:14 +0000
 categories: ["Social Media"]
 tags: ["google", "logo"]
 author: titus_capilnean
-# BROKEN_IMAGES: 2 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/02/brancusi11-hp-400x154.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/02/184284_165509403500853_100001253841892_364757_7189451_n-400x295.jpg
 ---
 
+
+![](/assets/img/posts/2011/google-si-135-de-ani-de-la-nasterea-lui-brancusi/brancusi11-hp-400x154.jpg)
 
 > Logo-ul Google cuprinde şapte lucrări realizate de Constantin Brâncuşi.
 > 
@@ -21,4 +20,6 @@ Restul logo-urilor Google de-a lungul timpului le găsești aici.
 **Update:**
 
 Pagina de Wikipedia a lui Brâncuși a strâns ieri peste 900.000 de vizualizări:
+
+![](/assets/img/posts/2011/google-si-135-de-ani-de-la-nasterea-lui-brancusi/184284_165509403500853_100001253841892_364757_7189451_n-400x295.jpg)
 

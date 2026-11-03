@@ -4,14 +4,13 @@ date: 2009-10-30 10:00:29 +0000
 categories: ["Social Media"]
 tags: ["cifre", "hi5", "social-media", "trafic"]
 author: titus_capilnean
-# BROKEN_IMAGES: 2 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/10/pitzipoancatuta1-400x300.png
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/11/hi5ed-400x238.jpg
 ---
 
 M-am hotărât să scriu și despre știrea care a zguduit online-ul și topul SATI săptămâna asta: Hi5 a finalizat analiza de trafic pentru SATI și a raportat peste 750.000 de vizitatori unici pe zi și peste 60.000.000 de afișări tot pe zi – depășind la mare distanță liderii de dinainte – cancan.ro sau neogen.ro
 
 
+
+![pitzipoancatuta1](/assets/img/posts/2009/sperietoarea-hi5/pitzipoancatuta1-400x300.png)
 
 Zic că a zguduit online-ul pentru că știrea asta a apărut pe refresh, pe blogul lui Stanca, pe blogul lui Dan, pe hotnews, etc.
 

@@ -4,9 +4,9 @@ date: 2011-07-12 20:03:07 +0000
 categories: ["Marketing"]
 tags: ["brandient", "branding", "carte", "est", "recenzie", "romania"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/07/brandient_branding_east_book-259x300.jpg
 ---
+![](/assets/img/posts/2011/branding-pe-frontul-de-est-de-aneta-bogdan-cateva-cuvinte/brandient_branding_east_book-259x300.jpg)
+
 
 Am reușit să termin cartea pe avion. ”Branding pe Frontul de Est”, scrisă de Aneta Bogdan(ex Connex – în vremurile de pionierat ale telecom-ului românesc, managing partner Brandient) este o carte de specialitate. Serios, n-are rost să te apuci să o citești dacă n-ai nicio legătură cu marketing, comunicare, management sau leadership, pentru că, pe de-o parte, apar concepte și conexiuni din domeniile respective și nu prea ai ce face cu noțiunile dacă nu le și aplici, pe de altă parte, ai nevoie de niște cunoștiințe de bază ca să înțelegi studiile de caz(_brand stories_) în integralitatea lor.
 

@@ -4,8 +4,6 @@ date: 2010-10-29 07:20:08 +0000
 categories: ["Social Media"]
 tags: ["subscribers", "youtube"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/10/yt-400x192.jpg
 # EMBED_ISSUES: 1 embed(s) need review
 #   - [iframe] http://www.youtube.com/subscribe_widget?p=fatratfpl
 ---
@@ -13,6 +11,8 @@ author: titus_capilnean
 Da, Youtube își schimbă logo-ul de fiecare dată când e ceva important de promovat/sărbătorit. De data asta, ei sărbătoresc cifra de 1 Miliard de abonați la toate canalele de pe platforma lor de video. E un milestone pe care l-au atins și îl marchează ca atare:
 
 
+
+![](/assets/img/posts/2010/youtube-si-a-schimbat-iar-logo-ul-1-miliard-de-subscribers/yt-400x192.jpg)
 
 Dincolo de super reușita asta, stă știrea importantă.
 

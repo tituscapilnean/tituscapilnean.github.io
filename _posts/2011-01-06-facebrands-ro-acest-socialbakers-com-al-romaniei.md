@@ -4,8 +4,6 @@ date: 2011-01-06 14:13:33 +0000
 categories: ["Social Media"]
 tags: ["facebook", "facebrands", "statistici"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/01/facebook_romania_age_distribution-400x238.png
 ---
 
 Azi a fost lansat facebrands.ro, primul centralizator de pagini de Facebook din România.

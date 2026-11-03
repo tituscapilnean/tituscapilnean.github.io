@@ -4,8 +4,6 @@ date: 2013-12-17 12:05:38 +0000
 categories: ["Online Training"]
 tags: ["carte", "cum-sa", "prezentari", "slideology"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/12/101-353x300.jpg
 ---
 
 Am citit acum ceva vreme o carte foarte bună pentru prezentări: „Slide: ology” de Nancy Duarte
@@ -23,6 +21,8 @@ Asta apropo de slide-urile încărcate pe care le-am tot văzut la evenimentele 
 > Time needed to prepare for a presentation (30 slides) – 30-95 hours. Use word-mapping to get out of the cliché/cheesy metaphor trap. Sketch complete ideas, not just images.
 
 Bine de știut pentru când planifici pregătirea pentru prezentare.
+
+![101](/assets/img/posts/2013/slideology-cateva-idei-pentru-o-prezentare-mai-buna/101-353x300.jpg)
 
 > Use grids to arrange – 3, 4 5 columns, Fibonacci
 > 

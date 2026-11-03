@@ -4,11 +4,11 @@ date: 2011-06-19 10:00:41 +0000
 categories: ["Altele de online"]
 tags: ["aiesec", "dezbatere", "facultate", "voluntariat"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/06/volunteer-150x150.jpg
 ---
 
 > _Cu ocazia studiilor mele de comunicare, am scris un proiect ce conține considerații personale despre influența voluntariatului asupra dezvoltării personale. Nu pun de obicei pe blog lucrări de la facultate, însă, de data asta, am zis că e păcat să îl las să se prăfuiască într-un dosar de grupă._
+
+![](/assets/img/posts/2011/voluntariatul-si-dezvoltarea-personala/volunteer-150x150.jpg)
 
 ## Situația tânărului student în contextul sistemului educațional din România
 

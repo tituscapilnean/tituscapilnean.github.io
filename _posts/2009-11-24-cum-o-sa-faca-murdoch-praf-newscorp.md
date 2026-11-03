@@ -4,11 +4,11 @@ date: 2009-11-24 06:47:45 +0000
 categories: ["Social Media"]
 tags: ["bing", "continut", "google", "indexare", "murdoch", "newscorp", "plata"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/11/news-400x65.png
 ---
 
 
+
+![news](/assets/img/posts/2009/cum-o-sa-faca-murdoch-praf-newscorp/news-400x65.png)
 
 Mai nou am aflat de un trend. Lumea vorbește (adică mai mult Rupert Murdoch vorbește) de conținut plătit pe ziarele online, de schimbarea modelului de business care are ca finalitate falimentul ziarelor clasice. El vrea să ne facă să plătim pentru știrile din corporația lui, cu orice preț.
 

@@ -4,8 +4,6 @@ date: 2010-03-14 09:52:32 +0000
 categories: ["Altele de online"]
 tags: ["poveste", "trofee.-distractiv"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/03/DAYLIGHT-SAVING-check-your-condoms-guys-400x233.jpg
 ---
 
 

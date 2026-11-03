@@ -4,11 +4,11 @@ date: 2010-04-15 14:02:26 +0000
 categories: ["Publicitate", "Social Media"]
 tags: ["bere", "campanie"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/04/bere1-400x189.jpg
 ---
 
 
+
+![bere](/assets/img/posts/2010/activistii-miscarii-anti-broccoli/bere1-400x189.jpg)
 
 Am fost repuși în drepturi. Ni s-a dat înapoi ziua bărbatului, pe 5 Mai, când avem dreptul să bem bere ca porcii, să ne exprimăm misoginismul liber, să jucăm fotbal până târziu, să ieșim la meci, să ne manifestăm la pescuit sau la vânătoare.
 

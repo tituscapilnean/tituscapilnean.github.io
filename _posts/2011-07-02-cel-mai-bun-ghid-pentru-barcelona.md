@@ -4,9 +4,9 @@ date: 2011-07-02 14:54:01 +0000
 categories: ["Turism"]
 tags: ["barcelona", "city-break", "ghid", "paravion"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/07/city-barcelona-7-150x150.jpg
 ---
+![](/assets/img/posts/2011/cel-mai-bun-ghid-pentru-barcelona/city-barcelona-7-150x150.jpg)
+
 
 Am o provocare destul de mare pentru weekendul viitor. Plec în Citybreak, cu Paravion, la Barcelona și am nevoie ca, **în patru zile, să pot vizita cele mai importante și interesante locuri din oraș** și de pe litoral. Timpul e scurt, așa că nu vreau să merg și să orbecăi pe-acolo, ca să descopăr locurile faine, ci caut un ghid turistic, cel mai bun ghid turistic.
 

@@ -4,9 +4,9 @@ date: 2011-01-27 14:30:41 +0000
 categories: ["Publicitate"]
 tags: ["leapsa"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/01/2070660933_a000e1582d_o-150x150.jpg
 ---
+![](/assets/img/posts/2011/cui-nu-i-fac-reclama-pe-blog-lista-neagra/2070660933_a000e1582d_o-150x150.jpg)
+
 
 Acum câteva zile, Vali mi-a împins o leapșă interesantă. Trebuie să scriu ce produse sau ce branduri nu primesc pe blog drept reclamă de orice fel.
 

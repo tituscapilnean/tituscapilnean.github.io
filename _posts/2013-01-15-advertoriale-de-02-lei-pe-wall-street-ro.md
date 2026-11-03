@@ -4,9 +4,6 @@ date: 2013-01-15 07:00:26 +0000
 categories: ["Altele de online"]
 tags: ["advertorial", "mizerie", "wallstreet"]
 author: titus_capilnean
-# BROKEN_IMAGES: 2 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/01/contability-wizart-400x169.png
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/01/contability-wizart-2-400x176.png
 ---
 
 **Update:** A se observa nota ironică în care e scris articolul.

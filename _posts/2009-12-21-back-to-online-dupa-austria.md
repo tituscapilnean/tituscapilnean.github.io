@@ -4,11 +4,11 @@ date: 2009-12-21 10:31:31 +0000
 categories: ["Altele de online", "Evenimente", "Turism"]
 tags: ["partii", "personal", "snow-explosion"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/12/im-back.jpg
 ---
 
 
+
+![im-back](/assets/img/posts/2009/back-to-online-dupa-austria/im-back.jpg)
 
 sursa foto
 

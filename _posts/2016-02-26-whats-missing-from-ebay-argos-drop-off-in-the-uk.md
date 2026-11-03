@@ -4,8 +4,6 @@ date: 2016-02-26 15:48:51 +0000
 categories: ["English", "More"]
 tags: []
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.com/wp-content/uploads/2016/02/Ebaynorthsanjose-1-1.jpg
 ---
 
 

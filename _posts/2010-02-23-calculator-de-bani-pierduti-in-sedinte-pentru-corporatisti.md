@@ -4,10 +4,6 @@ date: 2010-02-23 10:11:25 +0000
 categories: ["Social Media"]
 tags: ["corporatist", "distractiv", "sedinte"]
 author: titus_capilnean
-# BROKEN_IMAGES: 3 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/02/meetordie-357x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/02/1ebmeeting-357x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/02/2.jpg
 ---
 
 De 3 zile am fost blocat mental de o durere de cap insistentă și n-am putut lega 2 fraze pe blog. Am scăpat în sfârșit de asta și am zis că trebuie să scriu articolul ăsta. Sâmbătă am citit despre o nouă unealtă mișto, care calculează (in)utilitatea unei șendițe, în funcție de industria din care faci parte, mărimea companiei, de numărul de participanți și de profilul lor.

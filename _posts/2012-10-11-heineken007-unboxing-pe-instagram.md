@@ -4,10 +4,6 @@ date: 2012-10-11 10:47:20 +0000
 categories: ["Relatii Publice"]
 tags: ["007", "campanie", "heineken", "instagram", "surpriza"]
 author: titus_capilnean
-# BROKEN_IMAGES: 3 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/10/291af4f812d811e291d61231381b6c82_7-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/10/262c133012e211e285b022000a1cdc2f_7-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/10/8c1e742612e211e2a2e022000a1faf45_7-150x150.jpg
 ---
 
 Abia ieri, pe la prânz, din intransigenței mele, am primit o misterioasă valiză și un plic. Valiza era încuiată, iar plicul sigilat. Probabil că acolo o fi ceva ghid de deschidere, ori ceva cheie. Până să îl desfac, îl las vreo 30-40 de minute pe birou și plec. După nici 15 minute, mă sună o colegă să mă întrebe:
@@ -19,6 +15,12 @@ Mă întorc la birou, desfac cufărul și dau de o foaie goală, respectiv o lan
 O deschid și mă bucur de invitația la evenimentul secret și de berea băgată la pachet, în valiză.
 
 Unboxing 101.
+
+![](/assets/img/posts/2012/heineken007-unboxing-pe-instagram/291af4f812d811e291d61231381b6c82_7-150x150.jpg)
+
+![](/assets/img/posts/2012/heineken007-unboxing-pe-instagram/262c133012e211e285b022000a1cdc2f_7-150x150.jpg)
+
+![](/assets/img/posts/2012/heineken007-unboxing-pe-instagram/8c1e742612e211e2a2e022000a1faf45_7-150x150.jpg)
 
 
 

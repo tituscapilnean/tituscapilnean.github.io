@@ -4,10 +4,9 @@ date: 2010-11-05 07:33:03 +0000
 categories: ["Social Media"]
 tags: ["canale", "facebook", "linkedin", "training", "twitter"]
 author: titus_capilnean
-# BROKEN_IMAGES: 2 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/11/social-media-landscape-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/11/flow-300x300.jpg
 ---
+![](/assets/img/posts/2010/cateva-idei-de-la-primul-meu-training-de-comunicare-in-social-media/social-media-landscape-150x150.jpg)
+
 
 Toată lumea se pricepe mai nou la fotbal, femei, religie, politică **și social media**.
 
@@ -31,6 +30,8 @@ Așa că mi-am început training-ul cu un mod de lucru în comunicare, pe care f
 
 
 
+
+![](/assets/img/posts/2010/cateva-idei-de-la-primul-meu-training-de-comunicare-in-social-media/flow-300x300.jpg)
 
 Dacă știi lucrurile de mai sus, atunci jumătate din problemă e rezolvată. Acum că am stabilit bazele, concluziile pe care le-am tras(împreună cu ei) în urma training-ului au fost următoarele:
 

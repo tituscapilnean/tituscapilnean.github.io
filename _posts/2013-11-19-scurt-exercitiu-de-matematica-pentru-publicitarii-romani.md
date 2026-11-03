@@ -4,9 +4,9 @@ date: 2013-11-19 12:47:49 +0000
 categories: ["Publicitate"]
 tags: ["international", "publicitate", "salarii"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/11/math-challenge-150x150.jpg
 ---
+![math challenge](/assets/img/posts/2013/scurt-exercitiu-de-matematica-pentru-publicitarii-romani/math-challenge-150x150.jpg)
+
 
 Johan Olson, ex Saatch & Saatch, a dat următoarea declarație: ”Seniorii de creatie castiga intre 500 EUR pe zi in Europa de Est si 1.000 EUR in Germania, UK si SUA” (aici). Apoi am văzut pe Facebook acest articol: Bogătanii din publicitate expuși.
 

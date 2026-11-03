@@ -4,11 +4,11 @@ date: 2010-05-17 19:53:34 +0000
 categories: ["Evenimente"]
 tags: ["bucuresti", "fotografie", "muzeu"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/05/3357123293_6149fbdd41-400x266.jpg
 ---
 
 
+
+![3357123293_6149fbdd41](/assets/img/posts/2010/bucurestiul-compus-din-fotografii/3357123293_6149fbdd41-400x266.jpg)
 
 Citeam în weekend pe blogul lui Vlad Petreanu despre un eveniment pe care nu pot să îl țin pentru mine. Se leagă foarte mult de una din ideile pe care le-am prezentat la noaptea de Pecha-Kucha – promovarea cu ajutorul comunității, rețelelor de oameni. De data asta nu e vorba despre România, ci despre București, iar mediul nu e online, ci e „pe viu”.
 

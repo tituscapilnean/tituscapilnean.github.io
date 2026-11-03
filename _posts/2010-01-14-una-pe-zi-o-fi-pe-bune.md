@@ -4,8 +4,6 @@ date: 2010-01-14 21:59:00 +0000
 categories: ["Istoria reclamelor bune"]
 tags: ["tigari"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/01/691-220x300.jpg
 ---
 
 

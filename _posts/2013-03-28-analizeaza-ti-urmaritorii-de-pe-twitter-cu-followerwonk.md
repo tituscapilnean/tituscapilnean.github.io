@@ -4,10 +4,10 @@ date: 2013-03-28 14:33:32 +0000
 categories: ["Social Media"]
 tags: ["influenta", "masurare", "tool", "twitter"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/03/influence.png
 ---
 
+
+![influence](/assets/img/posts/2013/analizeaza-ti-urmaritorii-de-pe-twitter-cu-followerwonk/influence.png)
 
 Deși #twitterepemoarte, m-am jucat ieri și azi cu un tool foarte mișto, prin care poți să îți analizezi atât urmăritorii, cât și pe cei pe care îi urmărești, ca să vezi ce audiență reală ai, respectiv dacă nu trebuie să faci curat prin following.
 

@@ -4,9 +4,9 @@ date: 2011-12-15 10:18:13 +0000
 categories: ["Altele de online"]
 tags: ["2010", "campanie", "mini", "mobile"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/12/campaigns-mobile.png
 ---
+![](/assets/img/posts/2011/un-din-cele-mai-tari-campanii-pe-mobile-mini-countryman-getaway/campaigns-mobile.png)
+
 
 Astăzi am aflat de una din cele mai tari campanii de mobile + offline din ultima vreme. S-a întâmplat în Stockholm, în 2010, și am implicat 11.000 de oameni cu iPhone, o leapșă cu un Mini virtual și un premiu.
 

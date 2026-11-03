@@ -4,8 +4,6 @@ date: 2012-06-29 09:26:58 +0000
 categories: ["Evenimente"]
 tags: ["mountainboard", "munte", "sport", "switch"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/06/254842_192591594121266_2314645_n-199x300.jpg
 ---
 
 Weekendul ăsta las marea în pace, plaja în liniște și îmi iau la spinare picioarele spre Piatra Neamț, împreună cu băieții de la The Switch, la Balkan Dirt Masters, primul concurs internațional de mountainboard de la noi.

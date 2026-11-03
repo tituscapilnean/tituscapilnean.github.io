@@ -4,9 +4,9 @@ date: 2012-11-13 10:15:25 +0000
 categories: ["Online Training"]
 tags: ["creatie", "disruptiv", "idei", "pitch"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/11/disruption-150x150.gif
 ---
+![](/assets/img/posts/2012/cum-arata-ideile-castigatoare/disruption-150x150.gif)
+
 
 Fie că vorbim de un pitch, de un interviu pentru un job sau o candidatură pentru o bursă la universitate, există două tipuri de idei – cele sclipitoare și mare masă. Dacă marea masă are unori șanse să câștige, fiind susținută de rezultate anterioare, recomandări sau chimie, ideile sclipitoare câștigă ÎNTOTDEAUNA (evident, când jocul este unul corect, iar ideea a fost construită pe reguli cunoscute și acceptate).
 

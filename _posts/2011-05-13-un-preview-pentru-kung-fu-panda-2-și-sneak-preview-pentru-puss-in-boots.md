@@ -4,18 +4,6 @@ date: 2011-05-13 10:00:45 +0000
 categories: ["Filme Bucuresti"]
 tags: ["film", "imax", "kung-fu-panda-2", "samsung"]
 author: titus_capilnean
-# BROKEN_IMAGES: 11 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/05/mantis-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/05/mantis-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/05/image001-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/05/image003-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/05/image005-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/05/image007-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/05/image011-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/05/image013-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/05/image015-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/05/113843149TT002_Puss_in_Boot-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/05/113843149TT002_Puss_in_Boot-400x270.jpg
 ---
 
 Am descoperit de ceva vreme, cam de când mă invită fetele de la Oxygen PR la film, că îmi plac animațiile 3D într-un mare fel. Chiar dacă n-am văzut Kung Fu Panda 1, am primit de la Ro Image niște clipuri cu partea a doua a filmului, mai precis Kung Fu Panda 2 – în format IMAX 3D. Premiera e pe 11 iunie.
@@ -27,6 +15,8 @@ Kung Fu Panda 2 from Titus Capilnean on Vimeo.
 _Vocile_ : Jack Black, **Angelina Jolie** , **Dustin Hoffman** , **Jackie Chan** , Seth Rogen, **Lucy Liu** , David Cross, James Hong, Gary Oldman, Michelle Yeoh, **Jean-Claude Van Damme** , Victor Garber
 
 
+
+![](/assets/img/posts/2011/un-preview-pentru-kung-fu-panda-2-și-sneak-preview-pentru-puss-in-boots/mantis-150x150.jpg)
 
 Ah, da și personajul meu preferat e deja **Călugărițul** :
 
@@ -56,10 +46,30 @@ Restul de personaje:
 
 
 
+![mantis](/assets/img/posts/2011/un-preview-pentru-kung-fu-panda-2-și-sneak-preview-pentru-puss-in-boots/mantis-150x150.jpg)
+
+![image001](/assets/img/posts/2011/un-preview-pentru-kung-fu-panda-2-și-sneak-preview-pentru-puss-in-boots/image001-150x150.jpg)
+
+![image003](/assets/img/posts/2011/un-preview-pentru-kung-fu-panda-2-și-sneak-preview-pentru-puss-in-boots/image003-150x150.jpg)
+
+![image005](/assets/img/posts/2011/un-preview-pentru-kung-fu-panda-2-și-sneak-preview-pentru-puss-in-boots/image005-150x150.jpg)
+
+![image007](/assets/img/posts/2011/un-preview-pentru-kung-fu-panda-2-și-sneak-preview-pentru-puss-in-boots/image007-150x150.jpg)
+
+![image011](/assets/img/posts/2011/un-preview-pentru-kung-fu-panda-2-și-sneak-preview-pentru-puss-in-boots/image011-150x150.jpg)
+
+![image013](/assets/img/posts/2011/un-preview-pentru-kung-fu-panda-2-și-sneak-preview-pentru-puss-in-boots/image013-150x150.jpg)
+
+![image015](/assets/img/posts/2011/un-preview-pentru-kung-fu-panda-2-și-sneak-preview-pentru-puss-in-boots/image015-150x150.jpg)
+
+![113843149TT002_Puss_in_Boot](/assets/img/posts/2011/un-preview-pentru-kung-fu-panda-2-și-sneak-preview-pentru-puss-in-boots/113843149TT002_Puss_in_Boot-150x150.jpg)
+
 Ție care îți place?
 
 _p.s. toate informațiile astea le-am obținut de la Ro Film, pentru că am întrebat și am cerut detalii._
 
 _p.p.s uite și sneak preview-ul la Puss in Boots, revin cu detalii în alt articol:_
+
+![](/assets/img/posts/2011/un-preview-pentru-kung-fu-panda-2-și-sneak-preview-pentru-puss-in-boots/113843149TT002_Puss_in_Boot-400x270.jpg)
 
 __

@@ -4,8 +4,6 @@ date: 2009-09-13 17:33:13 +0000
 categories: ["Altele de online"]
 tags: ["atentie", "bucuresti", "cu-bicicleta", "gropi", "trotuar"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/09/IMG_0502.JPG
 ---
 
 

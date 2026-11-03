@@ -4,8 +4,6 @@ date: 2010-05-31 16:32:14 +0000
 categories: ["Evenimente", "Social Media"]
 tags: ["live-blog", "orange-concept-store", "orange-meetup"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/05/meetup.jpg
 ---
 
 

@@ -4,9 +4,9 @@ date: 2010-03-03 06:24:11 +0000
 categories: ["Altele de online"]
 tags: ["creativitate", "design", "inspiratie"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/03/monkey-inspiration2-225x300.jpg
 ---
+![monkey-inspiration2](/assets/img/posts/2010/inpiratia-e-o-resursa-rara/monkey-inspiration2-225x300.jpg)
+
 
 În seara de marți planificasem să fac o grămadă de chestii, mai ales pe design, pentru câteva proiecte la care lucrez. Din păcate, inspirația mea e ușor nărăvașă, în sensul în care vine când vrea ea și în ce formă vrea ea. E cam ca o femeie cu toane 🙂 Trebuie să învăț să îi anticipez toanele și să pot să o induc în stările de care am nevoie în anumite momente(ca azi).
 

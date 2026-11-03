@@ -4,8 +4,6 @@ date: 2010-11-29 17:58:34 +0000
 categories: ["Publicitate"]
 tags: ["crowdsourcing"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/11/noid2-130x120.gif
 ---
 
 **UPDATE:** merg și reclamele din anii 90 sau din comunism, care te enervau la culme. N-am limită la ani.

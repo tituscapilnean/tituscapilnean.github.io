@@ -4,16 +4,6 @@ date: 2011-08-01 13:36:03 +0000
 categories: ["Turism"]
 tags: ["asa-nu", "group-buying", "oferte", "romania", "teapa"]
 author: titus_capilnean
-# BROKEN_IMAGES: 9 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/08/216867_252080614816050_100000423410346_890695_7449419_n-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/08/283510_252080581482720_100000423410346_890694_4244860_n-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/08/206198_252080554816056_100000423410346_890693_6041970_n-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/08/285400_252080528149392_100000423410346_890692_5211671_n-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/08/285539_252080474816064_100000423410346_890691_902003_n-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/08/283889_252080451482733_100000423410346_890690_5137325_n-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/08/215056_252080421482736_100000423410346_890689_6448885_n-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/08/253246_252080384816073_100000423410346_890688_2202494_n-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/08/226102_252080354816076_100000423410346_890687_4803850_n-150x150.jpg
 ---
 
 _Preluat de pe Facebook, de la un prieten care s-a ars. Atenție la ofertele astea avantajoase. Ca să evite situațiile de genul ăsta, le recomand tuturor firmelor de reduceri de grup să VERIFICE faptul că toate punctele din ofertă există și în realitate și sunt cel puțin la fel de bune ca în descriere._
@@ -66,6 +56,24 @@ O fiinta umana are nevoie de hrana. Dupa ce am vazut cum arata structura de caza
 Oare Doamna Ministru Elena Gabriela UDREA, cand a semnat Certificatul de Clasificare la 2** (doua stele) pentru Vilele Vidra, la data de 18. mai 2010 a vazut aceste conditii?
 
 Aceste poze din atasament, facute cu aparatul foto personal la data de 30. iulie 2011, nu coincid cu imaginile de prezentare de pe site-urile Goldendeals si Sindtour unde se transmite cu totul alt mesaj.
+
+![](/assets/img/posts/2011/teapa-cu-goldendeals-ro-si-sindtour-ro/216867_252080614816050_100000423410346_890695_7449419_n-150x150.jpg)
+
+![](/assets/img/posts/2011/teapa-cu-goldendeals-ro-si-sindtour-ro/283510_252080581482720_100000423410346_890694_4244860_n-150x150.jpg)
+
+![](/assets/img/posts/2011/teapa-cu-goldendeals-ro-si-sindtour-ro/206198_252080554816056_100000423410346_890693_6041970_n-150x150.jpg)
+
+![](/assets/img/posts/2011/teapa-cu-goldendeals-ro-si-sindtour-ro/285400_252080528149392_100000423410346_890692_5211671_n-150x150.jpg)
+
+![](/assets/img/posts/2011/teapa-cu-goldendeals-ro-si-sindtour-ro/285539_252080474816064_100000423410346_890691_902003_n-150x150.jpg)
+
+![](/assets/img/posts/2011/teapa-cu-goldendeals-ro-si-sindtour-ro/283889_252080451482733_100000423410346_890690_5137325_n-150x150.jpg)
+
+![](/assets/img/posts/2011/teapa-cu-goldendeals-ro-si-sindtour-ro/215056_252080421482736_100000423410346_890689_6448885_n-150x150.jpg)
+
+![](/assets/img/posts/2011/teapa-cu-goldendeals-ro-si-sindtour-ro/253246_252080384816073_100000423410346_890688_2202494_n-150x150.jpg)
+
+![](/assets/img/posts/2011/teapa-cu-goldendeals-ro-si-sindtour-ro/226102_252080354816076_100000423410346_890687_4803850_n-150x150.jpg)
 
 
 

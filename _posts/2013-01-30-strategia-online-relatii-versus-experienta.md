@@ -4,12 +4,12 @@ date: 2013-01-30 07:56:21 +0000
 categories: ["Online Training"]
 tags: ["abordari", "ana-andjelic", "comunicare", "jay-baer", "online", "strategie"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/01/goldfish-150x150.jpg
 # EMBED_ISSUES: 2 embed(s) need review
 #   - [iframe] http://www.slideshare.net/slideshow/embed_code/16202827?rel=0
 #   - [iframe] http://www.slideshare.net/slideshow/embed_code/15664129
 ---
+![](/assets/img/posts/2013/strategia-online-relatii-versus-experienta/goldfish-150x150.jpg)
+
 
  N-am mai scris de multicel un articol despre modul în care construiești o strategie de comunicare online. Lucruri fundamentale nu s-au schimbat din anii trecuți, însă contează din ce în ce mai mult adordările pe care le alege un director de strategie/manager/director de marketing sau PR, comparativ cu rezultatele pe care se așteaptă să le obțină. Da, iar vorbesc de rezultate de business (acel ROI, nu de reach, număr de articole sau mai știu eu ce metrics numai bune de luat ochiul clientului).
 

@@ -4,8 +4,6 @@ date: 2010-10-28 14:59:11 +0000
 categories: ["Evenimente"]
 tags: ["aiesec", "leadership", "leadership-talks"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/10/ltmare-400x224.jpg
 ---
 
 ![](/assets/img/posts/2010/15-romani-misto-vorbesc-la-leadership-talks-2010/iqadsmic.jpg)Toamna se numără evenimentele și e momentul să mergi să asculți oameni mișto aduși de companii, ONG-uri, facultăți, la care n-ai acces în mod normal. Dacă ai pierdut TEDxBucharest 2010(citește aici povestea), atunci te invit la un alt eveniment poate la fel de mișto, un pic mai vechi, cu o istorie de 3 ani deja.

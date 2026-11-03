@@ -4,8 +4,6 @@ date: 2010-09-10 11:21:49 +0000
 categories: ["Evenimente", "Social Media"]
 tags: ["invitatii"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/09/webstock-400x103.jpg
 ---
 
 Așa, pe ultima sută de metri, am solicitat și am și primit o invitație _pentru o singura persoana, nominala si netransmisibila_ pentru întreaga zi, ceea ce înseamnă că o să fiu prezent atât la conferință, cât și la Connections și la gală.
@@ -13,6 +11,8 @@ Așa, pe ultima sută de metri, am solicitat și am și primit o invitație _pen
 **Despre Webstock:**
 
 
+
+![](/assets/img/posts/2010/ultima-zi-de-inscriere-la-webstock-2010/webstock-400x103.jpg)
 
 Evenimentul toamnei pentru online-ul românesc și locul în care se trage linie și se vede evoluția pe ultimele 12 luni, Webstock Awards adună anul ăsta aproape 150 de proiecte, printre care Goana după Ovi, în care am fost implicat și eu, și Taurs, un proiect simpatic pentru viitori brokeri.
 

@@ -4,8 +4,6 @@ date: 2010-12-08 13:11:37 +0000
 categories: ["Marketing", "Publicitate", "Social Media"]
 tags: ["branduri", "concurs", "consumator"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/12/logo_03.jpg
 ---
 
 Începând de azi, lerul trebuie privit nu doar ca ler și iarăși ler, ci și ca o mică vedetă a internetului românesc, grație copiilor de la Fishington Post.

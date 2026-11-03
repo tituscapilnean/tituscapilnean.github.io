@@ -4,29 +4,6 @@ date: 2012-10-03 06:00:40 +0000
 categories: ["Evenimente"]
 tags: ["f64", "fotografie", "scoala"]
 author: titus_capilnean
-# BROKEN_IMAGES: 22 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/10/image-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/10/photo-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/10/treimi-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/10/DSC03819-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/10/DSC03826-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/10/DSC03830-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/10/DSC03834-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/10/DSC03836-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/10/DSC03843-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/10/DSC03844-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/10/DSC03855-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/10/DSC03857-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/10/DSC03865-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/10/DSC03867-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/10/DSC03871-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/10/DSC03872-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/10/DSC03880-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/10/DSC03881-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/10/DSC03890-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/10/DSC03891-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/10/DSC03892-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/10/DSC03898-150x150.jpg
 ---
 
 În weekend, m-am numărat printre norocoșii care au fost la Sinaia, împreună cu mare parte din echipa F64. Cine mă cunoaște știe că nu prea mă mândresc cu talent artistic, deci nici cu talent fotografic, deci a picat cu atât mai bine o vizită pe la școala de fotografie făcută la Hotelul Arca lui Noe de pe str. Furnica. Ne-am urcat fain, frumos sâmbătă dimineață în autocar și ne-am mișcat spre valea Prahovei, împreună cu restul coloanei de bucureștenii mânați de căldură și de serbările orașului Sinaia.
@@ -80,6 +57,50 @@ Am aflat și despre marea regulă a treimilor, regulă care te ajută să încad
 
 
 
+
+![](/assets/img/posts/2012/fotografii-mai-bune-cu-scoalaf64/image-150x150.jpg)
+
+![](/assets/img/posts/2012/fotografii-mai-bune-cu-scoalaf64/photo-150x150.jpg)
+
+![](/assets/img/posts/2012/fotografii-mai-bune-cu-scoalaf64/treimi-150x150.jpg)
+
+![](/assets/img/posts/2012/fotografii-mai-bune-cu-scoalaf64/DSC03819-150x150.jpg)
+
+![](/assets/img/posts/2012/fotografii-mai-bune-cu-scoalaf64/DSC03826-150x150.jpg)
+
+![](/assets/img/posts/2012/fotografii-mai-bune-cu-scoalaf64/DSC03830-150x150.jpg)
+
+![](/assets/img/posts/2012/fotografii-mai-bune-cu-scoalaf64/DSC03834-150x150.jpg)
+
+![](/assets/img/posts/2012/fotografii-mai-bune-cu-scoalaf64/DSC03836-150x150.jpg)
+
+![](/assets/img/posts/2012/fotografii-mai-bune-cu-scoalaf64/DSC03843-150x150.jpg)
+
+![](/assets/img/posts/2012/fotografii-mai-bune-cu-scoalaf64/DSC03844-150x150.jpg)
+
+![](/assets/img/posts/2012/fotografii-mai-bune-cu-scoalaf64/DSC03855-150x150.jpg)
+
+![](/assets/img/posts/2012/fotografii-mai-bune-cu-scoalaf64/DSC03857-150x150.jpg)
+
+![](/assets/img/posts/2012/fotografii-mai-bune-cu-scoalaf64/DSC03865-150x150.jpg)
+
+![](/assets/img/posts/2012/fotografii-mai-bune-cu-scoalaf64/DSC03867-150x150.jpg)
+
+![](/assets/img/posts/2012/fotografii-mai-bune-cu-scoalaf64/DSC03871-150x150.jpg)
+
+![](/assets/img/posts/2012/fotografii-mai-bune-cu-scoalaf64/DSC03872-150x150.jpg)
+
+![](/assets/img/posts/2012/fotografii-mai-bune-cu-scoalaf64/DSC03880-150x150.jpg)
+
+![](/assets/img/posts/2012/fotografii-mai-bune-cu-scoalaf64/DSC03881-150x150.jpg)
+
+![](/assets/img/posts/2012/fotografii-mai-bune-cu-scoalaf64/DSC03890-150x150.jpg)
+
+![](/assets/img/posts/2012/fotografii-mai-bune-cu-scoalaf64/DSC03891-150x150.jpg)
+
+![](/assets/img/posts/2012/fotografii-mai-bune-cu-scoalaf64/DSC03892-150x150.jpg)
+
+![](/assets/img/posts/2012/fotografii-mai-bune-cu-scoalaf64/DSC03898-150x150.jpg)
 
 Pentru practică, am fost până sus la capătul telegondolei din Azuga, apoi prin pădure, pe un drum forestier, către cabana Susai, unde ne-am oprit pentru un ultim popas înainte de drumul pe DN1 înapoi spre Sinaia.
 

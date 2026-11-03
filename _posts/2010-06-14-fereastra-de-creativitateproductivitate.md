@@ -4,8 +4,6 @@ date: 2010-06-14 21:55:24 +0000
 categories: ["Altele de online"]
 tags: ["creativitate", "fereastra", "sfaturi-de-viata"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/06/MactacAwards2008-8-400x101.jpg
 ---
 
 Da, am fost plecat la mare, unde mi-am regăsit un pic din ceea ce mi-era dor. Noaptea autentică de vamă(care se întinde și se îmbină cu răsăritul). Dar nu despre asta vreau să vorbesc, doar aveam nevoie de o introducere(sau dicere, cum era să scriu, în italiană 🙂 ), ca să justific haotismul așternut în modul în care public mai nou, noaptea târziu.

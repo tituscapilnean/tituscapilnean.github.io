@@ -4,8 +4,6 @@ date: 2009-12-07 10:55:47 +0000
 categories: ["Social Media"]
 tags: ["apple", "campanie", "cybermonday", "exemplu", "twitter"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/12/aaa.jpg
 ---
 
 Gata, am lăsat alegerile deoparte și mă reconcentrez pe chestiile mișto de pe online, mai specific de pe social media. Săptămâna trecută m-am băgat într-o campanie a CyberMonday. Practic nu prea aveam mari șanse să câștig, însă mecanismul era prea simplu ca să nu încerc măcar.

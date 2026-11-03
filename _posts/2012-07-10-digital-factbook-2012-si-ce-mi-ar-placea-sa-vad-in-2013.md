@@ -4,8 +4,6 @@ date: 2012-07-10 13:15:49 +0000
 categories: ["Evenimente"]
 tags: []
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/07/Coperta-DFB-150x150.png
 ---
 
 N-am scris despre DFB 2011(găsiți aici, aici, aici și aici trei păreri și mănunchiuri de feedback de la oameni din piață). Mi s-au părut cuprinzătoare.

@@ -4,9 +4,9 @@ date: 2011-09-13 16:00:55 +0000
 categories: ["Publicitate"]
 tags: ["avion", "bilete-ieftine", "campanie", "paravion", "zbor"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/09/avion-personnage1-150x150.gif
 ---
+![](/assets/img/posts/2011/cand-ma-apuca-dorul-de-duca-imi-vine-sa-ma-urc-in-avion/avion-personnage1-150x150.gif)
+
 
 Acum vreo două luni, prin miezul verii, am tras o fugă până în Barcelona și a fost grozav. Deși 3 zile și jumătate sunt foarte foarte puține pentru a vedea un așa oraș, am biciclit, am luat la picior și am folosit transportul lor în comun ca să vedem cât mai multe. Excursia s-a terminat și ne-am întors în birourile răcoroase din Bucureșt și în arșița nemiloasă din afara lor. Toate au fost bune și frumoase o vreme. Apoi a început să adie câte o briză mai răcoroasă la final de zi sau dis de dimineață, când o luam agale spre corporație.
 

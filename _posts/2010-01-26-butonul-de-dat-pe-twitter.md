@@ -4,8 +4,6 @@ date: 2010-01-26 06:14:50 +0000
 categories: ["Social Media"]
 tags: ["buton", "share", "twitter"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/01/comm.jpg
 ---
 
 Totul a pornit de aici:

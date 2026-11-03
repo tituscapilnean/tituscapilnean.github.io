@@ -4,9 +4,6 @@ date: 2009-09-15 21:23:47 +0000
 categories: ["Social Media"]
 tags: ["depasire", "facebook", "romania", "statistica", "triplare"]
 author: titus_capilnean
-# BROKEN_IMAGES: 2 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/09/fb300-400x220.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/09/chart.png
 ---
 
 În aprilie 2009, erau aproximativ 115.000 de utilizatori de Facebook care au trecut România la țara. Erau distribuiți 66.000 de sex feminin, si 45.000 de sex masculin. (sursa – clickio.ro)

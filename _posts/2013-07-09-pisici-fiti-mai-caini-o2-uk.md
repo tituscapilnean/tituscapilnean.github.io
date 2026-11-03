@@ -4,10 +4,6 @@ date: 2013-07-09 09:05:36 +0000
 categories: ["Altele de online"]
 tags: ["campanie", "integrare", "mobil", "o2", "uk"]
 author: titus_capilnean
-# BROKEN_IMAGES: 3 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/07/photo-1-150x150.png
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/07/catdog1-150x150.png
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/07/catdog2-150x150.png
 # EMBED_ISSUES: 1 embed(s) need review
 #   - [iframe] //www.youtube.com/embed/yIIBwAO0tRM
 ---
@@ -21,6 +17,12 @@ Practic, jocul de Frisbee accesat prin QR code, pe mobil, e controlat printr-o a
 
 
 
+
+![](/assets/img/posts/2013/pisici-fiti-mai-caini-o2-uk/photo-1-150x150.png)
+
+![](/assets/img/posts/2013/pisici-fiti-mai-caini-o2-uk/catdog1-150x150.png)
+
+![](/assets/img/posts/2013/pisici-fiti-mai-caini-o2-uk/catdog2-150x150.png)
 
 Mă înclin în fața englezilor pentru campania asta. Good job, sir.
 

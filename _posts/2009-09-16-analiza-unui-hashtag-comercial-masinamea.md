@@ -4,10 +4,6 @@ date: 2009-09-16 13:02:55 +0000
 categories: ["Marketing", "Social Media"]
 tags: ["hashtag", "masina-mea", "masinamea", "pia", "porsche-romania", "twitter"]
 author: titus_capilnean
-# BROKEN_IMAGES: 3 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/09/maspie-356x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/09/VW-Motorsport-Cap.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/09/povestea_unei_pasiuni-317x300.jpg
 ---
 
 Am scris în August despre povestea hashtagului #inadolescenta, un hashtag pornit spontan și menținut de utilizatori. Atunci s-au înregistrat foarte multe tweets în prima parte a evoluției lui. Oricum puteți să aflați mai multe din articolul meu sau al lui Adrian Ciubotaru.

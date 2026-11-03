@@ -4,11 +4,6 @@ date: 2013-03-14 12:55:00 +0000
 categories: ["Evenimente"]
 tags: ["140-ani", "aniversare", "heineken", "offline"]
 author: titus_capilnean
-# BROKEN_IMAGES: 4 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/03/photo-4-e1363265457415-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/03/beer-relax-e1363265480393-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/03/teatru-heineken-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/03/photo-2-1-e1363265551595-150x150.jpg
 ---
 
 Am fost la destul de multe evenimente, mărturie stă categoria pe care o îngroș cu articolul ăsta. Cu toate că de fiecare dată se muncește cu sârg și spor, nu mă îndoiesc de asta, nu toate reușesc să mă surprindă și să aducă ceva extraordinar în schemă. Ei, aniversarea a 140 de ani de Heineken, de aseară, de la Biblioteca Națională din București, a strălucit prin cele **5 camere interactive** , plus vreo zece **puncte de realimentare** cu bere.
@@ -24,5 +19,13 @@ M-am întâlnit cu Andreea, Chinezu, Toma, iar Piticu a fost martor la o parte d
 
 
 
+
+![photo 4](/assets/img/posts/2013/heineken-a-sarbatorit-140-de-ani-cu-5-camere-interactive/photo-4-e1363265457415-150x150.jpg)
+
+![beer relax](/assets/img/posts/2013/heineken-a-sarbatorit-140-de-ani-cu-5-camere-interactive/beer-relax-e1363265480393-150x150.jpg)
+
+![teatru heineken](/assets/img/posts/2013/heineken-a-sarbatorit-140-de-ani-cu-5-camere-interactive/teatru-heineken-150x150.jpg)
+
+![photo 2 \(1\)](/assets/img/posts/2013/heineken-a-sarbatorit-140-de-ani-cu-5-camere-interactive/photo-2-1-e1363265551595-150x150.jpg)
 
 Nu degeaba au fost peste 450 de invitați, celebrități, lideri de opinie, consumatori, parteneri, reprezentanți ai presei și mediului online, într-o călătorie interactivă prin istoria de 140 de ani a brandului. Mulțumesc, Oxygen PR, pentru invitație și Heineken pentru experiență + bere.

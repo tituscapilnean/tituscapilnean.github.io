@@ -4,8 +4,6 @@ date: 2014-01-15 15:30:29 +0000
 categories: ["Marketing"]
 tags: ["branding", "bugete", "campanii", "investitie"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2014/01/Fueling-Growth-New-Exhibit-2_large_tcm80-150594.jpg
 ---
 
 Am citit zilele trecute o cercetare foarte interesantă a Boston Consulting Group care arată o corelație directă și puternică între vânzările și numărul de promotori pe care îi are un brand. E logic să se întâmple asta, pentru că un produs sau un serviciu despre care se vorbește de bine, oferă valoare și experiențe plăcute nu are încotro decât să vândă mai mult. E efectul de undă – vin tot mai mulți care aduc apoi mai mulți și mai mulți și…._you get the point_.
@@ -13,6 +11,8 @@ Am citit zilele trecute o cercetare foarte interesantă a Boston Consulting Grou
 Chestia asta funcționează la bănci, la mașini, la aprozare, la orice:
 
 
+
+![Fueling-Growth-New-Exhibit-2_large_tcm80-150594](/assets/img/posts/2014/boston-consulting-group-cum-vinde-brand-advocacy-ul/Fueling-Growth-New-Exhibit-2_large_tcm80-150594.jpg)
 
 Motivele sunt destul de clare – încredere în scădere în mass-media și publicitate, nevoia de filtrare a miilor de mesaje cu care sunt bombardați zilnic șamd. Mi s-a părut interesant că ei spun că **90% din conversațiile despre branduri se produc offline, nu online** , chiar dacă social media crește pe zi ce trece.
 

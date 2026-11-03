@@ -4,10 +4,10 @@ date: 2010-06-23 10:43:21 +0000
 categories: ["Social Media"]
 tags: ["caracteristici", "linkedin"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/06/groupsLN-370x300.jpg
 ---
 
+
+![](/assets/img/posts/2010/linkedin-preia-din-modelul-facebook/groupsLN-370x300.jpg)
 
 Ultima tendință în materie de rețele sociale este polarizarea. Dacă la început utilizatorii erau împrăștiați pe multe rețele atomizate, mai nou, ei se adună încet-încet în jurul câtorva rețele puternice.
 

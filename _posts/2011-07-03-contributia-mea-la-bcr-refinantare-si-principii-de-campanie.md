@@ -4,9 +4,9 @@ date: 2011-07-03 15:05:22 +0000
 categories: ["Publicitate"]
 tags: ["bcr", "blogal-intiative", "campanie", "idei", "refinantare"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/06/ct_camp_refinantare_smart_bcr.jpg
 ---
+![](/assets/img/posts/2011/contributia-mea-la-bcr-refinantare-si-principii-de-campanie/ct_camp_refinantare_smart_bcr.jpg)
+
 
 Pe 4 iulie se închid urnele campaniei BCR Refinanțare, prima campanie făcută altfel în blogosfera românească(de Blogal Initiative și sprijinită de revista Biz). Dacă tot ne apropiem de final, am pus cap la cap un mic parcurs al campaniei derulate pe blogul și conturile mele din social media(Facebook, LinkedIn și Twitter, respectiv Google Chat și Yahoo! Messenger, unde articolele au stat pe post de status în fiecare zi de publicare).
 

@@ -4,9 +4,9 @@ date: 2011-07-08 08:05:32 +0000
 categories: ["Turism"]
 tags: ["bilete-de-avion", "city-break", "concediu", "idei", "paravion", "sfaturi", "vacanta"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/07/packing-list-150x150.jpg
 ---
+![](/assets/img/posts/2011/cum-ma-pregatesc-de-plecarea-in-vacanta/packing-list-150x150.jpg)
+
 
 Mai am puțin și plec spre Spania. Am luat biletele de avion, am rezervările la hotel făcute, însă mai trebuie să trec printr-un proces foarte, foarte important, înainte de plecare – făcutul bagajului.
 

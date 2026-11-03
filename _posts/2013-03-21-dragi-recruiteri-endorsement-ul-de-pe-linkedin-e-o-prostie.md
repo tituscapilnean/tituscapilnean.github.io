@@ -4,8 +4,6 @@ date: 2013-03-21 13:37:31 +0000
 categories: ["Online Training"]
 tags: ["endorsement", "inutil", "linkedin", "recrutare"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/03/endorsments-344x300.png
 ---
 
 Dragi recruiteri,
@@ -19,6 +17,8 @@ Linkedin a introdus acum ceva timp o nouă funcție – acel _endorsement_. Vă 
 Treaba e facilitată de Linkedin, care te invită să îi lași omului un _endorsement_ când îi vizitezi profilul.
 
 
+
+![endorsments](/assets/img/posts/2013/dragi-recruiteri-endorsement-ul-de-pe-linkedin-e-o-prostie/endorsments-344x300.png)
 
 Așadar, dragi recruiteri, sper că nu luați în considerare în procesul de recrutare și selecție _endorsement-_ urile de pe Linkedin, nu de alta, dar v-ați putea trezi că ați recrutat pe online un specialist în indoor.
 

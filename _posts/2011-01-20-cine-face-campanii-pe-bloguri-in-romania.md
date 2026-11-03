@@ -4,9 +4,9 @@ date: 2011-01-20 12:00:15 +0000
 categories: ["Altele de online"]
 tags: ["agentii", "bloguri", "campanii"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/01/beat-competition-150x150.jpg
 ---
+![](/assets/img/posts/2011/cine-face-campanii-pe-bloguri-in-romania/beat-competition-150x150.jpg)
+
 
 Urmărind ieri campania de lansare pe Twitter, Bloguri și Facebook a agenției de blogvertising a lui Andrei Roșca, m-am hotărât să fac **lista agențiilor și a consultanților** care au derulat și/sau derulează campanii pe bloguri.
 

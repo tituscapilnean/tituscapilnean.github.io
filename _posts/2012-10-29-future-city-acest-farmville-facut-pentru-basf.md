@@ -4,9 +4,6 @@ date: 2012-10-29 16:19:35 +0000
 categories: ["Evenimente"]
 tags: ["basf", "farmville", "future-city", "orasul-minier"]
 author: titus_capilnean
-# BROKEN_IMAGES: 2 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/10/pozaeu-400x266.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/10/future-city-vs-orasul-minier-400x124.png
 ---
 
 Chiar aseară mă jucam iar Future City, un joculeț pus la cale de BASF, o companie ce este lider mondial în domeniul chimic. Își spun _The Chemical Company_.
@@ -30,6 +27,8 @@ Ne-am jucat împreună cu Chinezu, Haotik, Kriogen, Laurențiu, Andrei, Andreea,
 Jocul, în sine, așa cum îl puteți vedea în printscreen, nu e o idee nici nouă, nici SF.
 
 
+
+![](/assets/img/posts/2012/future-city-acest-farmville-facut-pentru-basf/future-city-vs-orasul-minier-400x124.png)
 
 Are o mecanică ușurică, se termină cam în 7-8 ore de jucat lejer și cam atât. Grafica e bună, însă puteau să îl facă un pic mai dificil/lung (pentru gamerul din mine), însă nu ăsta era scopul.
 

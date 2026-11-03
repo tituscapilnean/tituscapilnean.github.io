@@ -4,9 +4,9 @@ date: 2012-01-18 15:02:45 +0000
 categories: ["Marketing"]
 tags: ["2011", "cod", "fail", "qr"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/01/Slide11-400x300.jpg
 ---
+![](/assets/img/posts/2012/codul-qr-dezamagirea-anului-2011/Slide11-400x300.jpg)
+
 
 Scriam la începutul anului trecut despre codurile QR. La vremea aceea păreau o mare speranță pentru 2011, părea că vor fi incluse din ce în ce mai mult în campaniile de print, că vor permite măsurarea audienței, ce să mai. Păreau a fi revoluționare.
 

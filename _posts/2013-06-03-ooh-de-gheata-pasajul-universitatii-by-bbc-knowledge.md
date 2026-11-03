@@ -4,12 +4,6 @@ date: 2013-06-03 11:49:18 +0000
 categories: ["Marketing"]
 tags: ["arctic", "bbc", "ocean", "ooh", "universitate"]
 author: titus_capilnean
-# BROKEN_IMAGES: 5 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/06/NIK2735-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/06/972233_10151496504185892_565723293_n-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/06/NIK2543-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/06/NIK2741-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/06/NIK2721-150x150.jpg
 ---
 
 N-am mai scris de multă vreme despre OOH-uri și alte manifestări ale publicității offline. Astăzi, pe la ora 11, am fost la Universitate, în pasaj, unde BBC Knowledge promovează serialul _Frozen Planet_ , avându-l ca prezentator şi voce pe celebrul Sir David Attenborough, care n-a fost deloc ușor de filmat, deci promite să fie spectaculos, dacă vă plac producțiile de genul ăsta.
@@ -36,6 +30,16 @@ N-am mai scris de multă vreme despre OOH-uri și alte manifestări ale publicit
 De pe 3 până pe 12 Iunie, în pasajul Nicolae Bălcescu sunt ecrane și elemente de peisaj Arctic și Antarctic, deci gheață, urși, niște balene și pinguini.
 
 Mi-ar fi plăcut totuși să pună o plăcuță cu informațiile de mai sus lângă OOH și eventual să fi introdus măcar 1-2 elemente interactive în set, ca să aibă omul pe ce să apese sau de ce să tragă, ca să intre mai bine în experiența pe care o promite documentarul, care începe pe 12 Iunie.
+
+![](/assets/img/posts/2013/ooh-de-gheata-pasajul-universitatii-by-bbc-knowledge/NIK2735-150x150.jpg)
+
+![](/assets/img/posts/2013/ooh-de-gheata-pasajul-universitatii-by-bbc-knowledge/972233_10151496504185892_565723293_n-150x150.jpg)
+
+![](/assets/img/posts/2013/ooh-de-gheata-pasajul-universitatii-by-bbc-knowledge/NIK2543-150x150.jpg)
+
+![](/assets/img/posts/2013/ooh-de-gheata-pasajul-universitatii-by-bbc-knowledge/NIK2741-150x150.jpg)
+
+![](/assets/img/posts/2013/ooh-de-gheata-pasajul-universitatii-by-bbc-knowledge/NIK2721-150x150.jpg)
 
 
 

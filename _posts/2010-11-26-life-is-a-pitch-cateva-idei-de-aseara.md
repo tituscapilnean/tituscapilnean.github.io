@@ -4,8 +4,6 @@ date: 2010-11-26 09:30:16 +0000
 categories: ["Social Media"]
 tags: ["antreprenoriat", "evensys", "pitch"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/11/launch48-300x75.jpg
 ---
 
 Am fost aseară la Hubb și i-am ascultat pe cei 5 invitați + moderatoarea Geea la Life is a Pitch.

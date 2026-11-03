@@ -4,11 +4,11 @@ date: 2010-11-23 13:00:35 +0000
 categories: ["Altele de online"]
 tags: ["concurs", "mare", "vama"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/11/Partypokercardroom-150x150.jpg
 ---
 
 
+
+![](/assets/img/posts/2010/cum-mi-am-amintit-de-vamaiotul-pokerist/Partypokercardroom-150x150.jpg)
 
 Un concurs bun de articole e unul care te pune să îți amintești de lucruri mișto pe care le-ai observat, dar pe care ai uitat să le notezi sau despre care n-ai ajuns atunci să scrii.
 

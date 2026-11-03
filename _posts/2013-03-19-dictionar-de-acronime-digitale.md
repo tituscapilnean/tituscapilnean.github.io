@@ -4,9 +4,9 @@ date: 2013-03-19 09:35:41 +0000
 categories: ["Online Training"]
 tags: ["acronime", "dictionar", "digital", "online"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/03/dictnry-150x150.gif
 ---
+![dictnry](/assets/img/posts/2013/dictionar-de-acronime-digitale/dictnry-150x150.gif)
+
 
 De ceva vreme caut să pun pe blog un mic dicționar de acronime folosite în mediul digital. Mai jos e o listă luată de pe blogul eConsultancy, din care am tuns elementele mai puțin înâlnite pe la noi și am păstrat esențialul.
 

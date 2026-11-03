@@ -4,8 +4,6 @@ date: 2011-12-12 10:04:09 +0000
 categories: ["Altele de online"]
 tags: ["efecte", "smartphones", "telefoane"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/12/smart-400x300.jpg
 ---
 
 Aseară eram în Shiphol și mă îndreptam alene spre poarta D22, unde, la coadă, dau nas în nas cu Augustin, care venise și el cu treabă prin Amsterdam, această a capitală a drogurilor și a prostituției. Altfel un oraș cochet și misto.(comentarii – daca suntem prieteni).

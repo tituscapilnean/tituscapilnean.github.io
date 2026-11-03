@@ -4,8 +4,6 @@ date: 2010-10-12 08:49:14 +0000
 categories: ["Altele de online"]
 tags: ["rds"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/10/2929425028_1f61d2e0db-400x266.jpg
 ---
 
 Mai mereu lumea înjură netul de la RDS, că pică din când în când, că nu vin la intervenție prea repede, că se instalează în 1-2-3 luni de la comandă. Nu neg că au dreptate oamenii care se plâng, dar merită să le aplaud o mică inițiativă legată de internet. Întradevăr, nu rezovă problemele lor pe care le știm deja, însă poate să te salveze în multe situații când ai nevoie de net.

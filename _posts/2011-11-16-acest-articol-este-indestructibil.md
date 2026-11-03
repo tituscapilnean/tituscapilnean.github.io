@@ -4,9 +4,9 @@ date: 2011-11-16 12:12:28 +0000
 categories: ["Altele de online"]
 tags: ["campanie", "indestructibila", "lanterna", "varta"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/11/18702_101_001-3W-LED-Indestructible-Light-3C-201x300.jpg
 ---
+![](/assets/img/posts/2011/acest-articol-este-indestructibil/18702_101_001-3W-LED-Indestructible-Light-3C-201x300.jpg)
+
 
 Da, chiar este, așa că nu te chinui, n-ai cum să îl distrugi. Poți, cel mult, să comentezi și să încerci să îl faci praf. Tot nu o să reușești.
 

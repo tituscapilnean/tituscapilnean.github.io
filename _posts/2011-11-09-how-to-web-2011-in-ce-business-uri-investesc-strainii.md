@@ -4,9 +4,9 @@ date: 2011-11-09 08:34:06 +0000
 categories: ["Altele de online"]
 tags: ["2011", "how-to-web", "live-blog"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/11/how-to-web-2010-logo-400x271.jpg
 ---
+![](/assets/img/posts/2011/how-to-web-2011-in-ce-business-uri-investesc-strainii/how-to-web-2010-logo-400x271.jpg)
+
 
 Deși ajung un pic mai târziu la How To Web, deja mi-am făcut temele și vreau să aflu în ce investesc străinii capitalul, care e profilul afacerilor, maturitatea lor, la ce se uită, ce condiții trebuie să îndeplinești pentru un aport de capital.
 

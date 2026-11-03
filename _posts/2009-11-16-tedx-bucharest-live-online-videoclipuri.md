@@ -4,11 +4,11 @@ date: 2009-11-16 13:41:20 +0000
 categories: ["Evenimente"]
 tags: ["filmari", "final-2009", "tedx", "tedxbucharest", "videoclipuri"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/09/black-ppt-logo.jpg
 ---
 
 
+
+![black-ppt-logo](/assets/img/posts/2009/tedx-bucharest-live-online-videoclipuri/black-ppt-logo.jpg)
 
 După fix o lună de la eveniment, TEDxBucharest se poate vedea și pe internet. Am urcat clipurile prelucrate unul câte unu, ca să puteți să vedeți înregistrarea ideilor transmise de vorbitori în ziua de 16 Octombrie 2009.  
 Dacă vreți să retrăiți TEDxBucharest la toată intensitatea lui, luați-vă o zi, un bol mare de popcorn, suc, un pix și o foaie și urmăriți clip cu clip. Experiența de la fața locului poate fi simulată cu ajutorul agendei de mai jos – așa s-au întâmplat lucrurile la TEDxBucharest.

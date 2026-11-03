@@ -4,9 +4,6 @@ date: 2009-07-30 18:54:28 +0000
 categories: ["Evenimente"]
 tags: ["distractiv", "jeg", "job", "mare", "online"]
 author: titus_capilnean
-# BROKEN_IMAGES: 2 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/07/Photo-00901-400x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/07/Photo-00881-400x300.jpg
 ---
 
 Continuă episoadele de la mare, cu ziua 4, în care ne-am urnit un pic mai târziu ca de obicei. Ne-am mutat pe-afară abia pe la 10, dar în timp suficient încât să am prima mea experiență directă cu vidanja venită să descarce fosa septică de la vila la care stăm. E o experiență divină. Nu pot să descriu aroma de dimineață care ne lovea de pe terasă 🙂
@@ -14,6 +11,8 @@ Continuă episoadele de la mare, cu ziua 4, în care ne-am urnit un pic mai târ
 Trecând peste această întâmplare mirositoare, am plecat spre Eforie Nord, unde ne-am și stabilit sediul de bătălie.
 
 
+
+![Photo-0090](/assets/img/posts/2009/marea-2-0-melteni-si-coca-in-eforie/Photo-00901-400x300.jpg)
 
 Începutul a fost unul viermănos, pentru că după ce ne-am comandat 3 ciorbe de vacă de la un respectiv restaurant de pe terasa de la plaja Belona, Arhi s-a trezit cu un viermișor ca garnitură în loc de carnea de vacă. Evident că ne-am oprit cu toții din mâncat și ne-am mutat din nou atenția asupra apelor.
 
@@ -26,6 +25,8 @@ Spre seară m-am mutat la o mică baie în mare, o ciorbă cu toate tipurile de 
 Partea amuzantă a plajelor de la Eforie Nord nu este mizerie greu de descris doar prin poza de mai jos, ci filmulețul care am reușit să îl trag la concursul de bâțâleală ad-hoc pe plajă :
 
 
+
+![Photo-0088](/assets/img/posts/2009/marea-2-0-melteni-si-coca-in-eforie/Photo-00881-400x300.jpg)
 
 Oamenii s-au distrat pe o muzică de nuntă – Dansul Pinguinului, iar după aceea au început salvele de muzică populară – Eforie fun 😀
 

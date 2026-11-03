@@ -4,8 +4,6 @@ date: 2009-08-10 08:30:05 +0000
 categories: ["Altele de online"]
 tags: ["distractiv", "test", "video", "weekend"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/08/3500130714_f097d16eb0_b-400x300.jpg
 ---
 
 **Update:** Am schimbat poll-ul, pentru că cel vechi nu funcționa. Mai bine folosesc un 3rd party – app.formassembly.com – care îmi prelucrează răspunsurile gratis – decât porcăria asta de WP-Polls…
@@ -13,6 +11,8 @@ author: titus_capilnean
 Deci vă rog din nou să vă lăsați amprenta pe aici cu un vot 🙂
 
 
+
+![3500130714_f097d16eb0_b](/assets/img/posts/2009/asa-iti-dai-seama-cum-gandesti/3500130714_f097d16eb0_b-400x300.jpg)
 
 sursa foto
 

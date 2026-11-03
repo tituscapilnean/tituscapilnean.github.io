@@ -4,11 +4,11 @@ date: 2013-01-25 09:20:38 +0000
 categories: ["Online Training"]
 tags: ["bloggeri", "campanii", "excursii", "roi"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/01/roi_investreturn-400x257.gif
 ---
 
 
+
+![](/assets/img/posts/2013/roi-ul-excursiilor-cu-bloggeri/roi_investreturn-400x257.gif)
 
 Dragă client de servicii de comunicare online/social media,
 

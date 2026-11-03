@@ -4,8 +4,6 @@ date: 2010-01-30 17:49:25 +0000
 categories: ["Social Media"]
 tags: ["anii-90", "copilarie", "facebook", "personal"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/01/n683138083_2468834_7044600.jpg
 ---
 
 Dacă :

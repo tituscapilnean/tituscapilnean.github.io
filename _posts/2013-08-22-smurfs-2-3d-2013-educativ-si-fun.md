@@ -4,9 +4,9 @@ date: 2013-08-22 08:22:23 +0000
 categories: ["Filme Bucuresti"]
 tags: ["film", "smurfs", "strumpfii"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/08/WeZGuNmK80e3fj6RzRj31g-150x150.jpg
 ---
+![Smurfs 2](/assets/img/posts/2013/smurfs-2-3d-2013-educativ-si-fun/WeZGuNmK80e3fj6RzRj31g-150x150.jpg)
+
 
 Am fost marți seară la **Smurfs 2** în 3D, la Afi, la Cinema City și mi-a plăcut.
 

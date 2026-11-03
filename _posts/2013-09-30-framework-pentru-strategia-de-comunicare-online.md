@@ -4,9 +4,6 @@ date: 2013-09-30 08:40:39 +0000
 categories: ["Online Training"]
 tags: ["campanii", "comunicare", "online", "strategie"]
 author: titus_capilnean
-# BROKEN_IMAGES: 2 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/09/Adaptive_Digital_Strategy_Framework_-_Andrea_Vascellari__page_2_of_5_-333x300.png
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/09/Adaptive_Digital_Strategy_Framework_-_Andrea_Vascellari__page_3_of_5_-2-400x178.png
 ---
 
 Încep săptămâna cu un set de flowcharts foarte interesante și utile pentru un om de comunicare.
@@ -18,5 +15,9 @@ Ambele diagrame pot funcționa foarte bine ca un checklist.
 
 
 
+
+![Adaptive_Digital_Strategy_Framework_-_Andrea_Vascellari__page_2_of_5_](/assets/img/posts/2013/framework-pentru-strategia-de-comunicare-online/Adaptive_Digital_Strategy_Framework_-_Andrea_Vascellari__page_2_of_5_-333x300.png)
+
+![Adaptive_Digital_Strategy_Framework_-_Andrea_Vascellari__page_3_of_5_-2](/assets/img/posts/2013/framework-pentru-strategia-de-comunicare-online/Adaptive_Digital_Strategy_Framework_-_Andrea_Vascellari__page_3_of_5_-2-400x178.png)
 
 Găsite aici, via Mirela.

@@ -4,8 +4,6 @@ date: 2014-07-03 13:32:37 +0000
 categories: ["English", "Digital Events", "Startups"]
 tags: []
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.com/wp-content/uploads/2014/07/10454162_322994451188717_696182360_n-1-1.jpg
 ---
 
 We struggle to better ourselves, to understand more how emotions, personality traits and other characteristics influence the way we shop, do business and interact. It’s not only useful to better understand our own reactions, but also for companies that rely on predicting a positive or negative behavior based on past experiences, likes, dislikes and attitudes towards certain events or political doctrines.

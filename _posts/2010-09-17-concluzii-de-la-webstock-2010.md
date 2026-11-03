@@ -4,14 +4,13 @@ date: 2010-09-17 09:42:51 +0000
 categories: ["Social Media"]
 tags: ["concluzii"]
 author: titus_capilnean
-# BROKEN_IMAGES: 2 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/09/dsc06957-400x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/09/troll_2-272x300.jpg
 ---
 
 De fiecare dată când fac live blogging, trebuie să stau cel puțin o noapte, ca să pot așeza niște concluzii pe hârtia digitală a blogului. La Webstock 2010 n-am făcut excepție, doar că, dis de dimineață, am citit două articole foarte bune despre conferință.
 
   
+![](/assets/img/posts/2010/concluzii-de-la-webstock-2010/dsc06957-400x300.jpg)
+
 _*sursa foto_
 
 Primul dintre ele este la Ionuț pe blog și vorbește despre lucrurile bune(câteva prezentări și prezentatori care au surprins plăcut), dar și despre lucrurile mai puțin bune, atitudinile participanților, trolii de conferință(despre care povestesc mai jos) și despre cum ține de fiecare participant să învețe cât mai multe de la un eveniment.

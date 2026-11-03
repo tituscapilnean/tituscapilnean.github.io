@@ -4,9 +4,9 @@ date: 2012-11-28 17:24:21 +0000
 categories: ["Altele de online"]
 tags: ["facebook", "fani", "teapa"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/11/Experts2_Fotolia_8872776_XS-150x150.jpg
 ---
+![](/assets/img/posts/2012/teapa-pe-facebook-cu-lupencea-alexandru-lucian/Experts2_Fotolia_8872776_XS-150x150.jpg)
+
 
 Acum ceva vreme scriam despre cum poți să te ferești de țepe, despre cum se cumpără fani și ce consecințe are acțiunea asta asupra activității brandului pe Facebook.
 

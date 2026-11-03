@@ -4,8 +4,6 @@ date: 2011-12-08 11:17:48 +0000
 categories: ["Altele de online"]
 tags: ["facebook", "securitate", "timeline"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/12/privacy-150x150.jpg
 ---
 
 Subiectul murise de ceva vreme, însă pe 6 Decembrie, în Noua Zeelandă, Facebook dădea drumul la Timeline, oficial. Acum și Mashable publică un ghid complet al noului format, ceea ce nu poate indica decât că Timeline se generalizează în curând. Pregătiți-vă.

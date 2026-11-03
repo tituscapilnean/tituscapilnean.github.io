@@ -4,9 +4,6 @@ date: 2016-04-27 15:53:30 +0000
 categories: ["English", "Startups"]
 tags: []
 author: titus_capilnean
-# BROKEN_IMAGES: 2 image(s) could not be resolved
-#   - http://tituscapilnean.com/wp-content/uploads/2016/04/image1-1-150x150.png
-#   - http://tituscapilnean.com/wp-content/uploads/2016/04/image2-1-150x150.png
 ---
 
 **Later edit:** No, they did not follow the rules, see the Twitter replies.

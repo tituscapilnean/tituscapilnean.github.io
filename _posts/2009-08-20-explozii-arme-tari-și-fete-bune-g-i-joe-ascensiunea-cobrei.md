@@ -4,9 +4,6 @@ date: 2009-08-20 10:01:34 +0000
 categories: ["Evenimente"]
 tags: ["analiza", "film", "g.i.-joe", "vizionare"]
 author: titus_capilnean
-# BROKEN_IMAGES: 2 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/08/gijoe25th0zf-400x279.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/08/3749826822_dbbb4c2c52_o-200x300.jpg
 ---
 
 Am ajuns azi la birou abia la ora 13 pentru că am fost la film ( 🙂 ) cu Arhi, Sorin și Clickio.

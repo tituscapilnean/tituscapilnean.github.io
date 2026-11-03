@@ -4,11 +4,11 @@ date: 2012-09-05 07:00:29 +0000
 categories: ["Altele de online"]
 tags: ["furt", "https", "online", "vox-populi"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/09/security-web-150x150.jpg
 ---
 
 _Guestpost scris de Mihnea Beldescu, viitor Phd, geek și twitterist._
+
+![](/assets/img/posts/2012/de-ce-e-bine-sa-folosesti-social-media-pe-https/security-web-150x150.jpg)
 
 Răspunsul scurt la aceasta intrebare e simplu: **Pentru ca să nu-ți fie furat contul.**
 

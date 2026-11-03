@@ -4,9 +4,9 @@ date: 2011-05-25 15:23:25 +0000
 categories: ["Online Training"]
 tags: ["comunicare", "expert", "online", "social-media"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/05/social-media-tool-150x150.jpg
 ---
+![](/assets/img/posts/2011/social-media-e-o-unealta-nu-o-strategie-de-comunicare/social-media-tool-150x150.jpg)
+
 
 Azi am decis să resuscitez un titlu din drafts, mai ales în contextul în care ieri am citit un articol destul de dur despre _”experții social media”_. Încă de la primul meu training de comunicare cu ajutoru online-ului și, mai precis, a social media, mi-am dat seama că n-am cum să predau ”social media”, pentru că ar însemna să stau să detaliez ce face Facebook, Twitter, ce face un blog etc.
 

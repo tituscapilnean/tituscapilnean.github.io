@@ -4,9 +4,9 @@ date: 2012-04-16 10:08:40 +0000
 categories: ["Relatii Publice"]
 tags: ["campanii", "cum-sa-faci", "online", "pescuit"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/04/6615532-0-large-150x150.jpg
 ---
+![](/assets/img/posts/2012/campaniile-de-comunicare-si-pescuitul/6615532-0-large-150x150.jpg)
+
 
 În vremuri în care toată lumea stă cu mielul pe masă mie îmi zboară mintea la pește, deși cine mă cunoaște știe că nu sunt un mare mâncător de viețuitoare acvatice. Nu m-am apucat de vreo pasiune nouă, ci mă gândeam la modul în care ar trebui să fie făcută o campanie de comunicare ca la carte.
 

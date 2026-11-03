@@ -4,8 +4,6 @@ date: 2011-02-21 21:16:21 +0000
 categories: ["Online Training"]
 tags: ["online", "print", "publicitiate", "qr-code", "vox-populi"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/02/IMAG0161-179x300.jpg
 ---
 
 _Guest post scris de Vlad Ionescu_![qrcode](http://qrcode.kaywa.com/img.php?s=8&d=http%3A%2F%2Fwww.tituscapilnean.ro)
@@ -25,6 +23,8 @@ Ei bine, codurile QR nu sunt făcute pentru a fi implementate online, ci off-lin
 Codurile QR ar putea fi adăugate pe ambalajul oricărui produs pentru a trimite la site-ul web al produsului sau al companiei producătoare. Ele ar putea fi adăugate în cataloagele de prezentare sau ar putea face parte din campanii neconvenționale, ca stickere lipite în undergroundul urban, în cadrul unui treasure-hunt care sa atragă _hipsterimea_ , de exemplu.
 
 Tot mai multe campanii publicitare trimit către un site web. Fie că este vorba de ciocolată, pantofi, concerte sau evenimente, primul scop al campaniilor este să te cheme online – pe un site web. Scopul final e ca odată ce ai ajuns acolo (pe landing page), să te înregistrezi, să completezi un formular sau să cumperi ceva. Ei bine, un QR code ar facilita direcționarea către site-ul respectiv, pe care l-ai putea adăuga imediat, dacă e interesant, în bookmarks-urile tale mobile. Cu alte cuvinte, nu ar mai trebui sa ții minte până acasă site-ul sau campania, ci ai putea să-l accesezi din mers.
+
+![](/assets/img/posts/2011/codurile-qr-ghid-de-utilizare/IMAG0161-179x300.jpg)
 
  Milka, evident, fara cod QR 
 

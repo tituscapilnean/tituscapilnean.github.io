@@ -4,9 +4,9 @@ date: 2012-10-17 09:42:34 +0000
 categories: ["Evenimente"]
 tags: ["2012", "cifre", "iab-forum", "online", "piata"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/10/logo.jpg
 ---
+![](/assets/img/posts/2012/piata-de-online-a-crescut-in-semestrul-1-cu-7-yoy-iab-forum-2012/logo.jpg)
+
 
 Ieri am fost invitat la IAB Forum 2012, conferința la care aflăm, de regulă, datele despre piața din online a României, câteva comparații cu Europa, reglementări, trenduri de dezvoltare și case-uri interesante.
 

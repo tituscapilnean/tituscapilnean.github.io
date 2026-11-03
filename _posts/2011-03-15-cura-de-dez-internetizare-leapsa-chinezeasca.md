@@ -4,9 +4,9 @@ date: 2011-03-15 09:26:23 +0000
 categories: ["Social Media"]
 tags: ["leapsa", "online"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/03/wow-classes-dog-tag-2-150x150.jpg
 ---
+![](/assets/img/posts/2011/cura-de-dez-internetizare-leapsa-chinezeasca/wow-classes-dog-tag-2-150x150.jpg)
+
 
 Mi-a aruncat săptămâna trecută **Chinezu o leapșă interesantă** , și anume ce fac eu atunci când vreau să mă dez-internetizez. Înainte să trec la soluțiile în sine, trebuie să menționez că de vreo 1 an și ceva am reușit să respect un program foarte bun de dezintoxicare cu internet și rețelele sociale seara și în weekend.
 

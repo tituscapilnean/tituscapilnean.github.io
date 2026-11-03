@@ -4,11 +4,11 @@ date: 2011-10-21 15:01:51 +0000
 categories: ["Filme Bucuresti"]
 tags: ["aventuri", "blogging", "concurs", "film", "imax", "samsung", "tintin"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/10/Adventures-of-Tintin-poster-210x300.jpg
 ---
+![](/assets/img/posts/2011/te-trimit-la-aventurile-lui-tintin-in-3d-la-imax-cotroceni/Adventures-of-Tintin-poster-210x300.jpg)
 
-_Update:_ Pam-pam, conform criteriilor de concurs, câștigătorii sunt: **Anda Stanciulescu și** Lucica Radu. Felicitări, aveți email de la mine](/wp-content/uploads/2011/10/Adventures-of-Tintin-poster.jpg)
+
+_Update:_ Pam-pam, conform criteriilor de concurs, câștigătorii sunt: **Anda Stanciulescu și** Lucica Radu. Felicitări, aveți email de la mine
 
 Se știe că sunt client deja fidel la Cinema City, însă mai ales la IMAX, la filmele 3D din AFI Palace Cotroceni. Am tot scris despre filmele la care am fost, iar acum am ceva pentru voi, cititorii acestui blog. Mai toată blogosfera are deja câte un concurs cu invitații la film, așa că putem foarte bine să umplem sala IMAX cu cititori de bloguri.
 

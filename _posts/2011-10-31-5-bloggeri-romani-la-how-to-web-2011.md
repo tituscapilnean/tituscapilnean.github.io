@@ -4,8 +4,6 @@ date: 2011-10-31 10:14:01 +0000
 categories: ["Altele de online"]
 tags: ["2011", "bloggeri-oficiali", "how-to-web"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/10/150284_170949906267802_121106504585476_502559_3877528_n-400x266.jpg
 ---
 
 Azi am intrat în posesia listei oficiale de bloggeri pentru How To Web 2011, listă din care fac parte, alături de alți 4 bloggeri români și alți 8 bloggeri străini, dintr-un total de 8 țări.

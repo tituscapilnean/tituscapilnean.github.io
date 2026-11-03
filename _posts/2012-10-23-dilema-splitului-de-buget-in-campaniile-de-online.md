@@ -4,9 +4,9 @@ date: 2012-10-23 09:25:21 +0000
 categories: ["Marketing"]
 tags: ["buget", "campanii", "roi", "social-media", "split"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/10/not-one-big-budget-hit_7-reasons-to-start-your-holiday-shopping-now-150x150.jpg
 ---
+![](/assets/img/posts/2012/dilema-splitului-de-buget-in-campaniile-de-online/not-one-big-budget-hit_7-reasons-to-start-your-holiday-shopping-now-150x150.jpg)
+
 
 Una din cele mai frecvente greșeli pe care le fac marketerii în primele lor campanii de comunicare online este că ”aruncă” tot bugetul (mic, ca la început) în Google sau Facebook Ads (sau ambele, că așa au auzit de la experți), respectiv doar în ad-uri de tip Pay-Per-Click. Lor le spun, de regulă, următorul lucru:
 

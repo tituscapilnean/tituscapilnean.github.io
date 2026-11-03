@@ -4,10 +4,9 @@ date: 2010-10-22 10:10:39 +0000
 categories: ["Social Media"]
 tags: ["starbucks", "yahoo"]
 author: titus_capilnean
-# BROKEN_IMAGES: 2 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/10/starbucks-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/10/starbucksdigital-400x232.jpg
 ---
+![](/assets/img/posts/2010/starbucks-lanseaza-propriul-digital-network-impreuna-cu-yahoo/starbucks-150x150.jpg)
+
 
 Citeam zilele trecute despre cum Starbucks și-a lansat un Digital Network în Statele Unite, în rețeaua lor de cafenele. Ai fi tentat să crezi că e vorba de încă o rețea socială branded, mai ales că în comunicare a apărut Yahoo! ca partener.
 

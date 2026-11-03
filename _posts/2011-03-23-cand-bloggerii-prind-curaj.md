@@ -4,9 +4,9 @@ date: 2011-03-23 08:20:19 +0000
 categories: ["Social Media"]
 tags: ["bloggeri", "curaj", "online"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/03/31446371_9a7bfdecfc-150x150.jpg
 ---
+![](/assets/img/posts/2011/cand-bloggerii-prind-curaj/31446371_9a7bfdecfc-150x150.jpg)
+
 
 Un blogger bun se vede atunci când are curaj să atace subiectele sensibile.
 

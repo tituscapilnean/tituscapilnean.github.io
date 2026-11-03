@@ -4,9 +4,9 @@ date: 2011-07-21 15:42:19 +0000
 categories: ["Online Training"]
 tags: ["concurs", "intentie", "job", "scrisoare", "sfaturi"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/07/letter_of_intent_large-150x150.jpg
 ---
+![](/assets/img/posts/2011/scrisoarea-de-intentie-cum-s-o-face-oare/letter_of_intent_large-150x150.jpg)
+
 
 Prin ianuarie am scris un articol despre cum să [te angajezi cu ajutorul profilului de Linkedin](https://www.concediaza-ti-seful.ro/2011/01/cum-sa-te-angajezi-folosind-profilul-de-linkedin/ "Angajat prin Linkedin"), care e, din punctul meu de vedere, cel mai important CV online. Dar un CV nu e niciodată complet fără o scrisoare de intenție foarte bine scrisă.
 

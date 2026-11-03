@@ -4,13 +4,10 @@ date: 2009-07-28 06:48:59 +0000
 categories: ["Marketing", "Social Media"]
 tags: ["analiza", "audienta", "studiu", "twitter"]
 author: titus_capilnean
-# BROKEN_IMAGES: 4 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/07/steag-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/07/grupedesex-335x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/07/grupedevarsta-301x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/07/grupedezodii-284x300.jpg
 ---
 
+
+![steag](/assets/img/posts/2009/studiu-de-audienta-pe-twitter/steag-150x150.jpg)
 
 Săptămâna trecută am făcut un studiu de audiență pe Twitter ca să determin vârsta şi data naşterii utilizatorilor din România. Numărul fiind unul încă redus, am ales un eșantion reprezentativ de 100 de persoane, din cei peste 5000 de utilizatori de la noi din țară.
 

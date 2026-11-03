@@ -4,9 +4,9 @@ date: 2011-08-03 17:01:20 +0000
 categories: ["Altele de online"]
 tags: ["blogosfera", "conflict", "consideratii", "de-la-client", "piata"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/08/6a00d834204f4c53ef00e54f654fe58833-800wi-278x300.jpg
 ---
+![](/assets/img/posts/2011/blogosfera-nu-poate-creste-de-micile-scandaluri-intre-bloggeri/6a00d834204f4c53ef00e54f654fe58833-800wi-278x300.jpg)
+
 
 N-am mai zis-o până acum pentru că nu eram sigur cât de mult pot să afecteze percepția clientului scandalurile din blogosferă. Nu contează că ele nu te implică pe tine ca brand/client/produs ci sunt doar o fricțiune minoră între doi sau mai mulți bloggeri.
 

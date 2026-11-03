@@ -4,8 +4,6 @@ date: 2010-08-31 08:35:09 +0000
 categories: ["Cu telefonul"]
 tags: ["winscp", "wow"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/08/targetare-400x289.jpg
 ---
 
 Azi am descărcat nişte clipuri de pe iPhone.
@@ -15,5 +13,7 @@ Pentru asta ai nevoie de un client SCP, ca să intri în măruntaiele 3G-ului ş
 În mod evident, marea majoritate a celor care descarcă WinSCP sunt ori programatori(e un tool de acces remote la servere – dacă n-ai înţeles asta, nu ţi se adresează) ori se pricep foarte bine la gadgeturi şi ştiu să intre în ele pe wireless(aşa cum am făcut eu). În ambele varianta, sunt mari şanse ca omul care foloseşte WinSCP să fie şi gamer şi să aprecieze WoW.
 
 Mişto reclama, foarte mişto 😀
+
+![](/assets/img/posts/2010/publicitate-contextuala-trial-pentru-wow/targetare-400x289.jpg)
 
 

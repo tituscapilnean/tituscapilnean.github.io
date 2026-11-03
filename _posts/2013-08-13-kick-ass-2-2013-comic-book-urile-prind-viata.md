@@ -4,9 +4,9 @@ date: 2013-08-13 12:51:11 +0000
 categories: ["Filme Bucuresti"]
 tags: ["comedie", "comics", "film", "kick-ass-2"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/08/image003-150x150.jpg
 ---
+![image003](/assets/img/posts/2013/kick-ass-2-2013-comic-book-urile-prind-viata/image003-150x150.jpg)
+
 
 Am fost aseară la filmul Kick-ass 2, realizat după un comic book. Cum nu sunt fan comic books, n-am de unde să știu cât de aproape sau departe a fost de povestea inițială, însă filmul e foarte greu de încadrat. N-a fost nici bun, nici prost.
 

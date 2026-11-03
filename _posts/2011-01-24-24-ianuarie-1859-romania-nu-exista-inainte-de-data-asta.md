@@ -4,8 +4,6 @@ date: 2011-01-24 12:00:59 +0000
 categories: ["Altele de online"]
 tags: ["romania", "unire"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/01/Romania_1859-1878_thumb-150x150.png
 ---
 
 Chiar dacă Mihai Viteazul a unit principatele în 1600, numele țării n-a fost România, iar unirea nu a rezistat.

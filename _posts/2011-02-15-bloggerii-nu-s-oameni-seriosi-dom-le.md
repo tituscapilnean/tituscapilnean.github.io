@@ -4,9 +4,6 @@ date: 2011-02-15 10:22:05 +0000
 categories: ["Evenimente"]
 tags: ["bloggeri", "comedie", "standup"]
 author: titus_capilnean
-# BROKEN_IMAGES: 2 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/02/animatiearist-150x150.gif
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/02/animatiearist-400x278.gif
 ---
 
 Am fost sâmbătă seară la Prometheus, un clubuleț la Piața Națiunilor Unite, la invitația domnului Chinezu, căruia îi și mulțumesc pe această cale. Îi mulțumesc și pentru că m-a lăsat să întind coarda și să mă prezint cu alai la acest eveniment de standup comedy – prestat cu drag și spor de Aristocrații(performeri regulați sâmbăta în clubul mai sus menționat).

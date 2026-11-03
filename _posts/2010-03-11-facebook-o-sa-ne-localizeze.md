@@ -4,11 +4,11 @@ date: 2010-03-11 10:43:38 +0000
 categories: ["Altele de online"]
 tags: ["facebook", "geolocalizare", "harta"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/03/facebook-400x173.jpg
 ---
 
 
+
+![facebook](/assets/img/posts/2010/facebook-o-sa-ne-localizeze/facebook-400x173.jpg)
 
 Pe modelul Foursquare, despre care am scris acum ceva timp(pleaserobme.com), Facebook va dezvolta o facilitate prin care utilizatorii vor putea să anunțe prin sistemul de localizare al telefonului, locul din care trimit mesaje, urcă poze sau clipuri. Facilitatea se pare că va fi dezvăluită la f8, conferința dezvoltatorilor de aplicații Facebook de luna viitoare(21-22 Aprilie, la San Francisco).
 

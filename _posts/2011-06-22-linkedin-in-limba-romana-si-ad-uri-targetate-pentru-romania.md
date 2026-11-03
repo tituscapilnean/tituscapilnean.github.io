@@ -4,9 +4,6 @@ date: 2011-06-22 10:30:33 +0000
 categories: ["Social Media"]
 tags: ["explicatii", "limba-romana", "linkedin", "romania"]
 author: titus_capilnean
-# BROKEN_IMAGES: 2 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/06/noage-400x257.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/06/withage-400x258.jpg
 ---
 
 Acum 8 luni, LinkedIn avea aproximativ 280.000 utilizatori. Întrebam atunci cine și-a făcut campanie de display și ce rezultate a avut cu sistemul lor de CPC/CPM destul de scump, comparativ cu Facebook sau Google.
@@ -16,6 +13,8 @@ Acum 8 luni, LinkedIn avea aproximativ 280.000 utilizatori. Întrebam atunci cin
 **Să luăm un exemplu:** Vreau să promovez un produs pentru managerii din România – premium. Am la dispoziție 56.953 de conturi care au trecute la poziție Manager/Partener/Owner etc.
 
 
+
+![](/assets/img/posts/2011/linkedin-in-limba-romana-si-ad-uri-targetate-pentru-romania/noage-400x257.jpg)
 
 Dar nu am selectat o defalcare și pe vârste. Când aleg să țin cont și de vârsta utilizatorului, cu toate că am selectat toate grupele de vârstă, LinkedIn îmi afișează abia 17.901 conturi în target.
 

@@ -4,8 +4,6 @@ date: 2012-06-20 11:08:33 +0000
 categories: ["Filme Bucuresti"]
 tags: ["comedie", "film", "rock", "sun-plaza"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/06/rock-of-ages-912487l-150x150.jpg
 ---
 
 

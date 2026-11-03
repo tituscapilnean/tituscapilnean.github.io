@@ -4,9 +4,9 @@ date: 2011-08-04 12:52:13 +0000
 categories: ["Altele de online"]
 tags: ["brand", "controversa", "gestionare", "online", "social-media"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/08/risk-150x150.jpg
 ---
+![](/assets/img/posts/2011/brandul-cu-risc-masiv-in-social-media-experienta-mea/risk-150x150.jpg)
+
 
 Văzând titlul ăsta, sperați să vă dau niște idei/sfaturi bazate pe jobul meu curent.
 

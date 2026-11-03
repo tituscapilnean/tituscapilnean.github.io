@@ -4,9 +4,9 @@ date: 2012-01-13 12:25:00 +0000
 categories: ["Uniunea Europeana"]
 tags: ["angajare", "cv", "infografic", "social-media"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/01/6344267aab735733b10e718e3638bd3c.jpg
 ---
+![](/assets/img/posts/2012/cum-te-pregatesti-de-angajare-infografic-in-loc-de-cv/6344267aab735733b10e718e3638bd3c.jpg)
+
 
 După succesul răsunător al infograficului Facebook Timeline în România, în 2011, am explorat puțin o nișă a infograficelor pe care nu am văzut-o foarte des în primplan – cea a CV-urilor. Fiind criză și locurile de muncă fiind puține, în mod evident, e o bătaie mai mare pe pozițiile deschise, deci concurezi cu alte 10-20-50-100-1000 de CV-uri de fiecare dată când trimiți și îți exprimi intenția de candidatură.
 

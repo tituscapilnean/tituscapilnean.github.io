@@ -4,11 +4,11 @@ date: 2010-06-07 21:45:16 +0000
 categories: ["Evenimente"]
 tags: ["bicicleta", "responsabilitate", "weekend"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/06/IMG_0035-400x106.jpg
 ---
 
 
+
+![IMG_0035](/assets/img/posts/2010/cube-days-55-km-cu-bicicleta-pe-la-cernica/IMG_0035-400x106.jpg)
 
 Duminică am scăpat de penultimul examen din sesiunea asta și am zis că nu mai pot să rezist pe scaun încă o zi și am dat o fugă până la Cernica, pentru Cube Days, de care auzisem cu ajutorul Jurnalului Țării lui Andrei, pentru care am scris articolul despre weekendul responsabil.
 

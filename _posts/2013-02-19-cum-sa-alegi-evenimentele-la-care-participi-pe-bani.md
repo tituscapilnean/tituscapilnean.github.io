@@ -4,13 +4,13 @@ date: 2013-02-19 11:57:53 +0000
 categories: ["Altele de online", "Evenimente"]
 tags: ["2013", "de-ce", "evenimente", "motive", "participare", "romania"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/02/2012_03_virtualevents_wordle-400x274.jpg
 ---
 
 Mi-am pus un bookmark acum ceva timp, de pe blogul lui Marius Sescu. Era vorba despre criteriile de participare la evenimentele plătite, însă atunci îl bookmark-uisem cu total alte motive. Acum vreau să merg un pic mai departe și să vă povestesc modul în care aleg eu evenimentele la care particip și la care plătesc  _fee._
 
 
+
+![](/assets/img/posts/2013/cum-sa-alegi-evenimentele-la-care-participi-pe-bani/2012_03_virtualevents_wordle-400x274.jpg)
 
 Nu cred că sala/locul de desfășurare sau organizatorul cântăresc prea mult în decizia mea, cât **vorbitorii, experiența lor și prezentarea pe care o fac**. Înțeleg nevoia de a avea sponsori care își prezintă brandul, însă nu înțeleg de ce nu pot să o facă într-un mod mai interesant. Aici e vina lor și a organizatorului, care nu îl instruiește. Un brand care prezintă ceva relevant va avea mult mai mult de câștigat decât o prezentare corporate plictisitoare. Dar am divagat.
 

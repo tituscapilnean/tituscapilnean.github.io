@@ -4,12 +4,12 @@ date: 2010-06-25 15:40:15 +0000
 categories: ["Altele de online"]
 tags: ["2007", "leapsa", "personal"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/06/n656500891_393736_4885-400x300.jpg
 ---
 
 Acum 3 ani de zile era 2007. Atunci am împlinit un an de stat în Bucureşti, după ce venisem în toamna lui 2006 la facultate tocmai din Baia Mare, unde mi-am petrecut primii 19 ani de existenţă. Scriu despre lucurile astea pentru că am preluat o mică leapşă de la Ionuţ, care se gândea cum să readucă în atenţie conţinutul mai vechi de pe blog. La mine nu e cazul să fac asta, pentru că blogul, în forma lui actuală nu are decât un anişor, acum în Iulie îl împlineşte.
 
+
+![](/assets/img/posts/2010/eu-acum-3-ani-o-leapsa-ce-faceai-acum-3-ani/n656500891_393736_4885-400x300.jpg)
 
 _*imaginea asta e superbă. păcat că mi-au furat bicicleta aia_
 

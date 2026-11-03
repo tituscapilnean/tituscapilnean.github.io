@@ -4,8 +4,6 @@ date: 2009-08-16 19:59:44 +0000
 categories: ["Social Media"]
 tags: ["mojo", "top", "twitter", "zelist", "zetweety"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/08/picture-133-630x372-400x236.png
 ---
 
 Yahoo a lansat o unealtă pentru Twitter, care îți analizează stilul de tweet. Site-ul se numeșteKnow Your Mojo și pe baza utilizatorului de Twitter, dă verdictul.
@@ -24,5 +22,7 @@ Piticu și Arhi sunt Name Droppers – conversează activ cu menționarea numelo
 
 
 Site-ul face parte din campania de promovare a noului design al Yahoo.com
+
+![:\) ](/assets/img/posts/2009/mojo-urile-twitteristilor-din-romania/yahoo_smiley.gif)
 
 Interesantă ideea, a generat deja un pic de buzz. 🙂

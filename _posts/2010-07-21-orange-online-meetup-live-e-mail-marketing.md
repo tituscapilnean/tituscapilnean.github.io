@@ -4,14 +4,14 @@ date: 2010-07-21 16:25:49 +0000
 categories: ["Evenimente"]
 tags: ["live-blog", "online-meetup", "orange"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/07/133244247-efb7fabc682d276038feeb2b214504b4.4c472088-scaled-400x239.jpg
 ---
 
 **Update:** A apărut şi prezentarea lui Mike de aseară, de la Online MeetUp
 
 Ediția a 7-a de Orange Online MeetUp, de la Orange Concept Store va intra în detalii pe subiectul mult criticat al e-mail marketing-ului. Criticat pentru că e foarte puțin cunoscut dincolo de eticheta de SPAM pe care mulți dintre posesorii de căsuțe de e-mail au pus-o așa de ușor.
 
+
+![](/assets/img/posts/2010/orange-online-meetup-live-e-mail-marketing/133244247-efb7fabc682d276038feeb2b214504b4.4c472088-scaled-400x239.jpg)
 
 Moderatoarea noastră din seara asta, Maria, ne dă ciocolată și premii pentru întrebări 🙂 Se pot adresa direct, pentru curajoși, sau pe bilețele, pentru cei timizi. A mai spart gheața un pic, s-a dezbrăcat de vreo 2 tricouri, unul branded cu abonamentul Fluture, altul cu Nelimitează-te, campania Orange pentru tineri.
 

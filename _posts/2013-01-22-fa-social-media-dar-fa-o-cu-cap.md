@@ -4,9 +4,9 @@ date: 2013-01-22 10:13:52 +0000
 categories: ["Online Training"]
 tags: []
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/01/snoopy-social-media-312x300.jpg
 ---
+![](/assets/img/posts/2013/fa-social-media-dar-fa-o-cu-cap/snoopy-social-media-312x300.jpg)
+
 
 Scrie și Raluca azi despre ce ar trebui și n-ar trebui să faci pe o pagină de Facebook. De acord cu majoritatea punctelor de la ea, mai mult le-aș completa cu câteva idei și de la Chris Brogan, care zicea tot azi că orice publici pe net trebuie să aibă ceva legătură cu business-ul tău, altfel scrii doar de amorul artei (sau al like-urilor).
 

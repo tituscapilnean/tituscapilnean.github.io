@@ -4,8 +4,6 @@ date: 2012-01-12 09:15:16 +0000
 categories: ["Altele de online"]
 tags: ["2012", "campanie", "online", "salvati", "trenduri"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/01/smurd-368x300.png
 ---
 
 După succesul răsunător al campaniei Mediafax/Gândul, **Salvează Crăciunul** , prin care organizatorii au strând nu mai puțin de 115.000 de like-uri pe Facebook și au împânzit internetul de reacții de susținere, au strâns câteva sute de mii euro în donații și sponsorizări, vine și o a doua mare campanie în social media.

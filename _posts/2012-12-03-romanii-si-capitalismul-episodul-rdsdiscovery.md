@@ -4,8 +4,6 @@ date: 2012-12-03 08:03:12 +0000
 categories: ["Altele de online"]
 tags: ["discovery", "rds", "romani", "scandal"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/12/tv_03_51feb4f7dc-150x150.jpg
 ---
 
 N-am vrut să urmăresc scandalul generat de spălarea rufelor în public a Discovery cu RDS, dar multă lume din blogosferă s-a alăturat și acestei prea-minunate ”cauze”, iar comunicatele Discovery m-au convins de ceea ce bănuiam.

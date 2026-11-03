@@ -4,12 +4,11 @@ date: 2009-09-10 04:08:14 +0000
 categories: ["Evenimente"]
 tags: ["bucuresti", "concurs", "idei-extraordinare", "tedx", "tedxbucharest"]
 author: titus_capilnean
-# BROKEN_IMAGES: 2 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/09/black-ppt-logo.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/09/colaj.png
 ---
 
 
+
+![black-ppt-logo](/assets/img/posts/2009/tedxbucharest-16-octombrie-mare-concurs/black-ppt-logo.jpg)
 
 Cu surle și trâmbițe țin să vă anunț oficial că TEDxBucharest și-a deschis porțile și vine la noi pe **16 Octombrie** , la **Centrul Național al Dansului, în Teatrul Național București.**
 

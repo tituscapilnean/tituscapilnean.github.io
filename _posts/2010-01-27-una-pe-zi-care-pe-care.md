@@ -4,10 +4,9 @@ date: 2010-01-27 10:44:40 +0000
 categories: ["Istoria reclamelor bune"]
 tags: ["comics", "foc"]
 author: titus_capilnean
-# BROKEN_IMAGES: 2 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/01/Stupid-Vampire-Joke-400x157.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/01/b6f6d9dc13ef2d93eb156398f70c15c3bd3e4e2e_m-400x281.jpg
 ---
+![O remarcă strălucită, aproape la fel de puternică în comparație cu unda solarului. ](/assets/img/posts/2010/una-pe-zi-care-pe-care/Stupid-Vampire-Joke-400x157.jpg)
+
 
  O remarcă strălucită, aproape la fel de puternică în comparație cu unda solarului.    
 de pe wulffmorgenthaler.com 

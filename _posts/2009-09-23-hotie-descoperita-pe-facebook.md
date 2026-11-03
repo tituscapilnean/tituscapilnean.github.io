@@ -4,8 +4,6 @@ date: 2009-09-23 16:06:50 +0000
 categories: ["Social Media"]
 tags: ["dependent", "descoperire", "facebook", "fraier", "hot", "social-media"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/09/2805077265_8e05204450_o-400x280.jpg
 ---
 
 

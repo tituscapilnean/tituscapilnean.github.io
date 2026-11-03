@@ -4,23 +4,6 @@ date: 2010-10-18 06:00:55 +0000
 categories: ["Altele de online", "Evenimente"]
 tags: ["2010", "live-blog", "tedx", "tedxbucharest"]
 author: titus_capilnean
-# BROKEN_IMAGES: 16 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/10/D7X_9095-400x266.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/10/D7X_8762-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/10/D7X_8776-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/10/D7X_8796-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/10/D7X_8810-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/10/D7X_8837-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/10/D7X_8860-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/10/D7X_8908-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/10/D7X_8915-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/10/D7X_9000-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/10/D7X_9013-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/10/D7X_9045-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/10/D7X_9078-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/10/D7X_9099-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/10/D7X_8764-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/10/photo-400x300.jpg
 ---
 
 Din nou a trebuit să las cel puțin 2 zile să treacă între momentul în care a avut loc **TEDxBucharest 2010 – Today is a good day**. și momentul în care pun pe suport electronic **fluxul de idei** care a circulat prin sala _Crystal Palace Ballroom_ în cele 8 ore de eveniment, la care au asistat peste 600 de oameni, fizic și alte câteva sute sau poate mii live, prin stream.
@@ -31,11 +14,15 @@ Am pornit să vorbesc despre **unul din candidatele la evenimentul anului** , di
 
 
 
+![](/assets/img/posts/2010/povestea-tedxbucharest-2010-asa-cum-a-fost/D7X_9095-400x266.jpg)
+
 _*foto Alex Spineanu_
 
 Ei, ca și mine, șitu că **ideile se combină, fac copii** , idei noi, mai bune.
 
 La TEDxBucharest e foarte, foarte dificil să faci live blogging și să poți surprinde esența discursurilor, pentru că multe din idei trebuie procesate și apoi expuse în text. Am vorbit la TED despre **chimie și cancer, tineri și potențialul lor, telepoziționare, fericire, cultură, design natural, un maraton la Polul Nord, mișcare pentru sănătate, design utilitar, reușite personale, contribuție umanitară și sport extrem, emoții și viață, antreprenoriat social văzut ca model de business sustenabil.**.
+
+![](/assets/img/posts/2010/povestea-tedxbucharest-2010-asa-cum-a-fost/D7X_8762-150x150.jpg)
 
 Totul a început(ce-i drept cu o mică întârziere, ca să ajungă toată lumea în sală) cu **Raluca van Staden** , inventatoarea unui dispozitiv care poate detecta din timp cancerul, chiar dacă acesta încă nu a început să se manifeste.
 
@@ -90,6 +77,8 @@ Pe Twitter:
 
 
 
+![](/assets/img/posts/2010/povestea-tedxbucharest-2010-asa-cum-a-fost/D7X_8796-150x150.jpg)
+
 **Adrian Stoica** , cercetător la NASA, a intrat în scenă vorbind despre teleprezență și despre cum am micșorat lumea extrem de mult în ultimii ani cu ajutorul tehnologiilor care ne dau voie să ne proiectăm parțial sau total prezența pe diferite puncte ale globului.
 
 În sens larg, teleprezența înseamnă telefonul mobil, înseamnă emailul, înseamnă internetul, înseamnă webcam.
@@ -141,6 +130,8 @@ Pe Twitter:
 
 
 
+![](/assets/img/posts/2010/povestea-tedxbucharest-2010-asa-cum-a-fost/D7X_8837-150x150.jpg)
+
 **Cătălin Ștefănescu** ne-a ținut un discurs, după pauză, despre cultură, definiții și importanța ei în dezvoltarea unui popor și a unei țări.
 
 Cultura este mult mai mult decât suma artelor, muzicii sau a literaturii unei țări, este un mod de viață, pe care fiecare țară și popor trebuie să și-l asume și să și-l dezvolte.
@@ -163,6 +154,8 @@ Pe Twitter:
 **  
 **
 
+![](/assets/img/posts/2010/povestea-tedxbucharest-2010-asa-cum-a-fost/D7X_8860-150x150.jpg)
+
 **Adrian Bejan** a ținut cu siguranță cea mai tehnică prezentare de la TEDxBucharest 2010. Ne-a vorbit de legea constructalistă în design, prin analogii și exemple care au ținut loc de descifrare pentru multele formule pe care le-am văzut în discursul lui.
 
 Mesajul principal: Mai mare înseamnă mai rapid, totul în natură este relativ și proporțional.
@@ -183,6 +176,8 @@ Pe Twitter:
   * tedxbucharest: Ideile bune ne fac mai buni si ajung departe. Mesajul de final al lui Adrian Bejan
 
 
+
+![](/assets/img/posts/2010/povestea-tedxbucharest-2010-asa-cum-a-fost/D7X_8908-150x150.jpg)
 
 După prânz și o sesiune de Drum Cafe energizantă, **Andrei Roșu** a urcat pe scenă și ne-a vorbit despre cum a ajuns el, corporatist de meserie, să alerge la maratonul de la Polul Nord.
 
@@ -210,6 +205,8 @@ Pe Twitter:
   * tedxbucharest: Andrei va alerga pe toate cele 7 continente si o va face in cadrul unei campanii caritabile. Ii uram multa bafta!
 
 
+
+![](/assets/img/posts/2010/povestea-tedxbucharest-2010-asa-cum-a-fost/D7X_8915-150x150.jpg)
 
 **Magnus Scheving** , the father of ‘Oraselul Lenes’ a urmat pe scenă. A intrat energic, cu multă putere pe scenă. Primele lui mesaje au ținut de faptul că ar trebui să nu ne mai construim atât de multe griji și să se bucurăm mai mult de viață.
 
@@ -239,6 +236,8 @@ Pe Twitter:
 
 
 
+![](/assets/img/posts/2010/povestea-tedxbucharest-2010-asa-cum-a-fost/D7X_9000-150x150.jpg)
+
 Ne-am întors din pauză și ne-am jucat din nou cu tobele, am energizat lumea și am continuat TEDxBucharest 2010 cu **Mihai Panaitescu** , unul din cei mai tineri si mai talentați designeri români.
 
 La 24 de ani, Mihai desenează și proiectează mașini pentru Lotus. Totuși, el ne-a vorbit despre o paradigma nouă în design: utilitatea.
@@ -259,6 +258,8 @@ Pe Twitter:
   * tedxbucharest: The venus project(jaques fresco) isi propune sa schimbe paradigma de design-creeaza lucruri longevive, nu consumabile.
 
 
+
+![](/assets/img/posts/2010/povestea-tedxbucharest-2010-asa-cum-a-fost/D7X_9013-150x150.jpg)
 
 Cea mai atipică prezentare din întreg TEDxBucharest 2010 a avut-o **Nik Halik** , The Thrillionare, omul care și-a făcut la 8 ani o listă de lucruri pe care vrea să și le împlinească.
 
@@ -306,6 +307,8 @@ Pe Twitter:
   * adriantoca: Privirea si expresia fetei lui Roland H. imi spune mai mult decit orice prezentare despre lucrurile pe care le face sau vede #**tedxbucharest**
 
 
+
+![](/assets/img/posts/2010/povestea-tedxbucharest-2010-asa-cum-a-fost/D7X_9078-150x150.jpg)
 
 După ultima pauză, **Oana Pellea** a impresionat publicul cu sigurul discurs în limba română, în care ne-a povestit despre viziunea ei asupra vieții.
 
@@ -402,5 +405,7 @@ Toată ideea este acum ca fiecare dintre cei care citesc articolul ăsta sau alt
 * * *
 
 Bonus: **ofer o sacoșă cu TEDxBucharest 2010** pentru comentatorul/comentatoarea care îmi spune care este cea mai bună idee pe care și-a extras-o din discursurile vorbitorilor, așa, la primă mână. Comentariile se pot lăsa până pe 25 Octombrie.
+
+![](/assets/img/posts/2010/povestea-tedxbucharest-2010-asa-cum-a-fost/photo-400x300.jpg)
 
 

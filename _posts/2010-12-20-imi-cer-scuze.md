@@ -4,9 +4,9 @@ date: 2010-12-20 14:00:26 +0000
 categories: ["Altele de online", "Social Media"]
 tags: ["bloggeri", "concluzii", "concurs"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/12/sorry-150x150.jpg
 ---
+![](/assets/img/posts/2010/imi-cer-scuze/sorry-150x150.jpg)
+
 
 Îmi cer scuze pentru spam-ul pe care l-am cauzat în ultimele 3 săptămâni prin blog, Facebook, Twitter și, în unele cazuri, la telefon sau pe messenger.
 

@@ -4,9 +4,9 @@ date: 2012-11-19 15:39:37 +0000
 categories: ["Publicitate"]
 tags: ["checklist", "ghid", "productie"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/11/5500.232135404-150x150.jpg
 ---
+![](/assets/img/posts/2012/mic-checklist-pentru-materialele-de-promovare/5500.232135404-150x150.jpg)
+
 
 Dacă tot vine sezonul campaniilor și promoțiilor, am zis să dau un mic checklist pe care îl folosesc în momentul în care particip la producția de materiale de promovare:
 

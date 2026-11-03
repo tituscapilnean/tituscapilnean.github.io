@@ -4,10 +4,6 @@ date: 2010-03-23 07:25:04 +0000
 categories: ["Evenimente"]
 tags: ["live-blog", "pr-forum"]
 author: titus_capilnean
-# BROKEN_IMAGES: 3 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/03/header-400x43.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/03/2465-1.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/03/2009-renault-megane-coupe-2_1600x0w-399x300.jpg
 ---
 
 _Live blogging – refresh pentru update-uri_

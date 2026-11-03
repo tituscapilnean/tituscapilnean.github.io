@@ -4,8 +4,6 @@ date: 2009-09-03 21:16:36 +0000
 categories: ["Social Media"]
 tags: ["bloggeri", "blogosfera", "influenta", "studoiu"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/09/243814203_4760158b02.jpg
 ---
 
 

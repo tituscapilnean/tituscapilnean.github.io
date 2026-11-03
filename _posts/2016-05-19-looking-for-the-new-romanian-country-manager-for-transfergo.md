@@ -4,8 +4,6 @@ date: 2016-05-19 14:53:47 +0000
 categories: ["English", "Startups"]
 tags: []
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.com/wp-content/uploads/2016/05/Logo_500x500-1-1-1.png
 ---
 
 I’m heading off to the San Francisco Bay Area in less than 2 months and it’s time to find a capable, passionate and smart person to replace me at TransferGo for the Romanian Country Manager role.

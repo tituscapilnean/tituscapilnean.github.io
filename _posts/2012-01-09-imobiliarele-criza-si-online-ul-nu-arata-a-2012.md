@@ -4,9 +4,9 @@ date: 2012-01-09 11:14:08 +0000
 categories: ["Altele de online"]
 tags: ["2012", "imobiliare", "online", "website"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/01/casa-150x150.jpg
 ---
+![](/assets/img/posts/2012/imobiliarele-criza-si-online-ul-nu-arata-a-2012/casa-150x150.jpg)
+
 
 Contextul a făcut ca în ultimele zile să arunc un ochi pe site-urile companiilor de imobiliare, atât agregatoare cât și dezvoltatori cu site propriu. Dacă la primii, la care se vede clar pachetul de idei de marketing și usability, mai merg cât de cât, trecând peste anunțurile dublate, pozele proaste și anunțurile scrise ca la _Mica Publicitate în anii 90_ , la cea de-a doua categorie m-am speriat.
 

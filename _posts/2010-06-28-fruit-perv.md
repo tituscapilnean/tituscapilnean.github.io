@@ -4,10 +4,10 @@ date: 2010-06-28 21:06:55 +0000
 categories: ["Publicitate"]
 tags: ["distractiv"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/06/TerryBorder19-400x258.jpg
 ---
 
+
+![](/assets/img/posts/2010/fruit-perv/TerryBorder19-400x258.jpg)
 
 În puterea nopţii i+a venit curierul la uşă. Dl. Lămâie a deschis uşa entuziasmat şi a semnat pentru pachet.
 

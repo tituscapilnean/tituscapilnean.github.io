@@ -4,9 +4,9 @@ date: 2011-07-01 06:00:24 +0000
 categories: ["Publicitate"]
 tags: ["bcr", "campanie", "cum-sa", "refinantare", "sfaturi", "webinarii"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/07/glob_mon.png
 ---
+![](/assets/img/posts/2011/webinarii-de-educatie-financiara-v/glob_mon.png)
+
 
 Ideea de care vorbesc aici a plecat de la o discuție pe Twitter cu Robert, de la propunerea lui pentru BCR, de a face educație financiară. Dacă te uiți puțin la trecutul publicitar al băncii, o să vezi că ei au început deja să intre în segmentul de educație financiară cu ajutorul Școlii de Bani. Ce-i drept, școala de bani a fost axată mai mult pe economisire și depozite.
 

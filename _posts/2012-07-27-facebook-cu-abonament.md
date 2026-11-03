@@ -4,9 +4,9 @@ date: 2012-07-27 09:35:53 +0000
 categories: ["Social Media"]
 tags: ["facebook", "ipo", "rezultate", "venituri"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/07/facebook-jpeg-400x225.jpg
 ---
+![](/assets/img/posts/2012/facebook-cu-abonament/facebook-jpeg-400x225.jpg)
+
 
 Ieri au ieșit rezultatele pe Q2 ale Facebook, primele după listarea la bursă(dezamăgitoare, așa cum am mai scris). Acțiunile au scăzut cu 8% pentru că Facebook a demonstrat că nu poate să se ridice încă la nivelul Google, Linkedin, Forbes sau HBO când vine vorba de monetizarea timpului petrecut de utilizatori pe site.
 

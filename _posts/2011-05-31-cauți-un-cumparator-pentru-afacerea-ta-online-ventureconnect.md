@@ -4,9 +4,9 @@ date: 2011-05-31 23:07:15 +0000
 categories: ["Evenimente"]
 tags: ["antreprenoriat", "evenimente", "investitori", "online"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/06/venture-logo-400x218.png
 ---
+![](/assets/img/posts/2011/cauți-un-cumparator-pentru-afacerea-ta-online-ventureconnect/venture-logo-400x218.png)
+
 
 Să zicem că ești antreprenor online și îți merge destul de bine afacerea. Toate verzi și ok până îți vin niște idei de dezvoltare, dar nu orice idei. Idei din alea de tipul RDS(cuceresc toată țara, cumpăr tot ce pot, mă extind masiv), pentru care ai nevoie de **peste 250.000 EUR** finanțare.
 

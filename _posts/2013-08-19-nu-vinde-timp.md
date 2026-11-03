@@ -4,9 +4,9 @@ date: 2013-08-19 09:07:27 +0000
 categories: ["Altele de online"]
 tags: ["angajat", "munca", "ore", "peste-program"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/08/8-hour-day.jpg
 ---
+![8-hour-day](/assets/img/posts/2013/nu-vinde-timp/8-hour-day.jpg)
+
 
 Discuția despre orele suplimentare și sclavia din agențiile și/sau corporațiile de la noi apare iar și iar dintr-un singur motiv mare și lat. Oamenii își vând timpul și nu rezultatele. Despre timp, ore suplimentare și motive puteți citi aici mai multe. Sau aici. Eu mă uit la rezultate. Orele nu contează și nici nu trebuie să fie fixate uniform pentru toată lumea (în meseriile creative. La bandă/BPO/magazin etc. e altă poveste).
 

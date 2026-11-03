@@ -4,9 +4,9 @@ date: 2011-07-06 11:22:26 +0000
 categories: ["Online Training"]
 tags: ["bloggeri", "evenimente", "ghid", "live-blog", "sfaturi"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/07/live-blogging-150x150.jpg
 ---
+![](/assets/img/posts/2011/ghid-de-live-blogging-pentru-participantul-la-evenimente/live-blogging-150x150.jpg)
+
 
 Una din chestiile la care mă pricep cel mai bine este live blogging-ul. Cine a citit categoria Live Blog de aici știe, cine nu, poate să o citească și să vadă cam care e stilul în care scriu eu de la evenimente. Mulți mă întrebă cum reușesc. Treaba nu e chiar atât de complicată pe cât pare și pentru ea ai nevoie de un pic de atenție distributivă – să poți să urmărești vorbitorul și întrebările, în timp ce procesezi mesajele și le scrii pe blog.
 

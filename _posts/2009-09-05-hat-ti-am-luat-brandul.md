@@ -4,10 +4,6 @@ date: 2009-09-05 11:58:25 +0000
 categories: ["Marketing"]
 tags: ["bfc", "bucuresti", "copiat", "fried-chicken", "kfc"]
 author: titus_capilnean
-# BROKEN_IMAGES: 3 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/09/IMG_0375-225x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/09/IMG_0376-225x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/09/IMG_0379-225x300.jpg
 ---
 
 De regulă, nu scriu în weekend mai mult de pauza de reclame, însă de data asta am ieșit mai repede din casă în căutarea unui lanț de bicicletă, pentru că celălalt și-a pierdut butucul. Calitate, domnule!

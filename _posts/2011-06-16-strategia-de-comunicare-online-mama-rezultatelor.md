@@ -4,9 +4,9 @@ date: 2011-06-16 08:40:08 +0000
 categories: ["Online Training"]
 tags: ["comunicare", "online", "sfaturi", "strategie"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/06/ochelari_de_cal-150x150.jpg
 ---
+![](/assets/img/posts/2011/strategia-de-comunicare-online-mama-rezultatelor/ochelari_de_cal-150x150.jpg)
+
 
 Ieri m-am întâlnit cu cineva care a început o agenție de online(inițial axată pe programare de aplicații pentru campanii) și care vrea să își extindă oferta, să includă și componenta de consultanță și implementare de proiecte de comunicare online.
 

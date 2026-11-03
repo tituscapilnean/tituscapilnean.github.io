@@ -4,11 +4,11 @@ date: 2011-06-07 10:04:58 +0000
 categories: ["Online Training"]
 tags: ["online", "prezentare", "social-media", "training"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/05/mkt24t.jpg
 # EMBED_ISSUES: 1 embed(s) need review
 #   - [iframe] http://www.slideshare.net/slideshow/embed_code/8197614
 ---
+![](/assets/img/posts/2011/de-la-utilizator-de-internet-la-client-cum-faci-trecerea/mkt24t.jpg)
+
 
 Cei care mă cunosc bine știu că îmi place mult să vorbesc în public. Cu cât audiența e mai mare și mai avizată, cu atât îmi place mai mult, pentru că **trec dincolo de monolog și pot să port o conversație cu sala**. Așa se poate scoate maximul dintr-o prezentare. Mai sunt câteva reguli mici, de bază(număr de cuvinte pe slide, număr de slideuri, asocieri cuvinte-imagini), care fixeaza idei, însa despre asta, într-un alt articol.
 

@@ -4,8 +4,6 @@ date: 2011-01-04 14:31:58 +0000
 categories: ["Social Media"]
 tags: ["facebook", "investitii"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/01/facebook_chart1-300x300.png
 ---
 
 Facebook a mai făcut rost de încă 500 milioane de dolari din partea investitorilor de la Goldman Sachs.

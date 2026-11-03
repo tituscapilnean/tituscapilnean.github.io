@@ -4,8 +4,6 @@ date: 2013-07-30 12:40:12 +0000
 categories: ["Marketing"]
 tags: ["rosia-montana", "video-3d"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/07/rosia-montana-400x227.png
 ---
 
 Dacă nici eu nu scriu despre asta, nu știu cine ar trebui să scrie.
@@ -17,6 +15,8 @@ Noi am fost shortlisted la categoria _Web Videos_ , cu producția Roșia Montan�
 Dacă nu l-ați văzut încă, el se găsește pe site-ul RMGC (atât în română, cât și în engleză).
 
 
+
+![rosia montana](/assets/img/posts/2013/shortlisted-la-digital-communication-awards-2013-cu-rosia-montana/rosia-montana-400x227.png)
 
 Pe categoria asta avem și următorii concurenți: Ritual Cosmetics, Society in Science, Telefonica Digital și Turkcell.
 

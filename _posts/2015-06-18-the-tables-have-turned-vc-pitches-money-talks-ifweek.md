@@ -4,9 +4,6 @@ date: 2015-06-18 16:56:15 +0000
 categories: ["English", "Digital Events", "Startups"]
 tags: []
 author: titus_capilnean
-# BROKEN_IMAGES: 2 image(s) could not be resolved
-#   - http://tituscapilnean.com/wp-content/uploads/2015/06/FullSizeRender-1-225x300.jpg
-#   - http://tituscapilnean.com/wp-content/uploads/2015/06/IMG_1641-1-300x225.jpg
 ---
 
 Big turnout today at the [Innovate Finance](https://programme.innovatefinance.com/e/38) event at Level39, where entrepreneurs, FinTech enthusiasts, interested parties have come to see who and why is channeling money into finance innovation projects.

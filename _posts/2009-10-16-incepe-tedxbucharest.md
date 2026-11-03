@@ -4,8 +4,6 @@ date: 2009-10-16 06:05:20 +0000
 categories: ["Evenimente"]
 tags: ["tedx", "tedxbucharest"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/09/black-ppt-logo.jpg
 ---
 
 în 30 de minute 🙂
@@ -13,5 +11,7 @@ author: titus_capilnean
 urmăriți hashtagul #tedxbucharest pe Twitter – voi scrie live!
 
 Tot live de pe Twitter va fi și TEDx pe Spixii
+
+![black-ppt-logo](/assets/img/posts/2009/incepe-tedxbucharest/black-ppt-logo.jpg)
 
 

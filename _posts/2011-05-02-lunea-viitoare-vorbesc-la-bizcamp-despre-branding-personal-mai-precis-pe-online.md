@@ -4,9 +4,9 @@ date: 2011-05-02 12:08:57 +0000
 categories: ["Evenimente"]
 tags: ["branding", "invitatie", "speaker", "training"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/05/logo_BizCamp.png
 ---
+![](/assets/img/posts/2011/lunea-viitoare-vorbesc-la-bizcamp-despre-branding-personal-mai-precis-pe-online/logo_BizCamp.png)
+
 
 De când am început să țin iar training-uri și prezentări despre comunicare online, a început iar să îmi placă la fel de mult ca pe vremea când eram în AIESEC și făceam asta cel puțin lunar. Nu despre asta e vorba, ci despre faptul că lunea viitoare, pe 9 Mai, fix de Ziua Europei, vorbesc la Bizcamp despre branding personal.
 

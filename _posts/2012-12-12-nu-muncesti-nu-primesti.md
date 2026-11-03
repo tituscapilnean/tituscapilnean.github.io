@@ -4,9 +4,9 @@ date: 2012-12-12 09:46:06 +0000
 categories: ["Altele de online"]
 tags: ["lene", "munca", "oameni", "productivitate"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/12/5216_cine-nu-munceste-150x150.jpg
 ---
+![](/assets/img/posts/2012/nu-muncesti-nu-primesti/5216_cine-nu-munceste-150x150.jpg)
+
 
 Citeam de dimineață un articol antologic despre cât de mare e diferența dintre salariul CEO-ului de la McDonald’s și un simplu muncitor dintr-unul din restaurante – 580:1. Pe lângă apologia făcută stilului de viață greu și atacurile la corporatismul american nemilos, echilibrații de la Bloomberg uită să spună că acel CEO, ca de altfel oricare CEO, pe lângă responsabilitatea propriei persoane, poartă pe umeri joburile a 10, 100, 1000, 100.000 de angajați, cărora trebuie să le poată plăti X dolari pe oră, lună de lună, indiferent dacă sunt productivi sau uneori incompetenți, leneși sau nepricepuți.
 

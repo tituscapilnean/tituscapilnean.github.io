@@ -4,9 +4,6 @@ date: 2009-09-02 07:17:11 +0000
 categories: ["Publicitate"]
 tags: ["creativ", "inovativ", "media", "ooh", "panouri"]
 author: titus_capilnean
-# BROKEN_IMAGES: 2 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/09/mate-400x246.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/09/muc-400x254.jpg
 ---
 
 Azi am citit la Ionuţ pe blog despre cum KFC a astupat găurile din asfaltul câtorva oraşe din Statele Unite. Ca să beneficieze şi ei din acţiunea asta, au pus brand-ul lor pe peticele care au umplut găurile din asfalt.
@@ -18,6 +15,8 @@ Mergând mai departe, am intrat pe pagina de slideshare a lui Ayman Sarhan, unde
 Din Q2 2008 am extras un mod foarte tare de a recruta geeks.
 
 
+
+![mate](/assets/img/posts/2009/publicitate-care-o-simti/mate-400x246.jpg)
 
 E destul de simplu de rezolvat, însă ideea în sine mi-a atras atenţia. Se dau două variabile, din care am compus numărul de telefon. Dacă eşti suficient de atent să îţi dai seama cum se rezolvă, atunci meriţi să suni. Dacă nu, vei tot suna la numere greşite 🙂 Ingenios. Aşa faci prima selecţie – cei care gândesc logici şi analitic trec mai departe de Ad şi sună.
 

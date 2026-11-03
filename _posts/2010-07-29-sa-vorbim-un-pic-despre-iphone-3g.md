@@ -4,10 +4,10 @@ date: 2010-07-29 07:27:04 +0000
 categories: ["Cu telefonul"]
 tags: ["concurs", "recenzie"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/07/iphone-3g-8gb-black-59291d61bea5181a66a0f77b8a43c183.jpg
 ---
 
+
+![](/assets/img/posts/2010/sa-vorbim-un-pic-despre-iphone-3g/iphone-3g-8gb-black-59291d61bea5181a66a0f77b8a43c183.jpg)
 
 Cred că toată lumea știe de faptul că dețin de anul trecut un iPhone 3G negru și mândru, ce-i drept, de 16 Gb, nu de 8 Gb, pe care îl au cei de la pcgarage în oferta de telefoane mobile Apple. L-am luat atunci după ce am stat să testez toate telefoanele cu touch-screen de la Orange Concept Store și am simțit diferența în viteza de reacție, modul în care se mișcă ecranul, senzația de atingere a aparatului, modul în care afișează paginile web(bine, mai puțin cele care sunt făcute în Flash, deocamdată).
 

@@ -4,8 +4,6 @@ date: 2010-09-03 09:43:01 +0000
 categories: ["Altele de online"]
 tags: ["email", "reguli", "viata"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/09/images.jpg
 ---
 
 Nu obișnuiesc să public prostii văzute pe email, însă mesajul de mai jos chiar merită citit și păstrat:

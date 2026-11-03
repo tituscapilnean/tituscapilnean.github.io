@@ -4,10 +4,9 @@ date: 2010-05-04 23:07:20 +0000
 categories: ["Evenimente"]
 tags: ["festival", "graffitti", "masina"]
 author: titus_capilnean
-# BROKEN_IMAGES: 2 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/05/24473_405559310798_543655798_5008608_3668505_n-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/05/car-400x239.jpg
 ---
+![24473_405559310798_543655798_5008608_3668505_n](/assets/img/posts/2010/ai-o-masina-veche-de-care-nu-iti-pasa/24473_405559310798_543655798_5008608_3668505_n-150x150.jpg)
+
 
 Uite că a venit și momentul ăla din viața blogului meu, momentul în care cer ceva – nu orice, ci o rablă(sau mai multe, dacă ai). Scopul este unul pur artistic, pentru că o gașcă de tineri artiști o să se ocupe personal de rabla ta și, dacă ai noroc, o transformă într-un Mystery Machine sau mai știu eu ce altă operă de artă.
 
@@ -20,5 +19,7 @@ Mașina poate fi a tatălui, a bunicului, a oricărei persoane care și-a dat ac
 Tot ce știu e că vreau niște mașini vechi de la tine, să ți-o transform în așa ceva:
 
 
+
+![car](/assets/img/posts/2010/ai-o-masina-veche-de-care-nu-iti-pasa/car-400x239.jpg)
 
 Vrei?

@@ -4,15 +4,11 @@ date: 2009-08-04 20:46:16 +0000
 categories: ["Marketing", "Social Media"]
 tags: ["analiza", "facebook", "online", "statistica", "studiu"]
 author: titus_capilnean
-# BROKEN_IMAGES: 5 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/08/3186534628_127cf9736b_b-300x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/08/procente-varsta-400x232.png
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/08/procente-educatie-400x273.png
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/08/procente-relatii-400x219.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/08/penetrare-400x223.jpg
 ---
 
 
+
+![3186534628_127cf9736b_b](/assets/img/posts/2009/statistici-facebook-la-zi/3186534628_127cf9736b_b-300x300.jpg)
 
 sursa foto
 
@@ -42,21 +38,29 @@ sau în procente:
 
 
 
+![procente varsta](/assets/img/posts/2009/statistici-facebook-la-zi/procente-varsta-400x232.png)
+
 Dacă ne uităm la structura pe sexe, **102.200**(40%) de utilizatori sunt bărbaţi, iar **134.200**(52%) sunt femei şi **20.000**(8%) de utilizatori cu sex nedeclarat.
 
 Doar **9%** din utilizatori şi-au completat datele despre educaţie, din care 48% elevi de liceu, 4% studenţi şi 48% absolvenţi de o formă de învăţământ superior.
 
 
 
+![procente educatie](/assets/img/posts/2009/statistici-facebook-la-zi/procente-educatie-400x273.png)
+
 Nici la starea civilă/relaţii nu am putut avea o statistică completă, doar **27%** completând câmpul respectiv din profil.
 
 
+
+![procente relatii](/assets/img/posts/2009/statistici-facebook-la-zi/procente-relatii-400x219.jpg)
 
 58% dintre cei care şi-au trecut starea relaţiei sunt cuplaţi/căsătoriţi, iar 42% sunt singuri în acest moment, conform datelor de pe Facebook.
 
 Spuneam mai sus că România are 1,18% din populaţie pe Facebook. Mai jos am făcut o comparaţie cu **Ungaria, Serbia, Bulgaria, Ucraina şi Polonia** în funcţie de gradul de penetrare a Facebook în fiecare ţară.
 
 
+
+![penetrare](/assets/img/posts/2009/statistici-facebook-la-zi/penetrare-400x223.jpg)
 
 _Populatia – Procent de penetrare – Ţara_  
 **21.500.000 – 1,19% – Romania  

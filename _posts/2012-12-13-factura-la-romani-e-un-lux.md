@@ -4,9 +4,9 @@ date: 2012-12-13 09:26:33 +0000
 categories: ["Altele de online"]
 tags: ["factura", "intamplari", "restaurante"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/12/InvoiceExample2-150x150.png
 ---
+![](/assets/img/posts/2012/factura-la-romani-e-un-lux/InvoiceExample2-150x150.png)
+
 
 Conjunctura a fost de așa natură în ultima vreme de a fost nevoie să mă tot plimb prin țară și am avut nevoie de facturi, în special la restaurante. Toate au fost bune și frumoase, de cele mai multe ori, până când a fost nevoie să cer factura, în special pentru bonurile de sub 100 de lei. În mod normal, ai zice că se pot deconta pur și simplu bonuri cu ștampilă, însă nu îți deduci mare lucru de pe ele, așa că merit să faci facturi.
 

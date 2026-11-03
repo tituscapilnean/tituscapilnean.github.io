@@ -4,16 +4,6 @@ date: 2010-09-16 06:28:01 +0000
 categories: ["Evenimente", "Social Media"]
 tags: ["live-blog"]
 author: titus_capilnean
-# BROKEN_IMAGES: 9 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/09/photo9-225x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/09/photo10-225x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/09/photo11-400x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/09/photo12-400x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/09/photo13-400x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/09/photo14-400x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/09/photo15-225x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/09/photo16-225x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/09/302fe681-0fda-468b-8bcc-265e1b2d91b8-322x299.jpg
 ---
 
 Începe și ediția din 2010 a Webstock, conferință, gală și workshop-uri all-in-one, totul despre web și, în special, social media. Dacă nu ai apucat să te uiți peste lista de vorbitori, am scris un articol precedent cu întreaga agendă, pe ore. Aici voi ține pasul cu ideile care merită păstrate, idei pe care le vor vehicula atât invitații, cât și cei din sală.
@@ -33,6 +23,8 @@ Pe blog voi încerca să fac diferența față de fluxul de Twitter, unde exist�
 Întrebarea lui Cristi: **Ce credem despre grupurile de oameni relevanți pentru noi, pe toate rețelele sociale?**
 
 —
+
+![](/assets/img/posts/2010/webstock-2010-live-update/photo9-225x300.jpg)
 
 Urmează **Mădălin Vladcu** – Daedalus Millward Brown, care povestește despre studiul făcut în rețelele sociale. Ei au studiat activitățile din rețelele sociale din România, detalii socio-demografice și peisajul social media de la noi.
 
@@ -80,6 +72,8 @@ _întrebarea 1: Ce facem cu prețurile de Roaming?
 întrebarea 2: Cât la sută din bugetul de marketing e alocat pe social media?  
 întrebarea 3: Cum facem bani în social media?_
 
+![](/assets/img/posts/2010/webstock-2010-live-update/photo10-225x300.jpg)
+
 Oamenii vin pe rețelele sociale să se conecteze cu prietenii și cu brandurile pe care le cunoști și le iubești. Social Media nu se potrivește foarte bine pentru retail.
 
 Nu iubești un brand, ci îl admiri și ești stimulat de el, deci cea mai bună strategie pe rețelele sociale, pentru marketing este să creezi admirație.
@@ -116,6 +110,8 @@ N-am să povestesc despre caracteristicile femeilor, irelevante în context de W
 
 
 
+![](/assets/img/posts/2010/webstock-2010-live-update/photo11-400x300.jpg)
+
 *offtopic – Avon are card parfumat, primul din sud-estul Europei, cu GMoney și Garanti Bank
 
 Avon are un business 100% online. Din 2006, au lansat o platforma de Mobile-Commerce, însă cifrele de vânzări nu sunt foarte mari.
@@ -133,6 +129,8 @@ Pentru bărbați – comunitatea oferă accesul la muuuulte femei, evident
 **Radu Ionescu** – Kinecto – vorbește, desigur, despre LG și campaniile lor pe social medi și despre faptul că social media nu înseamnă doar A-List Bloggers.
 
 
+
+![](/assets/img/posts/2010/webstock-2010-live-update/photo12-400x300.jpg)
 
 N-ar trebui să ne fie frică să provocăm utilizatorii de rețele sociale să fie creativi.
 
@@ -179,6 +177,8 @@ Lucrurile serioase:
 
 
 
+![](/assets/img/posts/2010/webstock-2010-live-update/photo13-400x300.jpg)
+
 Ce mi-e mie foarte clar din discursul lui Dragoș, e că nu trebuie să te îndrăgostești de modul tău de lucru sau de ideile tale, pentru că există mereu loc de îmbunătățire.
 
 ——–PAUZA——–
@@ -197,6 +197,8 @@ VORBITORI
 
 
 
+![](/assets/img/posts/2010/webstock-2010-live-update/photo14-400x300.jpg)
+
 **Lidia** de la Vodafone ne vorbește despre cum a integrat Social Media în comunicarea companiei. Să vedem dacă va fi corporate talk sau nu. Numele de cod(de cont) al Vodafone pe social media în România este **VodafoneBuzz**.
 
 **4 Direcții**  
@@ -212,6 +214,8 @@ Sunt prezenți pe toate canalele de rețele sociale(2000 followers pe Twitter, 4
 Silviu, omul din spatele contului de Twitter @VodafoneBuzz:
 
 
+
+![](/assets/img/posts/2010/webstock-2010-live-update/photo15-225x300.jpg)
 
 Ei încearcă să fie friendly și să se adreseze fără limbaj de lemn când vorbesc cu consumatorul.
 
@@ -272,6 +276,8 @@ Vorbesc
 si **Adrian Soare**
 
 Dragoş Bucurenci moderează toată treaba.
+
+![](/assets/img/posts/2010/webstock-2010-live-update/photo16-225x300.jpg)
 
 Începem cu **Bogdana** , care e răcită şi vrea să scriem de bine despre ea. Ne povesteşte despre cum ea a vorbit despre moderaţie pe Facebook, faţă de Bobby Voicu, de exemplu, care le spune oamenilor ce vrea să audă – că reţelele sociale şi comunităţile sunt bune şi tari şi cool.
 
@@ -340,5 +346,7 @@ Hai, mă, treaba cu pozele cu fosta mi se pare trasă de păr. Cum adică să ș
 Să citim deci niște Failbook.com, că tot despre asta e vorba aici:
 
 
+
+![](/assets/img/posts/2010/webstock-2010-live-update/302fe681-0fda-468b-8bcc-265e1b2d91b8-322x299.jpg)
 
 Urmează gala. De acolo nu mai fac live blogging 🙂

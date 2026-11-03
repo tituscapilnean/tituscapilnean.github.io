@@ -4,12 +4,11 @@ date: 2010-05-12 08:38:21 +0000
 categories: ["Evenimente"]
 tags: ["conferinta", "live-blog", "mobile-marketing", "nokia-n900"]
 author: titus_capilnean
-# BROKEN_IMAGES: 2 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/05/mmc-400x134.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/05/photo52-378x300.jpg
 ---
 
 
+
+![mmc](/assets/img/posts/2010/blogger-oficial-la-mobile-marketing-conference/mmc-400x134.jpg)
 
 Incepand de azi am primit in teste un minunat Nokia N900, cu care trebuie sa ma obisnuiesc sa scriu pana joi, cand o sa fac live blogging de pe el, la Mobile Marketing Conference 2010.
 
@@ -20,6 +19,8 @@ Trebuie sa ii instalez diseara niste aplicatii, sa vad ce poate.
 Pana atunci, te las sa imi admiri noua jucarie 🙂
 
 
+
+![Nokia N900](/assets/img/posts/2010/blogger-oficial-la-mobile-marketing-conference/photo52-378x300.jpg)
 
 **Later edit:**
 

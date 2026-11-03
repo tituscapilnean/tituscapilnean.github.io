@@ -4,8 +4,6 @@ date: 2009-08-23 21:14:06 +0000
 categories: ["Social Media"]
 tags: ["analiza", "durata", "hashtag", "inadolescenta", "twitter"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/08/twitterhashtaginado-400x245.png
 ---
 
 

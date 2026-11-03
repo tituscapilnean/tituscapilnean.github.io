@@ -4,12 +4,9 @@ date: 2010-11-23 08:00:47 +0000
 categories: ["Evenimente"]
 tags: ["fonturi", "lansare", "trisec"]
 author: titus_capilnean
-# BROKEN_IMAGES: 4 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/11/invitatie-layout1-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/11/photo-9-400x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/11/photo-12-400x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/11/Header_new-400x82.png
 ---
+![](/assets/img/posts/2010/prima-lansare-de-font-din-romania/invitatie-layout1-150x150.jpg)
+
 
 În primul rând, vreau să fie clar. Nu se zice font, ci typeface, ca să vorbim pe limba designerilor. Am folosit cuvântul font ca să înțeleagă toată lumea despre ce e vorba.
 

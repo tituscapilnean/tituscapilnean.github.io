@@ -4,19 +4,13 @@ date: 2010-10-07 14:19:47 +0000
 categories: ["Evenimente", "Publicitate"]
 tags: ["2010", "concluzii", "golden-drum"]
 author: titus_capilnean
-# BROKEN_IMAGES: 7 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/10/gd-400x112.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/10/DSC01780-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/10/DSC01781-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/10/DSC01782-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/10/DSC01783-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/10/DSC01784-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/10/DSC01785-e1286460934254-150x150.jpg
 ---
 
 Ziua 2 a început cu o veste mai puțin bună. Din păcate, Nancy Hill nu a mai putut veni de dimineaţă la festival şi de aceea, am trecut direct la **John Dooner – McCann Woldgroup**.
 
 
+
+![](/assets/img/posts/2010/golden-drum-2010-ziua-2-live-update/gd-400x112.jpg)
 
 El vorbeşte despre schimbare în media, consumator şi mod de a face lucrurile în lume şi în publicitate.
 

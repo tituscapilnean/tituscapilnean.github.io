@@ -4,9 +4,9 @@ date: 2013-01-29 09:21:57 +0000
 categories: ["Filme Bucuresti"]
 tags: ["film", "lincoln", "politica", "vox-populi"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/01/drama-lincoln-a-avut-premiera-la-new-york-vezi-cat-de-impresionati-au-fost-criticii-americani-de-noul_1_size3-198x300.jpg
 ---
+![](/assets/img/posts/2013/lincoln-2012-lectia-de-politica-americana/drama-lincoln-a-avut-premiera-la-new-york-vezi-cat-de-impresionati-au-fost-criticii-americani-de-noul_1_size3-198x300.jpg)
+
 
 _Din motive obiective, aseară am absentat la avanpremiera Lincoln. Din câte mi-a povestit delegatul meu, filmul e o mostră de diplomație americană de excepție, în special la capitolul negocieri și discursuri. Vă las cu povestea lui Robert Lazăr, care a fost la fața locului._
 

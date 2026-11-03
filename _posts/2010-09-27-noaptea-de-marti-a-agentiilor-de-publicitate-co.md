@@ -4,8 +4,6 @@ date: 2010-09-27 07:46:59 +0000
 categories: ["Evenimente"]
 tags: ["agentie", "noapte"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/09/ADOR_NA2-04-212x300.jpg
 # EMBED_ISSUES: 1 embed(s) need review
 #   - [iframe] http://maps.google.com/maps/ms?ie=UTF8&hl=en&t=h&msa=0&msid=107450948672375864644.00048f086a56cbf693e1a&source=embed&ll=44.451368,26.097354&spn=0.085778,0.145912&output=embed
 ---

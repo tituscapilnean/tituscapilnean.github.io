@@ -4,9 +4,9 @@ date: 2013-01-24 09:54:41 +0000
 categories: ["Social Media"]
 tags: ["agentii", "joburi", "online", "piata"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/01/OnlineJobsAgency-150x150.jpg
 ---
+![](/assets/img/posts/2013/ce-se-intampla-in-piata-de-online/OnlineJobsAgency-150x150.jpg)
+
 
 În ultimele săptămâni am văzut un număr îngrijorător de oameni care își caută un loc de muncă – online related.
 

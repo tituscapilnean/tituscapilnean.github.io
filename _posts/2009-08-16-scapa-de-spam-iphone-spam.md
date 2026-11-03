@@ -4,11 +4,11 @@ date: 2009-08-16 09:49:26 +0000
 categories: ["Social Media"]
 tags: ["cum-sa-te-feresti", "exemple", "mail", "online", "scapa-de-spam"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/08/2453281092_1d92e4840d_o-280x300.jpg
 ---
 
 
+
+![2453281092_1d92e4840d_o](/assets/img/posts/2009/scapa-de-spam-iphone-spam/2453281092_1d92e4840d_o-280x300.jpg)
 
 Da, azi sărbătorim cu sârg și voie bună un nou serial la mine pe blog – ”Scap de Spam”. În fiecare duminică scriu câte un articol despre SPAM-urile cele mai primite, cele mai interesante, cele mai eficiente, cele mai periculoase – unul pe săptămână.
 

@@ -4,9 +4,9 @@ date: 2011-03-09 11:09:23 +0000
 categories: ["Altele de online", "Marketing", "Publicitate"]
 tags: ["comunicare", "ganduri", "oameni"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/03/food_production_chain_400px-150x150.jpg
 ---
+![](/assets/img/posts/2011/oamenii-de-comunicare-nu-ar-trebui-sa-fie-aroganti/food_production_chain_400px-150x150.jpg)
+
 
  Sursa foto - www.cdc.gov 
 

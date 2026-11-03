@@ -4,9 +4,9 @@ date: 2010-06-02 11:21:19 +0000
 categories: ["Cu telefonul"]
 tags: ["jailbreak", "reinstalare"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/06/iphone_upright_2-252x300.jpg
 ---
+![iphone_upright_2](/assets/img/posts/2010/iphone-3g-care-nu-mai-merge/iphone_upright_2-252x300.jpg)
+
 
 N-am mai scris nimic de foarte multă vreme despre iPhone-ul meu 3G, pe care îl posed de prin Iulie 2009. Asta pentru că până acum a mers destul de bine, din toate punctele de vedere. Asta până acum 1 lună, când a început să facă figuri.
 

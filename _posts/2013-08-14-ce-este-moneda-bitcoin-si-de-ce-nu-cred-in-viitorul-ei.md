@@ -4,8 +4,6 @@ date: 2013-08-14 09:08:35 +0000
 categories: ["Business & Investitii"]
 tags: ["bitcoin", "ce-e", "investitii", "recomandari"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/08/chartbitcoin-400x153.png
 ---
 
 Nu toată lumea știe ce este un Bitcoin și ce înseamnă rețeaua asta de bani virtuali. Dacă nu exista video-ul de mai jos, făceam eu o descriere a acestui tip de monedă.
@@ -21,6 +19,8 @@ Deci întrebarea pe care mi-o pun eu, ca investitor, e: _De ce aș băga bani î
 Da, e utilă dacă vrei să cumperi droguri și arme de foc sau alte chestii ilegale, în mod anonim, prin Deep Web. But who would do that?
 
 
+
+![chartbitcoin](/assets/img/posts/2013/ce-este-moneda-bitcoin-si-de-ce-nu-cred-in-viitorul-ei/chartbitcoin-400x153.png)
 
 Chart-ul se găsește aici
 

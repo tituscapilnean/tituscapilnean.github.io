@@ -4,9 +4,9 @@ date: 2010-10-24 12:59:18 +0000
 categories: ["Altele de online"]
 tags: ["reinstalare", "windows"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/10/blog-150x150.jpg
 ---
+![](/assets/img/posts/2010/cum-sa-iți-reinstalezi-windows-fara-sa-pierzi-prea-mult-timp/blog-150x150.jpg)
+
 
 Windows, indiferent de versiune, are o boală – nu mă ține mai mult de 4-5 luni, timp în care începe să meargă din ce în ce mai încet și să se blocheze din varii motive. Cele mai multe probleme mi le-a făcut până acum combinația fatală de Web Browser + Flash și multe ferestre deschise.
 

@@ -4,15 +4,6 @@ date: 2011-01-25 08:30:31 +0000
 categories: ["Evenimente"]
 tags: ["2011", "conferinta", "recomandare"]
 author: titus_capilnean
-# BROKEN_IMAGES: 8 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/01/conferinte-2011-manafu_05-e1295905052320-400x47.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/01/conferinte-2011-manafu_06-e1295905252876-400x47.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/01/conferinte-2011-manafu_07-400x51.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/01/conferinte-2011-manafu_08-e1295905811314-400x48.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/01/conferinte-2011-manafu_09-e1295906093729-400x47.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/01/conferinte-2011-manafu_11-e1295906680971-400x41.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/01/ronewmedia.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/01/brandro.jpg
 ---
 
 Acum o săptămână întrebam pe Twitter care sunt **conferințele de online, PR, marketing și social media din 2011 în București** , pentru că vreau să îmi fac un plan personal de învățare bazat și pe ciclul ăsta de conferințe.

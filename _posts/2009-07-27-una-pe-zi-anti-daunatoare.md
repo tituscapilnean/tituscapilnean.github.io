@@ -4,9 +4,6 @@ date: 2009-07-27 20:13:30 +0000
 categories: ["Istoria reclamelor bune"]
 tags: ["daunatori", "jerry", "tom"]
 author: titus_capilnean
-# BROKEN_IMAGES: 2 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/07/bugstom-398x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/07/Dynamics__Hobbes__Tom___Jerry_by_SuperLeviathan-257x300.jpg
 ---
 
 

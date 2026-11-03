@@ -4,9 +4,9 @@ date: 2010-11-03 07:18:13 +0000
 categories: ["Social Media"]
 tags: ["blogging", "valoare"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/11/mooooney-150x150.jpg
 ---
+![](/assets/img/posts/2010/valoarea-mea-valoarea-ta/mooooney-150x150.jpg)
+
 
 M-am trezit dis de dimineață cititind ultimul articol al lui Sebi(aka Visurât) și am câteva lucruri de adăugat la mica lui lecție despre cum să nu fi prost pe blog, pe gratis, când alții fac bani de pe urma articolelor tale.
 

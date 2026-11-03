@@ -4,9 +4,6 @@ date: 2011-01-26 08:34:25 +0000
 categories: ["Online Training"]
 tags: ["comunitate", "trafic"]
 author: titus_capilnean
-# BROKEN_IMAGES: 2 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/01/agency1-212x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/01/bucuresti_trafic-150x150.jpg
 ---
 
 ![Google Analytics: How to Identify Top Performi...](http://farm2.static.flickr.com/1331/5102620298_7641007a8f_m.jpg)

@@ -4,11 +4,11 @@ date: 2009-08-10 05:42:30 +0000
 categories: ["Cu telefonul", "Social Media"]
 tags: ["anunt", "mobil", "online", "tehnic"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/08/carrington-350x300.jpg
 ---
 
 
+
+![carrington](/assets/img/posts/2009/optimizare-internet-pe-mobil/carrington-350x300.jpg)
 
 Salutare,
 

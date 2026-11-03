@@ -4,9 +4,9 @@ date: 2012-08-27 08:04:38 +0000
 categories: ["Evenimente"]
 tags: ["internet", "mobile", "social-media"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/08/IMW-LOGO-@-357x300.png
 ---
+![](/assets/img/posts/2012/internet-mobile-world-2012/IMW-LOGO-@-357x300.png)
+
 
 Vine toamna, încep evenimentele. Anul acesta a mai apărut un tip de eveniment – Internet & Mobile World – un târg de knowhow și tehnologie atât pentru piața de online, cât și petru cea de mobile de la noi.
 

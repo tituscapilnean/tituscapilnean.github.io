@@ -4,8 +4,6 @@ date: 2010-06-24 09:42:40 +0000
 categories: ["Social Media"]
 tags: ["vuvuzele", "youtube"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/06/vuvu-400x134.jpg
 ---
 
 …sau cum s-o mai numi la singular vuvuzelele.

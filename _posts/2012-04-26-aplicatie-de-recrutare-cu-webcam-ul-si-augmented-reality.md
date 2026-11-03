@@ -4,8 +4,6 @@ date: 2012-04-26 05:20:27 +0000
 categories: ["Marketing"]
 tags: ["augmented-reality", "coca-cola", "recrutare"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/04/image-400x247.png
 ---
 
 Fix înainte de Paști am primi un email cu anunțul că voi pune mâna pe o aplicație a Coca Cola HBC România, parte din programul lor de recrutare a management trainee-lor. Dat fiind entuziasmul dovedit de cel puțin o persoană pe Twitter, am zis că totuși o fi o chestie interesantă pentru alții, chit că am depășit momentul în care mi-aș dori un program de traineeship.
@@ -17,6 +15,8 @@ Prima și cea mai mare problemă a aplicației a fost că durează prea mult ins
 Am dat drumul aplicației și m-am folosit de cardul primit să navighez prin ea – e **o utilizare foarte faină a augmented reality prin webcam** – mult mai funcțională și user friendly decât una pe mobil. Puncte în plus pentru asta. Recunosc că m-am jucat de câteva ori până am înțeles mecanismul și am ajuns în vârful scării:
 
 
+
+![](/assets/img/posts/2012/aplicatie-de-recrutare-cu-webcam-ul-si-augmented-reality/image-400x247.png)
 
 Dincolo de efortul pe care l-am făcut și faptul că m-am bucurat că am descoperit schema care mă duce în vârf direct, aș mai fi făcut următoarele îmbunătățiri aplicației:
 

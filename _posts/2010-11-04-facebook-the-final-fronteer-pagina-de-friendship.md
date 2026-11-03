@@ -4,11 +4,9 @@ date: 2010-11-04 12:04:49 +0000
 categories: ["Social Media"]
 tags: ["facebook", "pagini-de-prietenie", "stalker"]
 author: titus_capilnean
-# BROKEN_IMAGES: 3 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/06/facebook_logo-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/11/pas1-400x269.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/11/pas2.jpg
 ---
+![](/assets/img/posts/2010/facebook-the-final-fronteer-pagina-de-friendship/facebook_logo-150x150.jpg)
+
 
 Azi am aflat și eu(pe viu, activ) că Facebook a introdus un nou tool de Stalking. **Friendship Pages**
 

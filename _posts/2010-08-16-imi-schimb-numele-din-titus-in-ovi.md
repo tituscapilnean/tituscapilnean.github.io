@@ -4,9 +4,9 @@ date: 2010-08-16 14:36:08 +0000
 categories: ["Publicitate"]
 tags: ["goana", "nokia", "ovi"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/08/Untitled-1-231x300.png
 ---
+![](/assets/img/posts/2010/imi-schimb-numele-din-titus-in-ovi/Untitled-1-231x300.png)
+
 
 Deja Twitter-ul vuieşte de #goanadupablogger. Pentru cine nu ştie despre ce e vorba, am scris ce e Goana dupa Ovi într-un articol separat, când am fost la prima goană.
 

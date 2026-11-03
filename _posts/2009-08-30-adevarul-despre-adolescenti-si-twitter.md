@@ -4,10 +4,6 @@ date: 2009-08-30 20:57:03 +0000
 categories: ["Marketing", "Social Media"]
 tags: ["adolescenti", "analiza", "online", "rezultate-noi", "studiu", "tineri", "twitter"]
 author: titus_capilnean
-# BROKEN_IMAGES: 3 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/08/f-399x299.gif
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/08/eventually_account-400x242.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/08/text_messaging_charges-400x242.jpg
 ---
 
 Acum ceva vreme în urmă, am scris că în România nu sunt mai mult de 5% adolescenți pe Twitter(adică 13-18 ani). Între timp, lumea din online s-a mobilizată să afle răspunsul real și definitiv la întrebarea care a generat multe controverse:
@@ -15,6 +11,8 @@ Acum ceva vreme în urmă, am scris că în România nu sunt mai mult de 5% adol
 ”Adolescenții stau pe Twitter?”
 
 Înainte să intru în pâine cu articolul ăsta, vreau să stabilesc ceva de la început. Există un grafic care a urmărit evoluția principalelor grupe de vârstă pe Twitter și care poate fi folosit să demonteze argumentația e mai jos dacă e privit singuri și superficial:
+
+![f](/assets/img/posts/2009/adevarul-despre-adolescenti-si-twitter/f-399x299.gif)
 
  sursa businessinsider.com  
   

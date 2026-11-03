@@ -4,9 +4,9 @@ date: 2010-12-21 07:40:46 +0000
 categories: ["Social Media"]
 tags: ["2011", "blogging"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/12/111207-lg-23a2011rev-150x150.jpg
 ---
+![](/assets/img/posts/2010/cum-va-arata-titusblogul-in-2011/111207-lg-23a2011rev-150x150.jpg)
+
 
 Am decis să răspund la lepșele care mi se pasează. Ultima, ca și cea de dinaintea ei, a venit de la Haotik și presupune să scriu cam ce îmi doresc sau îmi propun să fac cu blogul în 2011.
 

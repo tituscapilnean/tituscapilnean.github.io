@@ -4,11 +4,11 @@ date: 2013-03-13 09:18:06 +0000
 categories: ["Marketing"]
 tags: ["ebay", "irelevanta", "sem", "seo", "studiu"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/03/PPCEaster2011-150x150.jpg
 # EMBED_ISSUES: 1 embed(s) need review
 #   - [iframe] http://www.slideshare.net/slideshow/embed_code/17137911
 ---
+![PPCEaster2011](/assets/img/posts/2013/un-studiu-asupra-ebay-arata-ca-search-engine-marketing-nu-conteaza-in-vanzari/PPCEaster2011-150x150.jpg)
+
 
 Am dat ieri, din întâmplare, peste un studiu care schimbă total percepția asupra performance marketing-ului și asupra reclamelor Pay-Per-Click, cele livrate în fluxurile de căutări prin Google, Bing sau Yahoo!
 

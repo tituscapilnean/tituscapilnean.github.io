@@ -4,13 +4,13 @@ date: 2010-01-13 09:14:00 +0000
 categories: ["Social Media"]
 tags: ["china", "drepturi", "google"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/01/440367837_4633fb09a1-400x245.jpg
 ---
 
 De dimineață umblă o știre pe internet, cum că Google se retrage din China în numele drepturilor omului și al liberei expresii. Cel puțin așa sună o parte din Tweet-urile și articolele pe subiect. Povestea a pornit de la faptul că Google a suferit o serie de atacuri asupra GMail, îndreptate se pare către niște căsuțe deținute de militanți ai liberei expresii în China. Ulterior, au descoperit că atacurile au țintit și conturi aflate în restul lumii, mai ales în America și în Europa.
 
 
+
+![440367837_4633fb09a1](/assets/img/posts/2010/google-retragere-sau-miscare-politica/440367837_4633fb09a1-400x245.jpg)
 
 Toate cauzele de mai sus au dus la decizia de a forța mâna guvernului chinez să elibereze căutările de restricții și cenzură. Eu cred că măsura aceasta luată de Google este un act politic. Ei suspectează guvernul chinez de implicare în atacurile asupra conturilor de email. Vom vedea în zilele următoare cum decurg negocierile cu guvernul, însă am mari dubii că vor ceda, ceea ce înseamnă că Google are mari șanse să plece din China. 
 

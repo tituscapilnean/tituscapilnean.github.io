@@ -4,11 +4,11 @@ date: 2009-12-10 11:32:14 +0000
 categories: ["Altele de online", "Social Media"]
 tags: ["alegeri", "chestii-interesante", "distractiv", "dume", "meme", "politica", "social-media"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/12/Memes-danger-388x300.png
 ---
 
 
+
+![Memes-danger](/assets/img/posts/2009/centralizator-bancuri-cu-si-despre-geoana/Memes-danger-388x300.png)
 
 sursa foto
 

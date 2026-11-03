@@ -4,8 +4,6 @@ date: 2011-01-04 08:00:11 +0000
 categories: ["Social Media"]
 tags: ["concluzii", "facebook", "sondaj", "studiu"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/01/like-pe-Facebook-310x300.jpg
 ---
 
 ![Facebook logo](http://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Facebook.svg/266px-Facebook.svg.png)
@@ -52,5 +50,7 @@ Doar pentru subiectele sensibile și industriile unde procentul de hateri e mare
 Rezultatele complete ale sondajului:
 
 
+
+![](/assets/img/posts/2011/de-ce-dai-like-unui-brand-pe-facebook-concluzii/like-pe-Facebook-310x300.jpg)
 
 Acestea fiind zise, sper că **am mai dat un plus de claritate** direcției în care trebuie să o ia mesajele de pe paginile de Facebook pe care le administrezi.

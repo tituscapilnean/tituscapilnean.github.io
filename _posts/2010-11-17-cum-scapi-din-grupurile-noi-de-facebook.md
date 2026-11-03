@@ -4,10 +4,6 @@ date: 2010-11-17 07:00:18 +0000
 categories: ["Social Media"]
 tags: ["cum-sa-faci", "facebook", "privacy"]
 author: titus_capilnean
-# BROKEN_IMAGES: 3 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/11/leave-400x136.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/11/settings-400x136.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/11/settings2-400x171.jpg
 ---
 
 ![Facebook logo](http://upload.wikimedia.org/wikipedia/commons/thumb/4/48/No_Facebook.svg/266px-No_Facebook.svg.png)

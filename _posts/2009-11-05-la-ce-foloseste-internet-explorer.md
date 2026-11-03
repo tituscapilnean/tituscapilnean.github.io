@@ -4,8 +4,6 @@ date: 2009-11-05 08:20:59 +0000
 categories: ["Social Media"]
 tags: ["de-ce", "design", "development", "internet-explorer", "thenextweb", "utilizare"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/11/41094684-400x159.jpg
 ---
 
 ![](http://thenextweb.com/shareables/files/2009/11/IE-4.jpg)

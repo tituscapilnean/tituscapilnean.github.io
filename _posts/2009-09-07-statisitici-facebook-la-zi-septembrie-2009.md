@@ -4,15 +4,11 @@ date: 2009-09-07 06:37:06 +0000
 categories: ["Marketing", "Social Media"]
 tags: ["facebook", "romania", "septembrie", "statistica", "utilizatori"]
 author: titus_capilnean
-# BROKEN_IMAGES: 5 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/08/3186534628_127cf9736b_b-300x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/09/varsta1-400x284.png
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/09/sexe1-400x284.png
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/09/rel1-400x284.png
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/09/tari-1-400x261.png
 ---
 
 
+
+![3186534628_127cf9736b_b](/assets/img/posts/2009/statisitici-facebook-la-zi-septembrie-2009/3186534628_127cf9736b_b-300x300.jpg)
 
 sursa foto
 

@@ -4,16 +4,14 @@ date: 2010-06-22 10:19:14 +0000
 categories: ["Social Media"]
 tags: ["numere-facebook", "utilizatori"]
 author: titus_capilnean
-# BROKEN_IMAGES: 3 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/06/sum_countriesRO__3-400x230.png
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/06/pie_age_countriesRO__3-400x190.png
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/06/pie_countriesRO__3-400x190.png
 ---
 
 Ultima dată când am scris despre numărul de utilizatori români de pe Facebook, era în plină creștere, susținut de reclamele TV ale Vodafone(în principal, care a și introdus ulterior serviciul 0.facebook.com accesibil doar din rețeaua lor , prin care nu consumi date dacă stai pe Facebook).
 
 Acum Facebook numără **1.302.000 de utilizatori localizați în România** , în stagnare de peste 30 de zile(chiar în ușoară scădere, cu 10-20 de mii, față de luna Aprilie).
 
+
+![](/assets/img/posts/2010/facebook-stagneaza-de-o-luna-de-zile/sum_countriesRO__3-400x230.png)
 
 Proporțiile de vârstă s-au păstrat aproximativ aceleași, cu peste 1.100.000 de utilizatori români peste vârsta de 18 ani:
 

@@ -4,9 +4,6 @@ date: 2011-02-04 08:23:21 +0000
 categories: ["Social Media"]
 tags: ["campanii", "ghiduri", "twitter"]
 author: titus_capilnean
-# BROKEN_IMAGES: 2 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/02/mistertwitter-381x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/02/misstwitter-400x297.jpg
 ---
 
 ![Free twitter badge](http://upload.wikimedia.org/wikipedia/commons/1/1b/Twitter_Badge_1.png) Image via Wikipedia 
@@ -29,9 +26,13 @@ MisterTwitter a evoluat cu un mare ajutor din partea Ruxei, care a strâns cele 
 
 
 
+![](/assets/img/posts/2011/mistertwitter-si-misstwitter-sau-cum-sa-gadili-ego-uri-ca-sa-ai-succes-pe-twitter/mistertwitter-381x300.jpg)
+
 Modul în care a evoluat MissTwitter este un pic mai interesant, pentru că aici au apărut băieții salivatori și doritori de poze cu fete bune de pe Twitter. Cred că de asta a și depășit hashtagul ăsta ideea originală, într-un timp un pic mai scurt.
 
 
+
+![](/assets/img/posts/2011/mistertwitter-si-misstwitter-sau-cum-sa-gadili-ego-uri-ca-sa-ai-succes-pe-twitter/misstwitter-400x297.jpg)
 
 Câteva statistici extra:
 

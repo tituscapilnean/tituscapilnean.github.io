@@ -4,9 +4,6 @@ date: 2011-01-12 13:00:20 +0000
 categories: ["Social Media"]
 tags: ["quora", "retea", "social-media"]
 author: titus_capilnean
-# BROKEN_IMAGES: 2 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/01/quora2-400x243.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/01/quora1-398x300.jpg
 ---
 
 ![The Yahoo! Answers green smiley.](http://upload.wikimedia.org/wikipedia/en/4/4d/YahooAnswersGreenSmiley.png)

@@ -4,12 +4,12 @@ date: 2009-08-04 07:15:12 +0000
 categories: ["Social Media"]
 tags: ["anunt", "online", "spam"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/08/spam-400x188.jpg
 ---
 
   
 Neața! Azi am primit unul din cele mai tari spam-uri de phishing de la fantome de Raiffeisen:
+
+![:\) ](/assets/img/posts/2009/spam-un-pic-mai-destept/yahoo_smiley.gif)
 
 Titlul **In atentia abonatilor UPC Business persoane si Distrigaz** te duce din start cu gândul că ar putea fi vorba despre o factură neplătită sau ceva de genul ăsta. Și te uiți la textul de mai jos. La prima vedere pare coerent și convingător. La o privire mai atentă nu e chiar așa. Citește 🙂  
 
@@ -50,5 +50,7 @@ Oricum e cel mai bine ornat SPAM primit în ultima vreme, cu date de contact, nu
 
 Ca să te prinzi mai ușor că e spam, te uiți la link-urile din mail și la status bar cand stai cu mouse-ul spre ele și dacă apare ceva de genul:  
 _h**p://www.edbsmed.dk/includes/bancatransilvania.ro.html_(steluțele sunt puse de mine acum ca sa nu fie link către ei), atunci sigur e SPAM și vă vrea doar datele personale în scopuri ilicite.
+
+![:\) ](/assets/img/posts/2009/spam-un-pic-mai-destept/yahoo_smiley.gif)
 
 Be safe 🙂

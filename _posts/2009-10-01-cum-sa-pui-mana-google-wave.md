@@ -4,8 +4,6 @@ date: 2009-10-01 11:18:05 +0000
 categories: ["Social Media"]
 tags: ["ce-este", "cum-se-obtin", "google-wave", "invitatii", "social-media", "stire"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/09/communication_collaboration_google_wave_revolution_id793675_size485.jpg
 ---
 
   

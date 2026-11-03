@@ -4,8 +4,6 @@ date: 2010-05-10 13:06:36 +0000
 categories: ["Social Media"]
 tags: []
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/05/virus-pe-Facebook-400x282.jpg
 ---
 
 

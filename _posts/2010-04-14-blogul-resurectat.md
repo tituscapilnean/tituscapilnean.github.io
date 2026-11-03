@@ -4,8 +4,6 @@ date: 2010-04-14 10:08:25 +0000
 categories: ["Altele de online"]
 tags: []
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/04/356173294v4_225x225_Front.jpg
 ---
 
 

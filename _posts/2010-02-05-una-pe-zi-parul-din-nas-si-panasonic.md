@@ -4,8 +4,6 @@ date: 2010-02-05 16:00:50 +0000
 categories: ["Istoria reclamelor bune"]
 tags: ["panasonic"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/02/tumblr_ktrsz2Rj2f1qz4s3wo1_500-400x280.jpg
 ---
 
 Asta e una din marile probleme ale genului masculin. Uneori ne ies crengile p-afară. Atunci e momentul să le smulgem/tundem, că altfel riscăm să ajungem neandertalieni.
@@ -13,5 +11,7 @@ Asta e una din marile probleme ale genului masculin. Uneori ne ies crengile p-af
 Fetelor, cu păr în nas sau fără? 🙂
 
 
+
+![NT Mood-1](/assets/img/posts/2010/una-pe-zi-parul-din-nas-si-panasonic/tumblr_ktrsz2Rj2f1qz4s3wo1_500-400x280.jpg)
 
 via

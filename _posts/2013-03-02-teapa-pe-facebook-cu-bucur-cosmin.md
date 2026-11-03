@@ -4,9 +4,9 @@ date: 2013-03-02 10:38:25 +0000
 categories: ["Altele de online"]
 tags: ["cumparat", "experti", "fals", "fani", "teapa"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/11/Experts2_Fotolia_8872776_XS-150x150.jpg
 ---
+![experts puzzle](/assets/img/posts/2013/teapa-pe-facebook-cu-bucur-cosmin/Experts2_Fotolia_8872776_XS-150x150.jpg)
+
 
 Încă un articol despre cum poți să te ferești de țepe, despre cum se cumpără fani și ce consecințe are acțiunea asta asupra activității brandului pe Facebook. De data asta vorbim de alt tânăr care vinde fani la ofertă. Ce relevanță pentru brand, ce ROI?
 

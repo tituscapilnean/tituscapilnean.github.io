@@ -4,10 +4,6 @@ date: 2011-01-24 08:00:13 +0000
 categories: ["Evenimente"]
 tags: ["film", "proiectie", "shortsup"]
 author: titus_capilnean
-# BROKEN_IMAGES: 3 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/01/shortsup-logo-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/01/IMG00031-20110122-2029-400x300.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/01/IMG00033-20110122-2144-400x300.jpg
 ---
 
 Am fost sâmbătă seară, mânat de o dorință de a viziona scurt-metraje simpatice, la ShortsUP Hall of Fame, adică unele din cele mai bune.
@@ -16,6 +12,8 @@ Am fost sâmbătă seară, mânat de o dorință de a viziona scurt-metraje simp
 
 Cu clipurile n-am nimic, nici cu conceptul evenimentului. Mi-au plăcut foarte mult cele două clipuri menționate mai sus, plus scurtmetrajul românesc **Poveste de la scara C**.
 
+
+![](/assets/img/posts/2011/shortsup-2011-hall-of-fame-cu-chilotii-jos/IMG00031-20110122-2029-400x300.jpg)
 
 Totuși, experiența evenimentului putea fi de 10 ori mai bună dacă:
 

@@ -4,13 +4,6 @@ date: 2013-05-27 17:55:36 +0000
 categories: ["Turism"]
 tags: ["elvetia", "excursie", "swiss"]
 author: titus_capilnean
-# BROKEN_IMAGES: 6 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/05/481691_10151482502840892_597024357_n-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/05/947164_10151482500450892_1476554406_n-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/05/481434_10151482502950892_2053954706_n-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/05/424998_10151484977640892_855506037_n-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/05/481461_10151482501995892_41382593_n-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/05/936386_10151484905170892_2008987574_n-150x150.jpg
 ---
 
 N-am mai scris un articol de vacanță de o grămadă de vreme, așa că Elveția asta a picat la fix. Nu de alta, dar pe 28 e ziua mea și mi-am făcut un cadou. De vineri noapte am fost pe tărâmuri în mijlocul, dar în afara UE, în țara în care totul e cum nu se poate mai diferit decât în România.
@@ -24,6 +17,18 @@ Luni m-am dat prin Zurich, o capitală economică a Elveției, unde am văzut (n
 Nu-s eu mare povestitor de aventuri prin călătorii, așa că mă opresc aici, a fost foarte fain. Trebuie să rămân recunoscător Oanei Pascu, ghidul meu prin Elveția, care știe bine ce face, mi-a arătat maximul posibil în 3 zile și care are un viitor foarte luminos în turism (ori la noi, ori p-afară).
 
 Vă las la final cu niște poze (mai multe am pus pe Facebook și o să mai pun, le vedeți dacă suntem prieteni).
+
+![](/assets/img/posts/2013/prin-elvetia-mea/481691_10151482502840892_597024357_n-150x150.jpg)
+
+![](/assets/img/posts/2013/prin-elvetia-mea/947164_10151482500450892_1476554406_n-150x150.jpg)
+
+![](/assets/img/posts/2013/prin-elvetia-mea/481434_10151482502950892_2053954706_n-150x150.jpg)
+
+![](/assets/img/posts/2013/prin-elvetia-mea/424998_10151484977640892_855506037_n-150x150.jpg)
+
+![](/assets/img/posts/2013/prin-elvetia-mea/481461_10151482501995892_41382593_n-150x150.jpg)
+
+![](/assets/img/posts/2013/prin-elvetia-mea/936386_10151484905170892_2008987574_n-150x150.jpg)
 
 
 

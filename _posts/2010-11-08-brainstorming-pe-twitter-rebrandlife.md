@@ -4,9 +4,9 @@ date: 2010-11-08 10:02:16 +0000
 categories: ["Publicitate", "Social Media"]
 tags: ["brainstorming", "rebrand-life", "twitter"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/11/god-300x247-150x150.jpg
 ---
+![](/assets/img/posts/2010/brainstorming-pe-twitter-rebrandlife/god-300x247-150x150.jpg)
+
 
 Am amânat ce am amânat articolul ăsta, pentru că am vrut să aştept rezultatele oficiale de hashtag de la Friends Advertising. Ei le-au publicat pe blog săptămâna trecută, unde au povestit cum a decurs toată acțiunea.
 

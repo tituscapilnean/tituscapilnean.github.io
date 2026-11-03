@@ -4,13 +4,13 @@ date: 2013-07-02 09:45:26 +0000
 categories: ["Business & Investitii"]
 tags: []
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/07/customer-ltv.jpg
 ---
 
 Luna trecută am fost la un curs de Business Model Innovation, unde ne-am concentrat pe segmentări noi, pe Customer Lifetime Value, pe eficientizare și pe creștere, așa că mi-a plăcut întrebarea ridicată de Călin pe blog. Cu toate astea, vreau să discut mai mult despre problema pusă în mijlocul articolului: _Cum calculezi valoarea unui angajat_.
 
 
+
+![customer-ltv](/assets/img/posts/2013/cum-iti-calculezi-valoarea-ca-angajat/customer-ltv.jpg)
 
 Sursa foto
 

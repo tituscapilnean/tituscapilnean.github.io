@@ -4,13 +4,13 @@ date: 2012-10-19 14:23:16 +0000
 categories: ["Altele de online"]
 tags: ["asa-nu", "digital", "trist", "zf"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/10/zf-penibil-332x300.png
 ---
 
 Îmi pare rău, dar cineva trebuie să le-o zică. Au dat-o de gard cu titlul ăsta:
 
 
+
+![](/assets/img/posts/2012/cum-jignit-indirect-zf-o-parte-din-industria-de-online/zf-penibil-332x300.png)
 
 A cui este vina că IAB Forum a fost în același timp cu ziua 1 a conferinței lor și că unii am ales să fim acolo?
 

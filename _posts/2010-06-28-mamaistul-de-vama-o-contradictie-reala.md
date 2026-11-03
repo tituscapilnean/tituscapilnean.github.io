@@ -4,9 +4,9 @@ date: 2010-06-28 09:58:06 +0000
 categories: ["Altele de online"]
 tags: ["mare", "vama"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/06/photo3-150x150.jpg
 ---
+![](/assets/img/posts/2010/mamaistul-de-vama-o-contradictie-reala/photo3-150x150.jpg)
+
 
 De fiecare dată când mă întorc din Vama Veche, am de scris despre câte o tipologie umană întâlnită pe acolo, cu care am interacționat direct, într-un fel sau altul. Weekndul ăsta a fost de așa natură că a adunat mult mai puțină lume, deci mai puțin material de studiu pentru tipuri de vamaioți sau de pseudo-vamaioți. Am ajuns târziu de tot, sâmbătă dimineața, pe la 4 fără ceva, la Stuf, în vamă, pe un frig tomantic și după niște peripeții cu Dacia 1310, 1983, a lui Mihnea(nu le zic aici, că și așa s-a enervat bietul om).
 

@@ -4,11 +4,9 @@ date: 2010-12-10 06:57:00 +0000
 categories: ["Evenimente"]
 tags: ["bucuresti", "caritabil", "craciun"]
 author: titus_capilnean
-# BROKEN_IMAGES: 3 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/12/scrisoare_de_la_mos_craciun1-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/12/Afis-dimensiune-mica.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/12/a-disco-carol-723x1024.jpg
 ---
+![](/assets/img/posts/2010/fa-sa-fie-bine-ai-cel-puțin-doua-ocazii/scrisoare_de_la_mos_craciun1-150x150.jpg)
+
 
 Săptămâna viitoare începe deja spiritul Crăciunului să intre peste noi, fie că vrem, fie că nu vrem. Cu ler, fără ler, vine. Dacă la noi toate astea înseamnă, de cele mai multe ori, momente cu familia, prietenii, colegii, relaxare, brad, colinde șamd, pentru o parte din mică din București nu e neapărat așa.
 

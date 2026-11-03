@@ -4,9 +4,9 @@ date: 2011-01-17 19:02:14 +0000
 categories: ["Social Media"]
 tags: ["brand", "facebook", "twitter", "vox-populi"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/01/personal-branding1-150x150.jpg
 ---
+![](/assets/img/posts/2011/cum-sa-transmiti-acelasi-mesaj-despre-tine-pe-facebook-twitter-si-blog-pe-blogul-lui-gabriel/personal-branding1-150x150.jpg)
+
 
 Dacă mă întreba cineva treaba asta acum 2 ani, mi-era foarte greu să dau un răspuns coerent și argumentat. Acum, însă, uitându-mă înapoi, am învățat majoritatea lucrurilor din mers, alături de câteva sfaturi esențiale de la câțiva oameni care m-au urmărit și sper că încă mă mai urmăresc cu atenție.
 

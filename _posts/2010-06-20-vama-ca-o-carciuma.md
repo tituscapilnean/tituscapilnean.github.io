@@ -4,8 +4,6 @@ date: 2010-06-20 22:42:08 +0000
 categories: ["Altele de online"]
 tags: ["mare", "vama"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/06/img_01481-400x300.jpg
 ---
 
 M-am întors din Vama Veche, unde am fost(iar) în weekend. Spre deosebire de data trecută, acum am venit plin de subiecte, idei, inspirație și energie, după ce avusesem o săptămână mult prea plină. În procesul ăsta de energizare și relaxare, am putut să observ că vama e o mare cârciumă. Se bea peste tot, pe stradă, pe plajă, lângă mare, în mare, pe bordură, în baruri, în curți, în campinguri.

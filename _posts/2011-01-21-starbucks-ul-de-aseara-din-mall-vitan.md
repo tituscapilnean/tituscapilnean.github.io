@@ -4,15 +4,9 @@ date: 2011-01-21 13:19:14 +0000
 categories: ["Evenimente"]
 tags: ["cafea", "degustare", "starbucks"]
 author: titus_capilnean
-# BROKEN_IMAGES: 7 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/10/starbucks-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/01/IMG00019-20110120-2037-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/01/IMG00020-20110120-2037-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/01/IMG00021-20110120-2038-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/01/IMG00022-20110120-2038-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/01/IMG00023-20110120-2039-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/01/IMG00024-20110120-2039-150x150.jpg
 ---
+![](/assets/img/posts/2011/starbucks-ul-de-aseara-din-mall-vitan/starbucks-150x150.jpg)
+
 
 La invitația fetelor de la The Practice, am ajuns în Mall Vitan, la noua cafenea Starbucks, deschisă, de data asta, pe două etaje mari și late, în partea din spate a Mall-ului, spre parcare.
 

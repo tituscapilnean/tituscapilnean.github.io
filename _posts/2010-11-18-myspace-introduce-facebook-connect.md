@@ -4,8 +4,6 @@ date: 2010-11-18 14:45:07 +0000
 categories: ["Altele de online"]
 tags: []
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/11/myspace-305x300.jpg
 ---
 
 ![Image representing Facebook Connect as depicte...](http://www.crunchbase.com/assets/images/resized/0003/9361/39361v1-max-450x450.png)

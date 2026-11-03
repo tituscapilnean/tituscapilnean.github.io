@@ -4,11 +4,9 @@ date: 2011-02-08 08:20:01 +0000
 categories: ["Online Training"]
 tags: ["cont-fals", "facebook", "social-media"]
 author: titus_capilnean
-# BROKEN_IMAGES: 3 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/12/facebook_logo-400x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/02/pyuric-400x248.png
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/02/poiana-271x300.jpg
 ---
+![](/assets/img/posts/2011/de-ce-trebuie-sa-ai-cont-pe-facebooktwitterlinkedin/facebook_logo-400x150.jpg)
+
 
 Rețelele sociale **au crescut** foarte mult în ultimii 2 ani în România și treaba asta a schimbat peisajul online. Lumea nu mai pierde vremea pe portaluri și pe forumuri așa de mult, ci s-a mutat pe Facebook(celelalte rețele nu se ridică la numărul de utilizatori și intensitatea utilizării pe care le are rețeaua creată de Zuckerberg).
 

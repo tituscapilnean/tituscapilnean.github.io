@@ -4,9 +4,9 @@ date: 2010-08-26 15:38:05 +0000
 categories: ["Social Media"]
 tags: ["blogspot", "hater", "wordpress"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/01/troll_2-272x300.jpg
 ---
+![](/assets/img/posts/2010/cum-sa-inchizi-un-blog-de-hater/troll_2-272x300.jpg)
+
 
 Partea mai puţin frumoasă a internetului este că, pe lângă prieteni şi parteneri de conversaţie, după o vreme, ajungi să îţi faci şi **hateri**. Treaba asta se întâmplă în special în momentul în care începi să fii cât de cât cunoscut pe internet(trafic mult pe blog, followers mulţi pe Twitter, prieteni pe Facebook).
 

@@ -4,9 +4,9 @@ date: 2012-03-29 12:29:46 +0000
 categories: ["Filme Bucuresti"]
 tags: ["film", "furia-titanilor", "imax", "samsung"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/03/furia-titanilor-150x150.jpg
 ---
+![](/assets/img/posts/2012/furia-titanilor-wrath-of-the-titans-la-imax-3d/furia-titanilor-150x150.jpg)
+
 
 Dacă la început mergeam cam la orice cinematograf, acum m-am obișnuit cu IMAX 3D-ul de la AFI Palace Cotroceni, powered by Cinema City. Aseară am fost (iar) la film pe invitația fetelor de la Oxygen PR, niște simpatice care mă tolerează, chiar dacă ajung uneori cu întârziere.
 

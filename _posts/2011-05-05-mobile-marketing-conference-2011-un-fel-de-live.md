@@ -4,9 +4,6 @@ date: 2011-05-05 06:45:03 +0000
 categories: ["Evenimente"]
 tags: ["conferinta", "live-blog", "mobile-marketing", "sms"]
 author: titus_capilnean
-# BROKEN_IMAGES: 2 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/05/291560295-400x239.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/05/291590851-400x239.jpg
 ---
 
 ![](http://mediahoo.ro/wp-content/uploads/2011/03/Mobile-Marketing-Conference-2.jpg)Dincolo de faptul că plouă în București și că nu se poate găsi un taxi la ora 8:30 să te ducă undeva, decât poate în condițiile în care faci comanda de seara. Am ajuns într-un final la conferință.
@@ -31,6 +28,8 @@ A fost Steve Dallas (Interactions), urmează Maia Novolan (Syscom Digital). Maia
 Știm că piața e în creștere, e subdezvoltată, e loc de intrare, din ce în ce mai mulți oameni folosesc telefoanele mobile.
 
 
+
+![](/assets/img/posts/2011/mobile-marketing-conference-2011-un-fel-de-live/291560295-400x239.jpg)
 
 Au început să apară și la noi bannerele mobile, însă la noi încă e la început. Totuși, conform studiului InsightExpress, reclamele Mobile au rate de conversie de 5 ori mai mari decat cele Online.
 
@@ -73,6 +72,8 @@ Ikea Augmented Reality Catalog
 Navigovat – direcția spre bere
 
 
+
+![](/assets/img/posts/2011/mobile-marketing-conference-2011-un-fel-de-live/291590851-400x239.jpg)
 
 via @alexstanescu
 

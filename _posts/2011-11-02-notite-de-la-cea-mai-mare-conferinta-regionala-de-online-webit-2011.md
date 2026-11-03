@@ -4,11 +4,11 @@ date: 2011-11-02 15:59:35 +0000
 categories: ["Altele de online"]
 tags: ["bulgaria", "cee", "conferinta", "iab", "webit"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/11/logo.gif
 # EMBED_ISSUES: 1 embed(s) need review
 #   - [iframe] http://www.slideshare.net/slideshow/embed_code/9738677
 ---
+![](/assets/img/posts/2011/notite-de-la-cea-mai-mare-conferinta-regionala-de-online-webit-2011/logo.gif)
+
 
 Săptămâna trecută am fost la _Webit Congress 2011, în Sofia_. Mi-am notat cele mai importante lucururi auzite din cele două zile, așa că vă urez lectură plăcută.
 

@@ -4,10 +4,9 @@ date: 2010-12-02 14:00:17 +0000
 categories: ["Publicitate"]
 tags: ["concluzii", "leapsa", "pauza-de-publicitate"]
 author: titus_capilnean
-# BROKEN_IMAGES: 2 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/12/Consume-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/12/tumblr_l5k9anJQCh1qad4rb-400x283.jpg
 ---
+![](/assets/img/posts/2010/cum-ar-fi-lumea-fara-publicitate/Consume-150x150.jpg)
+
 
 Am pus **semnul de întrebare** în titlu pentru că nu îmi pot imagina o lume bazată pe mecanismele de piață liberă în care publicitatea nu există. Ca să pot răspunde la o asemenea ipoteză, trebuie să stabilesc ce face publicitatea.
 
@@ -34,6 +33,8 @@ Pe de altă parte, ar dispărea viciile comerciale(alcool, țigări, droguri, jo
 În schimb, ne-am confrunta cu o localizare extremă a produselor și a producătorilor – pentru că nu s-ar mai comunica ce chestii produc ăia în Ungaria sau în Bulgaria, așa că trebuie să ne descurcăm cu ce avem. Diversitatea ar fi minimă, pentru că ai avea acces doar la ce produse ai în imediata apropiere, de restul nu ai ști nimic. S-ar crea prăpăstii între grupurile de oameni, în funcție de produsele la care au acces.
 
 
+
+![](/assets/img/posts/2010/cum-ar-fi-lumea-fara-publicitate/tumblr_l5k9anJQCh1qad4rb-400x283.jpg)
 
 Publicitatea, fie că ne place, fie că nu, susține modul de viață pe care îl ducem acum. Mare parte din inovații s-au produs pentru că **unii au vrut să fie mai buni decât alții** și să **se poată promova ca atare**.
 

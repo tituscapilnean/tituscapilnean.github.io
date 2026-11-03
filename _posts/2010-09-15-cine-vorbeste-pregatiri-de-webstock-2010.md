@@ -4,8 +4,6 @@ date: 2010-09-15 08:35:34 +0000
 categories: ["Evenimente"]
 tags: ["vorbitori"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/09/Webstock-2010.png
 ---
 
 Cred ca unul din cele mai importante aspecte în momentul în care organizezi un eveniment, pe lângă detaliile de dată și oră, loc de desfășurare, este agenda și lista invitaților care vor ține prezentări și workshop-uri.

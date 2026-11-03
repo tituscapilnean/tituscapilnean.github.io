@@ -4,9 +4,9 @@ date: 2011-05-10 16:49:55 +0000
 categories: ["Evenimente"]
 tags: ["after-hours", "atlet", "campanie", "party", "puma"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/05/puma-aferthours-social-athlete-150x150.jpg
 ---
+![](/assets/img/posts/2011/petrecerea-puma-si-after-hours-athlete/puma-aferthours-social-athlete-150x150.jpg)
+
 
 De ceva vreme, sunt un corporatist cu acte în regulă, așa că nu mai am cum să fac sport când și cum mă taie capul (_bine, pot, dar asta înseamnă că nu mai ajung înainte de 10 acasă_). Pentru mine și alții ca mine s-a inventat conceptul de **after-hours athelte** , adică omul care face sport după ce termină cu munca de zi cu zi.
 

@@ -4,9 +4,9 @@ date: 2013-01-03 20:56:48 +0000
 categories: ["Sondaje și Studii"]
 tags: ["2013", "predictii", "previziuni", "reconciliere", "trenduri"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/01/Trends2012-150x150.jpg
 ---
+![](/assets/img/posts/2013/trenduri-pe-2013-in-online-si-reconcilierea-cu-2012/Trends2012-150x150.jpg)
+
 
 2013 a început destul de pe ne pusă masă. Nici n-am apucat să respir bine că a și trebuit să o iau din loc, așa că scriu de departe câteva gânduri pentru anul care a început de mai bine de 3 zile. 2012 a fost un an mai bun pentru publicitatea online, în semestrul 1 înregistrându-se o creștere de 7% (yoy), în același trend cu creșterea globală previzionată pentru perioada următoare.
 

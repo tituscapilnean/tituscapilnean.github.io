@@ -4,13 +4,13 @@ date: 2013-02-06 16:30:31 +0000
 categories: ["Filme Bucuresti"]
 tags: ["cinema-city", "film", "furt", "grasa"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/02/thumbs-400x266.jpg
 ---
 
 _Citiorii mei s-au bucurat mult de invitațiile de la Oxygen PR și de la Ro Image(sursa foto), dar și de ospitalitatea Cinema City, Sun Plaza, ca de obicei. Vă las mai jos cu povestea unui film mai bun decât trailerul sau synopsisul de pe net._
 
 
+
+![](/assets/img/posts/2013/hoata-de-identitate-2013-care-ti-fura-hohote-de-ras/thumbs-400x266.jpg)
 
 Am fost și am văzut “Hoața de identitate” un film la care m-am dus cu așteptări destul de mici. Am zis că va fi o comedie simplă, tipică, realizată pentru a mai face și oamenii încă un film și un ban de buzunar. Nu mă așteptam să am și momente de durere de burtă din cauza râsului J
 
@@ -21,6 +21,12 @@ Hoața de identitate e acel personaj pe care-l urăști la începutul filmului, 
 Filmul ne prezintă o groază de întâmplări care mai de care mai hilare și mai amuzante care îți garantează că nu o să te plictisești deloc și o să râzi până la ultima scenă din film.
 
 Am mai fost la film cu câteva prietene și mi-au spus și ele părerea lor:
+
+![:\) ](/assets/img/posts/2013/hoata-de-identitate-2013-care-ti-fura-hohote-de-ras/yahoo_smiley.gif)
+
+![:\) ](/assets/img/posts/2013/hoata-de-identitate-2013-care-ti-fura-hohote-de-ras/yahoo_smiley.gif)
+
+![:\) ](/assets/img/posts/2013/hoata-de-identitate-2013-care-ti-fura-hohote-de-ras/yahoo_smiley.gif)
 
 > Ideea geniala, de și previzibilă a filmului te transpune emoțional alături de personajele acestei comedii. Crizele de râs sunt garantate și recomandate 🙂 După acest film îți dai seama cât de importanți sunt prietenii și familia în formarea ta spirituală, pentru că fără ei, e foarte posibil să urmezi pașii unei “Hoațe de identitate”:) Un film foarte potrivit unei escapade din rutina de la birou:)
 > 

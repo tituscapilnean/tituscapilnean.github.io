@@ -4,8 +4,6 @@ date: 2011-10-05 07:04:09 +0000
 categories: ["Evenimente"]
 tags: ["iab-forum", "online", "romania"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/10/gandul.info_-400x21.png
 ---
 
 > ![](http://www.iabforum.ro/media/images/logo_iab_forum.png)IAB Forum Romania este evenimentul care isi propune sa prezinte tabloul oficial al pietei de publicitate online din Romania, statusul industriei, provocari, tendinte si recomandari de integrare eficienta a online-ului in mixul de marketing si in strategia de branding.

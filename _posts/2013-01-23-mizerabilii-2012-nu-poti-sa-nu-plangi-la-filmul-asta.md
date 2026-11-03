@@ -4,9 +4,9 @@ date: 2013-01-23 13:22:00 +0000
 categories: ["Filme Bucuresti"]
 tags: ["film", "les-miserables", "mizerabilii"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/01/Helena-les-miserables-2012-movie-32909317-500-555-270x300.jpg
 ---
+![](/assets/img/posts/2013/mizerabilii-2012-nu-poti-sa-nu-plangi-la-filmul-asta/Helena-les-miserables-2012-movie-32909317-500-555-270x300.jpg)
+
 
 Aseară, la Cinema City, în Sun Plaza, au curs lacrimi de bloggeri, jurnaliști, vedete, respectiv s-a ieșit din sala înainte de final. N-ai cum să ai o atitudine neutră față de filmul ăsta. Ori, ori.
 

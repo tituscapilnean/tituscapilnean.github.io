@@ -4,9 +4,9 @@ date: 2012-11-06 08:38:41 +0000
 categories: ["Evenimente"]
 tags: ["comunicare", "conferinta", "roi"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/11/roi1-240x300.jpg
 ---
+![](/assets/img/posts/2012/cum-se-masoara-roi-ul-in-comunicare/roi1-240x300.jpg)
+
 
 Una din marile dispute din PR și comunicare internă este modalitatea prin care se măsoară _Return On Investment_ , acest pocal al tinereții pentru orice comunicator. Săptămâna trecută am fost la evenimentul Mastermind Communication, unde Angela Sinickas, reputat om de comunicare, ne-a povestit depsre câteva idei care răspund la întrebarea: _Ce masuram în activitatea de comunicare?_
 

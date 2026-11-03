@@ -4,8 +4,6 @@ date: 2011-09-13 05:00:43 +0000
 categories: ["Evenimente"]
 tags: ["2011", "antreprenoriat", "conferinta", "how-to-web", "online"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/09/howtoweb-bigger-longer-and-uncut-1-1024-316x300.jpg
 ---
 
 S-ar putea să nu știi asta despre mine, însă, sub mantaua groasă de corporatist, mă gândesc că la un moment dat, într-un viitor nu prea îndepărtat, m-ar tenta să o iau pe drumurile antreprenoriatului(cel mai probabil online). Acum, dacă ar fi să fac treaba asta mâine, vă spun cu mâna pe inimă că n-aș avea prea multă idee despre cum ar trebui să apuc hățurile unei firme, despre cum să atrag investitori care să mă ajute să cresc afacerea pe care o am în cap și/sau să leg relații cu clienți strategici.
@@ -42,5 +40,7 @@ Cu cât ne apropiem de eveniment, cu atât va crește cererea și prețul. **Acu
 _p.s. Am pus evenimentul înlista de must-uri pentru un om de online, iar aici poți să vezi ce s-a întâmplat anul trecut._
 
 _p.p.s și un bonus 🙂_
+
+![](/assets/img/posts/2011/how-to-web-2011-bigger-longer-and-uncut/howtoweb-bigger-longer-and-uncut-1-1024-316x300.jpg)
 
 

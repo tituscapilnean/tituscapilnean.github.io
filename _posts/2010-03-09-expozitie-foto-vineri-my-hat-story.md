@@ -4,11 +4,11 @@ date: 2010-03-09 22:39:23 +0000
 categories: ["Evenimente"]
 tags: ["expozitie", "promovare"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/03/final-212x300.jpg
 # EMBED_ISSUES: 1 embed(s) need review
 #   - [iframe] http://www.norc.ro/embed.aspx?id=99c606577fb31f01fbec0577bbc45989&ppa=199.4&r=-87.81&vla=-2.16&lz=43.5&acc=9c5d68f4-2133-48b5-b57a-45f91453b1a9
 ---
+![Expozitie de arta](/assets/img/posts/2010/expozitie-foto-vineri-my-hat-story/final-212x300.jpg)
+
 
  Expozitie de arta 
 

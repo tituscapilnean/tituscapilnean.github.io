@@ -4,13 +4,11 @@ date: 2010-10-29 14:43:35 +0000
 categories: ["Istoria reclamelor bune"]
 tags: ["jeep"]
 author: titus_capilnean
-# BROKEN_IMAGES: 3 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/10/Jeep_Husky_Camel-thumb-350x247-18309.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/10/two.worlds.3o-400x284.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/10/Jeep_Bushman_Eskimo-400x282.jpg
 ---
 
 
+
+![](/assets/img/posts/2010/una-pe-zi-jeep-ul-in-doua-lumi/Jeep_Husky_Camel-thumb-350x247-18309.jpg)
 
 Asta e o campanie foarte mișto la mașini.  
 
@@ -19,9 +17,13 @@ Asta e o campanie foarte mișto la mașini.
 
 
 
+![](/assets/img/posts/2010/una-pe-zi-jeep-ul-in-doua-lumi/two.worlds.3o-400x284.jpg)
+
 și
 
 
+
+![](/assets/img/posts/2010/una-pe-zi-jeep-ul-in-doua-lumi/Jeep_Bushman_Eskimo-400x282.jpg)
 
 Care prezintă întâlnirea a două lumi diferite.
 

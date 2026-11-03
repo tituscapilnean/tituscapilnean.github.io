@@ -4,8 +4,6 @@ date: 2009-08-05 19:04:11 +0000
 categories: ["Marketing", "Social Media"]
 tags: ["analiza", "online", "social-media", "statistica", "twitter"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/08/twitterteens-400x278.gif
 ---
 
 Există o mare dilemă pe internet despre faptul că **tinerii sub 21 de ani** folosesc foarte puțin spre deloc Twitter.

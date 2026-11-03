@@ -4,10 +4,10 @@ date: 2013-12-11 09:45:11 +0000
 categories: ["Social Media"]
 tags: ["campanii", "facebook", "idei"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/12/facebook-is-dead1-150x150.jpg
 ---
 
+
+![facebook-is-dead1](/assets/img/posts/2013/facebook-nu-moare-facebook-se-transforma/facebook-is-dead1-150x150.jpg)
 
 **Update:** Context internațional – Facebook a recunoscut că scade interacțiunea organică.
 

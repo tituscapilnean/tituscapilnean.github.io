@@ -4,9 +4,9 @@ date: 2012-08-20 11:38:31 +0000
 categories: ["Marketing"]
 tags: ["caracteristici", "online", "recrutare", "specialist"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/08/web20specialist1-150x150.jpg
 ---
+![](/assets/img/posts/2012/skilluri-noi-pentru-specialistul-de-marcom/web20specialist1-150x150.jpg)
+
 
 M-am întors cu forțe noi și idei proaspete din vacanță (e subiectul unui alt articol). Una din primele activități de care îmi place să mă apuc când mă întorc este să citesc ultimele știri din online.
 

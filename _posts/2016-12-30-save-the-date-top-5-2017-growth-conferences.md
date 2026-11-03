@@ -4,8 +4,6 @@ date: 2016-12-30 15:56:37 +0000
 categories: ["English", "Digital Events", "Startups"]
 tags: []
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.com/wp-content/uploads/2016/12/growth-hackers-cover-1-1.png
 ---
 
 We’re running out of 2016 and if you haven’t done it yet, it’s a good time to put some dates in the calendar for your personal development. Being a great growth manager means you have to be on top of your game with both marketing, business development, management and operations. And that’s beyond your company’s industry.

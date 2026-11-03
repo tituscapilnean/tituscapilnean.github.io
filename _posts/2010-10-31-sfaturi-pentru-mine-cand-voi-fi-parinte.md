@@ -4,9 +4,9 @@ date: 2010-10-31 16:33:39 +0000
 categories: ["Altele de online"]
 tags: ["copii", "educatie", "personal"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/10/cza1544l-150x150.jpg
 ---
+![](/assets/img/posts/2010/sfaturi-pentru-mine-cand-voi-fi-parinte/cza1544l-150x150.jpg)
+
 
 Contextul e de așa natură încât să mă pună să mă gândesc la cât de importantă e educația pe care părinții reușesc să o **insufle/inspire** copiilor. Dar și cât de important e modul și momentul în care se produce procesul de educație.
 

@@ -4,11 +4,11 @@ date: 2011-07-28 05:07:57 +0000
 categories: ["Evenimente", "Marketing"]
 tags: ["benzina", "concurs", "golden-brau", "masina", "premiu", "rapid"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/07/Invitatie-Car-Mania-163x300.jpg
 ---
 
 **update:** câștigătorul e Andrei Cristian 🙂 . Felicitări, mâine te duci să îți îngrijești mașina!
+
+![](/assets/img/posts/2011/ai-masina-am-un-concurs-blitz-pentru-tine/Invitatie-Car-Mania-163x300.jpg)
 
 Înainte să îți zic mai multe, trebuie să îndeplinești trei condiții:
 

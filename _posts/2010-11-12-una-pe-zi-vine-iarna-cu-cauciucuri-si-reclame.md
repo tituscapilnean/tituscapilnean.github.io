@@ -4,11 +4,9 @@ date: 2010-11-12 06:00:26 +0000
 categories: ["Istoria reclamelor bune"]
 tags: ["cauciucuri", "iarna"]
 author: titus_capilnean
-# BROKEN_IMAGES: 3 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/11/crisissnow-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/11/Yoko_Snow_0-399x290.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/11/ford_ice_aotw_14-00-38-400x282.jpg
 ---
+![](/assets/img/posts/2010/una-pe-zi-vine-iarna-cu-cauciucuri-si-reclame/crisissnow-150x150.jpg)
+
 
 Nu-i așa că guvernul ăsta ne-a tăiat tot cheful de zăpadă, cu noua lege-minune, care zice că ar trebui să îți încalți mașina 5 luni!! pe an cu gume de iarnă.
 
@@ -23,6 +21,8 @@ Pentru fotografia – ad la Yokohama Tyres, asta trebuie să dai click pe ea –
 Mișto, nu?
 
 
+
+![](/assets/img/posts/2010/una-pe-zi-vine-iarna-cu-cauciucuri-si-reclame/ford_ice_aotw_14-00-38-400x282.jpg)
 
 Și nu în ultimul rând, o recomandare din partea Ford pentru șoferi – purtați cauciucuri de iarnă pe zăpadă, ca să mai puteți face ceva cu mașina pe gheață.
 

@@ -4,18 +4,6 @@ date: 2010-02-08 16:56:07 +0000
 categories: ["Altele de online"]
 tags: ["fonturi", "poveste"]
 author: titus_capilnean
-# BROKEN_IMAGES: 11 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/02/4333279250_cb789008a2_o_03-400x28.png
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/02/4333279250_cb789008a2_o_06-400x194.png
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/02/4333279250_cb789008a2_o_08-400x168.png
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/02/4333279250_cb789008a2_o_10-400x128.png
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/02/4333279250_cb789008a2_o_13-400x97.png
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/02/4333279250_cb789008a2_o_15-400x118.png
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/02/4333279250_cb789008a2_o_16-400x74.png
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/02/4333279250_cb789008a2_o_17-400x78.png
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/02/4333279250_cb789008a2_o_18-400x63.png
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/02/4333279250_cb789008a2_o_19-400x82.png
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/02/4333279250_cb789008a2_o_20-400x59.png
 ---
 
 

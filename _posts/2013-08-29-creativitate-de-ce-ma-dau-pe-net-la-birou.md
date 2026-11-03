@@ -4,9 +4,9 @@ date: 2013-08-29 13:41:47 +0000
 categories: ["Online Training"]
 tags: ["creativitate", "munca", "probleme", "ritm", "solutii"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/08/creativity-200x300.gif
 ---
+![creativity](/assets/img/posts/2013/creativitate-de-ce-ma-dau-pe-net-la-birou/creativity-200x300.gif)
+
 
 Când povestesc unui prieten cam care e programul meu în timpul unei zile normale, de regulă ridică din sprânceană și mă întreabă cum de am timp să citesc atât de multe lucruri pe net (nu, nu doar pe Facebook).
 

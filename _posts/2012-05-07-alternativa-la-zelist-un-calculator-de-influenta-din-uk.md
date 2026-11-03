@@ -4,12 +4,6 @@ date: 2012-05-07 09:15:49 +0000
 categories: ["Altele de online"]
 tags: ["alternativa", "bloguri", "romania", "top", "zelist"]
 author: titus_capilnean
-# BROKEN_IMAGES: 5 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/05/groparu-400x94.png
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/05/petreanu-400x96.png
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/05/piticu-400x100.png
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/05/zoso-400x152.png
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/05/arhi-400x158.png
 # EMBED_ISSUES: 1 embed(s) need review
 #   - [iframe] http://bloglevelbadge.edelman.com/MyBadge.aspx?code=tituscapilnean.ro
 ---
@@ -30,11 +24,21 @@ Câțiva din zelist:
 
 
 
+![](/assets/img/posts/2012/alternativa-la-zelist-un-calculator-de-influenta-din-uk/groparu-400x94.png)
+
+![](/assets/img/posts/2012/alternativa-la-zelist-un-calculator-de-influenta-din-uk/petreanu-400x96.png)
+
+![](/assets/img/posts/2012/alternativa-la-zelist-un-calculator-de-influenta-din-uk/piticu-400x100.png)
+
 Și, bonus, Zoso și Arhi:
 
 
 
 
+
+![](/assets/img/posts/2012/alternativa-la-zelist-un-calculator-de-influenta-din-uk/zoso-400x152.png)
+
+![](/assets/img/posts/2012/alternativa-la-zelist-un-calculator-de-influenta-din-uk/arhi-400x158.png)
 
 Citit aici.
 

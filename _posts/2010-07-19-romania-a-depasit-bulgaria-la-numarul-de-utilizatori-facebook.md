@@ -4,8 +4,6 @@ date: 2010-07-19 17:25:52 +0000
 categories: ["Social Media"]
 tags: ["facebook"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/07/diferenta-400x153.png
 ---
 
 Așa cum am promis, revin cu câteva idei după connect FB, conferința cu și despre Facebook, organizată de Manafu & Co la Novotel, vinerea trecută. Faptul că deja participăm la/organizăm conferințe despre rețeaua asta socială deja e un semn că Facebook e din ce în ce mai important în România. Acest lucru a fost anticipat de Vodafone(așa cum ne-a spus CMO-ul lor în prezentarea ținută la conferință) și de aceea reclamele din ultima jumătate de an au conținut constant legături către Facebook.

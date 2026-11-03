@@ -4,8 +4,6 @@ date: 2010-05-03 19:20:16 +0000
 categories: ["Altele de online"]
 tags: ["1-mai", "mare", "vama"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/05/3156303991_87012cd7c0_b-150x150.jpg
 ---
 
 _piesă de ascultat:_
@@ -14,6 +12,8 @@ _piesă de ascultat:_
 atât de _Cabral_ ish din partea mea 😀
 
 Zilele trecute am fost în vamă, ca tot omul, de 1 Mai, ca să ciocnesc un mic, să mușc o bere, la soare, pe frig. Nu-s prea multe detalii de povestit despre asta în sine, pentru că, de câțiva ani, s-a produs o mică mutație, care eclipsează orice poveste. E prea de tot. Da, deşi vama tot dă semne că moare de câţiva ani, se încăpăţânează să nu îşi dea obştescul sfâşit. Nici mult nu mai are.
+
+![3156303991_87012cd7c0_b](/assets/img/posts/2010/cocalarul-de-vama-specie-confirmata-de-specialisti/3156303991_87012cd7c0_b-150x150.jpg)
 
 N-am aproape o jumătate de secol, ca să pot zice cu mândrie că ”pe vremea mea, vama era un sat cu câteva baruri cu oameni și muzică deosebită”, un sanctuar. _până la urmă mi-a ieșit parafrază_( e din adevărul de seară).
 

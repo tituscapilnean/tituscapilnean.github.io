@@ -4,9 +4,9 @@ date: 2011-01-17 10:50:15 +0000
 categories: ["Online Training"]
 tags: ["cum-sa", "rss"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/12/rss-copy.png
 ---
+![](/assets/img/posts/2011/cum-te-abonezi-la-un-blog/rss-copy.png)
+
 
 Majoritatea bloggerilor presupun că toți cititorii știu să se aboneze la feed-ul de RSS. Nimic mai fals. Am primit un mesaj de la o cititoare care mă întreabă cum ar trebui să se aboneze la blogul meu prin RSS, așa că am scris un ghid cât se poate de simplu.
 

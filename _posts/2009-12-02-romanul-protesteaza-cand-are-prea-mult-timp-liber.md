@@ -4,8 +4,6 @@ date: 2009-12-02 08:27:40 +0000
 categories: ["Evenimente", "Social Media"]
 tags: ["1-decembrie", "facebook", "protest", "revolutie", "twitter", "ziua-naationala"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/12/personal_protest2.png
 ---
 
 

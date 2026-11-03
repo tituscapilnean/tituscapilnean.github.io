@@ -4,8 +4,6 @@ date: 2009-10-19 19:57:38 +0000
 categories: ["Evenimente"]
 tags: ["cum-a-fost", "povestea", "ted", "tedx", "tedxbucharest"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/10/uwi-225x300.jpg
 ---
 
 Au trecut câteva zile deja de la eveniment și am avut timp să mă odihnesc și să îmi pun ideile în ordine. **TEDxBucharest** a însemnat pentru mai mult de **12 oameni** luni întregi de muncă, nopți nedormite, zile de planificare, ore investite. Pentru mine, personal, a însemnat să muncesc și 14 ore pe zi :), dar, chiar dacă am avut momente în care îmi iau câmpii, la propriu, pot spune acum că a meritat efortul.
@@ -15,6 +13,8 @@ TEDxBucharest a însemnat că pe **16 Octombrie** am avut pe de-o parte **13 oam
 Am fost cocoțat pe tot parcursul conferinței în vârful tribunei și am scris. O să vedeți mai jos că o parte din prezentări le expun mai pe larg și altele mai pe scurt – la cele mai pe scurt, vă recomand să vedeți cu atenție clipurile pe care o să le publicăm pe tedxbucharest.com
 
 
+
+![uwi](/assets/img/posts/2009/povestea-tedxbucharest-asa-cum-a-fost/uwi-225x300.jpg)
 
 **Firul poveștii începe la ora 10:30** , cu introducerea lui Cătălin Ștefănescu, cel care a fost moderator pe tot parcursul zilei. Tot în același timp am început relatarea în direct pe Twitter a evenimentului, relatare ce s-a concretizat în peste 200 de tweeturi pe #tedxbucharest, o grămadă de ReTweeturi și câteva conversații cu cei care ne urmăreau de la laptopuri._(articol epic, get ready!)_
 

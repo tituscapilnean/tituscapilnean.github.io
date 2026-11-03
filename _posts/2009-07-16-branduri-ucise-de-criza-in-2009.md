@@ -4,10 +4,10 @@ date: 2009-07-16 15:15:46 +0000
 categories: ["Marketing"]
 tags: ["analiza", "anunt", "brand", "moarte"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2009/07/18713764_08b7978923_b-400x300.jpg
 ---
 
+
+![18713764_08b7978923_b](/assets/img/posts/2009/branduri-ucise-de-criza-in-2009/18713764_08b7978923_b-400x300.jpg)
 
 sursa FOTO
 

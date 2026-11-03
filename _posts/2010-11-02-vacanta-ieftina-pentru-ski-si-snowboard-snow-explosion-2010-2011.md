@@ -4,10 +4,6 @@ date: 2010-11-02 07:00:46 +0000
 categories: ["Evenimente", "Turism"]
 tags: ["ski", "snow-explosion", "snowboard", "zapada"]
 author: titus_capilnean
-# BROKEN_IMAGES: 3 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/10/22099-400x121.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/11/07-400x266.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/11/parties.jpg
 ---
 
 ![Vacanta ieftina in Franta la ski/snowboard](http://snow-explosion.com/france/assets/logo_picture/logo.png)Pentru cine nu știe și n-a auzit încă de excursia **cea mai tare și cea mai ieftină** din 29 Ianuarie, până pe 5 Februarie 2011, Snow Explosion este un sejur de 7 zile în Franța, împreună cu alți 5000 de tineri, cu prețuri de la 229 Euro(skipass+cazare), în Puy Saint Vincent.
@@ -17,6 +13,8 @@ author: titus_capilnean
 Dar zic să detaliem puțin toată treaba, ca să pară cât mai credibilă, nu de alta, dar și mie mi-a venit greu să cred că cineva dă și cazare pe 7 zile și skipass cu banii ăștia.
 
 
+
+![](/assets/img/posts/2010/vacanta-ieftina-pentru-ski-si-snowboard-snow-explosion-2010-2011/22099-400x121.jpg)
 
 **Despre cazare:**
 
@@ -46,6 +44,8 @@ Cu:
 > Datorită aşezării sale nordice şi climatului special se poate schia până la sfârşitul lui aprilie.
 
 
+
+![](/assets/img/posts/2010/vacanta-ieftina-pentru-ski-si-snowboard-snow-explosion-2010-2011/07-400x266.jpg)
 
 …așa că nu e panică cu zăpada!
 

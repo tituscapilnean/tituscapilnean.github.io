@@ -4,10 +4,6 @@ date: 2010-05-24 21:31:51 +0000
 categories: ["Evenimente"]
 tags: ["2010", "festival", "iarmaroc"]
 author: titus_capilnean
-# BROKEN_IMAGES: 3 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/05/DSC_0983.JPG
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/05/DSC_0690.JPG
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/05/DSC_0930-2.JPG
 ---
 
 Am lăsat povestea Iarmarocului de anul ăsta să se contureze şi în funcţie de reacţiile venite de la participanţi(unii dezamăgiţi, alţii încântaţi). După cum am scris şi pe Twitter imediat după ce am ajuns acasă, expresia cheie de la festival a fost:

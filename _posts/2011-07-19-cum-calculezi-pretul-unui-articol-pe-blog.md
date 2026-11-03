@@ -4,9 +4,9 @@ date: 2011-07-19 13:13:35 +0000
 categories: ["Social Media"]
 tags: ["advertoriale", "articole", "calcule", "campanii", "costuri"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/07/blog2-150x150.jpg
 ---
+![](/assets/img/posts/2011/cum-calculezi-pretul-unui-articol-pe-blog/blog2-150x150.jpg)
+
 
 Una din întrebările pe care și le pune orice blogger la un moment dat(ăia care vor să facă bani cu blogul lor) este:
 

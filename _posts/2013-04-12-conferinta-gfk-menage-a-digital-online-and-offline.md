@@ -4,11 +4,6 @@ date: 2013-04-12 15:08:44 +0000
 categories: ["Sondaje și Studii"]
 tags: ["2013", "date", "gfk", "online", "statistici"]
 author: titus_capilnean
-# BROKEN_IMAGES: 4 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/04/digital-natives-150x150.png
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/04/digital-immigrants-and-migrants-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/04/digital-natives-copy-150x150.jpg
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/04/social-media-374x300.jpg
 # EMBED_ISSUES: 3 embed(s) need review
 #   - [iframe] //infogr.am/Key-Online-Data--Romania--2013
 #   - [iframe] //infogr.am/Digital-Conversions
@@ -33,9 +28,17 @@ Am mai aflat despre Digitally Natives și Digital Immigrants:
 
 
 
+![](/assets/img/posts/2013/conferinta-gfk-menage-a-digital-online-and-offline/digital-natives-150x150.png)
+
+![](/assets/img/posts/2013/conferinta-gfk-menage-a-digital-online-and-offline/digital-immigrants-and-migrants-150x150.jpg)
+
+![](/assets/img/posts/2013/conferinta-gfk-menage-a-digital-online-and-offline/digital-natives-copy-150x150.jpg)
+
 _Trenduri pentru digital natives:_ trăiesc în lumea mixta (online și offline), vor să artate bine și le place să aibă parte de _fresh fun_
 
 
+
+![social media](/assets/img/posts/2013/conferinta-gfk-menage-a-digital-online-and-offline/social-media-374x300.jpg)
 
 Digitally natives sunt _hipsteri bio, grasi si narcisisti, care gusta glumele politcally incorrect_.
 

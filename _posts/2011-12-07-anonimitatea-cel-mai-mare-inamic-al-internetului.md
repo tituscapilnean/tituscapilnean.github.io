@@ -4,8 +4,6 @@ date: 2011-12-07 09:20:19 +0000
 categories: ["Altele de online"]
 tags: ["argumente", "lupta", "opozitie-rmgc", "rosia-montana"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2011/12/succesuri-400x156.png
 ---
 
 _*dacă nu ați vizitat contul de LinkedIn, vă rog să o faceți înainte să citiți mai departe, e relevant pentru discuția ulterioară._

@@ -4,8 +4,6 @@ date: 2012-02-28 14:01:32 +0000
 categories: ["Publicitate"]
 tags: ["dentestet", "fapta-buna", "zambet"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/02/smile-400x266.jpg
 ---
 
 Am scris vinerea trecută despre campania Re-Zâmbește a Dentestet, prin care te invitam să faci o faptă bună. Reiterez invitația să te înscrii în echipa mea cu ajutorul formularului. Împreună redăm zâmbetul cuiva care are nevoie de implanturi dentare.

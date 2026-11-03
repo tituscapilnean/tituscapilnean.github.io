@@ -4,9 +4,9 @@ date: 2012-01-06 11:43:11 +0000
 categories: ["Altele de online"]
 tags: ["2012", "alegeri", "politica", "romania", "statele-unite"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/01/politics-150x150.png
 ---
+![](/assets/img/posts/2012/politica-2-0-alegerile-din-statele-unite/politics-150x150.png)
+
 
 Din categoria ”Best use of Social Media”, dacă tot vorbeam zilele trecute de trenduri și de Social TV în comentarii, vă povestesc un pic despre o idee faină a MSNBC – dezbaterea politică live pe Facebook.
 

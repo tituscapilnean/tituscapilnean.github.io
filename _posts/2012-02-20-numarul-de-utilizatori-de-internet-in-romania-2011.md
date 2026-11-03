@@ -4,9 +4,6 @@ date: 2012-02-20 21:26:36 +0000
 categories: ["Marketing"]
 tags: ["2011", "evolutie", "internet", "romania", "utilizatori"]
 author: titus_capilnean
-# BROKEN_IMAGES: 2 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/02/numarul-utilizatorilor-de-internet-358x300.png
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/02/harta_ro-322x300.png
 ---
 
 Lipsește cu desăvârșire un loc ușor de găsit în care să poți să verifici numărul de utilizatori de internet din România, respectiv rata de penetrare a internetului la zi. Așa că m-am apucat să fac eu unul.
@@ -21,6 +18,8 @@ Mai jos ai toate datele pe regiuni, precum și evoluția din ultimii ani:
 
 
 
+![](/assets/img/posts/2012/numarul-de-utilizatori-de-internet-in-romania-2011/numarul-utilizatorilor-de-internet-358x300.png)
+
 Regiune |  2008  |  2010  |  2011   
 ---|---|---|---  
 Nord-Vest( % ) |  30  |  42  |  47   
@@ -34,5 +33,7 @@ Vest( % ) |  31  |  47  |  53
 Romania( % ) | 30.25 | 42.75 | 48.25  
   
 Iar pentru cei mai vizuali am pus datele pe harta regiunilor:
+
+![Rata de penetrare a internetului in ro harta 2011](/assets/img/posts/2012/numarul-de-utilizatori-de-internet-in-romania-2011/harta_ro-322x300.png)
 
 

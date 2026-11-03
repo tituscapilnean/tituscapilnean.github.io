@@ -4,10 +4,9 @@ date: 2010-12-03 07:30:09 +0000
 categories: ["Evenimente", "Publicitate", "Turism"]
 tags: ["ski", "snow-explosion", "snowboard", "vacanta", "zapada"]
 author: titus_capilnean
-# BROKEN_IMAGES: 2 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/12/logo.png
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/12/plata-400x217.jpg
 ---
+![](/assets/img/posts/2010/vacanta-de-iarna-in-rate-snow-explosion-2011/logo.png)
+
 
 Când începi să te gândești la vacanța la ski sau snowboard de iarna asta, primul lucru la care îți zboară mintea este prețul. **Toate vacanțele low-cost** ajung cam la 500 Euro/7 zile de persoană(cu toate cheltuielile incluse). Cam la suma asta ajunge și un sejur la _Snow Explosion 2011_.
 
@@ -31,5 +30,7 @@ Ai timp să strângi bani până la sfârșitul lui Ianuarie pentru mâncare și
 
 Plățile se fac foarte ușor, tot ce trebuie să faci e să îți alegi modul cel mai convenabil pentru tine, din tabelul de mai jos:
 
+
+![](/assets/img/posts/2010/vacanta-de-iarna-in-rate-snow-explosion-2011/plata-400x217.jpg)
 
 Cazare hotel la cel mai bun pret!

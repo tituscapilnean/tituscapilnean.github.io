@@ -4,9 +4,9 @@ date: 2013-01-21 12:41:35 +0000
 categories: ["Social Media"]
 tags: ["idei", "instagram", "instagramvertising", "retele"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2013/01/tech_0409_instagram_270x203.jpg
 ---
+![](/assets/img/posts/2013/instagramvertising-trend-pentru-2013/tech_0409_instagram_270x203.jpg)
+
 
 Chiar dacă nu am inclus Instagram în predicțiile inițiale pentru 2013, faptul că au dat drumul statisticilor în mod public e semn că vor să introducă primele metode de monetizare pentru o platformă ce a crescut frumos, a fost înghițită de Facebook și acum trebuie să producă.
 

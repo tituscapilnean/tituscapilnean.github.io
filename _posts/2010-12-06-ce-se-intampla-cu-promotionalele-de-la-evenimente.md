@@ -4,9 +4,9 @@ date: 2010-12-06 07:00:18 +0000
 categories: ["Evenimente", "Marketing"]
 tags: ["conferinta", "promotii", "sondaj"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/12/how-to-save-paper-150x150.jpg
 ---
+![](/assets/img/posts/2010/ce-se-intampla-cu-promotionalele-de-la-evenimente/how-to-save-paper-150x150.jpg)
+
 
 Mereu m-am întrebat **ce se întâmplă cu materialele alea pe care le primești în pungi, la conferințe sau evenimente** , atunci când te înregistrezi, la intrare.
 

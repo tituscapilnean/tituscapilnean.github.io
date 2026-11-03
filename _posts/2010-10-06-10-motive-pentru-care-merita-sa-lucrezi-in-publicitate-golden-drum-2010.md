@@ -4,8 +4,6 @@ date: 2010-10-06 16:24:14 +0000
 categories: ["Publicitate"]
 tags: ["2010", "golden-drum"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/10/Ad-for-ILA-personal-alarm-001-400x240.jpg
 ---
 
 Sir John Hegarty ne-a tinut prezentarea asta. Ne-a spus ca publicitatea intra in perioada ei cea mai buna. Cu cat stiu mai multi oameni de tine, cu atat ai mai multi clienti potentiali.

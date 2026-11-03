@@ -4,8 +4,6 @@ date: 2010-01-07 11:13:19 +0000
 categories: ["Social Media"]
 tags: []
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/01/fbsyncprompt.jpg
 ---
 
 Una din aplicațiile pe care le folosesc cel mai des pe iPhone este aplicația de Facebook(bine, e mult după cea de Twitter, dar în top 5 oricum). Au avut niște probleme cu ea, însă i-au tot făcut niște update-uri.

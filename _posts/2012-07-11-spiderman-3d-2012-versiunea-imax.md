@@ -4,9 +4,9 @@ date: 2012-07-11 21:52:30 +0000
 categories: ["Filme Bucuresti"]
 tags: ["3d", "film", "imax", "samsung", "spiderman"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/07/fantasy15-150x150.jpg
 ---
+![](/assets/img/posts/2012/spiderman-3d-2012-versiunea-imax/fantasy15-150x150.jpg)
+
 
 Marți seară am fost la avanpremiera Spiderman în format 3D. Înainte să vorbesc despre experiența filmului(pentru care mă înclin și mulțumesc din nou Cinema City, InterCom Film Distribution, precum și Oxygen PR), merită să învățăm puțină istorie.
 

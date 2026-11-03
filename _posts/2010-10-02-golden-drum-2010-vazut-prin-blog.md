@@ -4,8 +4,6 @@ date: 2010-10-02 16:56:32 +0000
 categories: ["Evenimente", "Publicitate"]
 tags: ["conferinta", "golden-drum"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/10/gd-400x112.jpg
 ---
 
 Acum două săptămâni mă decideam să completez un formular ca să pot fi eligibil pentru o acreditare la unul din cele mai mari și mai importante festivaluri de publicitate din Europa Centrală și de Est, Golden Drum.
@@ -18,6 +16,8 @@ Despre Golden Drum 2010, _ediția cu numărul 17_ :
 >  Sir John Hegarty, key-note speaker at the Golden Drum 2010 Creative Academy
 
 
+
+![](/assets/img/posts/2010/golden-drum-2010-vazut-prin-blog/gd-400x112.jpg)
 
 Luni, 20 Septembrie, am primit un email în care scria că mi s-a aprobat cererea de acreditare. Eram la Orange Online Meetup și nu îmi venea să cred că organizatorii mi-au acceptat cererea de acreditare cu ajutorul acestui blog.
 

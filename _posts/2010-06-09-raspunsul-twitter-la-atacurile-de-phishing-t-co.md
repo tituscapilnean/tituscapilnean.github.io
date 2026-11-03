@@ -4,8 +4,6 @@ date: 2010-06-09 12:35:19 +0000
 categories: ["Social Media"]
 tags: ["link", "serviciu", "twitter"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2010/06/Picture_42-400x177.png
 ---
 
 Ieri a apărut o știre interesantă pe blogul Twitter, în care anunțau că dau drumul serviciului t.co – scurtătorul de linkuri de pe Twitter.com . Încă din martie, mesajele directe au început să conțină linkuri scurtate și filtrate de către t.co.

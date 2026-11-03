@@ -4,8 +4,6 @@ date: 2012-07-05 12:11:09 +0000
 categories: ["Altele de online"]
 tags: ["responsive-web", "vitantis", "websiteuri"]
 author: titus_capilnean
-# BROKEN_IMAGES: 1 image(s) could not be resolved
-#   - http://tituscapilnean.ro/wp-content/uploads/2012/07/responsive-web-vitantis-400x177.png
 ---
 
 Despre responsive web nu am văzut prea multe articole pe la noi. CTRL-D are o descriere foarte comprehensivă a fenomenului care se poate rezuma în câteva cuvinte așa: ” _site-uri care se adaptează la ecranul device-ului pe care îl folosești pentru accesarea lui_ ”
