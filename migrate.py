@@ -1,14 +1,18 @@
 #!/usr/bin/env python3
 """
 Blog migration script: Archivarix backup → Jekyll Chirpy posts
-Source: /opt/homebrew/var/www/tituscapilnean_ro/.content.5jGCYXv6/
-Target: /Users/tituspml/Documents/tituscapilnean_github/tituscapilnean.github.io/
+Sources (Archivarix backups):
+    ro  : /opt/homebrew/var/www/tituscapilnean_ro/.content.5jGCYXv6/  (default)
+    com : pass --content-dir <path to tituscapilnean.com/.content.XXXX>
+Target: the repo this script lives in.
 
 Usage:
     python3 migrate.py              # migrate all pending articles
     python3 migrate.py --stats      # show migration stats only
     python3 migrate.py --url <url>  # migrate a specific article URL
     python3 migrate.py --batch 50   # migrate next N articles
+    python3 migrate.py --urls-file urls.txt          # migrate only these URLs
+    python3 migrate.py --site com --content-dir DIR --urls-file urls.txt
 """
 
 import sqlite3
@@ -24,12 +28,41 @@ from bs4 import BeautifulSoup
 import html2text
 
 # ── Paths ──────────────────────────────────────────────────────────────────
-ARCHIVARIX_DB    = "/opt/homebrew/var/www/tituscapilnean_ro/.content.5jGCYXv6/structure.db"
-ARCHIVARIX_HTML  = "/opt/homebrew/var/www/tituscapilnean_ro/.content.5jGCYXv6/html"
-JEKYLL_POSTS     = "/Users/tituspml/Documents/tituscapilnean_github/tituscapilnean.github.io/_posts"
-JEKYLL_ASSETS    = "/Users/tituspml/Documents/tituscapilnean_github/tituscapilnean.github.io/assets/img/posts"
+REPO_ROOT        = str(Path(__file__).resolve().parent)
+JEKYLL_POSTS     = os.path.join(REPO_ROOT, "_posts")
+JEKYLL_ASSETS    = os.path.join(REPO_ROOT, "assets", "img", "posts")
+
+# ── Sites ──────────────────────────────────────────────────────────────────
+# ro : dated permalinks  /YYYY/MM/slug/  (Romanian-era blog)
+# com: flat permalinks   /slug/          (English blog, 2014-2023)
+SITES = {
+    'ro':  {'host': 'tituscapilnean.ro',
+            'content_dir': '/opt/homebrew/var/www/tituscapilnean_ro/.content.5jGCYXv6',
+            'extra_categories': []},
+    'com': {'host': 'tituscapilnean.com',
+            'content_dir': None,
+            'extra_categories': ['English']},
+}
+SITE             = 'ro'
+HOST             = SITES['ro']['host']
+ARCHIVARIX_DB    = os.path.join(SITES['ro']['content_dir'], "structure.db")
+ARCHIVARIX_HTML  = os.path.join(SITES['ro']['content_dir'], "html")
+
+
+def configure(site, content_dir=None):
+    global SITE, HOST, ARCHIVARIX_DB, ARCHIVARIX_HTML
+    cfg = SITES[site]
+    content_dir = content_dir or cfg['content_dir']
+    if not content_dir:
+        sys.exit(f"--content-dir is required for --site {site}")
+    SITE, HOST = site, cfg['host']
+    ARCHIVARIX_DB = os.path.join(content_dir, "structure.db")
+    ARCHIVARIX_HTML = os.path.join(content_dir, "html")
 
 # ── Query: all clean blog post URLs ────────────────────────────────────────
+# Slugs may start with a digit ("8-setari-...", "911-au-trecut-8-ani") or with
+# "feed" ("feedburner-suge-grav"), so match [a-z0-9]* and exclude only real
+# /feed endpoints, not every slug that begins with "feed".
 ARTICLES_QUERY = """
 SELECT url, filename, request_uri
 FROM structure
@@ -38,12 +71,31 @@ WHERE hostname='tituscapilnean.ro'
   AND url NOT LIKE '%?%'
   AND url NOT LIKE '%/comment-page%'
   AND url NOT LIKE '%/page/%'
-  AND url NOT LIKE '%/feed%'
+  AND url NOT LIKE '%/feed/%'
+  AND url NOT LIKE '%/feed'
   AND url NOT LIKE '%/trackback%'
-  AND request_uri GLOB '/20[0-9][0-9]/[0-9][0-9]/[a-z]*'
+  AND request_uri GLOB '/20[0-9][0-9]/[0-9][0-9]/[a-z0-9]*'
   AND request_uri NOT GLOB '/20[0-9][0-9]/[0-9][0-9]/'
   AND (length(request_uri) - length(replace(request_uri, '/', ''))) <= 4
 ORDER BY url
+"""
+
+# .com posts live at the root: /slug/
+COM_ARTICLES_QUERY = """
+SELECT url, filename, request_uri
+FROM structure
+WHERE hostname='tituscapilnean.com'
+  AND mimetype='text/html'
+  AND url NOT LIKE '%?%'
+  AND request_uri GLOB '/[a-z0-9]*'
+  AND (length(rtrim(request_uri, '/')) - length(replace(rtrim(request_uri, '/'), '/', ''))) = 1
+  AND request_uri NOT GLOB '/wp-*'
+ORDER BY url
+"""
+
+URL_QUERY = """
+SELECT url, filename, request_uri FROM structure
+WHERE url=? AND mimetype='text/html'
 """
 
 IMAGE_QUERY = """
@@ -57,7 +109,7 @@ def get_db():
 
 
 def get_all_articles(db):
-    cur = db.execute(ARTICLES_QUERY)
+    cur = db.execute(COM_ARTICLES_QUERY if SITE == 'com' else ARTICLES_QUERY)
     return cur.fetchall()
 
 
@@ -90,6 +142,12 @@ def sanitize_slug(slug):
 
 def url_to_date_and_slug(url):
     """Extract YYYY, MM, slug from URL. Returns decoded + sanitized slug."""
+    if SITE == 'com':
+        # Flat permalink: year/month come from the page's published date
+        m = re.match(r'https?://(?:www\.)?tituscapilnean\.com/([^/]+)/?$', url)
+        if m:
+            return '', '', sanitize_slug(unquote(m.group(1)))
+        return None, None, None
     m = re.match(r'https?://tituscapilnean\.ro/(\d{4})/(\d{2})/([^/]+)/?$', url)
     if m:
         raw_slug = unquote(m.group(3))
@@ -102,11 +160,15 @@ def copy_image(db, src_url, dest_dir):
     Looks up an image URL in Archivarix DB, copies the file to dest_dir.
     Returns the new relative path (for Jekyll) or None on failure.
     """
-    row = db.execute(IMAGE_QUERY, (src_url,)).fetchone()
+    row = (db.execute(IMAGE_QUERY, (src_url,)).fetchone()
+           or db.execute(IMAGE_QUERY, (src_url.replace('http://', 'https://', 1),)).fetchone())
     if not row:
         return None
     _, img_filename = row
-    src_path = os.path.join(ARCHIVARIX_HTML, img_filename)
+    # Archivarix stores images under binary/, HTML under html/
+    src_path = os.path.join(os.path.dirname(ARCHIVARIX_HTML), 'binary', img_filename)
+    if not os.path.exists(src_path):
+        src_path = os.path.join(ARCHIVARIX_HTML, img_filename)
     if not os.path.exists(src_path):
         return None
     os.makedirs(dest_dir, exist_ok=True)
@@ -132,10 +194,11 @@ def rewrite_image_urls(soup_content, db, year, slug):
             continue
 
         # Normalize relative URLs
+        host_re = re.escape(HOST)
         if src.startswith('/wp-content/'):
-            full_url = f"http://tituscapilnean.ro{src}"
-        elif src.startswith('http://tituscapilnean.ro') or src.startswith('https://tituscapilnean.ro'):
-            full_url = src.replace('https://', 'http://')
+            full_url = f"http://{HOST}{src}"
+        elif re.match(rf'https?://(www\.)?{host_re}/', src):
+            full_url = re.sub(rf'^https?://(www\.)?{host_re}', f'http://{HOST}', src)
         else:
             # External image — leave as-is
             continue
@@ -144,10 +207,7 @@ def rewrite_image_urls(soup_content, db, year, slug):
         new_path = copy_image(db, full_url, dest_dir)
         if new_path:
             # Make Jekyll-relative path
-            rel = new_path.replace(
-                "/Users/tituspml/Documents/tituscapilnean_github/tituscapilnean.github.io",
-                ""
-            )
+            rel = new_path.replace(REPO_ROOT, "")
             img['src'] = rel
         else:
             broken.append(full_url)
@@ -184,6 +244,8 @@ def extract_article(filepath, db, year, month, slug):
     # ── Title ──────────────────────────────────────────────────────────────
     og_title = soup.find('meta', property='og:title')
     title = og_title['content'].strip() if og_title else ''
+    # Yoast appends the site name to og:title on the .com theme
+    title = re.sub(r'\s+[-|–]\s+Titus Capilnean$', '', title)
     if not title:
         h1 = soup.find('h1', class_='entry-title')
         title = h1.get_text(strip=True) if h1 else slug.replace('-', ' ').title()
@@ -197,9 +259,25 @@ def extract_article(filepath, db, year, month, slug):
         date_str = dt.strftime('%Y-%m-%d %H:%M:%S %z')
         date_ymd = dt.strftime('%Y-%m-%d')
     else:
-        # Fallback: use year/month from URL (day=01, time=noon UTC)
-        date_str = f"{year}-{month}-01 12:00:00 +0000"
-        date_ymd = f"{year}-{month}-01"
+        # Older theme: <time class="entry-date published" datetime="...">
+        t = (soup.find('time', class_='published') or soup.find('time', class_='entry-date'))
+        if t and t.get('datetime'):
+            dt = datetime.fromisoformat(t['datetime'].replace('Z', '+00:00'))
+            date_str = dt.strftime('%Y-%m-%d %H:%M:%S %z')
+            date_ymd = dt.strftime('%Y-%m-%d')
+        elif year:
+            # Fallback: use year/month from URL (day=01, time=noon UTC)
+            date_str = f"{year}-{month}-01 12:00:00 +0000"
+            date_ymd = f"{year}-{month}-01"
+        else:
+            return None   # flat permalink and no published date: can't place it
+    # Normalise to UTC so GitHub Pages never treats the post as future-dated
+    if not date_str.endswith('+0000'):
+        dt = datetime.strptime(date_str, '%Y-%m-%d %H:%M:%S %z')
+        dt = dt.astimezone(__import__('datetime').timezone.utc)
+        date_str = dt.strftime('%Y-%m-%d %H:%M:%S +0000')
+        date_ymd = dt.strftime('%Y-%m-%d')
+    year = date_ymd[:4]
 
     # ── Categories ─────────────────────────────────────────────────────────
     cats = list(dict.fromkeys([
@@ -211,6 +289,14 @@ def extract_article(filepath, db, year, month, slug):
         body_classes = soup.find('body').get('class', []) if soup.find('body') else []
         cats = [c.replace('category-', '').replace('-', ' ').title()
                 for c in body_classes if c.startswith('category-')]
+    if not cats:
+        art = soup.find('article')
+        cats = [c.replace('category-', '').replace('-', ' ').title()
+                for c in (art.get('class', []) if art else []) if c.startswith('category-')]
+    cats = [c for c in cats if c.lower() != 'uncategorized']
+    for extra in reversed(SITES[SITE]['extra_categories']):
+        if extra not in cats:
+            cats.insert(0, extra)
 
     # ── Tags ───────────────────────────────────────────────────────────────
     tags_container = soup.find(class_='tags-links')
@@ -243,8 +329,16 @@ def extract_article(filepath, db, year, month, slug):
     if not content_div:
         return None
 
+    # Drop related-posts and share widgets (Jetpack, Sociable, Zemanta, YARPP)
+    # and Facebook Like iframes before images/embeds are checked
+    for el in content_div.find_all(class_=re.compile(r'jp-relatedposts|sharedaddy|yarpp|zemanta|sociable')):
+        el.decompose()
+    for el in content_div.find_all('iframe', src=re.compile(r'facebook\.com/plugins/like')):
+        el.decompose()
+
     # Rewrite images and collect broken ones
     broken_images = rewrite_image_urls(content_div, db, year, slug)
+
 
     # Check for embed issues
     embed_issues = check_embeds(content_div)
@@ -323,7 +417,7 @@ def migrate_article(url, filename, db, dry_run=False):
     Returns (None, None, None) to signal silently skip (e.g. attachment page).
     """
     year, month, slug = url_to_date_and_slug(url)
-    if not year:
+    if slug is None:
         # Sub-page/attachment URL — not a blog post, skip silently
         return None, None, None
 
@@ -391,7 +485,7 @@ def print_stats(db):
     from collections import Counter
     year_pending = Counter()
     for url, slug in pending_urls:
-        m = re.match(r'https?://tituscapilnean\.ro/(\d{4})/', url)
+        m = re.match(r'https?://[^/]+/(\d{4})/', url)
         if m:
             year_pending[m.group(1)] += 1
     if year_pending:
@@ -406,9 +500,32 @@ def main():
     parser.add_argument('--url', help='Migrate specific URL')
     parser.add_argument('--batch', type=int, default=0, help='Migrate next N articles')
     parser.add_argument('--dry-run', action='store_true', help='Show what would be done')
+    parser.add_argument('--site', choices=sorted(SITES), default='ro', help='Which backup to read')
+    parser.add_argument('--content-dir', help='Archivarix .content.XXXX directory (overrides site default)')
+    parser.add_argument('--urls-file', help='Migrate only the URLs listed in this file (one per line)')
     args = parser.parse_args()
 
+    configure(args.site, args.content_dir)
     db = get_db()
+
+    if args.urls_file:
+        urls = [l.strip() for l in open(args.urls_file) if l.strip() and not l.startswith('#')]
+        ok_n = fail_n = 0
+        for i, u in enumerate(urls, 1):
+            row = db.execute(URL_QUERY, (u,)).fetchone()
+            if not row:
+                fail_n += 1
+                print(f"[{i}/{len(urls)}] FAIL: {u} — not in DB")
+                continue
+            ok, path, issues = migrate_article(row[0], row[1], db, dry_run=args.dry_run)
+            if ok:
+                ok_n += 1
+                print(f"[{i}/{len(urls)}] OK: {os.path.basename(path)}" + (f" ({', '.join(issues)})" if issues else ''))
+            else:
+                fail_n += 1
+                print(f"[{i}/{len(urls)}] FAIL: {u} — {issues}")
+        print(f"\nDone. Success: {ok_n}, Failures: {fail_n}")
+        return
 
     if args.stats:
         print_stats(db)

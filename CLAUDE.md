@@ -63,9 +63,14 @@ gh pr create --title "..." --body "..."
 
 ## Archivarix Migration
 
-Migrating ~1,621 blog posts from an Archivarix backup of the original WordPress site.
+Blog posts were migrated from two Archivarix backups of the original WordPress sites:
 
-**Source:** `/opt/homebrew/var/www/tituscapilnean_ro/.content.5jGCYXv6/`
+| Site | Backup | Distinct articles | Permalinks |
+|---|---|---|---|
+| tituscapilnean.ro | `/opt/homebrew/var/www/tituscapilnean_ro/.content.5jGCYXv6/` (default) | 1,341 | `/YYYY/MM/slug/` |
+| tituscapilnean.com | `tituscapilnean.com/.content.hs3rRz8O/` (pass `--site com --content-dir`) | 112 | `/slug/` |
+
+All articles from both backups are now in `_posts/`. (The older "~1,621" figure counted comment/attachment sub-pages.) Images live under `binary/` in the backup; anything not archived is listed as `# BROKEN_IMAGES` in the post's frontmatter.
 **Script:** `./migrate.py`
 **Branch:** `migrate/archivarix-posts` (PR to master — never push migration directly to master)
 
@@ -77,6 +82,8 @@ python3 migrate.py --batch 100      # migrate next 100 articles
 python3 migrate.py                  # migrate all remaining
 python3 migrate.py --url "http://tituscapilnean.ro/2009/03/my-post/"  # single article
 python3 migrate.py --batch 10 --dry-run  # preview without writing
+python3 migrate.py --urls-file urls.txt  # migrate only the listed URLs
+python3 migrate.py --site com --content-dir <path>/.content.hs3rRz8O --urls-file urls.txt
 ```
 
 ### What the script does
