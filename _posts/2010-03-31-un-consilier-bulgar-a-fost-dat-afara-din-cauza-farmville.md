@@ -7,9 +7,6 @@ author: titus_capilnean
 ---
 
 
-
-![farmville2](/assets/img/posts/2010/un-consilier-bulgar-a-fost-dat-afara-din-cauza-farmville/farmville2-400x239.png)
-
 Citeam azi dimineață că 19% din români se joacă online zilnic, unii în timpul orelor de job, deci știrea asta se potrivește la fix pentru acel procent din cei 1,4 milioane de români care se joacă online în fiecare zi.
 
 Așa cum am zis și în titlu, un consilier local din Bulgaria a fost dat afară pentru că se juca farmville în timpul ședințelor. Deși omul a fost avertizat de mai multe ori de către colegi și superiori, el a continuat să se joace până când a fost exclus prin vot, de către ceilalți consilieri. Acum știrea nu e cine știe ce dacă te uiți la ea.

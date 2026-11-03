@@ -16,6 +16,4 @@ Mai e apoi problema comunicării și așezării strategiei de conținut interna�
 
 Nu, nu vor convinge brandurile să renunțe la site-uri și să treacă integral pe Facebook.
 
-![](/assets/img/posts/2012/paginile-globale-de-brand-pe-facebook-o-greseala/28625109.jpg)
-
 

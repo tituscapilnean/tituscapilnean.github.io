@@ -9,9 +9,6 @@ author: titus_capilnean
 M-am hotărât să scriu și despre știrea care a zguduit online-ul și topul SATI săptămâna asta: Hi5 a finalizat analiza de trafic pentru SATI și a raportat peste 750.000 de vizitatori unici pe zi și peste 60.000.000 de afișări tot pe zi – depășind la mare distanță liderii de dinainte – cancan.ro sau neogen.ro
 
 
-
-![pitzipoancatuta1](/assets/img/posts/2009/sperietoarea-hi5/pitzipoancatuta1-400x300.png)
-
 Zic că a zguduit online-ul pentru că știrea asta a apărut pe refresh, pe blogul lui Stanca, pe blogul lui Dan, pe hotnews, etc.
 
 Părerea mea, probată cu niște observații în ultimele luni, este că **Hi5 nu e un mediu extraordinar de promovare**.

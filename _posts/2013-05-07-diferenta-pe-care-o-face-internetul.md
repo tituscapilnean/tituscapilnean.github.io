@@ -5,7 +5,6 @@ categories: ["Altele de online"]
 tags: ["internet"]
 author: titus_capilnean
 ---
-![37344331](/assets/img/posts/2013/diferenta-pe-care-o-face-internetul/37344331-150x150.jpg)
 
 
 Suntem toți de acord că internetul e plin de mizerii, de spam și de lucruri inutile, că ajunge să ocupe câteodată prea mult timp din viață, nelăsând loc pentru offline.

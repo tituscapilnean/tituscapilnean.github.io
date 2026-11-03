@@ -5,7 +5,6 @@ categories: ["Evenimente"]
 tags: ["bucuresti", "caritabil", "craciun"]
 author: titus_capilnean
 ---
-![](/assets/img/posts/2010/fa-sa-fie-bine-ai-cel-puțin-doua-ocazii/scrisoare_de_la_mos_craciun1-150x150.jpg)
 
 
 Săptămâna viitoare începe deja spiritul Crăciunului să intre peste noi, fie că vrem, fie că nu vrem. Cu ler, fără ler, vine. Dacă la noi toate astea înseamnă, de cele mai multe ori, momente cu familia, prietenii, colegii, relaxare, brad, colinde șamd, pentru o parte din mică din București nu e neapărat așa.
@@ -19,11 +18,9 @@ Doi dintre prietenii mei s-au gândit la partea asta a Bucureștiului, și anume
 Intrarea e 20 de lei, iar întreaga sumă strânsă este donată secției de oncologie de la spitalul ”Marie Curie”.
 
 
-
 Apoi, **pe 17 Decembrie** , după ce termini săptămâna, te invit pe **strada Zalomit 6**(adică la intersecția Brezoianu cu Cișmigiu), la ora 22, să faci să fie bine pentru copiii dintr-un orfelinat bucureștean.
 
 Se numește **A disco carol for the selfless selfish**. Ăsta e un party electro, disco, _// cu andrei//tazu//haios//dorroo_ , iar intrarea e **7 lei(reni, cum le zic ei)** , plus cât mai multe jucării de care să se bucure copiii sub brad în noaptea de Crăciun.
-
 
 
 Miercuri ai niște trupe mișto și o promisiune de party fain, iar vineri, dacă tot ieși în oraș, măcar **să hipsterești pentru o cauză**.

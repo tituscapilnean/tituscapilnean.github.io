@@ -5,7 +5,6 @@ categories: ["Altele de online"]
 tags: ["2012", "proteste", "revolutie", "romania"]
 author: titus_capilnean
 ---
-![](/assets/img/posts/2012/nu-ma-simt-in-siguranta/mmln25l-291x300.png)
 
 
 Asist și asistăm de câteva zile la niște mișcări de stradă cel puțin bizare. Nu intru în detaliile desfășurării acțiunii, ci vă invit să citiți întreaga poveste, mai la final. Problema mea, în momentul de față, ca locuitor al Bucureștiului, este că nu mă mai simt în siguranță în orașul meu.

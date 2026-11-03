@@ -11,8 +11,6 @@ Ultima dată când am scris despre numărul de utilizatori români de pe Faceboo
 Acum Facebook numără **1.302.000 de utilizatori localizați în România** , în stagnare de peste 30 de zile(chiar în ușoară scădere, cu 10-20 de mii, față de luna Aprilie).
 
 
-![](/assets/img/posts/2010/facebook-stagneaza-de-o-luna-de-zile/sum_countriesRO__3-400x230.png)
-
 Proporțiile de vârstă s-au păstrat aproximativ aceleași, cu peste 1.100.000 de utilizatori români peste vârsta de 18 ani:
 
 
@@ -36,7 +34,6 @@ Uitându-mă la evoluția de anul trecut a Facebook, ne putem aștepta liniști�
   * vin turiștii din vacanță și vor să își pună pozele pe net -> Facebook
   * încep campaniile de promovare de toamnă, în Telecom
   * intră o nouă generație la liceu/facultate, deci își fac conturi de Facebook, dacă nu au deja
-
 
 
 De când Twitter a început să fie din ce în ce mai instabil, Facebook este mult mai atractiv pentru interactivitatea pe care o garantează, dacă ai un număr suficient de prieteni activi.

@@ -5,7 +5,6 @@ categories: ["Social Media"]
 tags: ["cititori", "client", "continut", "cum-sa", "vox-populi"]
 author: titus_capilnean
 ---
-![](/assets/img/posts/2011/cunoaste-ti-clientii-primul-pas-catre-un-continut-de-calitate/content-or-design-150x150.gif)
 
 
 _Guest post scris de Flo(siteguru.ro)_

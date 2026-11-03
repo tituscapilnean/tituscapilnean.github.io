@@ -5,7 +5,6 @@ categories: ["Altele de online"]
 tags: ["lene", "munca", "oameni", "productivitate"]
 author: titus_capilnean
 ---
-![](/assets/img/posts/2012/nu-muncesti-nu-primesti/5216_cine-nu-munceste-150x150.jpg)
 
 
 Citeam de dimineață un articol antologic despre cât de mare e diferența dintre salariul CEO-ului de la McDonald’s și un simplu muncitor dintr-unul din restaurante – 580:1. Pe lângă apologia făcută stilului de viață greu și atacurile la corporatismul american nemilos, echilibrații de la Bloomberg uită să spună că acel CEO, ca de altfel oricare CEO, pe lângă responsabilitatea propriei persoane, poartă pe umeri joburile a 10, 100, 1000, 100.000 de angajați, cărora trebuie să le poată plăti X dolari pe oră, lună de lună, indiferent dacă sunt productivi sau uneori incompetenți, leneși sau nepricepuți.
@@ -18,7 +17,6 @@ Revenind la ale noastre, cred că putem împărți foarte ușor totul în 4 cate
   * **deștepți, dar leneși** – ar putea mai mult, dar e mai simplu să stea pe Facebook, să iasă la bere, să spargă ușa imediat, să tragă chiulul când pot, să scape de responsabilități
   * **proști, dar proactivi** – nu pot foarte mult, dar se străduie, fac treaba bine, pot ajunge departe dacă sunt susținuți
   * **deștepți și proactivi** , deci care vor crește, vor câștiga mai mult și vor fi invidiați
-
 
 
 E clar că primii vor fi cel mai prost plătiți, pentru că nici nu produc cine știe ce valoare. Cei deștepți au o șansă în plus, dar sunt trași în jos de lene, pentru că nu sunt prea productivi nici ei. Surpriza e că cei care nu-s așa de deștepți, dar sunt proactivi și harnici, vor câștiga mult mai mult decât cei deștepți și leneși. Ultima categorie e _selfexplanatory._

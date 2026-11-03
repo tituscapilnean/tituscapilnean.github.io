@@ -19,9 +19,6 @@ Dacă mergi în AFI Palace Cotroceni le sfârșitul lunii, îți personalizezi o
 Treaba asta se face destul de simplu, printr-un soft de iPad, fără să fie nevoie să știi design.
 
 
-
-![](/assets/img/posts/2010/puma-graffitti-creative-factory-pantofi-sport-personalizati-in-6-saptamani/P1060900-010-400x224.jpg)
-
 Trebuie doar să îți alegi culorile, materialele și să le îmbini cum știi tu mai bine.
 
 Ia un prieten/o prietenă cu tine, dacă nu ești sigur pe gusturile tale.
@@ -39,7 +36,6 @@ Ne-au întâmpinat organizatorii la intrarea in Kristal Glam Club(undeva în Pip
 Apoi am intrat și, pentru că am venit mai devreme, am putut să ne jucăm în voie cu iPad-urile și să ne facem încălțări personalizate. Eu mi-am făcut unii cu negru și albastru, dar am uitat să le fac poză – **fun moment #2**
 
 Guess Who și Andi Moisescu au desenat câte 10 perechi de pumeți și i-au expus în mijlocul eveniementului – i-am văzut pe toți și mi-au plăcut cel mai mult ăștia(făcuți de _Guess Who_):
-
 
 
 ![](/assets/img/posts/2010/puma-graffitti-creative-factory-pantofi-sport-personalizati-in-6-saptamani/149842_10150091440021204_757311203_7189185_3201115_n-400x225.jpg)

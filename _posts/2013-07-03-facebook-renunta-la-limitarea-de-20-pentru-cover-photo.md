@@ -9,9 +9,6 @@ author: titus_capilnean
 Socialbakers anunță că Facebook a renunțat (în sfârșit) la limitarea de 20% a suprafeței ocupate de text pe _cover photo_ -urile paginilor de brand. ~~Totuși, se păstrează restricțiile pentru promoții, date de contact (da, asta înseamnă și adrese de site-uri), săgeți către LIKE sau mesaje de call-to-action~~. **UPDATE:** Socialbakers sunt cam proști. În guideline-urile oficiale nu mai apar restricțiile astea. Apar în schimb alte lucruri de bun simț (nuditate, înjurături, butoane false etc.). Tx, Sabina.
 
 
-
-![the_best-3483](/assets/img/posts/2013/facebook-renunta-la-limitarea-de-20-pentru-cover-photo/the_best-3483-400x148.jpg)
-
 Părerea mea este că un _cover photo_ trebuie să se integreze cu poza de profil și să creeze o experiență vizuală în acord cu brandul prezent pe pagina în discuție. E ok să pui poze din magazin, packshots, însă nu cred că o să te ajute niciodată un citat motivațional nelegat de brand sau poze cu balonașe, pisici sau alte bazaconii.
 
 (sursa foto)

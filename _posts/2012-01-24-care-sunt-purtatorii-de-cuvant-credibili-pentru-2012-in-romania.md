@@ -9,9 +9,6 @@ author: titus_capilnean
 Din seria articolelor „pentru anul ăsta”, am văzut azi un studiu al **Edelman,** făcut în Marea Britanie, unde rata de penetrare a internetului este mai mare decât a televizorului**.** Ei au descoperit o creștere destul de mare a omului obișnuit și a angajatului simplu:
 
 
-
-![](/assets/img/posts/2012/care-sunt-purtatorii-de-cuvant-credibili-pentru-2012-in-romania/screen_shot_2012-01-24_at_09.40-blog-full-400x298.png)
-
 Graficul de mai sus e destul de grăitor pentru modul în care o să arate comunicarea în 2012 pe online. Aș merge atât de departe încât să zic că și în România se întâmplă același lucru. Totuși, vreau să verific chestia asta și supun votului vostru următorul poll:
 
 **O companie are nevoie să comunice în 2012.**

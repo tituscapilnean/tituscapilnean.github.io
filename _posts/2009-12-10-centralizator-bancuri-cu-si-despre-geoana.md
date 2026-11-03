@@ -7,9 +7,6 @@ author: titus_capilnean
 ---
 
 
-
-![Memes-danger](/assets/img/posts/2009/centralizator-bancuri-cu-si-despre-geoana/Memes-danger-388x300.png)
-
 sursa foto
 
 **Update** : am găsit un set cu Băse și Geoană. Iar Alex Bleau are un PDF cu bancuri despre Geoana(download).
@@ -29,7 +26,7 @@ Raspuns : Intrebati-l pe Geoana.
 “S-a gasit baietelul batut de Basescu…….se numeste Mircea Geoana!”
 
 “Ce face acum Vanghelie? – Caută pe goagal să vadă ce înseamnă diaspora, să o cheme la ordine”.  
-  
+
 “Cine este în spatele lui Băsescu? Mircea Geoană”.
 
 Cel mai scurt banc: “Geoană, preşedinte!”

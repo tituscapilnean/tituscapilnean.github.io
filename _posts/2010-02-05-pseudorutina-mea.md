@@ -17,12 +17,8 @@ Programul de lucru nu are rost sa îl expun aici, așa că trec direct la seară
   3. Mă duc acasă și mă apuc de treabă la orice alt proiect mai lucrez în timpul meu liber
 
 
-
 Ajung să mă culc pe la 11-12 în zilele bune și nu, nu folosesc taskwriter sau alte tooluri, ci **sfântul Notepad** 🙂
 
-
-
-![19871129](/assets/img/posts/2010/pseudorutina-mea/19871129-400x282.gif)
 
 sursa comic-ului
 

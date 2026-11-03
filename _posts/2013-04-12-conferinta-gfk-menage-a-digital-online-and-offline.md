@@ -23,22 +23,12 @@ Am mai aflat despre Digitally Natives și Digital Immigrants:
 **O imagine face cât 1000 de cuvinte, deci 3 imagini fac cât…**
 
 
-
-
-
-
-
-![](/assets/img/posts/2013/conferinta-gfk-menage-a-digital-online-and-offline/digital-natives-150x150.png)
-
 ![](/assets/img/posts/2013/conferinta-gfk-menage-a-digital-online-and-offline/digital-immigrants-and-migrants-150x150.jpg)
 
 ![](/assets/img/posts/2013/conferinta-gfk-menage-a-digital-online-and-offline/digital-natives-copy-150x150.jpg)
 
 _Trenduri pentru digital natives:_ trăiesc în lumea mixta (online și offline), vor să artate bine și le place să aibă parte de _fresh fun_
 
-
-
-![social media](/assets/img/posts/2013/conferinta-gfk-menage-a-digital-online-and-offline/social-media-374x300.jpg)
 
 Digitally natives sunt _hipsteri bio, grasi si narcisisti, care gusta glumele politcally incorrect_.
 
@@ -52,7 +42,6 @@ Nu mai știu cine a zis-o, dar nu a fost combătut, așa că nu o luați ca fact
 
   * Awareness
   * Purchase intent
-
 
 
 …pe internet. Și că bannerul nu e mort, nu există banner blindness și că influencerii care zic că nu văd bannerele mint sau sunt manipulați în subconștient (oare care variantă o fi mai rea?).
@@ -81,7 +70,6 @@ După pauză, am continuat cu o prezentare despre experienta consumatorului – 
   * Cei care cauta online cumpara si offline.
   * Trebuie sa fii peste tot – consumatorul cauta in multe locuri
   * Search si agregatoarele cresc traficul in magazin
-
 
 
 Mobilele au un rol cheie in decizia de cumparare.

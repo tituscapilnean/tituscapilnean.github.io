@@ -15,9 +15,6 @@ Mergând mai departe, am intrat pe pagina de slideshare a lui Ayman Sarhan, unde
 Din Q2 2008 am extras un mod foarte tare de a recruta geeks.
 
 
-
-![mate](/assets/img/posts/2009/publicitate-care-o-simti/mate-400x246.jpg)
-
 E destul de simplu de rezolvat, însă ideea în sine mi-a atras atenţia. Se dau două variabile, din care am compus numărul de telefon. Dacă eşti suficient de atent să îţi dai seama cum se rezolvă, atunci meriţi să suni. Dacă nu, vei tot suna la numere greşite 🙂 Ingenios. Aşa faci prima selecţie – cei care gândesc logici şi analitic trec mai departe de Ad şi sună.
 
 Rezolvare:
@@ -41,7 +38,6 @@ Deci sun la 01.876.80.80
 Foarte tare 🙂
 
 M-am uitat apoi la prezentarea de pe Q3 2009 – proaspătă şi încă aburind. Aici am găsit o reclamă la un produs farmaceutic, care a folosit revista ca un mediu în care poate replica fizic efectele nefolosirii produsului(sau pentru ce tip de afecţiune constituie un remediu). Efectul este unul….lipicios 🙂
-
 
 
 Era atât de proaspătă prezentarea încât nici măcar mucul de pe revistă nu apucase să se usuce.

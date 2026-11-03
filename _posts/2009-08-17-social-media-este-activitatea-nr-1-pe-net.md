@@ -67,9 +67,6 @@ _Se prevede sfârșitul cărților tipărite pe hârtie. Nu va mai fi nevoie pur
 16\. Campaniile pe social media arată mai mult a planificare de petrecere, agregare și producere de conținut decât a advertising. Modul de a face lucrurile seamănă mai mult cu consultanța – se ascultă, apoi se vinde.
 
 
-
-![3598356119_bd22769c3e_o](/assets/img/posts/2009/social-media-este-activitatea-nr-1-pe-net/3598356119_bd22769c3e_o-400x220.jpg)
-
 sursa FOTO
 
 Social media a deschis niște uși unor oameni care fără uneltele acestea ar fi ajuns mult mai greu lideri în comunitățile lor. Oriunde în lume există oameni extraordinari cu idei extraordinare. Cea mai tare expresie care definește fraza anterioară este:

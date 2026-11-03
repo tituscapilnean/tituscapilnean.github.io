@@ -5,7 +5,6 @@ categories: ["Relatii Publice"]
 tags: ["brainstorming", "idei", "imm", "online"]
 author: titus_capilnean
 ---
-![](/assets/img/posts/2011/brainstorming-despre-pr-online/1-150x150.jpg)
 
 
 …sau mai bine zis blogstorming. Vă rog să mă ajutați un pic cu câteva idei.

@@ -5,7 +5,6 @@ categories: ["Altele de online"]
 tags: ["concept", "idei", "web-3.0"]
 author: titus_capilnean
 ---
-![](/assets/img/posts/2012/web-3-0-nu-e-o-revolutie-e-o-expansiune/web30-150x150.jpg)
 
 
 Web 3.0 încă nu există, e un concept pentru viitor, e pe piață de prin 2009 și o să devină realitate probabil după 2015 în SUA și UK, după 2020 în România. El presupune, din punctul meu de vedere, un principiu foarte simplu. Internetul sau rețeaua globală de comunicații va deveni parte integrantă a cel puțin 75% din populația lumii, contribuind la creșterea eficienței treburilor de zi cu zi(începând cu facturi, management de cont bancar, comenzi de diverse servicii, plăți și terminând cu soluții complexe de colaborare) și, ca atare, a calității vieții.

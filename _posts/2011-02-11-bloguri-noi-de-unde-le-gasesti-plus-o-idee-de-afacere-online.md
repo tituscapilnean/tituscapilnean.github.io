@@ -8,7 +8,6 @@ author: titus_capilnean
 
 Stăteam azi și mă gândeam că nu am o sursă de bloguri noi, pe care să le încerc. Dacă îmi plac, să le bag în Reader și să cresc colecția personală de bloguri.
 
-![](/assets/img/posts/2011/bloguri-noi-de-unde-le-gasesti-plus-o-idee-de-afacere-online/041106bloggersdilem-x-150x150.gif)
 
 Tot gândindu-mă la treburile astea am zis să scriu pe blog și să te întreb pe tine, cititorule, **de unde găsești blogurile noi pe care le citești, cum îți împrospătezi lista?**
 

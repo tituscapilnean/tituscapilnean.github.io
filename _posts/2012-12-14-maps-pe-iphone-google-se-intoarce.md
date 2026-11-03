@@ -12,6 +12,4 @@ Era și normal, aplicația de hărți a Apple era o mizerie, iar alternativele (
 
 Your move, Apple!
 
-![](/assets/img/posts/2012/maps-pe-iphone-google-se-intoarce/1780.jpg)
-
 

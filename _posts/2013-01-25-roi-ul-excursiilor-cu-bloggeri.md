@@ -7,9 +7,6 @@ author: titus_capilnean
 ---
 
 
-
-![](/assets/img/posts/2013/roi-ul-excursiilor-cu-bloggeri/roi_investreturn-400x257.gif)
-
 Dragă client de servicii de comunicare online/social media,
 
 Nu știu dacă agenția sau consultantul tău ți-a spus asta, dar fiecare campanie online pe care o faci trebuie să aibă o contribuție la **Return On Investment** -ul rezultat din eforturile și bugetele de comunicare alocate de către firma ta.

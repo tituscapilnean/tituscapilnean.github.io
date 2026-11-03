@@ -5,7 +5,6 @@ categories: ["Social Media"]
 tags: ["conexiuni", "din-online", "eticheta", "prietenie"]
 author: titus_capilnean
 ---
-![32651228](/assets/img/posts/2013/nu-te-cunosc/32651228-150x150.jpg)
 
 
 Dragă adăugător de prieteni pe Facebook,
