@@ -2,7 +2,7 @@
 title: "Asa, de alegeri – observati vreo diferenta?"
 date: 2009-12-06 14:08:26 +0000
 categories: ["Altele de online"]
-tags: ["alegeri", "basescu", "electoral", "geoana", "lupta", "murdara", "pdl", "psd"]
+tags: ["alegeri", "basescu", "geoana"]
 author: titus_capilnean
 ---
 

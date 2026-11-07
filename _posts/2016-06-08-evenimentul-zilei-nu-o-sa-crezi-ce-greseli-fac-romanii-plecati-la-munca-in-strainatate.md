@@ -2,7 +2,7 @@
 title: "Evenimentul Zilei – Nu o să crezi ce greșeli fac românii plecați la muncă în străinătate"
 date: 2016-06-08 10:11:48 +0000
 categories: ["Relatii Publice"]
-tags: ["diaspora", "diaspora-digitala", "editorial", "educatie-financiara", "transfergo"]
+tags: ["diaspora", "educatie-financiara", "transfergo"]
 author: titus_capilnean
 ---
 

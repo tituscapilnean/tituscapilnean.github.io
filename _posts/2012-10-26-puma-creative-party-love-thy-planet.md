@@ -2,7 +2,7 @@
 title: "Puma Creative Party – Love thy Planet"
 date: 2012-10-26 15:43:58 +0000
 categories: ["Altele de online"]
-tags: ["asa-da", "lansare", "love-thy-planet", "puma", "vox-populi"]
+tags: ["asa-da", "lansare", "puma", "vox-populi"]
 author: titus_capilnean
 ---
 

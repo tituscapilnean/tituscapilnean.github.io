@@ -2,7 +2,7 @@
 title: "Traditional vs. Self-Funded Business Acquisition"
 date: 2024-01-04 10:00:00 +0000
 categories: [English, Finance]
-tags: [private market labs, smb, acquisition, search fund, self-funded, buyers]
+tags: [private market labs, smb, acquisition, search fund, buyers]
 author: titus_capilnean
 ---
 

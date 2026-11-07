@@ -2,7 +2,7 @@
 title: "Un feedback pentru Blogalinitiative.ro – campanii mari vs campanii mici"
 date: 2011-08-02 13:47:12 +0000
 categories: ["Altele de online"]
-tags: ["blogal-intiative", "campanii", "chinezu", "feedback", "idei"]
+tags: ["blogal-intiative", "campanii", "feedback", "idei"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2011/un-feedback-pentru-blogalinitiative-ro-campanii-mari-vs-campanii-mici/less_is_more-150x150.jpg)

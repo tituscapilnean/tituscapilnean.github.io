@@ -2,7 +2,7 @@
 title: "Caut cea mai enervanta reclama"
 date: 2010-11-29 17:58:34 +0000
 categories: ["Publicitate"]
-tags: ["crowdsourcing"]
+tags: []
 author: titus_capilnean
 ---
 

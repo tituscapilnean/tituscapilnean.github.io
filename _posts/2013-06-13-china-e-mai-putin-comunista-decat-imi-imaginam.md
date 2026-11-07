@@ -2,7 +2,7 @@
 title: "China e mai putin comunista decat imi imaginam"
 date: 2013-06-13 12:12:20 +0000
 categories: ["Turism"]
-tags: ["china", "impresii", "mba", "scoala", "shanghai", "turism"]
+tags: ["china", "mba", "scoala"]
 author: titus_capilnean
 ---
 

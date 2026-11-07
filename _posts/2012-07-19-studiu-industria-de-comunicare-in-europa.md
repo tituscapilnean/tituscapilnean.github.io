@@ -2,7 +2,7 @@
 title: "Studiu: Industria de comunicare în Europa (2012)"
 date: 2012-07-19 07:55:24 +0000
 categories: ["Sondaje și Studii"]
-tags: ["euprera", "europa", "pr", "studiu"]
+tags: ["europa", "pr", "studiu"]
 author: titus_capilnean
 # EMBED_ISSUES: 1 embed(s) need review
 #   - [iframe] http://www.slideshare.net/slideshow/embed_code/13544824

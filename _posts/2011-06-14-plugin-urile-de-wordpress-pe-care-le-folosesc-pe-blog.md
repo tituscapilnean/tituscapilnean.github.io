@@ -2,7 +2,7 @@
 title: "Plugin-urile de WordPress pe care le folosesc pe blog"
 date: 2011-06-14 09:28:21 +0000
 categories: ["Social Media"]
-tags: ["plugin", "sfaturi", "wordpress"]
+tags: ["sfaturi", "wordpress"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Una pe zi – Urmeaza-ti visul, nu e imposibil!"
 date: 2009-12-03 16:22:49 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["aspiratie", "bere", "budweiser", "entuziasm", "magar"]
+tags: ["bere", "budweiser"]
 author: titus_capilnean
 ---
 

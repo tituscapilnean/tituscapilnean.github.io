@@ -2,7 +2,7 @@
 title: "Nu te cunosc"
 date: 2013-05-31 15:12:04 +0000
 categories: ["Social Media"]
-tags: ["conexiuni", "din-online", "eticheta", "prietenie"]
+tags: []
 author: titus_capilnean
 ---
 

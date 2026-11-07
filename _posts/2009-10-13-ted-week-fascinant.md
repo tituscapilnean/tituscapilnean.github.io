@@ -2,7 +2,7 @@
 title: "Una pe zi – TED Week – fascinant"
 date: 2009-10-13 19:51:08 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["explorare", "fascinant", "spatiu", "tedx", "tedxbucharest"]
+tags: ["tedx", "tedxbucharest"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Johnnie și Mika"
 date: 2013-06-06 12:05:21 +0000
 categories: ["Evenimente"]
-tags: ["hakkinen", "johnnie-walker", "pact", "party"]
+tags: ["party"]
 author: titus_capilnean
 ---
 

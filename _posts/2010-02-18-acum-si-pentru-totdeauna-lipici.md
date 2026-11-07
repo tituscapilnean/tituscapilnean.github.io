@@ -2,7 +2,7 @@
 title: "Acum si pentru totdeauna – lipici"
 date: 2010-02-18 16:17:42 +0000
 categories: ["Publicitate"]
-tags: ["lipici", "print"]
+tags: ["print"]
 author: titus_capilnean
 ---
 

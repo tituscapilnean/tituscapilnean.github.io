@@ -2,7 +2,7 @@
 title: "Petrecerea PUMA si after-hours athlete"
 date: 2011-05-10 16:49:55 +0000
 categories: ["Evenimente"]
-tags: ["after-hours", "atlet", "campanie", "party", "puma"]
+tags: ["campanie", "party", "puma"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2011/petrecerea-puma-si-after-hours-athlete/puma-aferthours-social-athlete-150x150.jpg)

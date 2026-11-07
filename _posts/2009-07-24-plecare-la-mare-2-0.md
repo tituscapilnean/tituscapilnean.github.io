@@ -2,7 +2,7 @@
 title: "Plecare la mare 2.0"
 date: 2009-07-24 15:04:43 +0000
 categories: ["Altele de online"]
-tags: ["anunt", "blogging", "calatorie", "job", "locuri-de-blog", "mare", "vineri"]
+tags: ["anunt", "blogging", "job", "locuri-de-blog", "mare", "vineri"]
 author: titus_capilnean
 ---
 

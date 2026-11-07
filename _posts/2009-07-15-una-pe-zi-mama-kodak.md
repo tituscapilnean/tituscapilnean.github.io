@@ -2,7 +2,7 @@
 title: "Una pe zi – Mama Kodak"
 date: 2009-07-15 22:07:26 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["kodak", "mama"]
+tags: []
 author: titus_capilnean
 ---
 

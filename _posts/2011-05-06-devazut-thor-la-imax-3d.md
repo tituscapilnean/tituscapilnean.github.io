@@ -2,7 +2,7 @@
 title: "#devazut – Thor la IMAX 3D"
 date: 2011-05-06 09:58:49 +0000
 categories: ["Filme Bucuresti"]
-tags: ["film", "imax", "samsung", "thor"]
+tags: ["film", "imax", "samsung"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2011/devazut-thor-la-imax-3d/thor-3D-150x150.jpg)

@@ -2,7 +2,7 @@
 title: "Un preview pentru Kung Fu Panda 2 și sneak preview pentru Puss in Boots"
 date: 2011-05-13 10:00:45 +0000
 categories: ["Filme Bucuresti"]
-tags: ["film", "imax", "kung-fu-panda-2", "samsung"]
+tags: ["film", "imax", "samsung"]
 author: titus_capilnean
 ---
 

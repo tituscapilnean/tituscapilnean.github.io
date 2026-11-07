@@ -2,7 +2,7 @@
 title: "Ce zice semnul ala?"
 date: 2009-09-15 11:39:18 +0000
 categories: ["Altele de online"]
-tags: ["altele-de-online", "america", "ooh", "politia", "semn-de-circulatie"]
+tags: ["altele-de-online", "america", "ooh", "politia"]
 author: titus_capilnean
 ---
 

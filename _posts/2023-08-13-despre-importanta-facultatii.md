@@ -2,7 +2,7 @@
 title: Despre importanța facultății și cum să te asiguri că ești angajabil
 date: 2023-08-13 10:00:00 +0300
 categories: [Romanian, Altele]
-tags: [educație, carieră, angajabilitate]
+tags: []
 author: titus_capilnean
 ---
 

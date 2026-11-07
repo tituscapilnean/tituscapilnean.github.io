@@ -2,7 +2,7 @@
 title: "Un studiu eBay arată că Search Engine Marketing nu contează în vânzări"
 date: 2013-03-13 09:18:06 +0000
 categories: ["Marketing"]
-tags: ["ebay", "irelevanta", "sem", "seo", "studiu"]
+tags: ["seo", "studiu"]
 author: titus_capilnean
 # EMBED_ISSUES: 1 embed(s) need review
 #   - [iframe] http://www.slideshare.net/slideshow/embed_code/17137911

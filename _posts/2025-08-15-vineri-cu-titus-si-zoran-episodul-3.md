@@ -2,7 +2,7 @@
 title: "Vineri cu Titus și Zoran – episodul 3"
 date: 2025-08-15 13:00:00 +0300
 categories: [Podcast, Romania]
-tags: [geopolitica, coruptie, administratie, romania, ue, sua]
+tags: [geopolitica, coruptie, romania, ue, sua]
 author: titus_capilnean
 ---
 

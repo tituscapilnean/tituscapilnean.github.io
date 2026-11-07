@@ -2,7 +2,7 @@
 title: "Social media e o unealta, nu o strategie de comunicare"
 date: 2011-05-25 15:23:25 +0000
 categories: ["Online Training"]
-tags: ["comunicare", "expert", "online", "social-media"]
+tags: ["comunicare", "online", "social-media"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2011/social-media-e-o-unealta-nu-o-strategie-de-comunicare/social-media-tool-150x150.jpg)

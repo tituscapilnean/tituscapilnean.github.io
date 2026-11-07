@@ -2,7 +2,7 @@
 title: "Una pe zi – cu helpdeskuri"
 date: 2009-10-01 15:19:43 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["distractiv", "helpdesk", "imagini"]
+tags: ["distractiv"]
 author: titus_capilnean
 ---
 

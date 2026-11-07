@@ -2,7 +2,7 @@
 title: "Super 8 la Movieplex Bucuresti"
 date: 2011-07-27 08:00:03 +0000
 categories: ["Evenimente"]
-tags: ["film", "movieplex", "super-8", "vox-populi"]
+tags: ["film", "vox-populi"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2011/super-8-la-movieplex-bucuresti/image002-208x300.jpg)

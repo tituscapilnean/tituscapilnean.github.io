@@ -2,7 +2,7 @@
 title: "Una pe zi – KFC cu o reclama prost gandita"
 date: 2010-01-11 14:46:48 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["albi", "australia", "kfc", "negri", "pui", "rasism"]
+tags: ["kfc", "rasism"]
 author: titus_capilnean
 ---
 

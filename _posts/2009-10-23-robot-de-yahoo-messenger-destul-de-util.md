@@ -2,7 +2,7 @@
 title: "Robot de Yahoo Messenger – destul de util"
 date: 2009-10-23 08:55:23 +0000
 categories: ["Social Media"]
-tags: ["automat", "infobot", "misto", "robot", "yahoo"]
+tags: ["yahoo"]
 author: titus_capilnean
 ---
 

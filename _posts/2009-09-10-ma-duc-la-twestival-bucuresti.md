@@ -2,7 +2,7 @@
 title: "Ma duc la Twestival Bucuresti"
 date: 2009-09-10 12:01:28 +0000
 categories: ["Social Media"]
-tags: ["bucuresti", "concurs", "premiu", "twestival", "twitter"]
+tags: ["bucuresti", "concurs", "premiu", "twitter"]
 author: titus_capilnean
 ---
 

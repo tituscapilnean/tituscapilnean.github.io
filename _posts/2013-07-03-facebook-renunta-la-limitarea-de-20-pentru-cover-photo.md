@@ -2,7 +2,7 @@
 title: "Facebook renunță la limitarea de 20% pentru Cover Photo"
 date: 2013-07-03 11:25:30 +0000
 categories: ["Social Media"]
-tags: ["cover-photo", "facebook", "reguli"]
+tags: ["facebook", "reguli"]
 author: titus_capilnean
 ---
 

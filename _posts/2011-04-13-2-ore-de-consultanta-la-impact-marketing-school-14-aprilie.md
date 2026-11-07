@@ -2,7 +2,7 @@
 title: "2 ore de consultanta la Impact Marketing School – 14 Aprilie"
 date: 2011-04-13 07:52:39 +0000
 categories: ["Evenimente"]
-tags: ["conferinta", "impact", "ong", "training", "vip", "vorbitor"]
+tags: ["conferinta", "ong", "training", "vorbitor"]
 author: titus_capilnean
 ---
 

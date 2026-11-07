@@ -2,7 +2,7 @@
 title: "Twitter vs. Facebook vs. Google Buzz"
 date: 2010-02-16 08:57:14 +0000
 categories: ["Social Media"]
-tags: ["buzz", "facebook", "poll", "twitter"]
+tags: ["buzz", "facebook", "twitter"]
 author: titus_capilnean
 ---
 

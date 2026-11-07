@@ -2,7 +2,7 @@
 title: "Ce faci dacă cineva îți fură identitatea pe Facebook?"
 date: 2010-11-29 13:17:09 +0000
 categories: ["Social Media"]
-tags: ["facebook", "furt", "identitate"]
+tags: ["facebook", "furt"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Una pe zi – TED Week – Informativ"
 date: 2009-10-14 21:02:17 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["perceptie", "ted-talk", "tedx", "tedxbucharest", "valoare"]
+tags: ["ted-talk", "tedx", "tedxbucharest"]
 author: titus_capilnean
 ---
 

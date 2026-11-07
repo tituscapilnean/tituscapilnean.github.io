@@ -2,7 +2,7 @@
 title: "Coborare virtuala pe Valea Dorului"
 date: 2010-02-16 14:02:28 +0000
 categories: ["Altele de online"]
-tags: ["kite", "personal", "snowboard", "weekend"]
+tags: ["personal", "snowboard", "weekend"]
 author: titus_capilnean
 ---
 

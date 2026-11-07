@@ -2,7 +2,7 @@
 title: "15% din utilizatorii de iPhone ar renunta la sex ca sa nu fie departe de mobil un weekend"
 date: 2012-09-06 10:34:10 +0000
 categories: ["Sondaje și Studii"]
-tags: ["dependenta", "infografice", "piata", "smartphone"]
+tags: ["infografice", "piata"]
 author: titus_capilnean
 ---
 

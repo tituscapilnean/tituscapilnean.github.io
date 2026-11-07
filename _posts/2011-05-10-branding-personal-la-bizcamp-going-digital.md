@@ -2,7 +2,7 @@
 title: "Branding personal la Bizcamp – going digital"
 date: 2011-05-10 08:34:50 +0000
 categories: ["Evenimente"]
-tags: ["bizcamp", "branding", "comunicare", "online", "training"]
+tags: ["branding", "comunicare", "online", "training"]
 author: titus_capilnean
 ---
 

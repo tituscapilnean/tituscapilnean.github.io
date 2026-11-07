@@ -2,7 +2,7 @@
 title: "Mai scriu si prin alte parti"
 date: 2010-09-14 10:25:33 +0000
 categories: ["Evenimente"]
-tags: ["aiesec", "practica", "training", "university"]
+tags: ["aiesec", "training"]
 author: titus_capilnean
 ---
 

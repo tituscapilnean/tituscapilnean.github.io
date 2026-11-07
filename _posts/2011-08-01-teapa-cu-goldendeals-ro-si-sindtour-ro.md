@@ -2,7 +2,7 @@
 title: "Teapa[ si rezolvare] cu Goldendeals.ro si Sindtour.ro"
 date: 2011-08-01 13:36:03 +0000
 categories: ["Turism"]
-tags: ["asa-nu", "group-buying", "oferte", "romania", "teapa"]
+tags: ["asa-nu", "romania", "teapa"]
 author: titus_capilnean
 ---
 

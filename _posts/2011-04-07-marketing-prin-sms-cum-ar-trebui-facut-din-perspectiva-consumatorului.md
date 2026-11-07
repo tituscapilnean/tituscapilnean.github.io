@@ -2,7 +2,7 @@
 title: "Marketing prin SMS – cum ar trebui facut – din perspectiva consumatorului"
 date: 2011-04-07 15:48:52 +0000
 categories: ["Marketing"]
-tags: ["asa-da", "asa-nu", "cum-se-face", "idei", "sms"]
+tags: ["asa-da", "asa-nu", "idei"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2011/marketing-prin-sms-cum-ar-trebui-facut-din-perspectiva-consumatorului/sms-uri-amuzante-150x150.gif)

@@ -2,7 +2,7 @@
 title: "Gara de Arta"
 date: 2009-05-13 17:18:00 +0000
 categories: ["Evenimente"]
-tags: ["arta", "campanie", "gara", "metrou"]
+tags: ["arta", "campanie", "metrou"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Delictul de opinie in online"
 date: 2011-11-27 13:57:41 +0000
 categories: ["Relatii Publice"]
-tags: ["delict-de-opinie", "online", "pareri"]
+tags: ["online"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2011/delictul-de-opinie-in-online/prison-150x150.jpg)

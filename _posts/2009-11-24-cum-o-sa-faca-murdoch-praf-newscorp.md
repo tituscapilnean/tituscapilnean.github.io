@@ -2,7 +2,7 @@
 title: "Cum o sa faca Murdoch praf Newscorp"
 date: 2009-11-24 06:47:45 +0000
 categories: ["Social Media"]
-tags: ["bing", "continut", "google", "indexare", "murdoch", "newscorp", "plata"]
+tags: ["bing", "continut", "google"]
 author: titus_capilnean
 ---
 

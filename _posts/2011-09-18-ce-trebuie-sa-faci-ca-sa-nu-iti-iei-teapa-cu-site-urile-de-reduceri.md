@@ -2,7 +2,7 @@
 title: "Ce trebuie sa faci ca sa nu iti iei teapa cu site-urile de reduceri"
 date: 2011-09-18 21:04:16 +0000
 categories: ["Marketing"]
-tags: ["c&c", "groupon", "karting", "reduceri", "teapa"]
+tags: ["groupon", "teapa"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2011/ce-trebuie-sa-faci-ca-sa-nu-iti-iei-teapa-cu-site-urile-de-reduceri/reduceri-de-pret.jpg)

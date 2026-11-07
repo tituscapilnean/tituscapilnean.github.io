@@ -2,7 +2,7 @@
 title: "Ce îmi amintesc eu despre comunism"
 date: 2013-09-03 09:32:17 +0000
 categories: ["Business & Investitii"]
-tags: ["anarhism", "capitalism", "comunism"]
+tags: []
 author: titus_capilnean
 ---
 ![Jos-capitalismul-520x260](/assets/img/posts/2013/ce-imi-amintesc-eu-despre-comunism/Jos-capitalismul-520x260-400x200.jpg)

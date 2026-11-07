@@ -2,7 +2,7 @@
 title: "Fara muzica de 2 zile"
 date: 2010-02-17 14:17:24 +0000
 categories: ["Cu telefonul"]
-tags: ["energie", "muzica", "personal"]
+tags: ["muzica", "personal"]
 author: titus_capilnean
 ---
 

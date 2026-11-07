@@ -2,7 +2,7 @@
 title: "TEDx Bucharest live online – Videoclipuri"
 date: 2009-11-16 13:41:20 +0000
 categories: ["Evenimente"]
-tags: ["filmari", "final-2009", "tedx", "tedxbucharest", "videoclipuri"]
+tags: ["filmari", "tedx", "tedxbucharest", "videoclipuri"]
 author: titus_capilnean
 ---
 

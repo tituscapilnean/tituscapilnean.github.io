@@ -2,7 +2,7 @@
 title: "Cum să convertești un profil de Facebook în pagină de business"
 date: 2012-04-10 16:08:53 +0000
 categories: ["Online Training"]
-tags: ["conversie", "facebook", "pagina", "vox-populi"]
+tags: ["facebook", "vox-populi"]
 author: titus_capilnean
 ---
 

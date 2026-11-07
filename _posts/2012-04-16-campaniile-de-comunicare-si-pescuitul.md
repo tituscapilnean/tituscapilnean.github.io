@@ -2,7 +2,7 @@
 title: "Campaniile de comunicare și pescuitul"
 date: 2012-04-16 10:08:40 +0000
 categories: ["Relatii Publice"]
-tags: ["campanii", "cum-sa-faci", "online", "pescuit"]
+tags: ["campanii", "cum-sa-faci", "online"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2012/campaniile-de-comunicare-si-pescuitul/6615532-0-large-150x150.jpg)

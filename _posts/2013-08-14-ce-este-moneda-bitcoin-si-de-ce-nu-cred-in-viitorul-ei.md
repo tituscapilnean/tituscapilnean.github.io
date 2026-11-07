@@ -2,7 +2,7 @@
 title: "Ce este moneda Bitcoin și de ce nu cred în viitorul ei"
 date: 2013-08-14 09:08:35 +0000
 categories: ["Business & Investitii"]
-tags: ["bitcoin", "ce-e", "investitii", "recomandari"]
+tags: ["investitii"]
 author: titus_capilnean
 ---
 

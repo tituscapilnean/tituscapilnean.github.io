@@ -2,7 +2,7 @@
 title: "Una pe zi – O sun pe Mirela, mai ieftin ca Cola"
 date: 2009-09-20 08:33:23 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["cosmote", "telecom"]
+tags: ["telecom"]
 author: titus_capilnean
 ---
 

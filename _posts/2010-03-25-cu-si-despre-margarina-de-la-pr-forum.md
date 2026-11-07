@@ -2,7 +2,7 @@
 title: "Cu si despre margarina de la PR Forum"
 date: 2010-03-25 13:26:35 +0000
 categories: ["Evenimente", "Marketing"]
-tags: ["creativitate", "margarina", "prforum"]
+tags: ["creativitate"]
 author: titus_capilnean
 ---
 

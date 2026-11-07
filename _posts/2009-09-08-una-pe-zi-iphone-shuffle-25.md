@@ -2,7 +2,7 @@
 title: "Una pe zi – iPhone Shuffle 2/5"
 date: 2009-09-08 13:19:01 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["shuffle"]
+tags: []
 author: titus_capilnean
 ---
 

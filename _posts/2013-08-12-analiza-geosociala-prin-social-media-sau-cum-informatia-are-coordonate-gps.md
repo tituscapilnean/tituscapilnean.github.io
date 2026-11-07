@@ -2,7 +2,7 @@
 title: "Analiza GeoSocială prin Social Media sau cum informația are coordonate GPS"
 date: 2013-08-12 13:15:08 +0000
 categories: ["Social Media"]
-tags: ["big-data", "geolocatie", "geosocial-media", "statistica", "viitor"]
+tags: ["statistica", "viitor"]
 author: titus_capilnean
 # EMBED_ISSUES: 1 embed(s) need review
 #   - [iframe] http://www.slideshare.net/slideshow/embed_code/25166883

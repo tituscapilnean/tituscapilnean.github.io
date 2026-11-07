@@ -2,7 +2,7 @@
 title: "Colibri sau Emu"
 date: 2009-09-07 20:13:07 +0000
 categories: ["Social Media"]
-tags: ["colibri", "emu", "junk", "twitter"]
+tags: ["twitter"]
 author: titus_capilnean
 ---
 

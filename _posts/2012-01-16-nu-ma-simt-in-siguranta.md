@@ -2,7 +2,7 @@
 title: "Nu ma simt in siguranta"
 date: 2012-01-16 08:34:58 +0000
 categories: ["Altele de online"]
-tags: ["2012", "proteste", "revolutie", "romania"]
+tags: ["2012", "revolutie", "romania"]
 author: titus_capilnean
 ---
 

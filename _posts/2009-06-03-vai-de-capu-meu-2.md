@@ -2,7 +2,7 @@
 title: "Vai de capu' meu"
 date: 2009-06-03 17:13:00 +0000
 categories: ["Publicitate"]
-tags: ["prost"]
+tags: []
 author: titus_capilnean
 ---
 

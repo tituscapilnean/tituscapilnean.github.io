@@ -2,7 +2,7 @@
 title: "Controversatul cod etic online – SPER"
 date: 2009-07-09 02:00:00 +0000
 categories: ["Social Media"]
-tags: ["antidiscriminare", "cod-etic", "sper"]
+tags: []
 author: titus_capilnean
 ---
 

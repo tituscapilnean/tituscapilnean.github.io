@@ -2,7 +2,7 @@
 title: "Se inchide Facebook? Nu"
 date: 2011-01-10 12:30:10 +0000
 categories: ["Social Media"]
-tags: ["facebook", "fals", "se-inchide", "stire"]
+tags: ["facebook", "fals", "stire"]
 author: titus_capilnean
 ---
 

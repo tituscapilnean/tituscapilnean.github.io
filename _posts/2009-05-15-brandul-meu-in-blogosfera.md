@@ -2,7 +2,7 @@
 title: "Brandul meu in blogosfera"
 date: 2009-05-15 04:22:00 +0000
 categories: ["Marketing", "Social Media"]
-tags: ["blogosfera", "brand", "romania", "ubix"]
+tags: ["blogosfera", "brand", "romania"]
 author: titus_capilnean
 ---
 

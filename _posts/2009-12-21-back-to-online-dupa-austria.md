@@ -2,7 +2,7 @@
 title: "Back to online – dupa Austria"
 date: 2009-12-21 10:31:31 +0000
 categories: ["Altele de online", "Evenimente", "Turism"]
-tags: ["partii", "personal", "snow-explosion"]
+tags: ["personal", "snow-explosion"]
 author: titus_capilnean
 ---
 

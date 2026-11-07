@@ -2,7 +2,7 @@
 title: "O lectie scurta despre SEO si Twitter"
 date: 2011-02-11 08:00:51 +0000
 categories: ["Online Training"]
-tags: ["campanii", "cautari", "google", "integrare", "seo", "social-media", "vox-populi"]
+tags: ["campanii", "google", "integrare", "seo", "social-media", "vox-populi"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2011/lectie-scurta-despre-seo-si-twitter/twitter.png)

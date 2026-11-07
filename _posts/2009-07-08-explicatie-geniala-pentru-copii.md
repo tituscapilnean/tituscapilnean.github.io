@@ -2,7 +2,7 @@
 title: "Explicatie geniala pentru copii"
 date: 2009-07-08 12:50:00 +0000
 categories: ["Publicitate"]
-tags: ["explicatie", "pixar"]
+tags: []
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Mi-a pornit Feed-ul"
 date: 2009-10-12 11:10:25 +0000
 categories: ["Altele de online"]
-tags: ["feed", "functioneaza", "mutare", "rss"]
+tags: ["rss"]
 author: titus_capilnean
 ---
 

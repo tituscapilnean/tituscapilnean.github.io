@@ -2,7 +2,7 @@
 title: "Google se joaca cu gripa"
 date: 2009-10-09 09:24:00 +0000
 categories: ["Social Media"]
-tags: ["flu-trends", "google", "gripa", "inedit", "social-media", "toamna", "trenduri"]
+tags: ["google", "inedit", "social-media", "trenduri"]
 author: titus_capilnean
 ---
 

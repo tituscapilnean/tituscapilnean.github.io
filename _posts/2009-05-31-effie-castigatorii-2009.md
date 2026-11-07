@@ -2,7 +2,7 @@
 title: "Effie – Castigatorii 2009"
 date: 2009-05-31 23:05:00 +0000
 categories: ["Evenimente"]
-tags: ["effie", "rezultate"]
+tags: ["rezultate"]
 author: titus_capilnean
 ---
 

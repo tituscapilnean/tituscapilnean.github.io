@@ -2,7 +2,7 @@
 title: "Ma duc la party Snow Explosion in Goblin"
 date: 2009-11-06 07:25:58 +0000
 categories: ["Altele de online", "Turism"]
-tags: ["goblin", "party", "promoteri", "snow-explosion"]
+tags: ["party", "snow-explosion"]
 author: titus_capilnean
 ---
 

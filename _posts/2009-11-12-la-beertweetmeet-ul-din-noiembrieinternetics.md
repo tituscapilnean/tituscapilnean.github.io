@@ -2,7 +2,7 @@
 title: "La #beertweetmeet-ul din Noiembrie/Internetics"
 date: 2009-11-12 12:32:41 +0000
 categories: ["Altele de online", "Evenimente", "Social Media"]
-tags: ["beertweetmeet", "internetics", "social-media", "twitter"]
+tags: ["social-media", "twitter"]
 author: titus_capilnean
 ---
 

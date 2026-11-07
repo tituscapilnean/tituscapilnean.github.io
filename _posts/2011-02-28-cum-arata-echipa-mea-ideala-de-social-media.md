@@ -2,7 +2,7 @@
 title: "Cum arată echipa mea ideală de Social Media?"
 date: 2011-02-28 20:27:39 +0000
 categories: ["Online Training"]
-tags: ["echipa", "expert", "internship", "job", "social-media"]
+tags: ["job", "social-media"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2011/cum-arata-echipa-mea-ideala-de-social-media/logo_SDV-_fonts-400x77.png)

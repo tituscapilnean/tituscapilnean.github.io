@@ -2,7 +2,7 @@
 title: "Una pe zi – Castorii sunt un laitmotiv in publicitate"
 date: 2010-12-13 16:04:34 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["castor", "distractiv", "laitmotiv"]
+tags: ["distractiv"]
 author: titus_capilnean
 ---
 

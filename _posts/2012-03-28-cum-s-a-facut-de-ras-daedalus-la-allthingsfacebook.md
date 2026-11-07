@@ -2,7 +2,7 @@
 title: "Cum s-a făcut de râs Daedalus la AllThingsFacebook"
 date: 2012-03-28 08:29:07 +0000
 categories: ["Altele de online"]
-tags: ["facebook", "online", "realitatea", "romania", "top"]
+tags: ["facebook", "online", "romania", "top"]
 author: titus_capilnean
 ---
 

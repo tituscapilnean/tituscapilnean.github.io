@@ -2,7 +2,7 @@
 title: "IKEA vs Kika pe Google"
 date: 2010-01-11 08:22:02 +0000
 categories: ["Social Media"]
-tags: ["google", "ikea", "kika", "seo-fail"]
+tags: ["google"]
 author: titus_capilnean
 ---
 

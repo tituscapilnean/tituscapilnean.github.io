@@ -2,7 +2,7 @@
 title: "Una pe zi – Un trackball urias"
 date: 2010-09-30 14:47:22 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["nike"]
+tags: []
 author: titus_capilnean
 ---
 

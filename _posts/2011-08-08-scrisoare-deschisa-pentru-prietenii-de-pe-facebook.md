@@ -2,7 +2,7 @@
 title: "Scrisoare deschisa pentru prietenii de pe Facebook"
 date: 2011-08-08 12:16:07 +0000
 categories: ["Relatii Publice"]
-tags: ["bivalenta", "comunicare", "facebook", "pagina", "profil"]
+tags: ["comunicare", "facebook"]
 author: titus_capilnean
 # EMBED_ISSUES: 1 embed(s) need review
 #   - [iframe] http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Ftituscapilnean.ro&width=480&colorscheme=light&show_faces=true&border_color&stream=false&header=true&height=262

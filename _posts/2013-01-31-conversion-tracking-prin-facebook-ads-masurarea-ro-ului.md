@@ -2,7 +2,7 @@
 title: "Conversion tracking prin Facebook Ads => măsurarea RO-ului"
 date: 2013-01-31 20:33:55 +0000
 categories: ["Online Training"]
-tags: ["ads", "facebook", "profit", "roi"]
+tags: ["ads", "facebook", "roi"]
 author: titus_capilnean
 ---
 

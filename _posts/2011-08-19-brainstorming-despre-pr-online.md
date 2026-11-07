@@ -2,7 +2,7 @@
 title: "Brainstorming despre PR și Marketing Online"
 date: 2011-08-19 06:18:11 +0000
 categories: ["Relatii Publice"]
-tags: ["brainstorming", "idei", "imm", "online"]
+tags: ["idei", "online"]
 author: titus_capilnean
 ---
 

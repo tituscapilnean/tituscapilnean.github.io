@@ -2,7 +2,7 @@
 title: "Alternativa la ZeList, un alt calculator de influenta"
 date: 2012-05-07 09:15:49 +0000
 categories: ["Altele de online"]
-tags: ["alternativa", "bloguri", "romania", "top", "zelist"]
+tags: ["bloguri", "romania", "top"]
 author: titus_capilnean
 # EMBED_ISSUES: 1 embed(s) need review
 #   - [iframe] http://bloglevelbadge.edelman.com/MyBadge.aspx?code=tituscapilnean.ro

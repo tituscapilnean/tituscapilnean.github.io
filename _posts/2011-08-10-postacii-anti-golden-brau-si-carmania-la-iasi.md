@@ -2,7 +2,7 @@
 title: "Postacii anti – Golden Brau si CarMania la Iasi"
 date: 2011-08-10 08:00:20 +0000
 categories: ["Social Media"]
-tags: ["bere", "golden-brau", "masini", "postaci"]
+tags: ["bere", "masini"]
 author: titus_capilnean
 ---
 

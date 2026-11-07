@@ -2,7 +2,7 @@
 title: "Opencoffee"
 date: 2009-09-10 14:11:05 +0000
 categories: ["Social Media"]
-tags: ["meeting", "online", "opencoffee", "tedx", "tedxbucharest"]
+tags: ["online", "tedx", "tedxbucharest"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Una pe zi – Cat iti ia sa fii gata?"
 date: 2009-11-10 19:47:23 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["amanare", "lectie", "pregatit", "viata"]
+tags: ["lectie", "viata"]
 author: titus_capilnean
 ---
 

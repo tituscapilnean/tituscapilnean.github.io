@@ -2,7 +2,7 @@
 title: "Una pe zi – Barbieritorul de peluze"
 date: 2009-11-24 12:40:52 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["distractiv", "lama", "ooh", "outdoor", "ras"]
+tags: ["distractiv", "ooh"]
 author: titus_capilnean
 ---
 

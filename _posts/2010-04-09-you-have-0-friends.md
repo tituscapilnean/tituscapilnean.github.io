@@ -2,7 +2,7 @@
 title: "You have 0 Friends"
 date: 2010-04-09 07:14:31 +0000
 categories: ["Social Media"]
-tags: ["chatroulette.-farmville", "facebook", "south-park"]
+tags: ["facebook"]
 author: titus_capilnean
 ---
 

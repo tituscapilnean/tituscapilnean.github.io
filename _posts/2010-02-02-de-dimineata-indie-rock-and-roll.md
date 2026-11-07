@@ -2,7 +2,7 @@
 title: "De dimineata – Indie rock and roll"
 date: 2010-02-02 08:35:32 +0000
 categories: ["Altele de online"]
-tags: ["dimineata", "in-loc-de-cafea", "muzica", "personal"]
+tags: ["in-loc-de-cafea", "muzica", "personal"]
 author: titus_capilnean
 ---
 

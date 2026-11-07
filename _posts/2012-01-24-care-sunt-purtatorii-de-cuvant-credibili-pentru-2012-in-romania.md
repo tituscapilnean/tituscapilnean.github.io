@@ -2,7 +2,7 @@
 title: "Care sunt purtătorii de cuvânt credibili pentru 2012 în România?"
 date: 2012-01-24 15:57:07 +0000
 categories: ["Sondaje și Studii"]
-tags: ["2012", "incredere", "online", "sondaj"]
+tags: ["2012", "online", "sondaj"]
 author: titus_capilnean
 ---
 

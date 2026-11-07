@@ -2,7 +2,7 @@
 title: "Sa piratam, deci"
 date: 2009-09-13 07:39:56 +0000
 categories: ["Social Media"]
-tags: ["antipiraterie", "arhi", "buddha", "campanie", "dp", "eok", "piraterie", "video"]
+tags: ["arhi", "campanie", "video"]
 author: titus_capilnean
 ---
 

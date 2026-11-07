@@ -2,7 +2,7 @@
 title: "Despre un nenorocit ambitios si motivat – The Social Network"
 date: 2010-10-28 07:41:55 +0000
 categories: ["Evenimente"]
-tags: ["facebook", "film", "the-social-network"]
+tags: ["facebook", "film"]
 author: titus_capilnean
 ---
 

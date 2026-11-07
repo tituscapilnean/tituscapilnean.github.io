@@ -2,7 +2,7 @@
 title: "Una pe zi – Alt decapitat"
 date: 2009-09-30 18:57:44 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["casca-diesel", "fara-cap", "quique"]
+tags: []
 author: titus_capilnean
 ---
 

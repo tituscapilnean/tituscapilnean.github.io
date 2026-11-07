@@ -2,7 +2,7 @@
 title: "Ce are nevoie online-ul romanesc, in materie de training?"
 date: 2012-09-25 11:20:21 +0000
 categories: ["Evenimente"]
-tags: ["2012", "concurs", "training", "webit"]
+tags: ["2012", "concurs", "training"]
 author: titus_capilnean
 ---
 

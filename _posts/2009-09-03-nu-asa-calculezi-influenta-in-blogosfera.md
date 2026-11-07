@@ -2,7 +2,7 @@
 title: "Nu asa calculezi influenta in blogosfera"
 date: 2009-09-03 21:16:36 +0000
 categories: ["Social Media"]
-tags: ["bloggeri", "blogosfera", "influenta", "studoiu"]
+tags: ["bloggeri", "blogosfera", "influenta"]
 author: titus_capilnean
 ---
 

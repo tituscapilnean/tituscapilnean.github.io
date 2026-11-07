@@ -2,7 +2,7 @@
 title: "Efficient Content Management: A Naming System For Content Marketing Professionals"
 date: 2023-06-23 09:00:00 +0000
 categories: [English, Strategy]
-tags: [content, systems, workflow, marketing]
+tags: [content, marketing]
 author: titus_capilnean
 ---
 

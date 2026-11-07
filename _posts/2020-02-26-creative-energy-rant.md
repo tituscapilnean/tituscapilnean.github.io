@@ -2,7 +2,7 @@
 title: Creative energy rant – a water jug approach
 date: 2020-02-26 10:00:00 +0200
 categories: [Life, English]
-tags: [creativity, productivity, energy management]
+tags: []
 author: titus_capilnean
 ---
 

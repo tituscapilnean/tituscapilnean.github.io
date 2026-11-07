@@ -2,7 +2,7 @@
 title: "Snoresville US – population : Apple"
 date: 2010-05-14 07:47:05 +0000
 categories: ["Cu telefonul"]
-tags: ["annoying-orange", "apple"]
+tags: ["apple"]
 author: titus_capilnean
 ---
 

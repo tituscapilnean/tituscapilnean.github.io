@@ -2,7 +2,7 @@
 title: "Una pe zi – reclama vintage la Aquafresh"
 date: 2011-04-23 11:04:28 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["aquafresh", "jingle", "pauza-de-publicitate"]
+tags: ["pauza-de-publicitate"]
 author: titus_capilnean
 ---
 

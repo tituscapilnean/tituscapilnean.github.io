@@ -2,7 +2,7 @@
 title: "To Rome with Love (2012) – un woodyallenism autentic"
 date: 2012-09-04 12:13:51 +0000
 categories: ["Filme Bucuresti"]
-tags: ["comedie", "film", "woody-allen"]
+tags: ["comedie", "film"]
 author: titus_capilnean
 ---
 

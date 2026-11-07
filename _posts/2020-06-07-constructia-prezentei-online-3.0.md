@@ -2,7 +2,7 @@
 title: Construcția prezenței online 3.0  
 date: 2020-06-07 09:00:00 +0300  
 categories: [Romanian, Comunicare]  
-tags: [relatii publice, comunicare, online, prezenta online]  
+tags: [relatii publice, comunicare, online]
 author: titus  
 ---
 

@@ -2,7 +2,7 @@
 title: "Nicio companie romaneasca nu face parte din Facebook Preferred Marketing Developer program"
 date: 2012-04-19 09:39:25 +0000
 categories: ["Social Media"]
-tags: ["certificat", "facebook"]
+tags: ["facebook"]
 author: titus_capilnean
 ---
 

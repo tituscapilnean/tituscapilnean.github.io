@@ -2,7 +2,7 @@
 title: "Cunoaşte-ţi clienţii – primul pas către un conţinut de calitate"
 date: 2011-02-18 08:25:19 +0000
 categories: ["Social Media"]
-tags: ["cititori", "client", "continut", "cum-sa", "vox-populi"]
+tags: ["client", "continut", "cum-sa", "vox-populi"]
 author: titus_capilnean
 ---
 

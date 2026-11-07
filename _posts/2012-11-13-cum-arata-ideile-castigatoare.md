@@ -2,7 +2,7 @@
 title: "Cum arata ideile castigatoare"
 date: 2012-11-13 10:15:25 +0000
 categories: ["Online Training"]
-tags: ["creatie", "disruptiv", "idei", "pitch"]
+tags: ["creatie", "idei"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2012/cum-arata-ideile-castigatoare/disruption-150x150.gif)

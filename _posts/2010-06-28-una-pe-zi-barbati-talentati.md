@@ -2,7 +2,7 @@
 title: "Una pe zi – Barbati talentati"
 date: 2010-06-28 14:40:53 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["bere", "talent"]
+tags: ["bere"]
 author: titus_capilnean
 ---
 

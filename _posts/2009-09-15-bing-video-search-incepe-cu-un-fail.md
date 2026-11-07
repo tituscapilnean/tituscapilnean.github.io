@@ -2,7 +2,7 @@
 title: "Bing video search incepe cu un fail"
 date: 2009-09-15 10:28:32 +0000
 categories: ["Social Media"]
-tags: ["bing", "cautare-vizuala", "fail", "lansare", "microsoft", "visual-search"]
+tags: ["bing", "fail", "lansare", "microsoft"]
 author: titus_capilnean
 ---
 

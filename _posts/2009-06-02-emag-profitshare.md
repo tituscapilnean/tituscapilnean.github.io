@@ -2,7 +2,7 @@
 title: "EMag ProfitShare"
 date: 2009-06-02 07:31:00 +0000
 categories: ["Marketing"]
-tags: ["afiliat", "emag"]
+tags: ["afiliat"]
 author: titus_capilnean
 ---
 

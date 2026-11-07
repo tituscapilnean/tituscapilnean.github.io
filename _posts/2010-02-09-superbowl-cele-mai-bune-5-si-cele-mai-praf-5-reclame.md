@@ -2,7 +2,7 @@
 title: "Superbowl – Cele mai bune 5 si cele mai praf 5 reclame"
 date: 2010-02-09 08:04:18 +0000
 categories: ["Publicitate"]
-tags: ["2010", "ads", "commercials", "superbowl"]
+tags: ["2010", "ads", "superbowl"]
 author: titus_capilnean
 ---
 

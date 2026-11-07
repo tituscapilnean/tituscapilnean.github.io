@@ -2,7 +2,7 @@
 title: "Reclama zilei – World Wide Fund for Nature"
 date: 2010-02-09 13:57:12 +0000
 categories: ["Publicitate"]
-tags: ["eco", "poster", "social", "vizual", "wwf"]
+tags: ["eco", "social"]
 author: titus_capilnean
 ---
 

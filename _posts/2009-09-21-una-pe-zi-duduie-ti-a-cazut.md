@@ -2,7 +2,7 @@
 title: "Una pe zi – Duduie, ti-a cazut…"
 date: 2009-09-21 12:59:49 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["clicknet", "interzisa", "video"]
+tags: ["video"]
 author: titus_capilnean
 ---
 

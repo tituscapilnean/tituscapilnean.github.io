@@ -2,7 +2,7 @@
 title: "Virusul TED se raspandeste in Romania – TEDxCluj"
 date: 2010-05-07 09:34:17 +0000
 categories: ["Evenimente"]
-tags: ["cluj", "invitatii", "tedx"]
+tags: ["invitatii", "tedx"]
 author: titus_capilnean
 ---
 

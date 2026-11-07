@@ -2,7 +2,7 @@
 title: "Una pe zi – OOH cu cartofi si cafea"
 date: 2009-09-23 13:07:22 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["cafea", "chips", "creativ", "lays", "mcdonalds", "ooh"]
+tags: ["cafea", "creativ", "mcdonalds", "ooh"]
 author: titus_capilnean
 ---
 

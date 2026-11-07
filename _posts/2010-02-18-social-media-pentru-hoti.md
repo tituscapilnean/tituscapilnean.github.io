@@ -2,7 +2,7 @@
 title: "Social media pentru hoti"
 date: 2010-02-18 09:15:16 +0000
 categories: ["Social Media"]
-tags: ["geolocation", "geotagging", "hoti", "twitter"]
+tags: ["twitter"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Una pe zi – Office 2010"
 date: 2009-07-09 21:12:00 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["microsoft", "office-2010", "spioni"]
+tags: ["microsoft"]
 author: titus_capilnean
 ---
 

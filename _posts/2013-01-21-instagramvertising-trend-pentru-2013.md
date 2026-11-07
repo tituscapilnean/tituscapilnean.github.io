@@ -2,7 +2,7 @@
 title: "Instagramvertising – trend pentru 2013"
 date: 2013-01-21 12:41:35 +0000
 categories: ["Social Media"]
-tags: ["idei", "instagram", "instagramvertising", "retele"]
+tags: ["idei", "retele"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2013/instagramvertising-trend-pentru-2013/tech_0409_instagram_270x203.jpg)

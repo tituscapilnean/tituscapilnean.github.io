@@ -2,7 +2,7 @@
 title: "Cum să pui mâna pe invitatie de Google Wave"
 date: 2009-10-01 11:18:05 +0000
 categories: ["Social Media"]
-tags: ["ce-este", "cum-se-obtin", "google-wave", "invitatii", "social-media", "stire"]
+tags: ["google-wave", "invitatii", "social-media", "stire"]
 author: titus_capilnean
 ---
 

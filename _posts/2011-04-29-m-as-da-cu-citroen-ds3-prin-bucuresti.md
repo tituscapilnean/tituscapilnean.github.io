@@ -2,7 +2,7 @@
 title: "M-as da cu Citroen DS3 prin Bucuresti"
 date: 2011-04-29 05:59:23 +0000
 categories: ["Altele de online"]
-tags: ["bloggeri", "bucuresti", "citroen", "concurs", "ds3"]
+tags: ["bloggeri", "bucuresti", "concurs"]
 author: titus_capilnean
 ---
 

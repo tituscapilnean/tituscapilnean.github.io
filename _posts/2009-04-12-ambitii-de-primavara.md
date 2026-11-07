@@ -2,7 +2,7 @@
 title: "Ambitii de primavara"
 date: 2009-04-12 07:02:00 +0000
 categories: ["Evenimente"]
-tags: ["aiesec", "analiza", "conferinta", "final"]
+tags: ["aiesec", "analiza", "conferinta"]
 author: titus_capilnean
 ---
 

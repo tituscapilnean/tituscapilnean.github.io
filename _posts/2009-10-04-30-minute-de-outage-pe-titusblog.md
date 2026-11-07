@@ -2,7 +2,7 @@
 title: "30 minute de outage pe Titusblog"
 date: 2009-10-04 19:18:16 +0000
 categories: ["Social Media"]
-tags: ["egazda", "firma", "hosting"]
+tags: ["hosting"]
 author: titus_capilnean
 ---
 

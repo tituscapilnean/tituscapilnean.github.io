@@ -2,7 +2,7 @@
 title: "Ce-mi doresc de la online-ul romanesc (in 2016)"
 date: 2011-06-23 08:16:36 +0000
 categories: ["Social Media"]
-tags: ["idei", "leapsa", "planuri", "vise"]
+tags: ["idei", "leapsa"]
 author: titus_capilnean
 ---
 

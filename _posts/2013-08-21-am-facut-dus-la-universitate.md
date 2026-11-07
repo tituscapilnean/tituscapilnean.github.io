@@ -2,7 +2,7 @@
 title: "Am făcut duș la Universitate"
 date: 2013-08-21 09:13:37 +0000
 categories: ["Altele de online"]
-tags: ["bucuresti", "cotidian", "dus", "intersectie"]
+tags: ["bucuresti"]
 author: titus_capilnean
 ---
 ![Dușul de la universitate](/assets/img/posts/2013/am-facut-dus-la-universitate/photo-1-e1377076259711-150x150.jpg)

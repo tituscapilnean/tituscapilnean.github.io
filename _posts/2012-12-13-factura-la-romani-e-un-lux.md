@@ -2,7 +2,7 @@
 title: "Factura la români e un lux"
 date: 2012-12-13 09:26:33 +0000
 categories: ["Altele de online"]
-tags: ["factura", "intamplari", "restaurante"]
+tags: ["intamplari"]
 author: titus_capilnean
 ---
 

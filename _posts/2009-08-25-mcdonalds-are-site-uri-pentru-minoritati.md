@@ -2,7 +2,7 @@
 title: "McDonald’s are site-uri pentru minoritati"
 date: 2009-08-25 06:21:40 +0000
 categories: ["Social Media"]
-tags: ["mcdonalds", "minoritati", "online", "sua"]
+tags: ["mcdonalds", "online", "sua"]
 author: titus_capilnean
 ---
 

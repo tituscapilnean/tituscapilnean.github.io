@@ -2,7 +2,7 @@
 title: "Brands, Content & the LinkedIn Native Content Ad Exchange"
 date: 2016-06-08 10:12:33 +0000
 categories: [Advertising Business Models, English]
-tags: [advertising, linkedin, content marketing]
+tags: [linkedin]
 author: Titus
 ---
 

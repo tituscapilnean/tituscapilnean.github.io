@@ -2,7 +2,7 @@
 title: "Advertising personalizat pe TV – mai multi bani pentru trusturi"
 date: 2012-11-09 10:01:21 +0000
 categories: ["Publicitate"]
-tags: ["bani", "idei", "publicitate", "trusturi"]
+tags: ["idei"]
 author: titus_capilnean
 ---
 

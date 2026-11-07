@@ -2,7 +2,7 @@
 title: "Aura lui David Beckham la Motorola"
 date: 2009-04-18 12:31:00 +0000
 categories: ["Publicitate"]
-tags: ["analiza", "motorola", "robotic"]
+tags: ["analiza", "motorola"]
 author: titus_capilnean
 ---
 

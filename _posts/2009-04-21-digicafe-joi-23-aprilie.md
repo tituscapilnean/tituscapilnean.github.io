@@ -2,7 +2,7 @@
 title: "DigiCafe – joi, 23 Aprilie"
 date: 2009-04-21 12:31:00 +0000
 categories: ["Evenimente"]
-tags: ["conferinta", "digicafe", "online"]
+tags: ["conferinta", "online"]
 author: titus_capilnean
 ---
 

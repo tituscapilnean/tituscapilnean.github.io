@@ -2,7 +2,7 @@
 title: "Concurs european pentru bloggeri"
 date: 2010-02-24 16:51:46 +0000
 categories: ["Uniunea Europeana"]
-tags: ["bloggeri", "concurs", "scris"]
+tags: ["bloggeri", "concurs"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Ce inseamna sa fii bike friendly"
 date: 2009-08-24 15:35:38 +0000
 categories: ["Altele de online"]
-tags: ["asa-da", "asa-nu", "aviatorilor", "bucuresti", "cu-bicicleta", "exemplu", "parcare-biciclete", "rastel"]
+tags: ["asa-da", "asa-nu", "bucuresti", "cu-bicicleta", "exemplu"]
 author: titus_capilnean
 ---
 

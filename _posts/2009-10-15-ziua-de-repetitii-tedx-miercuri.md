@@ -2,7 +2,7 @@
 title: "Ziua de repetitii TEDx – Miercuri"
 date: 2009-10-15 15:07:43 +0000
 categories: ["Altele de online"]
-tags: ["articol", "despre", "emotii", "repetitii", "tedx", "tedxbucharest"]
+tags: ["articol", "despre", "tedx", "tedxbucharest"]
 author: titus_capilnean
 ---
 

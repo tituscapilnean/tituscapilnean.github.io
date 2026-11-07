@@ -2,7 +2,7 @@
 title: "Idei de campanie pentru banci care vand #refinantare (II) – consultantul"
 date: 2011-06-15 15:12:40 +0000
 categories: ["Publicitate"]
-tags: ["banca", "bcr", "idei", "online", "refinantare", "sfaturi", "web-2.0"]
+tags: ["bcr", "idei", "online", "refinantare", "sfaturi", "web-2.0"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2011/idei-de-campanie-pentru-banci-care-vand-refinantare-i-consultantul/ct_camp_refinantare_smart_bcr.jpg)

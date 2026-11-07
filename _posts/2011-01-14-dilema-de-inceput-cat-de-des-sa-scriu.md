@@ -2,7 +2,7 @@
 title: "Dilema de inceput – cat de des sa scriu"
 date: 2011-01-14 07:00:18 +0000
 categories: ["Sondaje și Studii"]
-tags: ["articole", "dileme", "sondaj"]
+tags: ["dileme", "sondaj"]
 author: titus_capilnean
 ---
 

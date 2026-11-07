@@ -2,7 +2,7 @@
 title: "Fă loc persoanelor cu dizabilităţi!"
 date: 2010-10-26 07:30:00 +0000
 categories: ["Evenimente"]
-tags: ["dizabilitati", "umanitar", "vox-populi"]
+tags: ["vox-populi"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2010/fa-loc-persoanelor-cu-dizabilitati/3360734315_c5618a0495_z-150x150.jpg)

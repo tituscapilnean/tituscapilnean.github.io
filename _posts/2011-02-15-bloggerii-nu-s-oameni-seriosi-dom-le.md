@@ -2,7 +2,7 @@
 title: "Bloggerii nu-s oameni seriosi, dom-le!"
 date: 2011-02-15 10:22:05 +0000
 categories: ["Evenimente"]
-tags: ["bloggeri", "comedie", "standup"]
+tags: ["bloggeri", "comedie"]
 author: titus_capilnean
 ---
 

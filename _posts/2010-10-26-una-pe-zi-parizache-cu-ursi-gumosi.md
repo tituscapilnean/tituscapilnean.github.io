@@ -2,7 +2,7 @@
 title: "Una pe zi – Parizache cu ursi gumosi"
 date: 2010-10-26 17:00:00 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["parizaki", "viral"]
+tags: ["viral"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2010/una-pe-zi-parizache-cu-ursi-gumosi/263618_gummy_bears-150x150.jpg)

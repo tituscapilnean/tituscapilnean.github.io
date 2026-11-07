@@ -2,7 +2,7 @@
 title: "De ce oamenii inteligenți știu că proștii nu contează"
 date: 2013-04-24 07:24:54 +0000
 categories: ["Altele de online"]
-tags: ["destepti", "oameni", "prosti", "societate"]
+tags: ["oameni", "societate"]
 author: titus_capilnean
 ---
 ![keep-calm-and-ignore-idiots-24](/assets/img/posts/2013/de-ce-oamenii-inteligenti-stiu-ca-prostii-nu-conteaza/keep-calm-and-ignore-idiots-24-187x300.png)

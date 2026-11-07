@@ -2,7 +2,7 @@
 title: "Una pe zi – Sprite disperat"
 date: 2009-07-06 20:00:00 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["sprite"]
+tags: []
 author: titus_capilnean
 ---
 

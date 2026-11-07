@@ -2,7 +2,7 @@
 title: "Marketing alternativ"
 date: 2009-05-21 06:48:00 +0000
 categories: ["Publicitate"]
-tags: ["distractiv", "ooh", "people-stopper", "unirii"]
+tags: ["distractiv", "ooh", "unirii"]
 author: titus_capilnean
 ---
 

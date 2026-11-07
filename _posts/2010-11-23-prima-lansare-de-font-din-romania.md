@@ -2,7 +2,7 @@
 title: "Prima lansare de Font din România"
 date: 2010-11-23 08:00:47 +0000
 categories: ["Evenimente"]
-tags: ["fonturi", "lansare", "trisec"]
+tags: ["lansare"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2010/prima-lansare-de-font-din-romania/invitatie-layout1-150x150.jpg)

@@ -2,7 +2,7 @@
 title: "Playboy webcam casting"
 date: 2010-04-21 14:47:56 +0000
 categories: ["Publicitate"]
-tags: ["casting", "online", "playboy"]
+tags: ["online"]
 author: titus_capilnean
 ---
 

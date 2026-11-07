@@ -2,7 +2,7 @@
 title: "Lipsa entuziasmului pentru nou de la conferintele noastre"
 date: 2012-03-02 10:53:40 +0000
 categories: ["Evenimente"]
-tags: ["conferinte", "feedback", "online", "romania"]
+tags: ["feedback", "online", "romania"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2012/conferintele-de-comunicare-in-romania-ce-le-lipseste/oct-07-conference-attendees-lg-150x150.jpg)

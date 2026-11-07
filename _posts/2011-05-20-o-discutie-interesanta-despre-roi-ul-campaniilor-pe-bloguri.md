@@ -2,7 +2,7 @@
 title: "O discutie interesanta despre ROI-ul campaniilor pe bloguri"
 date: 2011-05-20 06:00:24 +0000
 categories: ["Social Media"]
-tags: ["bloguri", "campanie", "evaluare", "masurare", "online", "raport"]
+tags: ["bloguri", "campanie", "evaluare", "online", "raport"]
 author: titus_capilnean
 ---
 

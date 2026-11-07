@@ -2,7 +2,7 @@
 title: "Everyone Can Build Now. Almost Nobody Knows When to Stop."
 date: 2026-03-25 12:00:00 +0000
 categories: [English, AI]
-tags: [ai, agents, infrastructure, governance, "2026"]
+tags: [ai, agents, infrastructure, "2026"]
 author: titus
 ---
 

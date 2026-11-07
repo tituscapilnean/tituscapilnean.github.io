@@ -2,7 +2,7 @@
 title: "Una mică, de bine, despre RDS"
 date: 2010-10-12 08:49:14 +0000
 categories: ["Altele de online"]
-tags: ["rds"]
+tags: []
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "De ce cade Youtube in ultima vreme"
 date: 2010-04-01 11:44:58 +0000
 categories: ["Social Media"]
-tags: ["farsa", "fun", "youtube"]
+tags: ["fun", "youtube"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Cum scapi din grupurile noi de Facebook?"
 date: 2010-11-17 07:00:18 +0000
 categories: ["Social Media"]
-tags: ["cum-sa-faci", "facebook", "privacy"]
+tags: ["cum-sa-faci", "facebook"]
 author: titus_capilnean
 ---
 

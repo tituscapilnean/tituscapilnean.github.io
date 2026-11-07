@@ -2,7 +2,7 @@
 title: "Am aparut la stiri"
 date: 2009-11-08 20:41:18 +0000
 categories: ["Altele de online"]
-tags: ["cont", "politia", "social-media", "tv", "twitter"]
+tags: ["politia", "social-media", "tv", "twitter"]
 author: titus_capilnean
 ---
 

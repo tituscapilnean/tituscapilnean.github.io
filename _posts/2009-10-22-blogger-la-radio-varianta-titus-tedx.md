@@ -2,7 +2,7 @@
 title: "Blogger la radio – varianta Titus + TEDx"
 date: 2009-10-22 11:16:37 +0000
 categories: ["Evenimente"]
-tags: ["blogger", "radio", "tedx", "tedxbucharest"]
+tags: ["blogger", "tedx", "tedxbucharest"]
 author: titus_capilnean
 ---
 

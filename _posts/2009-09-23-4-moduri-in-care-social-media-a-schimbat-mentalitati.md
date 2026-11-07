@@ -2,7 +2,7 @@
 title: "4 moduri in care Social Media a schimbat mentalitati"
 date: 2009-09-23 06:00:32 +0000
 categories: ["Social Media"]
-tags: ["business", "cod", "companii", "comunicare", "nou", "schimbare", "social-media", "web-2.0"]
+tags: ["business", "comunicare", "nou", "schimbare", "social-media", "web-2.0"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Spam politic ierarhic psdist"
 date: 2009-12-02 21:05:24 +0000
 categories: ["Altele de online", "Social Media"]
-tags: ["electoral", "geoana", "iliescu", "mail", "spam"]
+tags: ["geoana", "mail", "spam"]
 author: titus_capilnean
 ---
 

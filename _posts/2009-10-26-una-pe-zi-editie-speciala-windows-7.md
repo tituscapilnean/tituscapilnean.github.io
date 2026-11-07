@@ -2,7 +2,7 @@
 title: "Una pe zi – Editie speciala Windows 7"
 date: 2009-10-26 15:19:51 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["distractiv", "lansare", "windows-7"]
+tags: ["distractiv", "lansare"]
 author: titus_capilnean
 ---
 

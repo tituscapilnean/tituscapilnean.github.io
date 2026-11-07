@@ -2,7 +2,7 @@
 title: "Socialismul se autodistruge in timp"
 date: 2012-02-03 14:25:24 +0000
 categories: ["Altele de online"]
-tags: ["discutie", "facebook", "politica"]
+tags: ["facebook", "politica"]
 author: titus_capilnean
 ---
 

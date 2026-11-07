@@ -2,7 +2,7 @@
 title: "Cum se face Social Media in unele locuri"
 date: 2010-09-13 13:56:13 +0000
 categories: ["Social Media"]
-tags: ["corporatii", "politica"]
+tags: ["politica"]
 author: titus_capilnean
 ---
 

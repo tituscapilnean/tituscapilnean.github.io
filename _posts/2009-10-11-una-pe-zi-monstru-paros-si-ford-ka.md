@@ -2,7 +2,7 @@
 title: "Una pe zi – Monstru paros si Ford Ka"
 date: 2009-10-11 15:07:56 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["ford-ka", "monstri", "monstru-paros", "noaptea-devoratorilor-de-publicitate"]
+tags: ["ford-ka", "monstru-paros", "noaptea-devoratorilor-de-publicitate"]
 author: titus_capilnean
 ---
 

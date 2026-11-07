@@ -2,7 +2,7 @@
 title: "Google – retragere sau miscare politica"
 date: 2010-01-13 09:14:00 +0000
 categories: ["Social Media"]
-tags: ["china", "drepturi", "google"]
+tags: ["china", "google"]
 author: titus_capilnean
 ---
 

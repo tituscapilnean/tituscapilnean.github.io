@@ -2,7 +2,7 @@
 title: "Ce bloggeri faini au Clujul si Alba Iulia"
 date: 2011-07-26 09:47:00 +0000
 categories: ["Evenimente", "Turism"]
-tags: ["bloggeri", "blogmeet", "online", "rosia-montana", "vizita"]
+tags: ["bloggeri", "online", "rosia-montana", "vizita"]
 author: titus_capilnean
 ---
 

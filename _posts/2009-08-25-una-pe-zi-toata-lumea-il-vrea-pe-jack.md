@@ -2,7 +2,7 @@
 title: "Una pe zi – Toata lumea il vrea pe Jack"
 date: 2009-08-25 10:22:09 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["consultant", "distractiv"]
+tags: ["distractiv"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Micul dejun cu social media si un invitat londonez"
 date: 2011-10-07 09:30:46 +0000
 categories: ["Evenimente"]
-tags: ["londra", "online", "smbreakfast", "tom-ollerton", "uk"]
+tags: ["online", "uk"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Melodie de dimineata – recomandare"
 date: 2009-09-17 04:46:45 +0000
 categories: ["Altele de online", "Cu telefonul"]
-tags: ["buna-dimineata", "melodie", "ringtone", "the-submarines", "trezire", "versuri"]
+tags: []
 author: titus_capilnean
 ---
 

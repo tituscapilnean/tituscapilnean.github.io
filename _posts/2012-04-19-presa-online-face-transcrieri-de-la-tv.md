@@ -2,7 +2,7 @@
 title: "Presa online face transcrieri de la TV"
 date: 2012-04-19 09:01:27 +0000
 categories: ["Altele de online"]
-tags: ["online", "politica", "presa", "promovare", "tv"]
+tags: ["online", "politica", "promovare", "tv"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Povestea TEDxBucharest asa cum a fost"
 date: 2009-10-19 19:57:38 +0000
 categories: ["Evenimente"]
-tags: ["cum-a-fost", "povestea", "ted", "tedx", "tedxbucharest"]
+tags: ["tedx", "tedxbucharest"]
 author: titus_capilnean
 ---
 

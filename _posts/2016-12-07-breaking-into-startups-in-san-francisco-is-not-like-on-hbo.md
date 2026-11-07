@@ -2,7 +2,7 @@
 title: Breaking into Startups in San Francisco is not like on HBO
 date: 2016-12-07 10:00:00 +0000
 categories: [Digital Tips, Startups, English]
-tags: [startup, Silicon Valley, diversity] 
+tags: [startup]
 author: Titus   
 ---
 

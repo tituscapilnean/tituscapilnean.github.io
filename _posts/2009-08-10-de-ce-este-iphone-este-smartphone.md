@@ -2,7 +2,7 @@
 title: "De ce este iPhone este smartphone"
 date: 2009-08-10 13:22:39 +0000
 categories: ["Cu telefonul"]
-tags: ["analiza", "de-ce", "demonstratie", "smartphone"]
+tags: ["analiza", "de-ce"]
 author: titus_capilnean
 ---
 

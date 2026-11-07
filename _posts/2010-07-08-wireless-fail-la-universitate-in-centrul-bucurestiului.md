@@ -2,7 +2,7 @@
 title: "Wireless fail la Universitate, in centrul Bucurestiului"
 date: 2010-07-08 08:29:56 +0000
 categories: ["Altele de online", "Cu telefonul"]
-tags: ["bucuresti", "wireless"]
+tags: ["bucuresti"]
 author: titus_capilnean
 ---
 

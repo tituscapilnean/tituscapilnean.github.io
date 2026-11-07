@@ -2,7 +2,7 @@
 title: "McKinsey – două idei despre capital digital"
 date: 2013-10-08 10:30:51 +0000
 categories: ["Business & Investitii"]
-tags: ["digital", "talent", "viitor"]
+tags: ["digital", "viitor"]
 author: titus_capilnean
 ---
 

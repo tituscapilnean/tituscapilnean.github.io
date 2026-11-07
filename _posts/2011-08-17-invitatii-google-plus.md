@@ -2,7 +2,7 @@
 title: "Invitatii Google Plus si un decalog"
 date: 2011-08-17 13:28:50 +0000
 categories: ["Online Training"]
-tags: ["decalog", "ghid", "google-plus", "invitatii", "online"]
+tags: ["ghid", "invitatii", "online"]
 author: titus_capilnean
 ---
 

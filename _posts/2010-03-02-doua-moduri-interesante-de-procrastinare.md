@@ -2,7 +2,7 @@
 title: "Doua moduri interesante de procrastinare"
 date: 2010-03-02 16:00:00 +0000
 categories: ["Altele de online"]
-tags: ["distractiv", "grafice", "procrastinare"]
+tags: ["distractiv"]
 author: titus_capilnean
 ---
 

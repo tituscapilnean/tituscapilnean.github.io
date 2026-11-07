@@ -2,7 +2,7 @@
 title: "Pe 1 Octombrie, IAB Forum aduce un 1 mai toamna"
 date: 2013-09-25 16:48:45 +0000
 categories: ["Evenimente", "Online Training"]
-tags: ["forum", "iab", "online", "trenduri"]
+tags: ["iab", "online", "trenduri"]
 author: titus_capilnean
 ---
 ![iab-forum](/assets/img/posts/2013/pe-1-octombrie-iab-forum-aduce-un-1-mai-toamna/iab-forum.jpg)

@@ -2,7 +2,7 @@
 title: "Noapte in Herastrau – distractii de nunta si muzica funk"
 date: 2009-08-23 10:51:31 +0000
 categories: ["Altele de online", "Evenimente"]
-tags: ["distractiv", "herastrau", "muzica", "parc", "prieteni", "weekend"]
+tags: ["distractiv", "muzica", "prieteni", "weekend"]
 author: titus_capilnean
 ---
 

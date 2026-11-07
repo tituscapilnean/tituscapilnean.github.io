@@ -2,7 +2,7 @@
 title: "Trend pentru 2014 – mobile rich media"
 date: 2013-12-27 13:21:14 +0000
 categories: ["Marketing"]
-tags: ["campanii", "mobile", "trend"]
+tags: ["campanii", "mobile"]
 author: titus_capilnean
 ---
 

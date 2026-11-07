@@ -2,7 +2,7 @@
 title: "Small Business Buying Strategy: Operator vs Independent Sponsor"
 date: 2023-01-05 10:00:00 +0000
 categories: [English, Finance]
-tags: [private market labs, smb, acquisition, independent sponsor, operators, investors]
+tags: [private market labs, smb, acquisition, investors]
 author: titus_capilnean
 ---
 

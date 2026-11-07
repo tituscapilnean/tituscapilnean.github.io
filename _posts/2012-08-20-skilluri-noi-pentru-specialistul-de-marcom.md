@@ -2,7 +2,7 @@
 title: "Skilluri noi pentru specialistul de MarCom"
 date: 2012-08-20 11:38:31 +0000
 categories: ["Marketing"]
-tags: ["caracteristici", "online", "recrutare", "specialist"]
+tags: ["caracteristici", "online", "recrutare"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2012/skilluri-noi-pentru-specialistul-de-marcom/web20specialist1-150x150.jpg)

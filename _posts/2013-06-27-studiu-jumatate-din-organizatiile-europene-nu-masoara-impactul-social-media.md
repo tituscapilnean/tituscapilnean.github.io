@@ -2,7 +2,7 @@
 title: "Studiu: Jumătate din organizațiile europene nu măsoară impactul social media (2013)"
 date: 2013-06-27 09:23:13 +0000
 categories: ["Sondaje și Studii"]
-tags: ["european", "social-media", "studiu"]
+tags: ["social-media", "studiu"]
 author: titus_capilnean
 # EMBED_ISSUES: 1 embed(s) need review
 #   - [iframe] http://www.slideshare.net/slideshow/embed_code/22488204

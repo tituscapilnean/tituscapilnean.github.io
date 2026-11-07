@@ -2,7 +2,7 @@
 title: "Explozii, arme tari și fete bune: G.I Joe – Ascensiunea Cobrei"
 date: 2009-08-20 10:01:34 +0000
 categories: ["Evenimente"]
-tags: ["analiza", "film", "g.i.-joe", "vizionare"]
+tags: ["analiza", "film"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Niște glume bune de 1 Aprilie"
 date: 2013-04-01 07:44:50 +0000
 categories: ["Altele de online"]
-tags: ["1-aprilie", "cele-mai-bune", "glume", "seo"]
+tags: ["seo"]
 author: titus_capilnean
 ---
 

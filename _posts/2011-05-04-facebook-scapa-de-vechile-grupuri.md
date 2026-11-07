@@ -2,7 +2,7 @@
 title: "Facebook scapa de vechile grupuri"
 date: 2011-05-04 14:40:19 +0000
 categories: ["Social Media"]
-tags: ["facebook", "grupuri", "promovare", "schimbari"]
+tags: ["facebook", "promovare", "schimbari"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Aplicatie de recrutare cu webcam-ul si augmented reality"
 date: 2012-04-26 05:20:27 +0000
 categories: ["Marketing"]
-tags: ["augmented-reality", "coca-cola", "recrutare"]
+tags: ["coca-cola", "recrutare"]
 author: titus_capilnean
 ---
 

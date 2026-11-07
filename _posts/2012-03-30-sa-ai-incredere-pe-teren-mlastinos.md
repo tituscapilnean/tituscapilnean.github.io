@@ -2,7 +2,7 @@
 title: "Să ai încredere pe teren mlăștinos"
 date: 2012-03-30 13:06:27 +0000
 categories: ["Altele de online"]
-tags: ["cariera", "godin", "idei"]
+tags: ["cariera", "idei"]
 author: titus_capilnean
 ---
 

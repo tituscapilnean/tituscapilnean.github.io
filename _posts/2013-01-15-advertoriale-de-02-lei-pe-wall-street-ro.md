@@ -2,7 +2,7 @@
 title: "Advertoriale de 0,2 lei pe Wall-Street.ro"
 date: 2013-01-15 07:00:26 +0000
 categories: ["Altele de online"]
-tags: ["advertorial", "mizerie", "wallstreet"]
+tags: ["mizerie"]
 author: titus_capilnean
 ---
 

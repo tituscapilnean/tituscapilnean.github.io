@@ -2,7 +2,7 @@
 title: "OMG, Yahoo si-a facut site de mondenitati"
 date: 2012-09-28 09:28:14 +0000
 categories: ["Evenimente"]
-tags: ["bannere", "online", "retele", "yahoo"]
+tags: ["online", "retele", "yahoo"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2012/omg-yahoo-si-a-facut-site-de-mondenitati/310092_282487221828861_445656071_n-150x150.jpg)

@@ -2,7 +2,7 @@
 title: "Una pe zi – Cursorul ajunge în offline"
 date: 2009-11-03 16:43:55 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["click", "cursor", "social", "spania", "strada"]
+tags: ["social"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "10 lucruri care scot din sarite un blogger"
 date: 2011-07-05 06:00:07 +0000
 categories: ["Relatii Publice"]
-tags: ["bloggeri", "enervant", "oameni", "social-media", "top-10"]
+tags: ["bloggeri", "oameni", "social-media"]
 author: titus_capilnean
 ---
 

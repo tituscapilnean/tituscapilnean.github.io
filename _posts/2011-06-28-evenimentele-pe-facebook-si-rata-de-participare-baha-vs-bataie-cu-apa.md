@@ -2,7 +2,7 @@
 title: "Evenimentele pe Facebook si rata de participare – Baha vs. bataie cu apa"
 date: 2011-06-28 06:00:56 +0000
 categories: ["Social Media"]
-tags: ["campanii", "events", "facebook", "participare"]
+tags: ["campanii", "facebook", "participare"]
 author: titus_capilnean
 ---
 

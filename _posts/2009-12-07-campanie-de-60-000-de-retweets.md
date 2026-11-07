@@ -2,7 +2,7 @@
 title: "Campanie de 60.000 de retweets"
 date: 2009-12-07 10:55:47 +0000
 categories: ["Social Media"]
-tags: ["apple", "campanie", "cybermonday", "exemplu", "twitter"]
+tags: ["apple", "campanie", "exemplu", "twitter"]
 author: titus_capilnean
 ---
 

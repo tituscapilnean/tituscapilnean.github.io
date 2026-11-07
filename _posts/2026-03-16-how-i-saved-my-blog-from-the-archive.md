@@ -2,7 +2,7 @@
 title: "How I Saved 17 Years of Blog Posts from a Dead Hosting Account"
 date: 2026-03-16 12:00:00 +0000
 categories: ["Meta", "Technology"]
-tags: ["blogging", "migration", "archivarix", "jekyll", "ai", "python"]
+tags: ["blogging", "ai"]
 author: titus_capilnean
 ---
 

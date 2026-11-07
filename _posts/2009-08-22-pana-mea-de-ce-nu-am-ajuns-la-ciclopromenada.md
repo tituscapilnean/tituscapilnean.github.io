@@ -2,7 +2,7 @@
 title: "Pana mea / de ce nu am ajuns la Ciclopromenada"
 date: 2009-08-22 15:41:44 +0000
 categories: ["Altele de online"]
-tags: ["bucuresti", "cu-bicicleta", "inedit", "pana-mea", "reparatii", "romania"]
+tags: ["bucuresti", "cu-bicicleta", "inedit", "romania"]
 author: titus_capilnean
 ---
 

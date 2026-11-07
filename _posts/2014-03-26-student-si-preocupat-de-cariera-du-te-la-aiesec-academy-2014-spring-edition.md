@@ -2,7 +2,7 @@
 title: "Student și preocupat de carieră? Du-te la AIESEC Academy 2014 – Spring Edition"
 date: 2014-03-26 17:25:05 +0000
 categories: ["Evenimente"]
-tags: ["aiesec", "cariera", "evenimente", "studenti"]
+tags: ["aiesec", "cariera", "evenimente"]
 author: titus_capilnean
 ---
 

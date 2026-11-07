@@ -2,7 +2,7 @@
 title: "Securiștii de pe Facebook Chat"
 date: 2012-07-13 10:26:57 +0000
 categories: ["Social Media"]
-tags: ["chat", "facebook", "monitorizare"]
+tags: ["facebook"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2012/securistii-de-pe-facebook-chat/SystemMonitoring_01-150x150.jpg)

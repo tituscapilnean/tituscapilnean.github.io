@@ -2,7 +2,7 @@
 title: "Conferinta online de calitate cu Malcolm Gladwell"
 date: 2010-09-30 09:57:16 +0000
 categories: ["Evenimente", "Social Media"]
-tags: ["conferinta", "gladwell", "online"]
+tags: ["conferinta", "online"]
 author: titus_capilnean
 ---
 

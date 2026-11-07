@@ -2,7 +2,7 @@
 title: "Concluzia proastă cu marketingul de țară"
 date: 2013-11-23 11:10:50 +0000
 categories: ["Business & Investitii"]
-tags: ["branding", "business", "tara"]
+tags: ["branding", "business"]
 author: titus_capilnean
 ---
 ![RTEmagicC_02_logo.jpg](/assets/img/posts/2013/concluzia-proasta-cu-marketingul-de-tara/RTEmagicC_02_logo.jpg.jpg)

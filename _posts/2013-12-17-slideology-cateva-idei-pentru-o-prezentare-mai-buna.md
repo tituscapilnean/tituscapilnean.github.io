@@ -2,7 +2,7 @@
 title: "Slide:ology – câteva idei pentru o prezentare mai bună"
 date: 2013-12-17 12:05:38 +0000
 categories: ["Online Training"]
-tags: ["carte", "cum-sa", "prezentari", "slideology"]
+tags: ["carte", "cum-sa"]
 author: titus_capilnean
 ---
 

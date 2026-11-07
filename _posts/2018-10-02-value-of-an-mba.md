@@ -2,7 +2,7 @@
 title: The value of an MBA
 date: 2018-10-02 09:00:00 +0000
 categories: [English, Startups]
-tags: [mba, education, graduate, career] 
+tags: [mba]
 author: titus_capilnean
 ---
 

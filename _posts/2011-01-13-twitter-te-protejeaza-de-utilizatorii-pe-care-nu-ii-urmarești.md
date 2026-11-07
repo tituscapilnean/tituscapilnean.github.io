@@ -2,7 +2,7 @@
 title: "Twitter te protejează de utilizatorii pe care nu îi urmărești"
 date: 2011-01-13 08:21:47 +0000
 categories: ["Social Media"]
-tags: ["intimitate", "twitter"]
+tags: ["twitter"]
 author: titus_capilnean
 ---
 

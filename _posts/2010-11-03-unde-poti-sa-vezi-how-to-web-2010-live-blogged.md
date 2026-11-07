@@ -2,7 +2,7 @@
 title: "Unde poti sa vezi How to Web 2010 Live Blogged?"
 date: 2010-11-03 13:53:09 +0000
 categories: ["Evenimente"]
-tags: ["centralizator", "howtoweb", "live-blog"]
+tags: ["live-blog"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2010/unde-poti-sa-vezi-how-to-web-2010-live-blogged/how-to-web-2010-logo-150x150.jpg)

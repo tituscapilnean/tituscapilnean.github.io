@@ -2,7 +2,7 @@
 title: "Atlas de Mitocanie Urbana – Mahalagiul de Biserica"
 date: 2009-04-19 08:09:00 +0000
 categories: ["Altele de online"]
-tags: ["biserica", "guerrilla", "mitocan", "sarbatori"]
+tags: ["sarbatori"]
 author: titus_capilnean
 ---
 

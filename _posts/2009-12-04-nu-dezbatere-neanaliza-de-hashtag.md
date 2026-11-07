@@ -2,7 +2,7 @@
 title: "Nu #dezbatere – neanaliza de hashtag"
 date: 2009-12-04 10:08:49 +0000
 categories: ["Social Media"]
-tags: ["analiza", "basescu", "dezbatere", "geoana", "hashtag", "marinarul", "nu", "penibil", "rapita"]
+tags: ["analiza", "basescu", "dezbatere", "geoana", "hashtag"]
 author: titus_capilnean
 ---
 

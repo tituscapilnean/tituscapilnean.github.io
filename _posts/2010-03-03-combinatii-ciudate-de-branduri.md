@@ -2,7 +2,7 @@
 title: "Combinatii ciudate de branduri"
 date: 2010-03-03 16:05:09 +0000
 categories: ["Publicitate"]
-tags: ["7up", "branduri", "fedex", "pizza-hut", "slaughter"]
+tags: ["branduri"]
 author: titus_capilnean
 ---
 

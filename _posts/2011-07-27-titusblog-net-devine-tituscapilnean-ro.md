@@ -2,7 +2,7 @@
 title: "Titusblog.net devine TitusCapilnean.ro"
 date: 2011-07-27 10:28:19 +0000
 categories: ["Altele de online"]
-tags: ["domeniu-web", "keyhost", "schimbare"]
+tags: ["schimbare"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2011/titusblog-net-devine-tituscapilnean-ro/domain-names-dice-150x150.jpg)

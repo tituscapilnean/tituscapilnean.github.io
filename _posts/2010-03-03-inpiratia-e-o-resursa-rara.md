@@ -2,7 +2,7 @@
 title: "Inpiratia ca resursa"
 date: 2010-03-03 06:24:11 +0000
 categories: ["Altele de online"]
-tags: ["creativitate", "design", "inspiratie"]
+tags: ["creativitate", "design"]
 author: titus_capilnean
 ---
 ![monkey-inspiration2](/assets/img/posts/2010/inpiratia-e-o-resursa-rara/monkey-inspiration2-225x300.jpg)

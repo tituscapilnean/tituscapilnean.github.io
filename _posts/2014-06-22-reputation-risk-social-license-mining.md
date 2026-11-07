@@ -2,7 +2,7 @@
 title: "Strategic business risks: The Reputation Risk – Social licence to operate for mining companies"
 date: 2014-06-22 10:00:00 +0200
 categories: [English, Mining]
-tags: [reputation, social licence, mining, risk]     
+tags: []
 author: titus   
 ---
 

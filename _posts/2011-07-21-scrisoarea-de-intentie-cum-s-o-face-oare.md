@@ -2,7 +2,7 @@
 title: "Scrisoarea de intentie, cum s-o face oare?"
 date: 2011-07-21 15:42:19 +0000
 categories: ["Online Training"]
-tags: ["concurs", "intentie", "job", "scrisoare", "sfaturi"]
+tags: ["concurs", "job", "sfaturi"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2011/scrisoarea-de-intentie-cum-s-o-face-oare/letter_of_intent_large-150x150.jpg)

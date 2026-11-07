@@ -2,7 +2,7 @@
 title: "Sony Walkman E435F – Probleme video"
 date: 2009-05-09 18:31:00 +0000
 categories: ["Altele de online"]
-tags: ["avi", "codec", "sony", "tehnic"]
+tags: []
 author: titus_capilnean
 ---
 

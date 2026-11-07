@@ -2,7 +2,7 @@
 title: "Una din cele mai tari campanii pe mobile: Mini Countryman Getaway"
 date: 2011-12-15 10:18:13 +0000
 categories: ["Altele de online"]
-tags: ["2010", "campanie", "mini", "mobile"]
+tags: ["2010", "campanie", "mobile"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2011/un-din-cele-mai-tari-campanii-pe-mobile-mini-countryman-getaway/campaigns-mobile.png)

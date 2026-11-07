@@ -2,7 +2,7 @@
 title: "Ia sa vedem ce va fi cool in 2011"
 date: 2010-12-22 13:36:54 +0000
 categories: ["Marketing", "Publicitate", "Social Media"]
-tags: ["2011", "cool", "trenduri"]
+tags: ["2011", "trenduri"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Transactiv – Dezgust"
 date: 2009-05-03 17:00:00 +0000
 categories: ["Publicitate"]
-tags: ["analiza", "protest", "transactiv", "tv"]
+tags: ["analiza", "protest", "tv"]
 author: titus_capilnean
 ---
 

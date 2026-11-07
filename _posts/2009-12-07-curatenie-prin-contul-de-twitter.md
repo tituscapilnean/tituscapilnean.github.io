@@ -2,7 +2,7 @@
 title: "Curatenie prin contul de Twitter"
 date: 2009-12-07 12:57:27 +0000
 categories: ["Social Media"]
-tags: ["curat", "curatenie", "informatie", "liste", "simplu", "twitter", "unfollow", "usor"]
+tags: ["liste", "twitter"]
 author: titus_capilnean
 ---
 

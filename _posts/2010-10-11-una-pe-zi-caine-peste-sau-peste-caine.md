@@ -2,7 +2,7 @@
 title: "Una pe zi – Caine – peste sau Peste – caine?"
 date: 2010-10-11 17:00:43 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["volkswagen"]
+tags: []
 author: titus_capilnean
 ---
 

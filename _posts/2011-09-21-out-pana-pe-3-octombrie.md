@@ -2,7 +2,7 @@
 title: "Out pana pe 3 Octombrie"
 date: 2011-09-21 09:26:10 +0000
 categories: ["Altele de online"]
-tags: ["personal", "timp"]
+tags: ["personal"]
 author: titus_capilnean
 ---
 

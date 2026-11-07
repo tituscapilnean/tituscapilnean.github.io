@@ -2,7 +2,7 @@
 title: "Facebook pregateste lansarea oficiala a Timeline"
 date: 2011-12-08 11:17:48 +0000
 categories: ["Altele de online"]
-tags: ["facebook", "securitate", "timeline"]
+tags: ["facebook", "timeline"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Codul QR – dezamăgirea anului 2011"
 date: 2012-01-18 15:02:45 +0000
 categories: ["Marketing"]
-tags: ["2011", "cod", "fail", "qr"]
+tags: ["2011", "fail"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2012/codul-qr-dezamagirea-anului-2011/Slide11-400x300.jpg)

@@ -2,7 +2,7 @@
 title: "ymens.ro – Cloud services pentru toti"
 date: 2012-10-04 13:34:56 +0000
 categories: ["Evenimente", "Publicitate"]
-tags: ["cloud", "romania", "saas", "ymens"]
+tags: ["romania"]
 author: titus_capilnean
 ---
 

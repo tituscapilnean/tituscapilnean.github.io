@@ -2,7 +2,7 @@
 title: "Una pe zi – Dacă nu ai desfăcător de bere, mori"
 date: 2009-08-19 16:04:52 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["bere", "distractiv", "lapte"]
+tags: ["bere", "distractiv"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Top 3 la Grand Spoof – Happyfish 2/3"
 date: 2009-09-07 12:32:19 +0000
 categories: ["Publicitate"]
-tags: ["castigatori", "grand-spoof", "spoof", "trilulilu"]
+tags: ["castigatori", "grand-spoof", "spoof"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "How To Web 2011 – Unde poti sa il urmaresti"
 date: 2011-11-10 08:14:11 +0000
 categories: ["Altele de online"]
-tags: ["2011", "how-to-web", "update"]
+tags: ["2011", "how-to-web"]
 author: titus_capilnean
 ---
 

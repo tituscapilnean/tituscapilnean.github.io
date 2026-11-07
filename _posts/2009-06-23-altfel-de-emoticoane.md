@@ -2,7 +2,7 @@
 title: "Altfel de Emoticoane"
 date: 2009-06-23 08:55:00 +0000
 categories: ["Social Media"]
-tags: ["emoticons", "inedit", "social-media", "zapp"]
+tags: ["inedit", "social-media"]
 author: titus_capilnean
 ---
 

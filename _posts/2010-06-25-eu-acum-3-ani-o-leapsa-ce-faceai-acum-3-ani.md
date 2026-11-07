@@ -2,7 +2,7 @@
 title: "Eu acum 3 ani… – o leapsa: Ce faceai acum 3 ani?"
 date: 2010-06-25 15:40:15 +0000
 categories: ["Altele de online"]
-tags: ["2007", "leapsa", "personal"]
+tags: ["leapsa", "personal"]
 author: titus_capilnean
 ---
 

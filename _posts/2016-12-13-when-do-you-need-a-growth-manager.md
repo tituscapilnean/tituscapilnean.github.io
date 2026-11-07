@@ -2,7 +2,7 @@
 title: When Do You Need a Growth Manager?
 date: 2016-12-13 10:00:00 +0000
 categories: [Digital Tips, Startups, Strategy]
-tags: [growth, growth manager, hacking, international expansion]
+tags: [growth]
 author: Titus
 ---
 

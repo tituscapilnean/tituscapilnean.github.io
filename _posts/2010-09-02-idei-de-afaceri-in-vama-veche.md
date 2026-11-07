@@ -2,7 +2,7 @@
 title: "Idei de afaceri in Vama Veche"
 date: 2010-09-02 08:43:46 +0000
 categories: ["Altele de online"]
-tags: ["idei-extraordinare", "mare", "vama"]
+tags: ["mare", "vama"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Twitter a decis – raman la porecla actuala"
 date: 2010-02-03 13:59:53 +0000
 categories: ["Social Media"]
-tags: ["rezultat", "sondaj", "twitter"]
+tags: ["sondaj", "twitter"]
 author: titus_capilnean
 ---
 

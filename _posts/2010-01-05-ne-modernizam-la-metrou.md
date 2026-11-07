@@ -2,7 +2,7 @@
 title: "Ne modernizam la metrou"
 date: 2010-01-05 09:54:08 +0000
 categories: ["Altele de online"]
-tags: ["infokiosk", "intamplari", "metrou"]
+tags: ["intamplari", "metrou"]
 author: titus_capilnean
 ---
 

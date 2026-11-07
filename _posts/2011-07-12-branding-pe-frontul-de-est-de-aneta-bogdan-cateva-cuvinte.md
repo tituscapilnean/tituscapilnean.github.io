@@ -2,7 +2,7 @@
 title: "Branding pe frontul de est – de Aneta Bogdan – cateva cuvinte"
 date: 2011-07-12 20:03:07 +0000
 categories: ["Marketing"]
-tags: ["brandient", "branding", "carte", "est", "recenzie", "romania"]
+tags: ["branding", "carte", "recenzie", "romania"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2011/branding-pe-frontul-de-est-de-aneta-bogdan-cateva-cuvinte/brandient_branding_east_book-259x300.jpg)

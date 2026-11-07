@@ -2,7 +2,7 @@
 title: "UK și US: Lecții de comunicare politică pe online"
 date: 2013-05-13 07:49:15 +0000
 categories: ["Online Training"]
-tags: ["comunicare", "digital", "infrastructura", "internet", "online", "partide", "politica"]
+tags: ["comunicare", "digital", "internet", "online", "politica"]
 author: titus_capilnean
 ---
 ![vote](/assets/img/posts/2013/uk-si-us-lectii-de-comunicare-politica-pe-online/vote-150x150.jpg)

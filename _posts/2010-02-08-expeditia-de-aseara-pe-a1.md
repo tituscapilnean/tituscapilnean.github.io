@@ -2,7 +2,7 @@
 title: "Expeditia de aseara pe A1"
 date: 2010-02-08 11:17:03 +0000
 categories: ["Evenimente"]
-tags: ["autostrada", "cod-portocaliu", "personal", "snowboarding"]
+tags: ["personal"]
 author: titus_capilnean
 ---
 

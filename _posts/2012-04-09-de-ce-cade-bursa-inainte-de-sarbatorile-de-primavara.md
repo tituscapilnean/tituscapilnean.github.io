@@ -2,7 +2,7 @@
 title: "De ce cade bursa inainte de sarbatorile de primavara?"
 date: 2012-04-09 09:39:50 +0000
 categories: ["Business & Investitii"]
-tags: ["bursa", "idei"]
+tags: ["idei"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Una pe zi – Cosmar pe strada Ulmilor – the viral"
 date: 2009-09-29 13:46:04 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["cosmar", "elm-street", "film", "myspace", "nightmare", "social-media", "strada-ulmilor", "succes", "trailer", "viral"]
+tags: ["film", "social-media", "viral"]
 author: titus_capilnean
 ---
 

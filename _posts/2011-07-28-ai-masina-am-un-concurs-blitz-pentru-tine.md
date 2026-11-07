@@ -2,7 +2,7 @@
 title: "Ai mașină? Am un concurs – blitz pentru tine"
 date: 2011-07-28 05:07:57 +0000
 categories: ["Evenimente", "Marketing"]
-tags: ["benzina", "concurs", "golden-brau", "masina", "premiu", "rapid"]
+tags: ["concurs", "masina", "premiu"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Merita inteles de ce nu ar trebui sa folosesti AdBlock"
 date: 2011-01-05 10:37:38 +0000
 categories: ["Social Media"]
-tags: ["banner", "munca"]
+tags: ["munca"]
 author: titus_capilnean
 ---
 

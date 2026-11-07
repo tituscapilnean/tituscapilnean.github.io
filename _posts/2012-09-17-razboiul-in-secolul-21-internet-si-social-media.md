@@ -2,7 +2,7 @@
 title: "Razboiul in secolul 21 – Internet si Social Media"
 date: 2012-09-17 08:57:58 +0000
 categories: ["Sondaje și Studii"]
-tags: ["crestinism-2.0", "musulmani", "online", "razboi"]
+tags: ["online", "razboi"]
 author: titus_capilnean
 ---
 

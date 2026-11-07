@@ -2,7 +2,7 @@
 title: "Una pe zi – Borcanul pentru injuraturi"
 date: 2009-11-26 15:15:39 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["bere", "borcan", "budweiser", "distractiv", "genial", "injuraturi"]
+tags: ["bere", "budweiser", "distractiv", "genial"]
 author: titus_capilnean
 ---
 

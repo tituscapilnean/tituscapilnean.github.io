@@ -2,7 +2,7 @@
 title: "Facem o pădure"
 date: 2009-07-22 10:54:17 +0000
 categories: ["Evenimente"]
-tags: ["anunt", "campanie", "copaci", "mediu", "responsabilitate"]
+tags: ["anunt", "campanie", "responsabilitate"]
 author: titus_capilnean
 ---
 

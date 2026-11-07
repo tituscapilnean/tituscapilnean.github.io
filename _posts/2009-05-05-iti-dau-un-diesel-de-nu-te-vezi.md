@@ -2,7 +2,7 @@
 title: "Iti dau un Diesel de nu te vezi"
 date: 2009-05-05 20:17:00 +0000
 categories: ["Publicitate"]
-tags: ["diesel", "distractiv"]
+tags: ["distractiv"]
 author: titus_capilnean
 ---
 

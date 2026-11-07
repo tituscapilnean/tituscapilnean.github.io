@@ -2,7 +2,7 @@
 title: "Una pe zi – Viral cu Bruce Lee"
 date: 2010-10-14 15:18:59 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["bruce-lee", "golden-drum"]
+tags: ["golden-drum"]
 author: titus_capilnean
 ---
 

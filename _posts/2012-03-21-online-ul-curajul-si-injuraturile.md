@@ -2,7 +2,7 @@
 title: "Online-ul, curajul si injuraturile"
 date: 2012-03-21 12:16:51 +0000
 categories: ["Altele de online"]
-tags: ["atac", "delict-de-opinie", "online"]
+tags: ["online"]
 author: titus_capilnean
 ---
 

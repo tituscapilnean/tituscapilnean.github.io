@@ -2,7 +2,7 @@
 title: "Risipa si gunoi la Universitate"
 date: 2009-10-05 23:20:50 +0000
 categories: ["Evenimente"]
-tags: ["biblioteca", "bucuresti", "carte", "fail", "gunoi", "mizerie", "universitate"]
+tags: ["bucuresti", "carte", "fail", "mizerie"]
 author: titus_capilnean
 ---
 

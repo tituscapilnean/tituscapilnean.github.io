@@ -2,7 +2,7 @@
 title: "Ce-ti doresc eu tie, dulce Adserver"
 date: 2012-01-10 11:44:48 +0000
 categories: ["Altele de online"]
-tags: ["adserver", "cum-aleg", "online", "romania"]
+tags: ["online", "romania"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2012/ce-ti-doresc-eu-tie-dulce-adserver/image_35-150x150.png)

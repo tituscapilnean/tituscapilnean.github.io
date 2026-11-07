@@ -2,7 +2,7 @@
 title: "Stenogramele USL spun că online-ul are o importanță foarte mare"
 date: 2012-07-25 18:04:58 +0000
 categories: ["Altele de online"]
-tags: ["online", "politica", "stenograme", "usl"]
+tags: ["online", "politica"]
 author: titus_capilnean
 ---
 

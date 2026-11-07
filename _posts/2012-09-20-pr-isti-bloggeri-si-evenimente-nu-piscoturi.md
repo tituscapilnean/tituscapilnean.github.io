@@ -2,7 +2,7 @@
 title: "PR-isti, bloggeri si evenimente, nu piscoturi."
 date: 2012-09-20 13:12:10 +0000
 categories: ["Altele de online"]
-tags: ["bloggeri", "evenimente", "piscoturi", "pr"]
+tags: ["bloggeri", "evenimente", "pr"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2012/pr-isti-bloggeri-si-evenimente-nu-piscoturi/bloggers-blog-150x150.gif)

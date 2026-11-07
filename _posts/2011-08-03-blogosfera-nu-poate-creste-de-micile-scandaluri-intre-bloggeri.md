@@ -2,7 +2,7 @@
 title: "Blogosfera nu poate creste de micile scandaluri intre bloggeri"
 date: 2011-08-03 17:01:20 +0000
 categories: ["Altele de online"]
-tags: ["blogosfera", "conflict", "consideratii", "de-la-client", "piata"]
+tags: ["blogosfera", "conflict", "piata"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2011/blogosfera-nu-poate-creste-de-micile-scandaluri-intre-bloggeri/6a00d834204f4c53ef00e54f654fe58833-800wi-278x300.jpg)

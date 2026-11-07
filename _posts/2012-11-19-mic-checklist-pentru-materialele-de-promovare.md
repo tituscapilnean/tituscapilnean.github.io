@@ -2,7 +2,7 @@
 title: "Mic checklist pentru materialele de promovare"
 date: 2012-11-19 15:39:37 +0000
 categories: ["Publicitate"]
-tags: ["checklist", "ghid", "productie"]
+tags: ["ghid"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2012/mic-checklist-pentru-materialele-de-promovare/5500.232135404-150x150.jpg)

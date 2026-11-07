@@ -2,7 +2,7 @@
 title: "Hoața de identitate (2013) – care-ți fură hohote de râs"
 date: 2013-02-06 16:30:31 +0000
 categories: ["Filme Bucuresti"]
-tags: ["cinema-city", "film", "furt", "grasa"]
+tags: ["cinema-city", "film", "furt"]
 author: titus_capilnean
 ---
 

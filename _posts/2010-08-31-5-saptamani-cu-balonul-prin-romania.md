@@ -2,7 +2,7 @@
 title: "5 saptamani cu balonul prin Romania"
 date: 2010-08-31 12:36:10 +0000
 categories: ["Publicitate"]
-tags: ["balon", "campanie", "orange"]
+tags: ["campanie", "orange"]
 author: titus_capilnean
 ---
 

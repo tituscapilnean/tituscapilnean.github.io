@@ -2,7 +2,7 @@
 title: "Spionii adevarati au intotdeauna solutii #007 #Skyfall"
 date: 2012-10-26 08:43:50 +0000
 categories: ["Altele de online"]
-tags: ["007", "heineken", "lansare", "skyfall", "vox-populi"]
+tags: ["heineken", "lansare", "vox-populi"]
 author: titus_capilnean
 ---
 

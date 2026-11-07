@@ -2,7 +2,7 @@
 title: Those who want the EU to fall apart are idiots
 date: 2015-11-25 09:00:00 +0200
 categories: [English, Politics]
-tags: [eu, europe, brexit, union, romania]
+tags: [romania]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Top Social Brands 2011 – brandurile din Social Media in Romania"
 date: 2011-04-19 14:54:13 +0000
 categories: ["Evenimente"]
-tags: ["2011", "branduri", "romania", "social-brands", "top"]
+tags: ["2011", "branduri", "romania", "top"]
 author: titus_capilnean
 ---
 

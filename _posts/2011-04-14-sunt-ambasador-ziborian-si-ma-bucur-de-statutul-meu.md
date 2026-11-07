@@ -2,7 +2,7 @@
 title: "Sunt ambasador Ziborian si ma bucur de statutul meu :)"
 date: 2011-04-14 16:44:36 +0000
 categories: ["Publicitate"]
-tags: ["ambasador", "campanie", "zibo"]
+tags: ["campanie", "zibo"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2011/sunt-ambasador-ziborian-si-ma-bucur-de-statutul-meu/65952-zibo-simple.jpg)

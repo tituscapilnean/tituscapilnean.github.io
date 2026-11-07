@@ -2,7 +2,7 @@
 title: "Despre cost de oportunitate în online – la BrandFusion Breakfast #2"
 date: 2013-11-18 20:13:09 +0000
 categories: ["Online Training"]
-tags: ["buget", "cost", "online", "strategie"]
+tags: ["online", "strategie"]
 author: titus_capilnean
 ---
 

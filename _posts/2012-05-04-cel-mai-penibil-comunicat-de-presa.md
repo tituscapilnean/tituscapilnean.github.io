@@ -2,7 +2,7 @@
 title: "Cel mai penibil comunicat de presa"
 date: 2012-05-04 13:20:19 +0000
 categories: ["Altele de online"]
-tags: ["bucuresti", "caini", "cutu-cutu"]
+tags: ["bucuresti"]
 author: titus_capilnean
 ---
 

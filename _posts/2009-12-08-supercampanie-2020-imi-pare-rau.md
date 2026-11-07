@@ -2,7 +2,7 @@
 title: "Supercampanie 2020 – Imi pare rau"
 date: 2009-12-08 12:35:27 +0000
 categories: ["Publicitate"]
-tags: ["campanie", "cop15", "copenhaga", "genial", "lideri", "ooh", "social"]
+tags: ["campanie", "genial", "ooh", "social"]
 author: titus_capilnean
 ---
 

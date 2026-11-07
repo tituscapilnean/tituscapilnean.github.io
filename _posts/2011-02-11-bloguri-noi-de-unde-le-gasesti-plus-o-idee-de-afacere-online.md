@@ -2,7 +2,7 @@
 title: "Bloguri noi – de unde le gasesti, plus o idee de afacere online"
 date: 2011-02-11 14:56:32 +0000
 categories: ["Social Media"]
-tags: ["afaceri", "antreprenoriat", "bloguri-noi", "idee"]
+tags: ["antreprenoriat"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Dragi recruiteri, endorsement-ul de pe Linkedin e o prostie"
 date: 2013-03-21 13:37:31 +0000
 categories: ["Online Training"]
-tags: ["endorsement", "inutil", "linkedin", "recrutare"]
+tags: ["linkedin", "recrutare"]
 author: titus_capilnean
 ---
 

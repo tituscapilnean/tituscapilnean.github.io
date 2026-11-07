@@ -2,7 +2,7 @@
 title: "iPhone Worm – virus prin SSH"
 date: 2009-11-09 09:27:31 +0000
 categories: ["Cu telefonul"]
-tags: ["itouch", "jailbreak", "parola", "password", "schimbata", "ssh", "virus", "worm"]
+tags: ["virus"]
 author: titus_capilnean
 ---
 

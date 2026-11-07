@@ -2,7 +2,7 @@
 title: "Probleme legale de care te poti lovi in online"
 date: 2011-10-25 06:27:54 +0000
 categories: ["Altele de online"]
-tags: ["legal", "live-blog", "probleme", "social-media", "solutii"]
+tags: ["live-blog", "probleme", "social-media"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2011/probleme-legale-de-care-te-poti-lovi-in-online/1308696129-29-150x150.jpg)

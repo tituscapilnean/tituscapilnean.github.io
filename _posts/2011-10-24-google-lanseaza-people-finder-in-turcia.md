@@ -2,7 +2,7 @@
 title: "Google lansează People Finder în Turcia"
 date: 2011-10-24 10:17:52 +0000
 categories: ["Altele de online"]
-tags: ["aplicatie", "google", "persoane-disparute"]
+tags: ["aplicatie", "google"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2011/google-lanseaza-people-finder-in-turcia/obama-milk-carton-150x150.jpg)

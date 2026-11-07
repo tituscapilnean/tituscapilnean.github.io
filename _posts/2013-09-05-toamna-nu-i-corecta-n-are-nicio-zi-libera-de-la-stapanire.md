@@ -2,7 +2,7 @@
 title: "Toamna nu-i corectă, n-are nicio zi liberă de la stăpânire"
 date: 2013-09-05 13:21:02 +0000
 categories: ["Evenimente"]
-tags: ["1-mai", "1-octombrie", "online", "zi-libera"]
+tags: ["1-mai", "online"]
 author: titus_capilnean
 ---
 ![october1](/assets/img/posts/2013/toamna-nu-i-corecta-n-are-nicio-zi-libera-de-la-stapanire/october1.gif)

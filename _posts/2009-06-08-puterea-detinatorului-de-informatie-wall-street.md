@@ -2,7 +2,7 @@
 title: "Puterea detinatorului de informatie – Wall Street"
 date: 2009-06-08 05:45:00 +0000
 categories: ["Altele de online"]
-tags: ["capitalism", "film", "manipulare", "piata"]
+tags: ["film", "piata"]
 author: titus_capilnean
 ---
 

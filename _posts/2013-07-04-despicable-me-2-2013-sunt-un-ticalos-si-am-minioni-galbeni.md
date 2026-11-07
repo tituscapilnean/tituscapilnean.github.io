@@ -2,7 +2,7 @@
 title: "Despicable me 2 (2013) – sunt un ticălos și am minioni galbeni"
 date: 2013-07-04 07:02:20 +0000
 categories: ["Filme Bucuresti"]
-tags: ["comedie", "despicable-me", "film"]
+tags: ["comedie", "film"]
 author: titus_capilnean
 # EMBED_ISSUES: 1 embed(s) need review
 #   - [iframe] //www.youtube.com/embed/TlbnGSMJQbQ

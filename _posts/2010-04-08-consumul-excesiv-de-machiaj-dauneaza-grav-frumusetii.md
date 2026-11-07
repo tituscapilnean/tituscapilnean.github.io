@@ -2,7 +2,7 @@
 title: "Consumul excesiv de machiaj dauneaza grav frumusetii"
 date: 2010-04-08 12:47:49 +0000
 categories: ["Publicitate"]
-tags: ["campanie", "nivea"]
+tags: ["campanie"]
 author: titus_capilnean
 ---
 

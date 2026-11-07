@@ -2,7 +2,7 @@
 title: "Nu sunt singurul care crede ca diploma nu face 2 lei"
 date: 2010-02-10 13:08:49 +0000
 categories: ["Altele de online"]
-tags: ["diploma", "facultate", "scoala"]
+tags: ["facultate", "scoala"]
 author: titus_capilnean
 ---
 

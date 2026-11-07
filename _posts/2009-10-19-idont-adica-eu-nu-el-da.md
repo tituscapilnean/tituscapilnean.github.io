@@ -2,7 +2,7 @@
 title: "iDont – adica eu nu, el da"
 date: 2009-10-19 12:11:56 +0000
 categories: ["Publicitate"]
-tags: ["apple", "droid", "motorola"]
+tags: ["apple", "motorola"]
 author: titus_capilnean
 ---
 

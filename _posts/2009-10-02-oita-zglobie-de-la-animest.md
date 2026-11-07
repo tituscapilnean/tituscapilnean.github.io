@@ -2,7 +2,7 @@
 title: "Oita zglobie de la Anim’est"
 date: 2009-10-02 08:46:43 +0000
 categories: ["Evenimente"]
-tags: ["2009", "anim-est", "animest", "bucuresti", "festival-de-animatie", "film"]
+tags: ["2009", "animest", "bucuresti", "film"]
 author: titus_capilnean
 ---
 

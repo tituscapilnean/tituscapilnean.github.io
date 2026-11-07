@@ -2,7 +2,7 @@
 title: "S-a dus dracului afacerea cu cumpăratul de fani"
 date: 2012-04-21 08:27:57 +0000
 categories: ["Social Media"]
-tags: ["asa-nu", "cumparat", "facebook", "fani"]
+tags: ["asa-nu", "facebook", "fani"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2012/s-a-dus-dracului-afacerea-cu-cumparatul-de-fani/Buy-Facebook-Fans-150x150.png)

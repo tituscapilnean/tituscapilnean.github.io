@@ -2,7 +2,7 @@
 title: "Sfaturi pentru cei care scriu aplicări pentru festivaluri – Golden Drum 2010"
 date: 2010-10-08 07:00:57 +0000
 categories: ["Publicitate"]
-tags: ["2010", "conferinta-de-presa", "ghid", "golden-drum"]
+tags: ["2010", "ghid", "golden-drum"]
 author: titus_capilnean
 ---
 

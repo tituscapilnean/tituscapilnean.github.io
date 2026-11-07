@@ -2,7 +2,7 @@
 title: "Cum a fost la Online Meetup"
 date: 2009-09-03 08:06:16 +0000
 categories: ["Marketing", "Social Media"]
-tags: ["consumatori", "networking", "online-meetup", "orange-concept-store"]
+tags: ["online-meetup", "orange-concept-store"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Una pe zi – Dacă tot a trecut vara, să ne reamintim un pic de ea, cu seminţe"
 date: 2010-08-31 14:42:07 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["seminte"]
+tags: []
 author: titus_capilnean
 ---
 

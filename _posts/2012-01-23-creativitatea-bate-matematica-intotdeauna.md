@@ -2,7 +2,7 @@
 title: "Creativitatea bate matematica. Intotdeauna"
 date: 2012-01-23 15:56:23 +0000
 categories: ["Altele de online"]
-tags: ["creativitate", "online", "planning", "strategie"]
+tags: ["creativitate", "online", "strategie"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2012/creativitatea-bate-matematica-intotdeauna/Creative-Time-Shorts-150x150.jpg)

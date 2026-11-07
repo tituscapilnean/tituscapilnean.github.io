@@ -2,7 +2,7 @@
 title: "Video Ads: Keep them short!"
 date: 2013-08-20 09:22:22 +0000
 categories: ["Social Media"]
-tags: ["preroll", "reclame", "video"]
+tags: ["video"]
 author: titus_capilnean
 ---
 ![adform_infographics](/assets/img/posts/2013/video-ads-keep-them-short/adform_infographics-72x300.jpg)

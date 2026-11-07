@@ -2,7 +2,7 @@
 title: "Laptop de 15,6 in rucsac de 12"
 date: 2010-06-05 21:41:51 +0000
 categories: ["Publicitate"]
-tags: ["concurs", "geanta", "laptop"]
+tags: ["concurs"]
 author: titus_capilnean
 ---
 ![My Burton](/assets/img/posts/2010/laptop-de-156-in-rucsac-de-12/photo7-225x300.jpg)

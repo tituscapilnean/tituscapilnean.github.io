@@ -2,7 +2,7 @@
 title: "Ce este Quora.com si ce face noua retea sociala"
 date: 2011-01-12 13:00:20 +0000
 categories: ["Social Media"]
-tags: ["quora", "retea", "social-media"]
+tags: ["social-media"]
 author: titus_capilnean
 ---
 

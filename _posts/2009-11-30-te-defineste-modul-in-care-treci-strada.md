@@ -2,7 +2,7 @@
 title: "Te defineste modul in care treci strada"
 date: 2009-11-30 22:19:52 +0000
 categories: ["Altele de online"]
-tags: ["angajari", "comportament", "resurse-umane", "trecut-strada", "viata"]
+tags: ["viata"]
 author: titus_capilnean
 ---
 

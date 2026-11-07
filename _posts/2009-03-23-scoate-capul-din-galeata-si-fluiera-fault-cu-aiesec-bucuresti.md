@@ -2,7 +2,7 @@
 title: "Scoate capul din găleată si fluieră fault cu AIESEC Bucuresti!"
 date: 2009-03-23 15:42:00 +0000
 categories: ["Evenimente"]
-tags: ["aiesec", "bucurestiul-fluiera-fault", "sustainability-day"]
+tags: ["aiesec", "bucurestiul-fluiera-fault"]
 author: titus_capilnean
 ---
 

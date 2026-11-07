@@ -2,7 +2,7 @@
 title: "Una pe zi – Cel mai ciudat (b)ingle"
 date: 2009-08-06 09:17:19 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["bing", "gingle"]
+tags: ["bing"]
 author: titus_capilnean
 ---
 

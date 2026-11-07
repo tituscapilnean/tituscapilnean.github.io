@@ -2,7 +2,7 @@
 title: "Cel mai tare anunt de angajare de pana acum"
 date: 2010-10-04 07:03:36 +0000
 categories: ["Social Media"]
-tags: ["job", "oradea"]
+tags: ["job"]
 author: titus_capilnean
 ---
 

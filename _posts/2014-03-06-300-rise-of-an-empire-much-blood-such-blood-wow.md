@@ -2,7 +2,7 @@
 title: "300 – Rise of an Empire – Much blood, such blood, wow."
 date: 2014-03-06 17:25:00 +0000
 categories: ["Filme Bucuresti"]
-tags: ["300", "3d", "cinema-city", "film", "imax", "mediapro", "rise-of-an-empire"]
+tags: ["3d", "cinema-city", "film", "imax"]
 author: titus_capilnean
 ---
 

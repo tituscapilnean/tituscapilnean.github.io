@@ -2,7 +2,7 @@
 title: "Un vot pentru România (București și Sibiu)"
 date: 2013-03-25 08:23:08 +0000
 categories: ["Altele de online"]
-tags: ["2013", "bucuresti", "sibiu", "turism", "vot"]
+tags: ["2013", "bucuresti", "vot"]
 author: titus_capilnean
 ---
 

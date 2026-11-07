@@ -2,7 +2,7 @@
 title: "Am citit Politica de Privacy a Facebook"
 date: 2010-05-18 12:07:00 +0000
 categories: ["Social Media"]
-tags: ["facebook", "intimitate"]
+tags: ["facebook"]
 author: titus_capilnean
 ---
 ![facebook-privacy](/assets/img/posts/2010/am-citit-politica-de-privacy-a-facebook/facebook-privacy-151x300.jpg)

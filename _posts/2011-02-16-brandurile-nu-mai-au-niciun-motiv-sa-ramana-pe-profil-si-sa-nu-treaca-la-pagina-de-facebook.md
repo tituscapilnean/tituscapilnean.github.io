@@ -2,7 +2,7 @@
 title: "Brandurile nu mai au niciun motiv sa ramana pe Profil si sa nu treaca la Pagina de Facebook"
 date: 2011-02-16 09:33:28 +0000
 categories: ["Online Training"]
-tags: ["facebook", "ghiduri", "nume-pagina"]
+tags: ["facebook", "ghiduri"]
 author: titus_capilnean
 ---
 

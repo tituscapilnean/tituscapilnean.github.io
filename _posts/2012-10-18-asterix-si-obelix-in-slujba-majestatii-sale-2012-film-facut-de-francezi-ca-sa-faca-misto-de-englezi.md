@@ -2,7 +2,7 @@
 title: "Asterix si Obelix – In slujba Majestatii Sale (2012) – film facut de francezi ca sa faca misto de englezi"
 date: 2012-10-18 06:15:42 +0000
 categories: ["Filme Bucuresti"]
-tags: ["2012", "asterix", "cinema", "film", "obelix", "romania"]
+tags: ["2012", "cinema", "film", "romania"]
 author: titus_capilnean
 ---
 

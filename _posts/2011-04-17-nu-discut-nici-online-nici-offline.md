@@ -2,7 +2,7 @@
 title: "Nu discut nici online, nici offline"
 date: 2011-04-17 20:34:05 +0000
 categories: ["Relatii Publice"]
-tags: ["bun-simt", "hater", "offline", "online", "respect"]
+tags: ["offline", "online"]
 author: titus_capilnean
 ---
 

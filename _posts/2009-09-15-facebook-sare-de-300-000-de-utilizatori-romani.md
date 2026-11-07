@@ -2,7 +2,7 @@
 title: "Facebook sare de 300.000 de utilizatori romani"
 date: 2009-09-15 21:23:47 +0000
 categories: ["Social Media"]
-tags: ["depasire", "facebook", "romania", "statistica", "triplare"]
+tags: ["facebook", "romania", "statistica"]
 author: titus_capilnean
 ---
 

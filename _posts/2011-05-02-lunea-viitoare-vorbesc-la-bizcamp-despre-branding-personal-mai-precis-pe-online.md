@@ -2,7 +2,7 @@
 title: "Lunea viitoare vorbesc la Bizcamp despre branding personal, mai precis pe online"
 date: 2011-05-02 12:08:57 +0000
 categories: ["Evenimente"]
-tags: ["branding", "invitatie", "speaker", "training"]
+tags: ["branding", "invitatie", "training"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2011/lunea-viitoare-vorbesc-la-bizcamp-despre-branding-personal-mai-precis-pe-online/logo_BizCamp.png)

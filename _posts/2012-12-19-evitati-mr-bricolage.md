@@ -2,7 +2,7 @@
 title: "Evitați Mr. Bricolage"
 date: 2012-12-19 05:56:34 +0000
 categories: ["Marketing"]
-tags: ["asa-nu", "bricolaj", "chitante", "recomandare", "retur"]
+tags: ["asa-nu", "recomandare"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2012/evitati-mr-bricolage/mr_Bricolge-150x150.jpg)

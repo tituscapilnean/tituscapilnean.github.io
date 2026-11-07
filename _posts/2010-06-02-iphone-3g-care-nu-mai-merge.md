@@ -2,7 +2,7 @@
 title: "iPhone 3G care nu mai merge"
 date: 2010-06-02 11:21:19 +0000
 categories: ["Cu telefonul"]
-tags: ["jailbreak", "reinstalare"]
+tags: []
 author: titus_capilnean
 ---
 ![iphone_upright_2](/assets/img/posts/2010/iphone-3g-care-nu-mai-merge/iphone_upright_2-252x300.jpg)

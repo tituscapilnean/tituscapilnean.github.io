@@ -2,7 +2,7 @@
 title: "Social Media Economics"
 date: 2010-05-06 12:17:18 +0000
 categories: ["Social Media"]
-tags: ["directie", "statistici"]
+tags: ["statistici"]
 author: titus_capilnean
 ---
 

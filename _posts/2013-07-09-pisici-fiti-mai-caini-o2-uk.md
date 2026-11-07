@@ -2,7 +2,7 @@
 title: "Pisici, fiți mai câini! (O2 UK)"
 date: 2013-07-09 09:05:36 +0000
 categories: ["Altele de online"]
-tags: ["campanie", "integrare", "mobil", "o2", "uk"]
+tags: ["campanie", "integrare", "mobil", "uk"]
 author: titus_capilnean
 # EMBED_ISSUES: 1 embed(s) need review
 #   - [iframe] //www.youtube.com/embed/yIIBwAO0tRM

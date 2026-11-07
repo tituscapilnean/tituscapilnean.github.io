@@ -2,7 +2,7 @@
 title: "Nici ratele de creștere ale veniturilor Facebook nu mai sunt ce au fost"
 date: 2012-07-18 09:49:00 +0000
 categories: ["Sondaje și Studii"]
-tags: ["facebook", "retele-sociale", "trenduri", "venituri"]
+tags: ["facebook", "trenduri"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Small Business Acquisition: Breaking Down Potential Search Costs"
 date: 2023-06-22 10:00:00 +0000
 categories: [English, Finance]
-tags: [private market labs, smb, acquisition, due diligence, search costs, buyers]
+tags: [private market labs, smb, acquisition, due diligence, buyers]
 author: titus_capilnean
 ---
 

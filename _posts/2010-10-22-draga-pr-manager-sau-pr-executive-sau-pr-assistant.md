@@ -2,7 +2,7 @@
 title: "Draga PR manager sau PR executive sau PR assistant"
 date: 2010-10-22 13:04:01 +0000
 categories: ["Marketing"]
-tags: ["lectie", "scrisoare", "vox-populi"]
+tags: ["lectie", "vox-populi"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2010/draga-pr-manager-sau-pr-executive-sau-pr-assistant/timthumb.php_-150x150.jpg)

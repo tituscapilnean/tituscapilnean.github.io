@@ -2,7 +2,7 @@
 title: "Problema e la departamentul de marketing si comunicare"
 date: 2011-04-20 11:25:17 +0000
 categories: ["Marketing"]
-tags: ["analiza", "conversie", "media", "online", "social-media", "unici"]
+tags: ["analiza", "media", "online", "social-media"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2011/problema-e-la-departamentul-de-marketing-si-comunicare/media-buying-150x150.jpg)

@@ -2,7 +2,7 @@
 title: "Buzz international – Facebook a cumparat FriendFeed"
 date: 2009-08-10 20:38:08 +0000
 categories: ["Social Media"]
-tags: ["analiza", "anunt", "buzz", "facebook", "friendfeed"]
+tags: ["analiza", "anunt", "buzz", "facebook"]
 author: titus_capilnean
 ---
 

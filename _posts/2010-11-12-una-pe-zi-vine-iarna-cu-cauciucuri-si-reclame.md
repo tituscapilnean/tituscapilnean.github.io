@@ -2,7 +2,7 @@
 title: "Una pe zi – Vine iarna cu cauciucuri si reclame"
 date: 2010-11-12 06:00:26 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["cauciucuri", "iarna"]
+tags: []
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2010/una-pe-zi-vine-iarna-cu-cauciucuri-si-reclame/crisissnow-150x150.jpg)

@@ -2,7 +2,7 @@
 title: "Reportaj de la Internet & Mobile World 2013 #imworld"
 date: 2013-10-14 07:30:39 +0000
 categories: ["Evenimente"]
-tags: ["2013", "cum-a-fost", "imworld", "online", "trenduri", "vox-populi"]
+tags: ["2013", "online", "trenduri", "vox-populi"]
 author: titus_capilnean
 # EMBED_ISSUES: 1 embed(s) need review
 #   - [iframe] http://www.slideshare.net/slideshow/embed_code/27100236

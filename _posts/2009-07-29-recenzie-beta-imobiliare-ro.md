@@ -2,7 +2,7 @@
 title: "Studentul inchiriaza, Tanarul cumpara de pe beta.imobiliare.ro"
 date: 2009-07-29 03:46:09 +0000
 categories: ["Marketing"]
-tags: ["analiza", "campanie", "imobiliare", "online"]
+tags: ["analiza", "campanie", "online"]
 author: titus_capilnean
 ---
 

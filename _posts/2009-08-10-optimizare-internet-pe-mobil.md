@@ -2,7 +2,7 @@
 title: "Optimizare internet pe mobil"
 date: 2009-08-10 05:42:30 +0000
 categories: ["Cu telefonul", "Social Media"]
-tags: ["anunt", "mobil", "online", "tehnic"]
+tags: ["anunt", "mobil", "online"]
 author: titus_capilnean
 ---
 

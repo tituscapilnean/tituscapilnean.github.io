@@ -2,7 +2,7 @@
 title: "Valoarea mea, valoarea ta"
 date: 2010-11-03 07:18:13 +0000
 categories: ["Social Media"]
-tags: ["blogging", "valoare"]
+tags: ["blogging"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2010/valoarea-mea-valoarea-ta/mooooney-150x150.jpg)

@@ -2,7 +2,7 @@
 title: "Offline pe mountainboard – Balkan Dirt Masters"
 date: 2012-06-29 09:26:58 +0000
 categories: ["Evenimente"]
-tags: ["mountainboard", "munte", "sport", "switch"]
+tags: ["sport"]
 author: titus_capilnean
 ---
 

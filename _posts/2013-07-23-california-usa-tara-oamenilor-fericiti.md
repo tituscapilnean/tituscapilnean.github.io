@@ -2,7 +2,7 @@
 title: "California, USA – țara oamenilor fericiți"
 date: 2013-07-23 07:18:26 +0000
 categories: ["Turism"]
-tags: ["calatorii", "mba", "usa"]
+tags: ["calatorii", "mba"]
 author: titus_capilnean
 ---
 ![IMG_4307](/assets/img/posts/2013/california-usa-tara-oamenilor-fericiti/IMG_4307-e1374538629720-150x150.jpg)

@@ -2,7 +2,7 @@
 title: "Orange Meetup – live tweet"
 date: 2009-10-15 19:44:10 +0000
 categories: ["Evenimente"]
-tags: ["afiliat", "concluzii", "meetup", "online", "orange"]
+tags: ["afiliat", "concluzii", "online", "orange"]
 author: titus_capilnean
 ---
 

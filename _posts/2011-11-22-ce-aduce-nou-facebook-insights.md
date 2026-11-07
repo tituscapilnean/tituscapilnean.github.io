@@ -2,7 +2,7 @@
 title: "Ce aduce nou Facebook Insights"
 date: 2011-11-22 08:45:41 +0000
 categories: ["Altele de online"]
-tags: ["analize", "facebook", "insights", "nou"]
+tags: ["facebook", "nou"]
 author: titus_capilnean
 ---
 

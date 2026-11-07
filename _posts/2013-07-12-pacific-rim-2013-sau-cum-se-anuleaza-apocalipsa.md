@@ -2,7 +2,7 @@
 title: "Pacific Rim (2013) – sau cum se anulează Apocalipsa"
 date: 2013-07-12 12:08:52 +0000
 categories: ["Filme Bucuresti"]
-tags: ["3d", "cinema-city", "imax", "pacific-rim"]
+tags: ["3d", "cinema-city", "imax"]
 author: titus_capilnean
 ---
 

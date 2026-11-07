@@ -2,7 +2,7 @@
 title: "Va rog sa ajutam un cititor al blogului meu – Blackberry cu Android 2.2?"
 date: 2011-02-03 13:35:16 +0000
 categories: ["Altele de online"]
-tags: ["blackberry", "comunitate", "telefon"]
+tags: ["comunitate"]
 author: titus_capilnean
 ---
 

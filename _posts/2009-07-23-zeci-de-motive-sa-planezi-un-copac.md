@@ -2,7 +2,7 @@
 title: "Zeci de motive sa plantezi un copac"
 date: 2009-07-23 13:18:37 +0000
 categories: ["Altele de online"]
-tags: ["campanie", "copaci", "motive", "responsabilitate"]
+tags: ["campanie", "motive", "responsabilitate"]
 author: titus_capilnean
 ---
 

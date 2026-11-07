@@ -2,7 +2,7 @@
 title: "Future City – acest ”farmville” făcut pentru BASF"
 date: 2012-10-29 16:19:35 +0000
 categories: ["Evenimente"]
-tags: ["basf", "farmville", "future-city", "orasul-minier"]
+tags: ["farmville"]
 author: titus_capilnean
 ---
 

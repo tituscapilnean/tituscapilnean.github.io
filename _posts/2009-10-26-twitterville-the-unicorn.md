@@ -2,7 +2,7 @@
 title: "Twitterville, the unicorn"
 date: 2009-10-26 16:48:39 +0000
 categories: ["Altele de online", "Social Media"]
-tags: ["candy-mountain", "failwhale", "prieteni", "twitter"]
+tags: ["prieteni", "twitter"]
 author: titus_capilnean
 ---
 

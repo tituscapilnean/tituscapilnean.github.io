@@ -2,7 +2,7 @@
 title: "Tristețea onlineului românesc"
 date: 2013-12-16 15:27:45 +0000
 categories: ["Altele de online"]
-tags: ["f64", "mos-craciun", "pr-stunt"]
+tags: []
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Popcorn vulcanic in reclame"
 date: 2010-04-22 13:25:34 +0000
 categories: ["Publicitate"]
-tags: ["volkswagen", "vulcan"]
+tags: []
 author: titus_capilnean
 ---
 

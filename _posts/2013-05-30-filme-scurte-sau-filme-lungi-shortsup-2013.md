@@ -2,7 +2,7 @@
 title: "Filme scurte sau filme lungi? * ShortsUP 2013"
 date: 2013-05-30 08:59:54 +0000
 categories: ["Evenimente"]
-tags: ["bucuresti", "filme-scurte", "shortsup"]
+tags: ["bucuresti"]
 author: titus_capilnean
 # EMBED_ISSUES: 1 embed(s) need review
 #   - [iframe] http://www.youtube.com/embed/WTWAv29r1GE

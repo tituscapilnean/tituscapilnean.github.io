@@ -2,7 +2,7 @@
 title: "Una pe zi – Jaful Cola"
 date: 2009-12-01 17:46:15 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["coca-cola", "jaf", "pasiune", "suc"]
+tags: ["coca-cola"]
 author: titus_capilnean
 ---
 

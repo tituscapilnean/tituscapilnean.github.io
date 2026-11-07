@@ -2,7 +2,7 @@
 title: "Voluntariatul si dezvoltarea personala"
 date: 2011-06-19 10:00:41 +0000
 categories: ["Altele de online"]
-tags: ["aiesec", "dezbatere", "facultate", "voluntariat"]
+tags: ["aiesec", "dezbatere", "facultate"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Spiderman 3D (2012) – versiunea IMAX"
 date: 2012-07-11 21:52:30 +0000
 categories: ["Filme Bucuresti"]
-tags: ["3d", "film", "imax", "samsung", "spiderman"]
+tags: ["3d", "film", "imax", "samsung"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2012/spiderman-3d-2012-versiunea-imax/fantasy15-150x150.jpg)

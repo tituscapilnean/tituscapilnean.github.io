@@ -2,7 +2,7 @@
 title: "Flight (2013) – Zborul sau Don’t drink and…fly"
 date: 2013-02-20 09:55:35 +0000
 categories: ["Filme Bucuresti"]
-tags: ["2013", "film", "flight", "oscar", "zborul"]
+tags: ["2013", "film"]
 author: titus_capilnean
 ---
 

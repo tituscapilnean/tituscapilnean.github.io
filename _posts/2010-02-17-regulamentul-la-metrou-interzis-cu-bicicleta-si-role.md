@@ -2,7 +2,7 @@
 title: "Regulamentul la metrou – interzis cu bicicleta si role"
 date: 2010-02-17 07:35:22 +0000
 categories: ["Altele de online"]
-tags: ["bicicleta", "metrou", "regulament", "role"]
+tags: ["bicicleta", "metrou"]
 author: titus_capilnean
 ---
 

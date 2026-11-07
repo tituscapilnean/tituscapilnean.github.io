@@ -2,7 +2,7 @@
 title: "Balaurul poate fi imblanzit in mai putin de 5 minute"
 date: 2009-11-09 15:04:13 +0000
 categories: ["Publicitate", "Social Media"]
-tags: ["balaur", "concurs", "joburi", "online", "social-media"]
+tags: ["concurs", "joburi", "online", "social-media"]
 author: titus_capilnean
 ---
 

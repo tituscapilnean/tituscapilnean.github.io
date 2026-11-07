@@ -2,7 +2,7 @@
 title: "Daca browserele web ar fi femei – ar arata asa"
 date: 2009-09-20 16:23:08 +0000
 categories: ["Social Media"]
-tags: ["analiza", "browser", "caricatura", "chrome", "femei", "firefox", "google", "internet-explorer", "opera", "safari"]
+tags: ["analiza", "femei", "firefox", "google"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Acest articol este indestructibil"
 date: 2011-11-16 12:12:28 +0000
 categories: ["Altele de online"]
-tags: ["campanie", "indestructibila", "lanterna", "varta"]
+tags: ["campanie"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2011/acest-articol-este-indestructibil/18702_101_001-3W-LED-Indestructible-Light-3C-201x300.jpg)

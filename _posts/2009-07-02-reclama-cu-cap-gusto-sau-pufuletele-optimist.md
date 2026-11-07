@@ -2,7 +2,7 @@
 title: "Reclama cu cap – Gusto sau pufuletele optimist"
 date: 2009-07-02 14:46:00 +0000
 categories: ["Publicitate"]
-tags: ["distractiv", "pufuleti", "video"]
+tags: ["distractiv", "video"]
 author: titus_capilnean
 ---
 

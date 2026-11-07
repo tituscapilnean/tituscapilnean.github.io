@@ -2,7 +2,7 @@
 title: "Cum sa gasesti locuri de iesit pe Facebook?"
 date: 2012-04-26 13:48:43 +0000
 categories: ["Social Media"]
-tags: ["cum-sa", "facebook", "iesit", "locuri"]
+tags: ["cum-sa", "facebook"]
 author: titus_capilnean
 ---
 

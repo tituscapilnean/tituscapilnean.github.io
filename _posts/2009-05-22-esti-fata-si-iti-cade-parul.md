@@ -2,7 +2,7 @@
 title: "Esti fata si iti cade parul?"
 date: 2009-05-22 03:27:00 +0000
 categories: ["Altele de online"]
-tags: ["distractiv", "foltene", "viral", "youtube"]
+tags: ["distractiv", "viral", "youtube"]
 author: titus_capilnean
 ---
 

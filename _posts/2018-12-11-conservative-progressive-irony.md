@@ -2,7 +2,7 @@
 title: The Conservative and Progressive Irony of Liberals and Republicans
 date: 2018-12-11 10:00:00 +0000
 categories: [English, Politics]
-tags: [culture, ideology, politics]
+tags: [culture]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "R741 – Bucuresti – Baia Mare"
 date: 2009-04-17 03:00:00 +0000
 categories: ["Altele de online"]
-tags: ["baia-mare", "locuri-de-blog", "tren"]
+tags: ["locuri-de-blog"]
 author: titus_capilnean
 ---
 

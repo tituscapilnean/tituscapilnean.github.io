@@ -2,7 +2,7 @@
 title: "Brandurile au foarte multe de învățat de la artiști"
 date: 2012-04-01 00:37:57 +0000
 categories: ["Relatii Publice"]
-tags: ["artisti", "branduri", "online"]
+tags: ["branduri", "online"]
 author: titus_capilnean
 ---
 

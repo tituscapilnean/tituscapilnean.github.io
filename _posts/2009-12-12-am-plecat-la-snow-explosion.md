@@ -2,7 +2,7 @@
 title: "Am plecat la Snow Explosion"
 date: 2009-12-12 15:32:54 +0000
 categories: ["Altele de online", "Turism"]
-tags: ["partie", "snow-explosion", "zapada"]
+tags: ["snow-explosion", "zapada"]
 author: titus_capilnean
 ---
 

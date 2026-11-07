@@ -2,7 +2,7 @@
 title: "Analiza unui hashtag comercial #masinamea"
 date: 2009-09-16 13:02:55 +0000
 categories: ["Marketing", "Social Media"]
-tags: ["hashtag", "masina-mea", "masinamea", "pia", "porsche-romania", "twitter"]
+tags: ["hashtag", "twitter"]
 author: titus_capilnean
 ---
 

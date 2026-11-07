@@ -2,7 +2,7 @@
 title: "Transferul de la o facultate la alta – ultimul episod"
 date: 2009-11-10 06:39:11 +0000
 categories: ["Altele de online"]
-tags: ["ase", "facultate", "motiv", "schimbare", "transfer"]
+tags: ["ase", "facultate", "schimbare", "transfer"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "De ce sa nu ii asculti pe cei din jur"
 date: 2009-10-13 07:11:18 +0000
 categories: ["Altele de online"]
-tags: ["aspiratii", "ceilalti", "comics", "dorinte", "ganduri", "sfaturi-de-viata", "vise"]
+tags: ["comics", "ganduri"]
 author: titus_capilnean
 ---
 

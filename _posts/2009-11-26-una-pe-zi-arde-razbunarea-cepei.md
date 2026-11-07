@@ -2,7 +2,7 @@
 title: "Una pe zi – Arde razbunarea cepei"
 date: 2009-11-26 07:17:13 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["arde-ceapa", "burger-king", "campanie", "ceapa"]
+tags: ["campanie"]
 author: titus_capilnean
 ---
 

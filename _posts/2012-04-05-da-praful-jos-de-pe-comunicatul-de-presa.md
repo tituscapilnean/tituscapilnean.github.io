@@ -2,7 +2,7 @@
 title: "Dă praful jos de pe comunicatul de presă"
 date: 2012-04-05 14:51:49 +0000
 categories: ["Relatii Publice"]
-tags: ["comunicat", "idei", "pr"]
+tags: ["idei", "pr"]
 author: titus_capilnean
 ---
 

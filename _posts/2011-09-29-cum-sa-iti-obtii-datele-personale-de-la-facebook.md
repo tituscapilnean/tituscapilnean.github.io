@@ -2,7 +2,7 @@
 title: "Cum sa iti obtii datele personale de la Facebook"
 date: 2011-09-29 11:20:04 +0000
 categories: ["Online Training"]
-tags: ["date-personale", "facebook", "lege", "online"]
+tags: ["facebook", "online"]
 author: titus_capilnean
 ---
 

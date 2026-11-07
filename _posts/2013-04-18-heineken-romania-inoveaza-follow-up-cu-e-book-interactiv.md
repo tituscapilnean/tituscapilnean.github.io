@@ -2,7 +2,7 @@
 title: "Heineken Romania inoveaza: follow-up cu e-book interactiv"
 date: 2013-04-18 10:30:11 +0000
 categories: ["Evenimente", "Relatii Publice"]
-tags: ["ebook", "felicitari", "heineken", "interactiv", "premiera"]
+tags: ["heineken"]
 author: titus_capilnean
 ---
 

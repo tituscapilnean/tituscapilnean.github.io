@@ -2,7 +2,7 @@
 title: "Anonimitatea, cel mai mare inamic al internetului"
 date: 2011-12-07 09:20:19 +0000
 categories: ["Altele de online"]
-tags: ["argumente", "lupta", "opozitie-rmgc", "rosia-montana"]
+tags: ["rosia-montana"]
 author: titus_capilnean
 ---
 

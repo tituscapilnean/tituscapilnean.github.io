@@ -2,7 +2,7 @@
 title: "Apel la ratiune: politici versus politica"
 date: 2012-11-08 10:50:31 +0000
 categories: ["Altele de online"]
-tags: ["ard", "economie", "politica", "romania", "usl", "vox-populi"]
+tags: ["economie", "politica", "romania", "vox-populi"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2012/apel-la-ratiune-politici-versus-politica/erm09212_fig1-150x150.png)

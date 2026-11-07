@@ -2,7 +2,7 @@
 title: "Pauza de pranz si pentru canguri"
 date: 2009-09-16 11:46:05 +0000
 categories: ["Publicitate"]
-tags: ["pauza"]
+tags: []
 author: titus_capilnean
 ---
 

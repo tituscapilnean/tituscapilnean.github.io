@@ -2,7 +2,7 @@
 title: The thing with Americans and their attitude
 date: 2019-10-05 10:00:00 +0300
 categories: [English, Life]
-tags: [america, culture, basketball, attitude]
+tags: [america, culture]
 author: titus_capilnean
 ---
 

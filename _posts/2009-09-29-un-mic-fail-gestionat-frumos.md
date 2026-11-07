@@ -2,7 +2,7 @@
 title: "Un mic fail gestionat frumos"
 date: 2009-09-29 07:30:26 +0000
 categories: ["Social Media"]
-tags: ["consumatori", "fail", "mail", "mesaj", "relatia-cu-clientul", "simpatic", "yahoo"]
+tags: ["fail", "mail", "yahoo"]
 author: titus_capilnean
 ---
 

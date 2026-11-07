@@ -2,7 +2,7 @@
 title: Retrospectives, these powerful tools for growth
 date: 2020-02-04 10:00:00 +0200
 categories: [English, Life, Startups]
-tags: [retrospectives]
+tags: []
 author: titus_capilnean
 ---
 

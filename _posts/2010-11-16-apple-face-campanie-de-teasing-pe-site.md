@@ -2,7 +2,7 @@
 title: "Apple face campanie de teasing pe site – reveal la ora 17:00"
 date: 2010-11-16 10:12:49 +0000
 categories: ["Cu telefonul", "Marketing"]
-tags: ["apple", "itunes", "teaser"]
+tags: ["apple"]
 author: titus_capilnean
 ---
 

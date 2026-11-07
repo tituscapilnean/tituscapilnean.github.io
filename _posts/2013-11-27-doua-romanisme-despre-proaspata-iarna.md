@@ -2,7 +2,7 @@
 title: "Două românisme despre proaspăta iarnă"
 date: 2013-11-27 08:45:58 +0000
 categories: ["Altele de online"]
-tags: ["iarna", "primarie", "romania", "vodafone"]
+tags: ["romania", "vodafone"]
 author: titus_capilnean
 ---
 

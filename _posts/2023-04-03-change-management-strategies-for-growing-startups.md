@@ -2,7 +2,7 @@
 title: "Change Management Strategies for Growing Startups: Comparing Bridges, Merron, and Kotter Models"
 date: 2023-04-03 10:00:00 +0000
 categories: [Business Models, English]
-tags: [change management, startups, leadership, strategy]
+tags: [startups, leadership, strategy]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: 6 ways to defend your freedom in hard times
 date: 2020-04-05 10:00:00 +0800
 categories: [English, Politics]
-tags: [freedom, democracy, activism]
+tags: [activism]
 author: titus_capilnean
 ---
 

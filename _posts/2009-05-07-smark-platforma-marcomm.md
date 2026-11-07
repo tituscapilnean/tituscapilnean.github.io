@@ -2,7 +2,7 @@
 title: "Smark – platforma marcomm"
 date: 2009-05-07 06:01:00 +0000
 categories: ["Marketing"]
-tags: ["comunicare", "platforma", "smark"]
+tags: ["comunicare", "smark"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Cum a fost BrandFusion Breakfast #1 – despre brandurile de ”food”"
 date: 2013-06-25 09:45:22 +0000
 categories: ["Evenimente"]
-tags: ["branding", "fmcg", "food"]
+tags: ["branding"]
 author: titus_capilnean
 ---
 ![1012118_10151671807750935_394813904_n](/assets/img/posts/2013/cum-a-fost-brandfusion-breakfast-1-despre-brandurile-de-food/1012118_10151671807750935_394813904_n-150x150.jpg)

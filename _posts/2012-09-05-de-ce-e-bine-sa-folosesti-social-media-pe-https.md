@@ -2,7 +2,7 @@
 title: "De ce e bine sa folosești social media pe HTTPS"
 date: 2012-09-05 07:00:29 +0000
 categories: ["Altele de online"]
-tags: ["furt", "https", "online", "vox-populi"]
+tags: ["furt", "online", "vox-populi"]
 author: titus_capilnean
 ---
 

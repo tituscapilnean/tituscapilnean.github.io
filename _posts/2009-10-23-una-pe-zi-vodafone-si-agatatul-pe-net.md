@@ -2,7 +2,7 @@
 title: "Una pe zi – Vodafone si agatatul pe net"
 date: 2009-10-23 14:35:17 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["date-casting", "fraier", "vodafone"]
+tags: ["vodafone"]
 author: titus_capilnean
 ---
 

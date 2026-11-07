@@ -2,7 +2,7 @@
 title: "Cum arata inspiratia pentru creativi"
 date: 2010-03-24 20:27:48 +0000
 categories: ["Publicitate"]
-tags: ["concurs", "designer", "inspiratie"]
+tags: ["concurs"]
 author: titus_capilnean
 ---
 

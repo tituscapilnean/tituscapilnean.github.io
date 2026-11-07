@@ -2,7 +2,7 @@
 title: "TEDx reactii pe Twitter"
 date: 2009-10-21 09:06:15 +0000
 categories: ["Evenimente"]
-tags: ["epilog", "multumiri", "tedx", "tedxbucharest", "tweets"]
+tags: ["tedx", "tedxbucharest"]
 author: titus_capilnean
 ---
 

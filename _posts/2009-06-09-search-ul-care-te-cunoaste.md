@@ -2,7 +2,7 @@
 title: "Search-ul care te cunoaste"
 date: 2009-06-09 12:48:00 +0000
 categories: ["Social Media"]
-tags: ["destept", "online", "search-engine"]
+tags: ["online", "search-engine"]
 author: titus_capilnean
 ---
 

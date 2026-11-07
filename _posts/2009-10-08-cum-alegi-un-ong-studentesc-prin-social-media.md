@@ -2,7 +2,7 @@
 title: "Cum alegi un ONG studentesc prin social media"
 date: 2009-10-08 11:58:21 +0000
 categories: ["Altele de online", "Social Media"]
-tags: ["ase", "boboc", "ce-aleg", "despre", "ong", "organizatie", "student", "studentesc"]
+tags: ["ase", "despre", "ong", "organizatie", "student"]
 author: titus_capilnean
 ---
 

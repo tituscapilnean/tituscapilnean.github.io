@@ -2,7 +2,7 @@
 title: "Mic fail marca Gândul.info"
 date: 2012-08-24 10:44:44 +0000
 categories: ["Social Media"]
-tags: ["facebook", "fail", "gafa", "gandul"]
+tags: ["facebook", "fail"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "I've Been Running AI Agents for Months — Here's How I Can Set One Up for You"
 date: 2026-03-13 09:00:00 -0800
 categories: [English, AI]
-tags: [ai agents, automation, civic, identity, tools]
+tags: [automation, identity]
 author: titus_capilnean
 ---
 

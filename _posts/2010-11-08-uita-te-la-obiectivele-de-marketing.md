@@ -2,7 +2,7 @@
 title: "Uită-te, băă, la obiectivele de marketing, băă…"
 date: 2010-11-08 14:09:28 +0000
 categories: ["Marketing", "Social Media"]
-tags: ["clickuri", "fals", "online", "scandal", "trafic"]
+tags: ["fals", "online", "scandal", "trafic"]
 author: titus_capilnean
 ---
 

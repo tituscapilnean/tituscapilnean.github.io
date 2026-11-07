@@ -2,7 +2,7 @@
 title: "Vă invit să participați la un studiu european – Communication Monitor"
 date: 2013-03-15 14:24:08 +0000
 categories: ["Sondaje și Studii"]
-tags: ["2013", "euprera", "europa", "invitatie", "studiu"]
+tags: ["2013", "europa", "invitatie", "studiu"]
 author: titus_capilnean
 ---
 ![24528b22002b8d494aa546e5b44d6bad](/assets/img/posts/2013/va-invit-sa-participati-la-un-studiu-european-communication-monitor/24528b22002b8d494aa546e5b44d6bad-150x150.png)

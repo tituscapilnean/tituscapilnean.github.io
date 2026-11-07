@@ -2,7 +2,7 @@
 title: "Mai mult 5000 Euro pe luna sa nu faci nimic"
 date: 2009-10-22 14:30:22 +0000
 categories: ["Altele de online"]
-tags: ["blogosfera", "ce-ai-face", "pasiuni", "un-fel-de-leapsa"]
+tags: ["blogosfera"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Idee de marketing pentru proprietarii de restaurante"
 date: 2010-09-28 12:32:09 +0000
 categories: ["Marketing", "Social Media"]
-tags: ["foursquare", "nokia", "web-2.0"]
+tags: ["nokia", "web-2.0"]
 author: titus_capilnean
 ---
 

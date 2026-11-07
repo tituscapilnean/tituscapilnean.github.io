@@ -2,7 +2,7 @@
 title: Transfer de la o facultate la alta
 date: 2009-07-15 10:00:00 +0300
 categories: [Romanian, Altele de online]
-tags: [ase, birocratie, facultate, transfer]
+tags: [ase, facultate, transfer]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Update – descriere"
 date: 2009-09-02 23:28:52 +0000
 categories: ["Altele de online", "Evenimente"]
-tags: ["despre-mine", "indiciu", "tedxbucharest"]
+tags: ["tedxbucharest"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Trusturile de presa n-au inteles o chestie"
 date: 2012-05-03 14:56:47 +0000
 categories: ["Publicitate"]
-tags: ["online", "presa", "trafic", "website"]
+tags: ["online", "trafic", "website"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2012/trusturile-de-presa-n-au-inteles-o-chestie/1-150x150.jpg)

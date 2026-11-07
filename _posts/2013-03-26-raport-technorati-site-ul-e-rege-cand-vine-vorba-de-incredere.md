@@ -2,7 +2,7 @@
 title: "Raport Technorati: site-ul e rege când vine vorba de încredere"
 date: 2013-03-26 10:43:54 +0000
 categories: ["Marketing"]
-tags: ["2012", "digital", "influence", "raport", "technorati"]
+tags: ["2012", "digital", "raport"]
 author: titus_capilnean
 # EMBED_ISSUES: 1 embed(s) need review
 #   - [iframe] http://www.slideshare.net/slideshow/embed_code/17451924

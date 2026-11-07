@@ -2,7 +2,7 @@
 title: People that smell the failure
 date: 2019-11-12 10:00:00 +0200
 categories: [English, Change Management]
-tags: [failure, culture, romania]
+tags: [culture, romania]
 author: titus_capilnean
 ---
 

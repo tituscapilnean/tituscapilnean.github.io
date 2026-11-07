@@ -2,7 +2,7 @@
 title: "Una pe zi – Poster caritabil pe loc"
 date: 2009-09-18 18:20:57 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["donatie", "poster", "print"]
+tags: ["print"]
 author: titus_capilnean
 ---
 

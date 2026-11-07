@@ -2,7 +2,7 @@
 title: "Developeri din intreaga lume se aduna la Yahoo Open Hack Bucuresti, pe 14 si 15 Mai"
 date: 2011-04-08 08:44:17 +0000
 categories: ["Evenimente"]
-tags: ["bucuresti", "hack", "open", "yahoo"]
+tags: ["bucuresti", "yahoo"]
 author: titus_capilnean
 # EMBED_ISSUES: 1 embed(s) need review
 #   - [iframe] http://player.vimeo.com/video/232517

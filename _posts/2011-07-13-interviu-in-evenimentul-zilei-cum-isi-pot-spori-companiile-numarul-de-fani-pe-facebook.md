@@ -2,7 +2,7 @@
 title: "Interviu in Evenimentul Zilei – Cum își pot spori companiile numărul de fani pe Facebook"
 date: 2011-07-13 13:04:12 +0000
 categories: ["Relatii Publice"]
-tags: ["aparitii-media", "evz.ro", "facebook", "intrebari", "ziar"]
+tags: ["facebook", "intrebari"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2011/interviu-in-evenimentul-zilei-cum-isi-pot-spori-companiile-numarul-de-fani-pe-facebook/evz_ro_-__cel_mai_bun_portal_de_stiri_.jpg)

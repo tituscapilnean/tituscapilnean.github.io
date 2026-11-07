@@ -2,7 +2,7 @@
 title: "De ce calitatea e mai importantă pe blog, pe termen lung, chiar dacă nu pare"
 date: 2010-11-11 12:00:56 +0000
 categories: ["Social Media"]
-tags: ["blogging", "raspuns", "refresh"]
+tags: ["blogging"]
 author: titus_capilnean
 ---
 

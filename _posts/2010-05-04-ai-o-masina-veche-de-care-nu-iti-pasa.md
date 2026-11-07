@@ -2,7 +2,7 @@
 title: "Ai o masina veche de care nu iti pasa?"
 date: 2010-05-04 23:07:20 +0000
 categories: ["Evenimente"]
-tags: ["festival", "graffitti", "masina"]
+tags: ["festival", "masina"]
 author: titus_capilnean
 ---
 ![24473_405559310798_543655798_5008608_3668505_n](/assets/img/posts/2010/ai-o-masina-veche-de-care-nu-iti-pasa/24473_405559310798_543655798_5008608_3668505_n-150x150.jpg)

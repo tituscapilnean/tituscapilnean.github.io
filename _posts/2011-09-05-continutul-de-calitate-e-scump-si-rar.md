@@ -2,7 +2,7 @@
 title: "Continutul de calitate e scump si rar"
 date: 2011-09-05 16:32:51 +0000
 categories: ["Relatii Publice"]
-tags: ["content", "cost", "online"]
+tags: ["content", "online"]
 author: titus_capilnean
 ---
 

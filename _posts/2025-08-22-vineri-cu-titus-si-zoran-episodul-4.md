@@ -2,7 +2,7 @@
 title: "Vineri cu Titus și Zoran – episodul 4"
 date: 2025-08-22 13:00:00 +0300
 categories: [Podcast, Romania]
-tags: [economie, resurse, romania, societate, potential]
+tags: [economie, romania, societate]
 author: titus_capilnean
 ---
 

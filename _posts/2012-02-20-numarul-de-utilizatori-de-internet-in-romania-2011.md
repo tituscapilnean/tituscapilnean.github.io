@@ -2,7 +2,7 @@
 title: "Numărul de utilizatori de internet în România (2011)"
 date: 2012-02-20 21:26:36 +0000
 categories: ["Marketing"]
-tags: ["2011", "evolutie", "internet", "romania", "utilizatori"]
+tags: ["2011", "internet", "romania", "utilizatori"]
 author: titus_capilnean
 ---
 

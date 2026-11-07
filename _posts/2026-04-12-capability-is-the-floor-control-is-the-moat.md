@@ -2,7 +2,7 @@
 title: "Capability Is the Floor. Control Is the Moat."
 date: 2026-04-12 12:00:00 +0000
 categories: [English, AI]
-tags: [ai, agents, infrastructure, security, orchestration, "2026"]
+tags: [ai, agents, infrastructure, "2026"]
 author: titus
 ---
 

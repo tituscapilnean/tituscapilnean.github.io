@@ -2,7 +2,7 @@
 title: "Snapshots – functionalitate noua"
 date: 2009-10-27 14:35:22 +0000
 categories: ["Social Media"]
-tags: ["functionalitate", "nou", "schimbare", "snapshot"]
+tags: ["nou", "schimbare"]
 author: titus_capilnean
 ---
 

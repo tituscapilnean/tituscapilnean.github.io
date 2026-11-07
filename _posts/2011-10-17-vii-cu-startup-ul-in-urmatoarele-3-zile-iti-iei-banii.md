@@ -2,7 +2,7 @@
 title: "Vii cu startup-ul in urmatoarele 3 zile, iti iei banii"
 date: 2011-10-17 16:51:03 +0000
 categories: ["Evenimente"]
-tags: ["challenge", "how-to-web", "romania", "startup", "venture-capital"]
+tags: ["how-to-web", "romania", "startup", "venture-capital"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2011/vii-cu-startup-ul-in-urmatoarele-3-zile-iti-iei-banii/how-to-web-2010-logo-400x271.jpg)

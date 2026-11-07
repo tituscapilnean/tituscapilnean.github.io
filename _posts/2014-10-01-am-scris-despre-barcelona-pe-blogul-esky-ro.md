@@ -2,7 +2,7 @@
 title: "Am scris despre Barcelona pe blogul eSky.ro"
 date: 2014-10-01 15:38:45 +0000
 categories: ["Altele de online"]
-tags: ["barcelona", "blog", "esky"]
+tags: ["barcelona", "blog"]
 author: titus_capilnean
 ---
 

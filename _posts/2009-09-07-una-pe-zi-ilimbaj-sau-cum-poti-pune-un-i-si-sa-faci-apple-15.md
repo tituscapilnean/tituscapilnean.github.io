@@ -2,7 +2,7 @@
 title: "Una pe zi – iLimbaj sau cum poti pune un i si sa faci Apple 1/5"
 date: 2009-09-07 14:28:23 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["apple", "irak", "iran", "limbaj"]
+tags: ["apple"]
 author: titus_capilnean
 ---
 

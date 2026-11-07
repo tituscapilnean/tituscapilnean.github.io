@@ -2,7 +2,7 @@
 title: "Facebook a schimbat Top News ca sa faca mai multi bani"
 date: 2011-05-03 07:45:16 +0000
 categories: ["Social Media"]
-tags: ["facebook", "interactiuni", "schimbari"]
+tags: ["facebook", "schimbari"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2011/facebook-a-schimbat-top-news-ca-sa-faca-mai-multi-bani/facebookfeed.png)

@@ -2,7 +2,7 @@
 title: "Blog Action Day în România – La muncă!"
 date: 2012-10-15 06:00:28 +0000
 categories: ["Altele de online"]
-tags: ["#bad12", "action", "blog", "social"]
+tags: ["blog", "social"]
 author: titus_capilnean
 # EMBED_ISSUES: 3 embed(s) need review
 #   - [iframe] http://embed.ted.com/talks/mike_rowe_celebrates_dirty_jobs.html

@@ -2,7 +2,7 @@
 title: "Dupa comentariu si rasplata"
 date: 2009-09-13 19:34:19 +0000
 categories: ["Social Media"]
-tags: ["comentarii", "widget", "wordpress"]
+tags: ["wordpress"]
 author: titus_capilnean
 ---
 

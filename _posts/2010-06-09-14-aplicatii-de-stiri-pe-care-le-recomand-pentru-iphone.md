@@ -2,7 +2,7 @@
 title: "14 Aplicatii de stiri pe care le recomand pentru iPhone"
 date: 2010-06-09 22:29:01 +0000
 categories: ["Cu telefonul"]
-tags: ["aplicatii"]
+tags: []
 author: titus_capilnean
 ---
 

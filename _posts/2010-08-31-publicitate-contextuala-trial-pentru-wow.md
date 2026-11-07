@@ -2,7 +2,7 @@
 title: "Publicitate contextuala – trial pentru WoW"
 date: 2010-08-31 08:35:09 +0000
 categories: ["Cu telefonul"]
-tags: ["winscp", "wow"]
+tags: []
 author: titus_capilnean
 ---
 

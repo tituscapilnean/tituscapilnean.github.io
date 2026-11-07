@@ -2,7 +2,7 @@
 title: "Boston Consulting Group: Cum vinde brand advocacy-ul"
 date: 2014-01-15 15:30:29 +0000
 categories: ["Marketing"]
-tags: ["branding", "bugete", "campanii", "investitie"]
+tags: ["branding", "campanii"]
 author: titus_capilnean
 ---
 

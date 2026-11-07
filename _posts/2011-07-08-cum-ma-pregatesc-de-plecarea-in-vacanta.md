@@ -2,7 +2,7 @@
 title: "Cum ma pregatesc de plecarea in vacanta"
 date: 2011-07-08 08:05:32 +0000
 categories: ["Turism"]
-tags: ["bilete-de-avion", "city-break", "concediu", "idei", "paravion", "sfaturi", "vacanta"]
+tags: ["city-break", "idei", "paravion", "sfaturi", "vacanta"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2011/cum-ma-pregatesc-de-plecarea-in-vacanta/packing-list-150x150.jpg)

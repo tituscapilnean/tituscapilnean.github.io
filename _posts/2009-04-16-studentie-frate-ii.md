@@ -2,7 +2,7 @@
 title: "Studentie, frate (II)"
 date: 2009-04-16 08:16:00 +0000
 categories: ["Altele de online"]
-tags: ["experiment", "student", "studentie"]
+tags: ["experiment", "student"]
 author: titus_capilnean
 ---
 

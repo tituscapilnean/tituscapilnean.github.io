@@ -2,7 +2,7 @@
 title: "CAPTCHA dubios"
 date: 2009-10-07 11:23:22 +0000
 categories: ["Social Media"]
-tags: ["captcha", "dating", "distractiv", "dubios", "fail", "intuitiv", "social-media"]
+tags: ["distractiv", "fail", "social-media"]
 author: titus_capilnean
 ---
 

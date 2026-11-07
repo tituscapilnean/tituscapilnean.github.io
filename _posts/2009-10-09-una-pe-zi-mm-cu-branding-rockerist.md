@@ -2,7 +2,7 @@
 title: "Una pe zi – M&M cu branding rockerist"
 date: 2009-10-09 10:59:24 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["birou", "bomboane", "ciocolata", "kiss", "m&m"]
+tags: []
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Retelele sociale stimuleaza gelozia"
 date: 2009-08-18 07:00:22 +0000
 categories: ["Social Media"]
-tags: ["analiza", "cuplu", "gelozie", "inedit", "social-media"]
+tags: ["analiza", "inedit", "social-media"]
 author: titus_capilnean
 ---
 

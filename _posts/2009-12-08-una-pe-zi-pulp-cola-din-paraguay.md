@@ -2,7 +2,7 @@
 title: "Una pe zi – Pulp Cola, din Paraguay"
 date: 2009-12-08 21:02:20 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["adria", "america", "coca", "cola", "pulp"]
+tags: ["america"]
 author: titus_capilnean
 ---
 

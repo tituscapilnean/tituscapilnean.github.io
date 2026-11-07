@@ -2,7 +2,7 @@
 title: "Romanii sunt destepti, au talent, dar nu masoara"
 date: 2011-11-17 11:38:22 +0000
 categories: ["Altele de online"]
-tags: ["campanie", "destepti", "rom", "romania"]
+tags: ["campanie", "romania"]
 author: titus_capilnean
 ---
 

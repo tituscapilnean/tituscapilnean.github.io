@@ -2,7 +2,7 @@
 title: "Cainele sau coada"
 date: 2009-05-25 20:00:00 +0000
 categories: ["Altele de online"]
-tags: ["argumentare", "comunicare-mediatica", "detalii", "discurs", "distragerea-atentiei", "film", "fundal", "lideri-de-comunitati", "manipulare", "merchandising", "minciuna", "murdar", "muzical", "pantofi", "scandal", "scenarii", "simboluri", "sport"]
+tags: ["film", "scandal", "sport"]
 author: titus_capilnean
 ---
 

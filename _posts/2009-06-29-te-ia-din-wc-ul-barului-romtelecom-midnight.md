@@ -2,7 +2,7 @@
 title: "Te ia din WC-ul barului – Romtelecom Midnight"
 date: 2009-06-29 19:00:00 +0000
 categories: ["Publicitate"]
-tags: ["bar", "distractiv", "ooh", "targetare"]
+tags: ["distractiv", "ooh"]
 author: titus_capilnean
 ---
 

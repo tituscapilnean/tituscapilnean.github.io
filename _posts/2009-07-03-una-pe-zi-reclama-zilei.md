@@ -2,7 +2,7 @@
 title: "Una pe zi – Simplu, protejeaza-te"
 date: 2009-07-03 05:10:00 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["distractiv", "prezervative"]
+tags: ["distractiv"]
 author: titus_capilnean
 ---
 

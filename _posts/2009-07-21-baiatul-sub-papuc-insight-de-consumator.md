@@ -2,7 +2,7 @@
 title: "Baiatul sub papuc – insight de consumator"
 date: 2009-07-21 05:06:21 +0000
 categories: ["Publicitate"]
-tags: ["analiza", "barbati", "comunicare", "consumator", "insight", "romania"]
+tags: ["analiza", "comunicare", "consumator", "romania"]
 author: titus_capilnean
 ---
 

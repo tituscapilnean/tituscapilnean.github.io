@@ -2,7 +2,7 @@
 title: "Cele mai tari 3 reclame de la Superbowl 2011"
 date: 2011-02-09 07:00:24 +0000
 categories: ["Publicitate"]
-tags: ["2011", "superbowl", "top-3"]
+tags: ["2011", "superbowl"]
 author: titus_capilnean
 ---
 

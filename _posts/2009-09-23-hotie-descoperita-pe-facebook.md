@@ -2,7 +2,7 @@
 title: "Hotie descoperita pe Facebook"
 date: 2009-09-23 16:06:50 +0000
 categories: ["Social Media"]
-tags: ["dependent", "descoperire", "facebook", "fraier", "hot", "social-media"]
+tags: ["facebook", "social-media"]
 author: titus_capilnean
 ---
 

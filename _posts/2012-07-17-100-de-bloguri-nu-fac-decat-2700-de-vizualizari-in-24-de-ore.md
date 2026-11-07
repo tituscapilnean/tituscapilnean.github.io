@@ -2,7 +2,7 @@
 title: "100 de bloguri nu fac decât 2700 de vizualizări în 24 de ore"
 date: 2012-07-17 10:14:02 +0000
 categories: ["Social Media"]
-tags: ["blogosfera", "byron", "campanii", "lansare"]
+tags: ["blogosfera", "campanii", "lansare"]
 author: titus_capilnean
 ---
 

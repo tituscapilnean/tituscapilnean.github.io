@@ -2,7 +2,7 @@
 title: "Scurt exercițiu de matematică pentru publicitarii români"
 date: 2013-11-19 12:47:49 +0000
 categories: ["Publicitate"]
-tags: ["international", "publicitate", "salarii"]
+tags: ["international"]
 author: titus_capilnean
 ---
 ![math challenge](/assets/img/posts/2013/scurt-exercitiu-de-matematica-pentru-publicitarii-romani/math-challenge-150x150.jpg)

@@ -2,7 +2,7 @@
 title: "Cutremur in Indonezia pe Twitter"
 date: 2009-09-30 11:29:36 +0000
 categories: ["Evenimente", "Social Media"]
-tags: ["cutremur", "indonezia", "reactie", "social-media", "twitter"]
+tags: ["social-media", "twitter"]
 author: titus_capilnean
 ---
 

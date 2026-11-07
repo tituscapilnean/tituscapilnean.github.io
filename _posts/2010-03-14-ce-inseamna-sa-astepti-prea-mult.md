@@ -2,7 +2,7 @@
 title: "Ce inseamna sa astepti prea mult…"
 date: 2010-03-14 09:52:32 +0000
 categories: ["Altele de online"]
-tags: ["poveste", "trofee.-distractiv"]
+tags: ["poveste"]
 author: titus_capilnean
 ---
 

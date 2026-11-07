@@ -2,7 +2,7 @@
 title: "Branduri ucise de criza in 2009"
 date: 2009-07-16 15:15:46 +0000
 categories: ["Marketing"]
-tags: ["analiza", "anunt", "brand", "moarte"]
+tags: ["analiza", "anunt", "brand"]
 author: titus_capilnean
 ---
 

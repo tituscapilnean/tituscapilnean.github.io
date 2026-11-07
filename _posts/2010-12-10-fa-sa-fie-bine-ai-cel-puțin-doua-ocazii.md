@@ -2,7 +2,7 @@
 title: "Fă să fie bine, ai cel puțin două ocazii"
 date: 2010-12-10 06:57:00 +0000
 categories: ["Evenimente"]
-tags: ["bucuresti", "caritabil", "craciun"]
+tags: ["bucuresti", "craciun"]
 author: titus_capilnean
 ---
 

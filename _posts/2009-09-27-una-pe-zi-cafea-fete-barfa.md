@@ -2,7 +2,7 @@
 title: "Una pe zi – Cafea + Fete = barfa"
 date: 2009-09-27 12:11:29 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["barfa", "cafea", "gravida", "nescafe", "nociv"]
+tags: ["cafea"]
 author: titus_capilnean
 ---
 

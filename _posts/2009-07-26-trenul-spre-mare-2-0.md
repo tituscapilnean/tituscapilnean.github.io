@@ -2,7 +2,7 @@
 title: "Trenul spre mare 2.0"
 date: 2009-07-26 21:33:14 +0000
 categories: ["Altele de online"]
-tags: ["baie", "cfr", "distractiv", "mare", "tren", "wc"]
+tags: ["distractiv", "mare"]
 author: titus_capilnean
 ---
 

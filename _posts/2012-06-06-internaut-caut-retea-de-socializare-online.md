@@ -2,7 +2,7 @@
 title: "Internaut, caut retea de socializare online"
 date: 2012-06-06 15:48:25 +0000
 categories: ["Social Media"]
-tags: ["facebook", "hi5", "retele-sociale", "tranzitie"]
+tags: ["facebook", "hi5"]
 author: titus_capilnean
 ---
 

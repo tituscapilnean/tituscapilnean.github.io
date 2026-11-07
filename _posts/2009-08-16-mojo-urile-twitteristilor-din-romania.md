@@ -2,7 +2,7 @@
 title: "Mojo-urile Twitteristilor din Romania"
 date: 2009-08-16 19:59:44 +0000
 categories: ["Social Media"]
-tags: ["mojo", "top", "twitter", "zelist", "zetweety"]
+tags: ["top", "twitter"]
 author: titus_capilnean
 ---
 

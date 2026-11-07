@@ -2,7 +2,7 @@
 title: "[Spoof] Campania – Romania, the land of choice via HappyFish"
 date: 2009-06-15 18:25:00 +0000
 categories: ["Altele de online"]
-tags: ["campanie", "gurvern", "happy-fish", "romania", "spoof"]
+tags: ["campanie", "romania", "spoof"]
 author: titus_capilnean
 ---
 

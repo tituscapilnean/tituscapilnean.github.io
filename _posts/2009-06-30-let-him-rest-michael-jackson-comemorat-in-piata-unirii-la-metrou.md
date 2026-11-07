@@ -2,7 +2,7 @@
 title: "Let him rest – Michael Jackson comemorat in Piata Unirii la metrou"
 date: 2009-06-30 14:34:00 +0000
 categories: ["Evenimente"]
-tags: ["manifest", "metrou", "michael-jackson", "unirii"]
+tags: ["metrou", "unirii"]
 author: titus_capilnean
 ---
 

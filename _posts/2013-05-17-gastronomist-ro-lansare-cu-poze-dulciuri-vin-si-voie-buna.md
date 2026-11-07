@@ -2,7 +2,7 @@
 title: "Gastronomist.ro – lansare cu poze, dulciuri, vin si voie buna"
 date: 2013-05-17 08:43:59 +0000
 categories: ["Evenimente"]
-tags: ["content", "gastronomist", "lansare", "marketing"]
+tags: ["content", "lansare", "marketing"]
 author: titus_capilnean
 ---
 

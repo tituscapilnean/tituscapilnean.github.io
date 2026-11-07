@@ -2,7 +2,7 @@
 title: "From hungry wolf to fat cat – how culture can promote or hinder growth"
 date: 2020-01-31 09:00:00 +0200
 categories: [English, Change Management, Life]
-tags: [growth, culture, mindset]
+tags: [growth, culture]
 author: titus_capilnean
 ---
 

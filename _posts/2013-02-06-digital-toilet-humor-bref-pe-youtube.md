@@ -2,7 +2,7 @@
 title: "Digital toilet humor – Bref pe Youtube"
 date: 2013-02-06 11:21:32 +0000
 categories: ["Marketing"]
-tags: ["reclama", "video", "youtube"]
+tags: ["video", "youtube"]
 author: titus_capilnean
 ---
 

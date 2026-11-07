@@ -2,7 +2,7 @@
 title: "Experiment – Despre scris, trafic, conţinut şi alte alea"
 date: 2009-09-27 09:08:41 +0000
 categories: ["Social Media"]
-tags: ["experiment", "facebook", "meta", "promovare", "social-media", "trafic", "twitter"]
+tags: ["experiment", "facebook", "promovare", "social-media", "trafic", "twitter"]
 author: titus_capilnean
 ---
 

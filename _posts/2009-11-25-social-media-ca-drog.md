@@ -2,7 +2,7 @@
 title: "Social Media ca drog"
 date: 2009-11-25 15:57:20 +0000
 categories: ["Social Media"]
-tags: ["caricaturi", "droguri", "fun", "poze-de-grup", "social-media"]
+tags: ["fun", "social-media"]
 author: titus_capilnean
 ---
 

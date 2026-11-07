@@ -2,7 +2,7 @@
 title: "Participă la Balul Albastru 2013, învinge autismul"
 date: 2013-03-18 08:46:04 +0000
 categories: ["Evenimente"]
-tags: ["2013", "autism", "balul-albastru", "caritate", "eveniment"]
+tags: ["2013", "eveniment"]
 author: titus_capilnean
 ---
 ![540773_482920898424523_88265667_n](/assets/img/posts/2013/participa-la-balul-albastru-2013/540773_482920898424523_88265667_n-150x150.png)

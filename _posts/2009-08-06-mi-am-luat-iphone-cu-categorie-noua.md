@@ -2,7 +2,7 @@
 title: "Mi-am luat iphone cu categorie noua"
 date: 2009-08-06 04:31:39 +0000
 categories: ["Cu telefonul"]
-tags: ["functii", "how-to", "tips", "tricks"]
+tags: []
 author: titus_capilnean
 ---
 

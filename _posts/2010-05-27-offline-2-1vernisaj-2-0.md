@@ -2,7 +2,7 @@
 title: "Offline 2.1/Vernisaj 2.0"
 date: 2010-05-27 10:22:50 +0000
 categories: ["Evenimente", "Social Media"]
-tags: ["offline", "pizza-hut", "vernisaj"]
+tags: ["offline"]
 author: titus_capilnean
 ---
 

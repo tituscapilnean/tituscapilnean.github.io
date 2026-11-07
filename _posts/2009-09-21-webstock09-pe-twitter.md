@@ -2,7 +2,7 @@
 title: "#Webstock09 pe Twitter"
 date: 2009-09-21 20:42:03 +0000
 categories: ["Evenimente", "Social Media"]
-tags: ["spixii", "top-10", "total-tweets", "tweeturi", "twitter", "twitter-wall", "webstock-2009"]
+tags: ["twitter", "webstock-2009"]
 author: titus_capilnean
 ---
 

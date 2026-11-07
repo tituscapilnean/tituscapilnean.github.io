@@ -2,7 +2,7 @@
 title: "Filme virusate circula libere pe internet"
 date: 2009-07-06 15:30:00 +0000
 categories: ["Social Media"]
-tags: ["avi", "film", "nou", "torrent", "virus", "windows-media-player"]
+tags: ["film", "nou", "virus"]
 author: titus_capilnean
 ---
 

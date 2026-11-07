@@ -2,7 +2,7 @@
 title: "Metrorex – pasajul redeschis"
 date: 2009-09-03 07:21:36 +0000
 categories: ["Altele de online"]
-tags: ["bucuresti", "dimineata", "metrou", "pasaj", "renovare"]
+tags: ["bucuresti", "metrou"]
 author: titus_capilnean
 ---
 

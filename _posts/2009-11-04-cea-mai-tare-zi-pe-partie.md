@@ -2,7 +2,7 @@
 title: "Cea mai tare zi pe partie"
 date: 2009-11-04 14:14:33 +0000
 categories: ["Publicitate", "Turism"]
-tags: ["bloggeri", "cea-mai-tare-zi", "concurs", "gratis", "ski", "snow-explosion", "snowboard", "vacanta", "zapada"]
+tags: ["bloggeri", "concurs", "gratis", "ski", "snow-explosion", "snowboard", "vacanta", "zapada"]
 author: titus_capilnean
 ---
 

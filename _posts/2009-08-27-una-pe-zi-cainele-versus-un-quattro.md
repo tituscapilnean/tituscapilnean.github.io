@@ -2,7 +2,7 @@
 title: "Una pe zi – Cainele versus un Quattro"
 date: 2009-08-27 13:53:36 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["audi-quattro", "caine", "distractiv"]
+tags: ["distractiv"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Mistery shopping și în România: faci bani la cumpărături"
 date: 2013-09-10 09:30:18 +0000
 categories: ["Marketing"]
-tags: ["cercetare", "client-misterios", "locuri-de-munca", "marketing"]
+tags: ["marketing"]
 author: titus_capilnean
 ---
 ![jobs-logo-apply-now](/assets/img/posts/2013/mistery-shopping-si-in-romania-faci-bani-la-cumparaturi/jobs-logo-apply-now-150x150.jpg)

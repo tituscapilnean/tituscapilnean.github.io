@@ -2,7 +2,7 @@
 title: "Pune umarul la reconstructia breslei de relatii publice in Romania"
 date: 2012-02-14 12:05:48 +0000
 categories: ["Relatii Publice"]
-tags: ["arrp", "cercetare"]
+tags: []
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2012/pune-umarul-la-reconstructia-breslei-de-relatii-publice-in-romania/logo-arrp.gif)

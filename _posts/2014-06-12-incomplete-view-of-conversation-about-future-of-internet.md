@@ -2,7 +2,7 @@
 title: An Incomplete View of a Conversation About the Future of the Internet
 date: 2014-06-12 10:12:33 +0800
 categories: [Digital Events, English]
-tags: [internet, technology, IoT]
+tags: [internet]
 author: titus_capilnean
 ---
 

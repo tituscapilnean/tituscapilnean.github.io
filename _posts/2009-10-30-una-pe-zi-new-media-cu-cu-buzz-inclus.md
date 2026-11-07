@@ -2,7 +2,7 @@
 title: "Una pe zi – New Media cu buzz inclus"
 date: 2009-10-30 14:05:54 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["buzz", "muste", "new-media"]
+tags: ["buzz", "new-media"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Fotografii mai bune cu #scoalaF64"
 date: 2012-10-03 06:00:40 +0000
 categories: ["Evenimente"]
-tags: ["f64", "fotografie", "scoala"]
+tags: ["fotografie", "scoala"]
 author: titus_capilnean
 ---
 

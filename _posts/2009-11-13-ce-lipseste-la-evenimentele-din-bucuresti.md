@@ -2,7 +2,7 @@
 title: "Ce lipseste la evenimentele din Bucuresti"
 date: 2009-11-13 06:22:32 +0000
 categories: ["Evenimente"]
-tags: ["bucuresti", "comunicare", "evenimente", "imbunatatire", "parere"]
+tags: ["bucuresti", "comunicare", "evenimente"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Sfaturi pentru mine, cand voi fi parinte"
 date: 2010-10-31 16:33:39 +0000
 categories: ["Altele de online"]
-tags: ["copii", "educatie", "personal"]
+tags: ["copii", "personal"]
 author: titus_capilnean
 ---
 

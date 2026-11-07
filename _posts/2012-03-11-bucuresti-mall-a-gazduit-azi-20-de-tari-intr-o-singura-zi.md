@@ -2,7 +2,7 @@
 title: "Bucuresti Mall a găzduit azi 20 de țări într-o singură zi"
 date: 2012-03-11 08:26:14 +0000
 categories: ["Evenimente"]
-tags: ["aiesec", "bucuresti-mall"]
+tags: ["aiesec"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2012/bucuresti-mall-a-gazduit-azi-20-de-tari-intr-o-singura-zi/global-village-400x165.jpg)

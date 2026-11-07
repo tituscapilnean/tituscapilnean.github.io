@@ -2,7 +2,7 @@
 title: "Lucrări de diplomă cu avioane, pentru ingineri și nu numai"
 date: 2012-12-10 10:07:29 +0000
 categories: ["Altele de online"]
-tags: ["dizertatie", "doctorat", "licenta", "studenti", "teamnet", "uav"]
+tags: []
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Vinerea cartierul ma inspira"
 date: 2010-05-31 10:11:25 +0000
 categories: ["Altele de online"]
-tags: ["cartier", "offline", "poveste"]
+tags: ["offline", "poveste"]
 author: titus_capilnean
 ---
 

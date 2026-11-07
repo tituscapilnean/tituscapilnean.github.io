@@ -2,7 +2,7 @@
 title: "Nu muncești, nu primești"
 date: 2012-12-12 09:46:06 +0000
 categories: ["Altele de online"]
-tags: ["lene", "munca", "oameni", "productivitate"]
+tags: ["munca", "oameni"]
 author: titus_capilnean
 ---
 

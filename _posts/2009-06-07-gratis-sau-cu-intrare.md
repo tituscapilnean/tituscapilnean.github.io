@@ -2,7 +2,7 @@
 title: "Gratis sau cu intrare?"
 date: 2009-06-07 09:57:00 +0000
 categories: ["Marketing"]
-tags: ["bucuresti", "noapte"]
+tags: ["bucuresti"]
 author: titus_capilnean
 ---
 

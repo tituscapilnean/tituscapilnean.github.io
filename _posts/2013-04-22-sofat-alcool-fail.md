@@ -2,7 +2,7 @@
 title: "Șofat + alcool = fail"
 date: 2013-04-22 13:49:21 +0000
 categories: ["Evenimente"]
-tags: ["formula-1", "hakkinen", "johnnie-walker", "responsabilitate"]
+tags: ["responsabilitate"]
 author: titus_capilnean
 ---
 

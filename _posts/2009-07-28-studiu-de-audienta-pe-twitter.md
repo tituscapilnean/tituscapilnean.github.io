@@ -2,7 +2,7 @@
 title: "Studiu de audienta pe Twitter"
 date: 2009-07-28 06:48:59 +0000
 categories: ["Marketing", "Social Media"]
-tags: ["analiza", "audienta", "studiu", "twitter"]
+tags: ["analiza", "studiu", "twitter"]
 author: titus_capilnean
 ---
 

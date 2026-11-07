@@ -2,7 +2,7 @@
 title: "Pagina Pro Tv a strans 175.000 de fani peste noapte"
 date: 2011-11-08 13:16:13 +0000
 categories: ["Altele de online"]
-tags: ["crestere", "facebook", "fani", "pro-tv", "spam"]
+tags: ["crestere", "facebook", "fani", "spam"]
 author: titus_capilnean
 ---
 

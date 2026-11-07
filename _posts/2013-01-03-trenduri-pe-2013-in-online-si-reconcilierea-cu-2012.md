@@ -2,7 +2,7 @@
 title: "Trenduri pe 2013 în online și reconcilierea cu 2012"
 date: 2013-01-03 20:56:48 +0000
 categories: ["Sondaje și Studii"]
-tags: ["2013", "predictii", "previziuni", "reconciliere", "trenduri"]
+tags: ["2013", "trenduri"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2013/trenduri-pe-2013-in-online-si-reconcilierea-cu-2012/Trends2012-150x150.jpg)

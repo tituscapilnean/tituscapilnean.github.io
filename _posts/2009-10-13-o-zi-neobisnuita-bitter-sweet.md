@@ -2,7 +2,7 @@
 title: "O zi (ne)obisnuita – Bitter-Sweet"
 date: 2009-10-13 17:53:26 +0000
 categories: ["Altele de online", "Evenimente"]
-tags: ["echipa", "generatia-y", "money", "money-express", "prima-pagina", "revista", "tedx", "tedxbucharest"]
+tags: ["tedx", "tedxbucharest"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Groupon Romania: a intrat tata lor pe piata"
 date: 2010-12-07 08:37:40 +0000
 categories: ["Social Media"]
-tags: ["cumparaturi-pe-net", "groupon"]
+tags: ["groupon"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2010/groupon-romania-a-intrat-tata-lor-pe-piata/v4fBC-150x150.png)

@@ -2,7 +2,7 @@
 title: "New Kopel – varza care m-a pus în dificultate"
 date: 2013-11-14 16:55:41 +0000
 categories: ["Marketing"]
-tags: ["macheta", "print", "varza"]
+tags: ["print"]
 author: titus_capilnean
 ---
 

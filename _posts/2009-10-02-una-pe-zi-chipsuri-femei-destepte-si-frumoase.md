@@ -2,7 +2,7 @@
 title: "Una pe zi – Chipsuri, femei destepte si frumoase ?!"
 date: 2009-10-02 14:08:38 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["blonde", "cchipsuri", "destept", "femei", "inteligenta", "vineri"]
+tags: ["femei", "vineri"]
 author: titus_capilnean
 ---
 

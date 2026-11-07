@@ -2,7 +2,7 @@
 title: "Transport gratuit în București (sectoarele 2 și 3)"
 date: 2013-03-27 15:29:56 +0000
 categories: ["Altele de online"]
-tags: ["bucuresti", "gratis", "sector-2", "sector-3", "taxi", "transport"]
+tags: ["bucuresti", "gratis"]
 author: titus_capilnean
 ---
 ![5153103aec8d8302df000072](/assets/img/posts/2013/transport-gratuit-in-bucuresti-sectoarele-2-si-3/5153103aec8d8302df000072.jpeg)

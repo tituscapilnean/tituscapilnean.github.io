@@ -2,7 +2,7 @@
 title: "Pe cine trimiti in Parlamentul European"
 date: 2009-06-01 09:22:00 +0000
 categories: ["Social Media"]
-tags: ["alegeri", "catavencu", "distractiv", "politica"]
+tags: ["alegeri", "distractiv", "politica"]
 author: titus_capilnean
 ---
 

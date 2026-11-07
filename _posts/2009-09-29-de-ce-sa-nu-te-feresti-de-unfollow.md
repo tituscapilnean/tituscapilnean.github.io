@@ -2,7 +2,7 @@
 title: "De ce sa nu te feresti de unfollow"
 date: 2009-09-29 10:00:09 +0000
 categories: ["Social Media"]
-tags: ["cum-se-foloseste", "followers", "twitter", "unfollow", "urmaritori"]
+tags: ["twitter"]
 author: titus_capilnean
 ---
 

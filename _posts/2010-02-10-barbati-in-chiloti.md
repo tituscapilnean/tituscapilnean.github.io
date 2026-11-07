@@ -2,7 +2,7 @@
 title: "Barbati in chiloti"
 date: 2010-02-10 19:09:16 +0000
 categories: ["Marketing", "Social Media"]
-tags: ["campanie", "pantaloni", "superbowl"]
+tags: ["campanie", "superbowl"]
 author: titus_capilnean
 ---
 

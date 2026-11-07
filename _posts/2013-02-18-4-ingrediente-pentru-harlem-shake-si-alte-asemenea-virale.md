@@ -2,7 +2,7 @@
 title: "4 ingrediente pentru Harlem Shake și alte asemenea virale"
 date: 2013-02-18 08:48:21 +0000
 categories: ["Marketing"]
-tags: ["cum-sa", "harlem-shake", "ingrediente", "viral"]
+tags: ["cum-sa", "viral"]
 author: titus_capilnean
 ---
 

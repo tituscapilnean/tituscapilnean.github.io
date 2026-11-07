@@ -2,7 +2,7 @@
 title: "(2012) Philip Kotler in Romania – Marketing 3.0"
 date: 2012-06-18 11:10:53 +0000
 categories: ["Evenimente"]
-tags: ["bucuresti", "kotler", "training"]
+tags: ["bucuresti", "training"]
 author: titus_capilnean
 ---
 

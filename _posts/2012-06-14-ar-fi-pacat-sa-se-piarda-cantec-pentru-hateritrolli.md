@@ -2,7 +2,7 @@
 title: "Ar fi păcat să se piardă – cântec pentru hateri/trolli"
 date: 2012-06-14 07:41:10 +0000
 categories: ["Social Media"]
-tags: ["hateri", "troll", "video"]
+tags: ["video"]
 author: titus_capilnean
 ---
 

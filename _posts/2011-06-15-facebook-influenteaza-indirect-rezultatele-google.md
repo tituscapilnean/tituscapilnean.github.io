@@ -2,7 +2,7 @@
 title: "Facebook influenteaza indirect rezultatele Google"
 date: 2011-06-15 07:38:24 +0000
 categories: ["Social Media"]
-tags: ["facebook", "mecanism", "seo", "social-media"]
+tags: ["facebook", "seo", "social-media"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2011/facebook-influenteaza-indirect-rezultatele-google/white-hat-seo-150x150.jpg)

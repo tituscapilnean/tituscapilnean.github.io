@@ -2,7 +2,7 @@
 title: "Criza, cresterea si Linkedin"
 date: 2009-10-14 18:00:19 +0000
 categories: ["Social Media"]
-tags: ["cota-de-piata", "crestere", "linkedin", "social-media", "stire"]
+tags: ["crestere", "linkedin", "social-media", "stire"]
 author: titus_capilnean
 ---
 

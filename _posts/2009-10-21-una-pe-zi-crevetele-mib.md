@@ -2,7 +2,7 @@
 title: "Una pe zi – Crevetele MIB"
 date: 2009-10-21 08:27:06 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["asia", "crevete", "pizza"]
+tags: []
 author: titus_capilnean
 ---
 

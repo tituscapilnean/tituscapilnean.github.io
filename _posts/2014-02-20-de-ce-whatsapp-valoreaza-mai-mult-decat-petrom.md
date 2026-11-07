@@ -2,7 +2,7 @@
 title: "De ce Whatsapp valorează mai mult decât Petrom?"
 date: 2014-02-20 16:03:31 +0000
 categories: ["Business & Investitii"]
-tags: ["evaluare", "facebook", "petrom", "whatsapp"]
+tags: ["evaluare", "facebook"]
 author: titus_capilnean
 ---
 ![facebook_whatsapp_ny333_41171393](/assets/img/posts/2014/de-ce-whatsapp-valoreaza-mai-mult-decat-petrom/facebook_whatsapp_ny333_41171393-150x150.jpg)

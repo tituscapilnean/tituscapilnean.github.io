@@ -2,7 +2,7 @@
 title: "Imobiliarele, criza si online-ul – nu arata a 2012"
 date: 2012-01-09 11:14:08 +0000
 categories: ["Altele de online"]
-tags: ["2012", "imobiliare", "online", "website"]
+tags: ["2012", "online", "website"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2012/imobiliarele-criza-si-online-ul-nu-arata-a-2012/casa-150x150.jpg)

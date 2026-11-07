@@ -2,7 +2,7 @@
 title: "Ce cauta un Online Communication Manager in companie"
 date: 2011-04-06 09:36:38 +0000
 categories: ["Online Training"]
-tags: ["biblioteca-bogdana", "carte", "concurs", "manager-online", "premiu"]
+tags: ["carte", "concurs", "premiu"]
 author: titus_capilnean
 ---
 

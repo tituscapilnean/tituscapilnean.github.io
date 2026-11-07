@@ -2,7 +2,7 @@
 title: "Cel mai bun sofer din Grand Prix-ul Blogosferei"
 date: 2011-07-29 10:39:13 +0000
 categories: ["Evenimente", "Publicitate"]
-tags: ["amckart-pipera", "condus", "disney", "formula-1", "masini-2", "viteza"]
+tags: []
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2011/cel-mai-bun-sofer-din-grand-prix-ul-blogosferei/283379_224881744221800_100000999296216_612938_7602487_n-e1311935602390-150x150.jpg)

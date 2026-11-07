@@ -2,7 +2,7 @@
 title: "BTL agresiv"
 date: 2009-05-16 06:18:00 +0000
 categories: ["Marketing"]
-tags: ["btl", "tigari"]
+tags: ["tigari"]
 author: titus_capilnean
 ---
 

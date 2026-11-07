@@ -2,7 +2,7 @@
 title: "Virusache pe Yahoo! Messenger"
 date: 2010-05-04 10:06:28 +0000
 categories: ["Social Media"]
-tags: ["messenger", "virus", "yahoo"]
+tags: ["virus", "yahoo"]
 author: titus_capilnean
 ---
 

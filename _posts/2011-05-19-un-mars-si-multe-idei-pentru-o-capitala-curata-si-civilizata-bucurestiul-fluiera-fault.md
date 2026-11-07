@@ -2,7 +2,7 @@
 title: "Un mars si multe idei pentru o capitala curata si civilizata – Bucurestiul Fluiera Fault"
 date: 2011-05-19 22:21:09 +0000
 categories: ["Altele de online"]
-tags: ["aiesec", "bucuresti", "bucurestiul-fluiera-fault", "eco", "fault", "vox-populi"]
+tags: ["aiesec", "bucuresti", "bucurestiul-fluiera-fault", "eco", "vox-populi"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2011/un-mars-si-multe-idei-pentru-o-capitala-curata-si-civilizata-bucurestiul-fluiera-fault/bff-186x300.jpg)

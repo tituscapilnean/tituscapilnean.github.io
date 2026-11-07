@@ -2,7 +2,7 @@
 title: "Web 4.0 e departe"
 date: 2010-05-12 19:41:17 +0000
 categories: ["Social Media"]
-tags: ["semantic-web", "viitor", "web-2.0"]
+tags: ["viitor", "web-2.0"]
 author: titus_capilnean
 ---
 

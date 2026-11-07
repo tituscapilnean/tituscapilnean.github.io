@@ -2,7 +2,7 @@
 title: "Facebook a depasit 400.000 de utilizatori romani"
 date: 2009-11-02 23:26:01 +0000
 categories: ["Marketing", "Social Media"]
-tags: ["2009", "facebook", "noiembrie", "numere-facebook", "romania", "statistici"]
+tags: ["2009", "facebook", "romania", "statistici"]
 author: titus_capilnean
 ---
 

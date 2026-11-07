@@ -2,7 +2,7 @@
 title: "Starbucks-ul de aseara, din Mall Vitan"
 date: 2011-01-21 13:19:14 +0000
 categories: ["Evenimente"]
-tags: ["cafea", "degustare", "starbucks"]
+tags: ["cafea"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2011/starbucks-ul-de-aseara-din-mall-vitan/starbucks-150x150.jpg)

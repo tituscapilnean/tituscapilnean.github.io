@@ -2,7 +2,7 @@
 title: "Invitatii Google Wave"
 date: 2009-11-24 21:48:37 +0000
 categories: ["Social Media"]
-tags: ["google", "google-wave", "gratis", "invitatii", "social-media", "valul-2"]
+tags: ["google", "google-wave", "gratis", "invitatii", "social-media"]
 author: titus_capilnean
 ---
 

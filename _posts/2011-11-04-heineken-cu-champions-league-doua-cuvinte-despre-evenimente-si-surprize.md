@@ -2,7 +2,7 @@
 title: "Heineken cu Champions League, două cuvinte despre evenimente și surprize"
 date: 2011-11-04 18:05:53 +0000
 categories: ["Altele de online"]
-tags: ["champions-league", "heineken", "manchester", "otelul"]
+tags: ["heineken"]
 author: titus_capilnean
 ---
 

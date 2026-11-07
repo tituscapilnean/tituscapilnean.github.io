@@ -2,7 +2,7 @@
 title: "Top 10 branduri în România pe Facebook – Iunie 2012"
 date: 2012-07-23 12:37:05 +0000
 categories: ["Social Media"]
-tags: ["facebook", "romania", "social-brands", "top"]
+tags: ["facebook", "romania", "top"]
 author: titus_capilnean
 ---
 

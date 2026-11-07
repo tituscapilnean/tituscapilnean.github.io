@@ -2,7 +2,7 @@
 title: "Vaca mov – Seth Godin"
 date: 2009-05-06 14:58:00 +0000
 categories: ["Marketing"]
-tags: ["analiza", "audiobook", "inedit", "inovatie"]
+tags: ["analiza", "inedit", "inovatie"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Una pe zi – Bicicleta Q5?"
 date: 2009-07-20 17:38:33 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["audi", "bicicleta", "inedit"]
+tags: ["bicicleta", "inedit"]
 author: titus_capilnean
 ---
 

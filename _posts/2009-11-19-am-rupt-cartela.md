@@ -2,7 +2,7 @@
 title: "Am rupt cartela!"
 date: 2009-11-19 08:56:14 +0000
 categories: ["Evenimente", "Social Media"]
-tags: ["activism", "civism", "greva-metrou", "new-media", "protest", "rupem-cartela", "social-media"]
+tags: ["activism", "new-media", "protest", "social-media"]
 author: titus_capilnean
 ---
 

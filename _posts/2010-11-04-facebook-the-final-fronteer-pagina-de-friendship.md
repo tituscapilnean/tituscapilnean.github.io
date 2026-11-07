@@ -2,7 +2,7 @@
 title: "Facebook, The final fronteer – Pagina de Friendship"
 date: 2010-11-04 12:04:49 +0000
 categories: ["Social Media"]
-tags: ["facebook", "pagini-de-prietenie", "stalker"]
+tags: ["facebook"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2010/facebook-the-final-fronteer-pagina-de-friendship/facebook_logo-150x150.jpg)

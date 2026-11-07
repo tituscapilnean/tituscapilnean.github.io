@@ -2,7 +2,7 @@
 title: "De ce trebuie sa ai cont pe Facebook/Twitter/Linkedin"
 date: 2011-02-08 08:20:01 +0000
 categories: ["Online Training"]
-tags: ["cont-fals", "facebook", "social-media"]
+tags: ["facebook", "social-media"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2011/de-ce-trebuie-sa-ai-cont-pe-facebooktwitterlinkedin/facebook_logo-400x150.jpg)

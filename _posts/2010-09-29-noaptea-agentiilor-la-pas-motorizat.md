@@ -2,7 +2,7 @@
 title: "Noaptea agentiilor la pas motorizat"
 date: 2010-09-29 14:00:26 +0000
 categories: ["Evenimente"]
-tags: ["ador", "agentie"]
+tags: ["agentie"]
 author: titus_capilnean
 ---
 

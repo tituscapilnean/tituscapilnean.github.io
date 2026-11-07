@@ -2,7 +2,7 @@
 title: "De ce campania Raiffeisen cu bloggeri va avea impact limitat"
 date: 2011-08-09 14:02:11 +0000
 categories: ["Relatii Publice"]
-tags: ["bloggeri", "campanie", "feedback", "idei", "ong", "proiect", "raiffeisen"]
+tags: ["bloggeri", "campanie", "feedback", "idei", "ong"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2011/de-ce-campania-raiffeisen-cu-bloggeri-va-avea-impact-limitat/logo-1.png)

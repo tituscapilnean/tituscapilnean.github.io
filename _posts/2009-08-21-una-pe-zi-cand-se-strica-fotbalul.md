@@ -2,7 +2,7 @@
 title: "Una pe zi – Cand se strica fotbalul"
 date: 2009-08-21 14:35:52 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["cupele-europene", "dinamo", "distractiv", "europa-league", "stadion", "suporteri", "suspendare", "uefa", "vineri"]
+tags: ["distractiv", "vineri"]
 author: titus_capilnean
 ---
 

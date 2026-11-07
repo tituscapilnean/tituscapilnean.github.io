@@ -2,7 +2,7 @@
 title: "Facebook a luat-o razna"
 date: 2010-09-01 10:37:49 +0000
 categories: ["Social Media"]
-tags: ["erori", "facebook"]
+tags: ["facebook"]
 author: titus_capilnean
 ---
 

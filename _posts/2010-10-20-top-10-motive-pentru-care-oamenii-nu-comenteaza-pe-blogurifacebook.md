@@ -2,7 +2,7 @@
 title: "Top 10 motive pentru care oamenii nu comenteaza pe bloguri/Facebook"
 date: 2010-10-20 09:00:13 +0000
 categories: ["Social Media"]
-tags: ["oameni", "psihologie"]
+tags: ["oameni"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2010/top-10-motive-pentru-care-oamenii-nu-comenteaza-pe-blogurifacebook/blog-comment-icon-150x150.png)

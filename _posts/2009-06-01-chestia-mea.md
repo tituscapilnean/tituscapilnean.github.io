@@ -2,7 +2,7 @@
 title: "Chestia mea"
 date: 2009-06-01 03:37:00 +0000
 categories: ["Altele de online"]
-tags: ["design", "motivational", "pasiuni"]
+tags: ["design", "motivational"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Beck’s – Degeaba ai QR code dacă nu merge site-ul"
 date: 2013-08-01 09:38:58 +0000
 categories: ["Marketing"]
-tags: ["becks", "fail", "qr-code"]
+tags: ["fail", "qr-code"]
 author: titus_capilnean
 ---
 

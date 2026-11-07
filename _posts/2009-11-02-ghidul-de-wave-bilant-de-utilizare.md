@@ -2,7 +2,7 @@
 title: "Ghidul de Wave + bilant de utilizare"
 date: 2009-11-02 10:42:14 +0000
 categories: ["Social Media"]
-tags: ["cum-se-foloseste", "ghid-wave", "google-wave", "social-media"]
+tags: ["google-wave", "social-media"]
 author: titus_capilnean
 ---
 

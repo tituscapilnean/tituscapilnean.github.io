@@ -2,7 +2,7 @@
 title: Căutăm Country Manager pentru România la TransferGo
 date: 2016-05-19 09:00:00 +0300
 categories: [Romanian, Hiring]
-tags: [jobs, manager, online, transfergo]
+tags: [jobs, online, transfergo]
 author: titus_capilnean
 ---
 

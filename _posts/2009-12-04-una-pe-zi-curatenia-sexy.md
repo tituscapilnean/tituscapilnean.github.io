@@ -2,7 +2,7 @@
 title: "Una pe zi – Curatenia sexy"
 date: 2009-12-04 14:24:22 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["ambipur", "baiat", "curatat", "curatenie", "sexy", "tanti"]
+tags: ["sexy"]
 author: titus_capilnean
 ---
 

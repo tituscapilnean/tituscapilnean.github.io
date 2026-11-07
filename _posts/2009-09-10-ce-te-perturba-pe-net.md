@@ -2,7 +2,7 @@
 title: "Ce te perturba pe net"
 date: 2009-09-10 05:04:00 +0000
 categories: ["Social Media"]
-tags: ["arta", "perturbatii", "poza", "social-media"]
+tags: ["arta", "poza", "social-media"]
 author: titus_capilnean
 ---
 

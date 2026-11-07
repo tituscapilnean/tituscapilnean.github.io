@@ -2,7 +2,7 @@
 title: "Una pe zi – TED Week – Inspiratie"
 date: 2009-10-12 15:24:49 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["insirational", "natura-umana", "ted-talk", "tedx", "tedxbucharest", "uimitor"]
+tags: ["ted-talk", "tedx", "tedxbucharest"]
 author: titus_capilnean
 ---
 

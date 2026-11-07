@@ -2,7 +2,7 @@
 title: "Una pe zi – Parul din nas si Panasonic"
 date: 2010-02-05 16:00:50 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["panasonic"]
+tags: []
 author: titus_capilnean
 ---
 

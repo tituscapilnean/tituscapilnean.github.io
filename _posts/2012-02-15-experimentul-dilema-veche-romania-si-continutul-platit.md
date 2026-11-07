@@ -2,7 +2,7 @@
 title: "Experimentul Dilema Veche – Romania si continutul platit"
 date: 2012-02-15 14:34:38 +0000
 categories: ["Marketing"]
-tags: ["continut", "dilema", "plata"]
+tags: ["continut"]
 author: titus_capilnean
 ---
 
