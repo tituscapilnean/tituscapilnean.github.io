@@ -31,11 +31,13 @@ cd assets/lib && npm install && npm run build
 - **`_plugins/posts-lastmod-hook.rb`** — Auto-captures last-modified date from git history
 - **`assets/lib/`** — Frontend dependencies (FontAwesome, Mermaid, TocBot, etc.) managed via npm
 - **`tools/`** — `run.sh` (dev server), `test.sh` (production build + validation)
-- **`.github/workflows/pages-deploy.yml`** — CI/CD: builds with `JEKYLL_ENV=production`, runs html-proofer, deploys to GitHub Pages on push to main
+- **`.github/workflows/pages-deploy.yml`** — CI/CD: builds with `JEKYLL_ENV=production` and deploys to GitHub Pages on push to main
+- **`.github/workflows/pr-check.yml`** — runs the production build plus html-proofer on every pull request
 
 ## Known Gotchas
 
 - **Year numbers in YAML tags must be quoted** — bare integers like `2025` break Jekyll's `slugify` filter with `undefined method 'gsub' for an instance of Integer`. Always use `"2025"` not `2025` in `tags`.
+- **Bulk edits to posts should not change "last updated" dates** — put `[skip lastmod]` in the commit message and `_plugins/posts-lastmod-hook.rb` ignores that commit.
 - **Always use UTC for post dates** — GitHub Pages builds in UTC. A date like `09:00:00 -0800` equals `17:00:00 UTC`, so if the build runs before that time the post is treated as future and hidden. Always use `+0000` timezone, e.g. `date: 2026-03-15 08:00:00 +0000`.
 
 ## Post Frontmatter
