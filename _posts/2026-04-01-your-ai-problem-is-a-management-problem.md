@@ -2,7 +2,7 @@
 title: "Your AI Problem Is a Management Problem"
 date: 2026-04-01 12:00:00 +0000
 categories: [English, AI]
-tags: [ai, agents, management, inference, observability, "2026"]
+tags: [ai, agents, management, "2026"]
 author: titus
 ---
 

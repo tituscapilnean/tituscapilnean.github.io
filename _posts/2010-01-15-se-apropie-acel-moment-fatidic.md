@@ -2,7 +2,7 @@
 title: "Se apropie acel moment fatidic"
 date: 2010-01-15 09:43:31 +0000
 categories: ["Altele de online"]
-tags: ["comics", "impozite", "stat", "taxe"]
+tags: ["comics"]
 author: titus_capilnean
 ---
 

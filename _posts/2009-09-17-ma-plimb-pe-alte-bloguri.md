@@ -2,7 +2,7 @@
 title: "Ma plimb pe alte bloguri"
 date: 2009-09-17 13:48:25 +0000
 categories: ["Social Media"]
-tags: ["feed", "importanta", "rss", "seo", "vox-populi"]
+tags: ["rss", "seo", "vox-populi"]
 author: titus_capilnean
 ---
 

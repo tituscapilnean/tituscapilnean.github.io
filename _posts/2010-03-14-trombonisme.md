@@ -2,7 +2,7 @@
 title: "Trombonisme"
 date: 2010-03-14 10:54:24 +0000
 categories: ["Social Media"]
-tags: ["concurs", "crbl", "viral", "vodafone"]
+tags: ["concurs", "viral", "vodafone"]
 author: titus_capilnean
 ---
 

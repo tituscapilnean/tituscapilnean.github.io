@@ -2,7 +2,7 @@
 title: "Una pe zi – Jeep-ul in doua lumi"
 date: 2010-10-29 14:43:35 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["jeep"]
+tags: []
 author: titus_capilnean
 ---
 

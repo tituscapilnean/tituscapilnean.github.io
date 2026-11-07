@@ -2,7 +2,7 @@
 title: "My Agent Tagged the Whole SDR Team on a Thursday Night"
 date: 2026-11-02 12:00:00 +0000
 categories: [English, AI]
-tags: [ai, agents, gtm, sales, guardrails, "2026"]
+tags: [ai, agents, "2026"]
 author: titus
 ---
 

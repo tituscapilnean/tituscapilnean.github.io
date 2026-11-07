@@ -2,7 +2,7 @@
 title: "Triple-Ping Your Docs: How I Use Claude, Gemini & o3 to Beat Bland AI Writing"
 date: 2025-05-20 17:00:00 -0400
 categories: [English, Writing]
-tags: [generative ai, content strategy]
+tags: []
 author: titus_capilnean
 ---
 

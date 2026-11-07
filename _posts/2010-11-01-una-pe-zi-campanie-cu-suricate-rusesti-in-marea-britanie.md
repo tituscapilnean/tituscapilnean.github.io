@@ -2,7 +2,7 @@
 title: "Una pe zi – Campanie cu suricate rusesti in Marea Britanie"
 date: 2010-11-01 20:34:10 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["meerkat", "suricate"]
+tags: []
 author: titus_capilnean
 ---
 

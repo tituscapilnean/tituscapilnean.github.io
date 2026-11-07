@@ -2,7 +2,7 @@
 title: "Diacritice pentru text"
 date: 2009-06-04 18:55:00 +0000
 categories: ["Social Media"]
-tags: ["automat", "diacritice", "util"]
+tags: ["util"]
 author: titus_capilnean
 ---
 

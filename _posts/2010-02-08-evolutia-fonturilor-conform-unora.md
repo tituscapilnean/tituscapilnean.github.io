@@ -2,7 +2,7 @@
 title: "Evolutia fonturilor, conform unora"
 date: 2010-02-08 16:56:07 +0000
 categories: ["Altele de online"]
-tags: ["fonturi", "poveste"]
+tags: ["poveste"]
 author: titus_capilnean
 ---
 

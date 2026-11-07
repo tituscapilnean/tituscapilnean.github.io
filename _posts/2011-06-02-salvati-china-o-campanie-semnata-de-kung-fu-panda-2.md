@@ -2,7 +2,7 @@
 title: "Salvati China – o campanie semnata de Kung Fu Panda 2"
 date: 2011-06-02 17:50:56 +0000
 categories: ["Filme Bucuresti"]
-tags: ["film", "imax", "invitatie", "kung-fu-panda-2", "samsung"]
+tags: ["film", "imax", "invitatie", "samsung"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2011/salvati-china-o-campanie-semnata-de-kung-fu-panda-2/image004-208x300.jpg)

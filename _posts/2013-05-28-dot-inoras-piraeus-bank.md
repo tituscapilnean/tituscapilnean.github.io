@@ -2,7 +2,7 @@
 title: "DOT inOras @ Piraeus Bank"
 date: 2013-05-28 15:22:31 +0000
 categories: ["Relatii Publice", "Social Media"]
-tags: ["campanie", "dot", "facebook", "piraeus-bank"]
+tags: ["campanie", "facebook"]
 author: titus_capilnean
 ---
 

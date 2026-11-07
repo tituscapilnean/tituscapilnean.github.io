@@ -2,7 +2,7 @@
 title: "Khumba (2013) – fun cu animale 3D"
 date: 2013-11-20 12:46:26 +0000
 categories: ["Filme Bucuresti"]
-tags: ["3d", "animatie", "film", "khumba"]
+tags: ["3d", "film"]
 author: titus_capilnean
 ---
 ![image010](/assets/img/posts/2013/khumba-2013-fun-cu-animale-3d/image010-150x150.jpg)

@@ -2,7 +2,7 @@
 title: "Una pe zi – Clip spaniol Sprite, nu e cel interzis"
 date: 2009-08-16 17:53:14 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["baiat", "distractiv", "fata", "mare", "sexy", "sprite"]
+tags: ["distractiv", "mare", "sexy"]
 author: titus_capilnean
 ---
 

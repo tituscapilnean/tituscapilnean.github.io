@@ -2,7 +2,7 @@
 title: "Doreleee, ai luat burta, ma?"
 date: 2010-11-25 15:41:14 +0000
 categories: ["Social Media"]
-tags: ["dorel", "sector7", "spoof"]
+tags: ["spoof"]
 author: titus_capilnean
 ---
 

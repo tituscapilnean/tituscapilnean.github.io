@@ -2,7 +2,7 @@
 title: "Ce aveau in comun Marlboro si ING Bank"
 date: 2011-07-22 11:34:29 +0000
 categories: ["Social Media"]
-tags: ["domeniu-web", "fail", "ing", "marlboro", "smecherie"]
+tags: ["fail"]
 author: titus_capilnean
 ---
 

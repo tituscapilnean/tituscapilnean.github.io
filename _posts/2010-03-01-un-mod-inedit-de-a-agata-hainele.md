@@ -2,7 +2,7 @@
 title: "Un mod inedit de a agata hainele"
 date: 2010-03-01 13:02:43 +0000
 categories: ["Altele de online"]
-tags: ["creativ", "inedit", "mobila"]
+tags: ["creativ", "inedit"]
 author: titus_capilnean
 ---
 

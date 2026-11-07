@@ -2,7 +2,7 @@
 title: "ROI-ul excursiilor cu bloggeri"
 date: 2013-01-25 09:20:38 +0000
 categories: ["Online Training"]
-tags: ["bloggeri", "campanii", "excursii", "roi"]
+tags: ["bloggeri", "campanii", "roi"]
 author: titus_capilnean
 ---
 

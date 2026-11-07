@@ -2,7 +2,7 @@
 title: "Asa-i la 40 de ani (2012) – fun stuff"
 date: 2013-01-14 09:29:08 +0000
 categories: ["Filme Bucuresti"]
-tags: ["40-ani", "cinema", "film"]
+tags: ["cinema", "film"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2013/asa-i-la-40-de-ani-2012-fun-stuff/this-is-40-543918l-imagine-150x150.jpg)

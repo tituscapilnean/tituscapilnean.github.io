@@ -2,7 +2,7 @@
 title: "Dicționar de acronime digitale"
 date: 2013-03-19 09:35:41 +0000
 categories: ["Online Training"]
-tags: ["acronime", "dictionar", "digital", "online"]
+tags: ["digital", "online"]
 author: titus_capilnean
 ---
 ![dictnry](/assets/img/posts/2013/dictionar-de-acronime-digitale/dictnry-150x150.gif)

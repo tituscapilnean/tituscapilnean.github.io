@@ -2,7 +2,7 @@
 title: "Despre marketing, numai de bine!"
 date: 2012-10-19 12:30:05 +0000
 categories: ["Evenimente"]
-tags: ["2012", "conferinta", "lideri", "marketing", "vox-populi"]
+tags: ["2012", "conferinta", "marketing", "vox-populi"]
 author: titus_capilnean
 ---
 

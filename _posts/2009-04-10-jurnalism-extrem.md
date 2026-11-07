@@ -2,7 +2,7 @@
 title: "Jurnalism extrem"
 date: 2009-04-10 10:20:00 +0000
 categories: ["Evenimente"]
-tags: ["moldova", "revolutie", "twitter"]
+tags: ["revolutie", "twitter"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "O idee interesantă de la PR and the Web"
 date: 2012-04-05 16:04:30 +0000
 categories: ["Evenimente"]
-tags: ["abordare", "strategie", "studiu"]
+tags: ["strategie", "studiu"]
 author: titus_capilnean
 # EMBED_ISSUES: 1 embed(s) need review
 #   - [iframe] http://www.slideshare.net/slideshow/embed_code/12299976

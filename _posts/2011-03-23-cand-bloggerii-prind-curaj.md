@@ -2,7 +2,7 @@
 title: "Cand bloggerii prind curaj…"
 date: 2011-03-23 08:20:19 +0000
 categories: ["Social Media"]
-tags: ["bloggeri", "curaj", "online"]
+tags: ["bloggeri", "online"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2011/cand-bloggerii-prind-curaj/31446371_9a7bfdecfc-150x150.jpg)

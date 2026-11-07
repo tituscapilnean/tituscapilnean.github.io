@@ -2,7 +2,7 @@
 title: Taxes around the world in 2019
 date: 2019-08-25 10:00:00 +0000
 categories: [English, Politics]
-tags: [taxes]
+tags: []
 author: titus_capilnean
 ---
 

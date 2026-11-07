@@ -2,7 +2,7 @@
 title: "Una pe zi – uberReclama de la Audi – puzzle"
 date: 2009-10-07 19:17:26 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["audi", "geniala", "inteligenta", "masini", "puzzle"]
+tags: ["masini"]
 author: titus_capilnean
 ---
 

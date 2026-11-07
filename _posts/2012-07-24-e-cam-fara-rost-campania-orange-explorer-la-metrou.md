@@ -2,7 +2,7 @@
 title: "E cam fără rost campania Orange Explorer la metrou"
 date: 2012-07-24 09:11:44 +0000
 categories: ["Publicitate"]
-tags: ["augmented-reality", "explorer", "metrou", "orange"]
+tags: ["metrou", "orange"]
 author: titus_capilnean
 ---
 

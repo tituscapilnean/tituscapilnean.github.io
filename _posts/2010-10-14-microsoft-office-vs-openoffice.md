@@ -2,7 +2,7 @@
 title: "Microsoft Office vs OpenOffice"
 date: 2010-10-14 08:51:26 +0000
 categories: ["Social Media"]
-tags: ["microsoft", "office", "open-source"]
+tags: ["microsoft"]
 author: titus_capilnean
 ---
 

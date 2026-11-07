@@ -2,7 +2,7 @@
 title: "Raspunsul Twitter la atacurile de phishing – T.co"
 date: 2010-06-09 12:35:19 +0000
 categories: ["Social Media"]
-tags: ["link", "serviciu", "twitter"]
+tags: ["twitter"]
 author: titus_capilnean
 ---
 

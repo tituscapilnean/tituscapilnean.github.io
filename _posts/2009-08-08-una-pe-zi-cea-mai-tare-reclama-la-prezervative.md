@@ -2,7 +2,7 @@
 title: "Una pe zi – cea mai tare reclama la prezervative"
 date: 2009-08-08 16:31:25 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["prezervative", "sex"]
+tags: ["sex"]
 author: titus_capilnean
 ---
 

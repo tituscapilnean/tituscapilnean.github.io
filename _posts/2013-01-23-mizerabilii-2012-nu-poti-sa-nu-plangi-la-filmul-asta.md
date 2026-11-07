@@ -2,7 +2,7 @@
 title: "Mizerabilii (2012) – nu poți să nu plângi la filmul ăsta"
 date: 2013-01-23 13:22:00 +0000
 categories: ["Filme Bucuresti"]
-tags: ["film", "les-miserables", "mizerabilii"]
+tags: ["film"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2013/mizerabilii-2012-nu-poti-sa-nu-plangi-la-filmul-asta/Helena-les-miserables-2012-movie-32909317-500-555-270x300.jpg)

@@ -2,7 +2,7 @@
 title: "Best use of Timeline – Aprilie 2012"
 date: 2012-04-09 14:42:20 +0000
 categories: ["Social Media"]
-tags: ["bune-practici", "exemple", "timeline"]
+tags: ["timeline"]
 author: titus_capilnean
 ---
 

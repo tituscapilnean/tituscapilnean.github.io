@@ -2,7 +2,7 @@
 title: "Cum finanțezi un MBA / Executive MBA"
 date: 2013-03-11 09:16:08 +0000
 categories: ["Altele de online"]
-tags: ["credit", "cum-sa", "finantare", "mba", "strainatate"]
+tags: ["cum-sa", "mba"]
 author: titus_capilnean
 ---
 

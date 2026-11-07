@@ -2,7 +2,7 @@
 title: "Mică vacanță"
 date: 2013-03-04 10:21:54 +0000
 categories: ["Altele de online"]
-tags: ["echilibru", "life", "work"]
+tags: []
 author: titus_capilnean
 ---
 

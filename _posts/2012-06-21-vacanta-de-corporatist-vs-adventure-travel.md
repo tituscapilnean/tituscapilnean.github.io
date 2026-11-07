@@ -2,7 +2,7 @@
 title: "Vacanța de corporatist vs. adventure travel"
 date: 2012-06-21 09:35:12 +0000
 categories: ["Social Media"]
-tags: ["bloggeri", "online", "proiecte"]
+tags: ["bloggeri", "online"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2012/vacanta-de-corporatist-vs-adventure-travel/2038-all-inclusive-150x150.jpg)

@@ -2,7 +2,7 @@
 title: "Una pe zi – Ciocolata e mai bună decât bărbatul"
 date: 2010-11-05 15:02:28 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["barbati", "cadbury", "ciocolata"]
+tags: []
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2010/una-pe-zi-ciocolata-e-mai-buna-decat-barbatul/cadbury-150x150.jpg)

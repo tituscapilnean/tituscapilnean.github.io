@@ -2,7 +2,7 @@
 title: "Una pe zi – GPS cu vocile prietenilor si ale membrilor familiei"
 date: 2010-09-02 14:45:43 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["gps", "nokia"]
+tags: ["nokia"]
 author: titus_capilnean
 ---
 

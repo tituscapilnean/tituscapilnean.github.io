@@ -2,7 +2,7 @@
 title: "2012 e anul “salvati” pe internet"
 date: 2012-01-12 09:15:16 +0000
 categories: ["Altele de online"]
-tags: ["2012", "campanie", "online", "salvati", "trenduri"]
+tags: ["2012", "campanie", "online", "trenduri"]
 author: titus_capilnean
 ---
 

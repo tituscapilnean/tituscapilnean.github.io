@@ -2,7 +2,7 @@
 title: "Pierdut Bucuresti, gasitorului i se ofera recompense"
 date: 2010-05-19 07:09:43 +0000
 categories: ["Evenimente"]
-tags: ["bucuresti", "concurs", "explorare"]
+tags: ["bucuresti", "concurs"]
 author: titus_capilnean
 ---
 

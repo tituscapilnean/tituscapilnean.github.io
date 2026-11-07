@@ -2,7 +2,7 @@
 title: "De dimineata – Tine pasul cu mine"
 date: 2010-02-04 07:42:26 +0000
 categories: ["Altele de online"]
-tags: ["de-dimineata", "in-loc-de-cafea", "muzica", "personale"]
+tags: ["in-loc-de-cafea", "muzica", "personale"]
 author: titus_capilnean
 ---
 

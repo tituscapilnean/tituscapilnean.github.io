@@ -2,7 +2,7 @@
 title: Life as an Improv Game
 date: 2019-01-08 10:00:00 +0800
 categories: [English, Life]
-tags: [improv, creativity, relationships]
+tags: []
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Life is a pitch – cateva idei de aseara"
 date: 2010-11-26 09:30:16 +0000
 categories: ["Social Media"]
-tags: ["antreprenoriat", "evensys", "pitch"]
+tags: ["antreprenoriat"]
 author: titus_capilnean
 ---
 

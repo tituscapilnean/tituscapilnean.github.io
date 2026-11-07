@@ -2,7 +2,7 @@
 title: "Kick-ass 2 (2013) – comic book-urile prind viață"
 date: 2013-08-13 12:51:11 +0000
 categories: ["Filme Bucuresti"]
-tags: ["comedie", "comics", "film", "kick-ass-2"]
+tags: ["comedie", "comics", "film"]
 author: titus_capilnean
 ---
 ![image003](/assets/img/posts/2013/kick-ass-2-2013-comic-book-urile-prind-viata/image003-150x150.jpg)

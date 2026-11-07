@@ -2,7 +2,7 @@
 title: "Stiri saptamanale despre Social Media"
 date: 2012-10-30 11:41:43 +0000
 categories: ["Social Media"]
-tags: ["butterfly", "online", "stri"]
+tags: ["online"]
 author: titus_capilnean
 ---
 

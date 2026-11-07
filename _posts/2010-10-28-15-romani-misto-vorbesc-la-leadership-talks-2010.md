@@ -2,7 +2,7 @@
 title: "15 romani misto vorbesc la Leadership Talks 2010"
 date: 2010-10-28 14:59:11 +0000
 categories: ["Evenimente"]
-tags: ["aiesec", "leadership", "leadership-talks"]
+tags: ["aiesec", "leadership"]
 author: titus_capilnean
 ---
 

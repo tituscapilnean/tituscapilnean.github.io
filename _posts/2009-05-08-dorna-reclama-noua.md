@@ -2,7 +2,7 @@
 title: "Dorna – reclama noua"
 date: 2009-05-08 14:00:00 +0000
 categories: ["Publicitate"]
-tags: ["analiza", "dorna", "fascinant"]
+tags: ["analiza"]
 author: titus_capilnean
 ---
 

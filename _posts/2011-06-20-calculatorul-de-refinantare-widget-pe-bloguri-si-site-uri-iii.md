@@ -2,7 +2,7 @@
 title: "Calculatorul de refinantare – widget pe bloguri si site-uri (III)"
 date: 2011-06-20 08:01:43 +0000
 categories: ["Publicitate"]
-tags: ["banner", "bcr", "campanie", "idei", "refinantare", "sfaturi", "widget"]
+tags: ["bcr", "campanie", "idei", "refinantare", "sfaturi"]
 author: titus_capilnean
 ---
 

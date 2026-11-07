@@ -2,7 +2,7 @@
 title: "Understanding Key Pieces of the Broker NDA"
 date: 2023-06-16 14:00:00 +0000
 categories: [English, Finance]
-tags: [private market labs, smb, acquisition, nda, broker, process]
+tags: [private market labs, smb, acquisition, process]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Una pe zi – De data asta cu Pepsi"
 date: 2009-12-02 15:16:20 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["birttney", "pepsi", "sex"]
+tags: ["sex"]
 author: titus_capilnean
 ---
 

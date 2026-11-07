@@ -2,7 +2,7 @@
 title: "Shortlisted la Digital Communication Awards 2013 cu Rosia Montana"
 date: 2013-07-30 12:40:12 +0000
 categories: ["Marketing"]
-tags: ["rosia-montana", "video-3d"]
+tags: ["rosia-montana"]
 author: titus_capilnean
 ---
 

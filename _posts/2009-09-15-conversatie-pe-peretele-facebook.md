@@ -2,7 +2,7 @@
 title: "Conversatie pe peretele Facebook"
 date: 2009-09-15 05:45:37 +0000
 categories: ["Social Media"]
-tags: ["concurenta", "facebook", "functii-noi", "inedit", "twitter"]
+tags: ["facebook", "inedit", "twitter"]
 author: titus_capilnean
 ---
 

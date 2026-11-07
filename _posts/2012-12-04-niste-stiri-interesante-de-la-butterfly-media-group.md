@@ -2,7 +2,7 @@
 title: "Niște știri interesante de la Butterfly Media Group"
 date: 2012-12-04 16:17:42 +0000
 categories: ["Social Media"]
-tags: ["international", "romania", "social-media", "stiri"]
+tags: ["international", "romania", "social-media"]
 author: titus_capilnean
 ---
 

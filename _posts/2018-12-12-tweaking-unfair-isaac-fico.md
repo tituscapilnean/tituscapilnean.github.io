@@ -2,7 +2,7 @@
 title: Tweaking the (Un)Fair Isaac and Company score aka FICO
 date: 2018-12-12 09:00:00 +0000
 categories: [English, Finance]
-tags: [fico, credit, immigrants, identity]
+tags: [identity]
 author: titus_capilnean
 ---
 

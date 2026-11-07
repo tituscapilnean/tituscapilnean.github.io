@@ -2,7 +2,7 @@
 title: "Heineken a sărbătorit 140 de ani cu 5 camere interactive"
 date: 2013-03-14 12:55:00 +0000
 categories: ["Evenimente"]
-tags: ["140-ani", "aniversare", "heineken", "offline"]
+tags: ["heineken", "offline"]
 author: titus_capilnean
 ---
 

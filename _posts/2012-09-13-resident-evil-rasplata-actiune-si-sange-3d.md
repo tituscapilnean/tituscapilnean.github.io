@@ -2,7 +2,7 @@
 title: "Resident Evil – Rasplata: Actiune si sange 3D"
 date: 2012-09-13 11:33:13 +0000
 categories: ["Filme Bucuresti"]
-tags: ["film", "imax", "residen-evil"]
+tags: ["film", "imax"]
 author: titus_capilnean
 ---
 

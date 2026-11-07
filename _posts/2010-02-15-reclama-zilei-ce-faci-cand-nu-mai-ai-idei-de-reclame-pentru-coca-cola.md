@@ -2,7 +2,7 @@
 title: "Reclama zilei – ce faci cand nu mai ai idei de reclame pentru Coca Cola"
 date: 2010-02-15 19:38:45 +0000
 categories: ["Publicitate"]
-tags: ["copie", "kennedy", "wieden"]
+tags: []
 author: titus_capilnean
 ---
 

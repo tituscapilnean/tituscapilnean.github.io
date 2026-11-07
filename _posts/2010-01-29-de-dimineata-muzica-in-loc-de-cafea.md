@@ -2,7 +2,7 @@
 title: "De dimineata – muzica in loc de cafea"
 date: 2010-01-29 07:48:13 +0000
 categories: ["Altele de online"]
-tags: ["buna-dimineata", "in-loc-de-cafea", "muzica"]
+tags: ["in-loc-de-cafea", "muzica"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Agentia anului la ADOR – hai sa o vezi"
 date: 2009-09-22 09:51:22 +0000
 categories: ["Evenimente"]
-tags: ["2009", "ador", "aiesec", "bbdo", "communication-school", "comunicare", "graffitti", "university"]
+tags: ["2009", "aiesec", "comunicare"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Una pe zi – A luat ceva, nu?"
 date: 2009-08-15 20:34:53 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["mac", "overclocking", "pc", "spoof"]
+tags: ["spoof"]
 author: titus_capilnean
 ---
 

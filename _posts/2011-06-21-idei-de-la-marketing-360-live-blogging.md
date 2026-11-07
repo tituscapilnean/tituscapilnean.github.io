@@ -2,7 +2,7 @@
 title: "Idei de la Marketing 360 – live blogging"
 date: 2011-06-21 06:33:42 +0000
 categories: ["Evenimente"]
-tags: ["comunicare", "idei", "live-blog", "marketing360", "online"]
+tags: ["comunicare", "idei", "live-blog", "online"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2011/idei-de-la-marketing-360-live-blogging/marketing360_feat-150x150.jpg)

@@ -2,7 +2,7 @@
 title: "Strategia Virgin Media, WiFi si metroul londonez"
 date: 2013-01-28 06:31:04 +0000
 categories: ["Marketing"]
-tags: ["lectie", "londra", "media", "virgin"]
+tags: ["lectie", "media"]
 author: titus_capilnean
 ---
 

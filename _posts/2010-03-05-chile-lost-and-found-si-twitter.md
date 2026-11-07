@@ -2,7 +2,7 @@
 title: "Chile “lost and found” si Twitter"
 date: 2010-03-05 20:58:35 +0000
 categories: ["Social Media"]
-tags: ["chile", "cutremur", "twitter"]
+tags: ["twitter"]
 author: titus_capilnean
 ---
 

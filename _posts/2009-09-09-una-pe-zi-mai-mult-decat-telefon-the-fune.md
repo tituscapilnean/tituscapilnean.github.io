@@ -2,7 +2,7 @@
 title: "Una pe zi – mai mult decât telefon – The Fune 3/5"
 date: 2009-09-09 12:28:25 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["apple", "fune", "microsoft", "spoof"]
+tags: ["apple", "microsoft", "spoof"]
 author: titus_capilnean
 ---
 

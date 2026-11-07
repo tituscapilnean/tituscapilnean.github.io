@@ -2,7 +2,7 @@
 title: "Istoria internetului romanesc prin oameni"
 date: 2009-10-29 21:29:20 +0000
 categories: ["Social Media"]
-tags: ["iab", "oameni", "online", "responsabil", "romania"]
+tags: ["iab", "oameni", "online", "romania"]
 author: titus_capilnean
 ---
 

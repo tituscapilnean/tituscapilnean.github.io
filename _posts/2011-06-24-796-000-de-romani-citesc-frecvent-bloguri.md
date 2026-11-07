@@ -2,7 +2,7 @@
 title: "796.000 de romani citesc frecvent bloguri"
 date: 2011-06-24 07:48:26 +0000
 categories: ["Social Media"]
-tags: ["bloguri", "cititori", "numar", "romania", "statistici"]
+tags: ["bloguri", "romania", "statistici"]
 author: titus_capilnean
 ---
 

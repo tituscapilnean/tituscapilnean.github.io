@@ -2,7 +2,7 @@
 title: "Micro-societatea de sport alternativ a României"
 date: 2012-07-03 13:06:19 +0000
 categories: ["Evenimente"]
-tags: ["mountainboard", "piatra-neamt", "ski", "surf", "switch"]
+tags: ["ski"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2012/micro-societatea-de-sport-alternativ-a-romaniei/282759_10150979667853153_362743026_n-150x150.jpg)

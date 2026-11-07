@@ -2,7 +2,7 @@
 title: "Publicitate care o simti – OOH-uri creative"
 date: 2009-09-02 07:17:11 +0000
 categories: ["Publicitate"]
-tags: ["creativ", "inovativ", "media", "ooh", "panouri"]
+tags: ["creativ", "media", "ooh"]
 author: titus_capilnean
 ---
 

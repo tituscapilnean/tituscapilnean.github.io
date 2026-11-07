@@ -2,7 +2,7 @@
 title: "Una pe zi – Cum esti in cuplu"
 date: 2009-11-12 21:48:17 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["cuplu", "oameni", "personalitate", "psihologie", "relatii"]
+tags: ["oameni"]
 author: titus_capilnean
 ---
 

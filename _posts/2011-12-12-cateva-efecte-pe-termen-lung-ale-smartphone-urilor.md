@@ -2,7 +2,7 @@
 title: "Cateva efecte pe termen lung ale smartphone-urilor"
 date: 2011-12-12 10:04:09 +0000
 categories: ["Altele de online"]
-tags: ["efecte", "smartphones", "telefoane"]
+tags: []
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Men In Black 3 (2012) – un film fain, fără percheziții"
 date: 2012-05-24 12:56:27 +0000
 categories: ["Filme Bucuresti"]
-tags: ["cinema", "film", "imax", "men-in-black"]
+tags: ["cinema", "film", "imax"]
 author: titus_capilnean
 ---
 

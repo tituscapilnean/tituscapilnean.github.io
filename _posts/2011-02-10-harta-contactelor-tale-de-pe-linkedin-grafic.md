@@ -2,7 +2,7 @@
 title: "Harta contactelor tale de pe LinkedIn – [grafic]"
 date: 2011-02-10 08:00:23 +0000
 categories: ["Social Media"]
-tags: ["contacte", "harta", "linkedin", "retea"]
+tags: ["harta", "linkedin"]
 author: titus_capilnean
 ---
 

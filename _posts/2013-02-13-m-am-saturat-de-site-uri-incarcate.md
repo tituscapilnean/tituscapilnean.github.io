@@ -2,7 +2,7 @@
 title: "M-am săturat de site-uri încărcate"
 date: 2013-02-13 12:44:48 +0000
 categories: ["Altele de online"]
-tags: ["2013", "design", "rant", "web"]
+tags: ["2013", "design"]
 author: titus_capilnean
 ---
 

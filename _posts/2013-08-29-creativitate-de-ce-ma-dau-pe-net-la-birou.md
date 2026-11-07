@@ -2,7 +2,7 @@
 title: "Creativitate: de ce mă dau pe net la birou"
 date: 2013-08-29 13:41:47 +0000
 categories: ["Online Training"]
-tags: ["creativitate", "munca", "probleme", "ritm", "solutii"]
+tags: ["creativitate", "munca", "probleme"]
 author: titus_capilnean
 ---
 ![creativity](/assets/img/posts/2013/creativitate-de-ce-ma-dau-pe-net-la-birou/creativity-200x300.gif)

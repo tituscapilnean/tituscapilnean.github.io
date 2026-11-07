@@ -2,7 +2,7 @@
 title: "Master Your Destiny: Buying a Business Aligned with Your Expertise"
 date: 2023-11-17 10:00:00 +0000
 categories: [English, Career]
-tags: [private market labs, smb, acquisition, eta, entrepreneurship, buyers]
+tags: [private market labs, smb, acquisition, buyers]
 author: titus_capilnean
 ---
 

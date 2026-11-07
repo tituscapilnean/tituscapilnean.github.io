@@ -2,7 +2,7 @@
 title: "Una pe zi – Tu esti Mircea? Nu."
 date: 2009-07-23 20:23:28 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["comunicare", "distractiv", "poetic"]
+tags: ["comunicare", "distractiv"]
 author: titus_capilnean
 ---
 

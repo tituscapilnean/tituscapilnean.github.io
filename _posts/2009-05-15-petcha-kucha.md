@@ -2,7 +2,7 @@
 title: "Petcha Kucha"
 date: 2009-05-15 11:15:00 +0000
 categories: ["Social Media"]
-tags: ["comunicare", "inedit", "petcha-kucha", "prezentare"]
+tags: ["comunicare", "inedit", "prezentare"]
 author: titus_capilnean
 ---
 

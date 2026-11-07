@@ -2,7 +2,7 @@
 title: "Digital Marketing World 2009"
 date: 2009-04-03 07:42:00 +0000
 categories: ["Marketing"]
-tags: ["analiza", "inedit", "online", "virtual"]
+tags: ["analiza", "inedit", "online"]
 author: titus_capilnean
 ---
 

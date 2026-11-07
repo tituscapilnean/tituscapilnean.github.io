@@ -2,7 +2,7 @@
 title: "Două ”succesuri” pe online și un tipar de website"
 date: 2012-02-01 11:39:17 +0000
 categories: ["Altele de online"]
-tags: ["2012", "online", "succes"]
+tags: ["2012", "online"]
 author: titus_capilnean
 ---
 

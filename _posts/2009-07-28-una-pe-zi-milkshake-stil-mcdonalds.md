@@ -2,7 +2,7 @@
 title: "Una pe zi – Milkshake stil McDonalds"
 date: 2009-07-28 20:47:27 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["mcdonalds", "milkshake", "vaca"]
+tags: ["mcdonalds"]
 author: titus_capilnean
 ---
 

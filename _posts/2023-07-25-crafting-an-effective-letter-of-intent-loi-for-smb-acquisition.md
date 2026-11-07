@@ -2,7 +2,7 @@
 title: "Crafting an Effective Letter of Intent (LOI) for SMB Acquisition"
 date: 2023-07-25 10:00:00 +0000
 categories: [English, Finance]
-tags: [private market labs, smb, acquisition, loi, due diligence, process]
+tags: [private market labs, smb, acquisition, due diligence, process]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Hansel și Gretel (2013) – măcel cu vrăjitoare"
 date: 2013-01-30 16:33:21 +0000
 categories: ["Filme Bucuresti"]
-tags: ["film", "gretel", "grimm", "hansel", "macel"]
+tags: ["film"]
 author: titus_capilnean
 ---
 

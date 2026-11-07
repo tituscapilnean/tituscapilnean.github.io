@@ -2,7 +2,7 @@
 title: "Pranzul cu Bob Rapp – Webstock 2009"
 date: 2009-09-22 04:37:50 +0000
 categories: ["Social Media"]
-tags: ["bob-rapp", "leak", "limo", "pranz", "samsung", "social-media-gadget", "vodafone", "webstock-2009"]
+tags: ["samsung", "vodafone", "webstock-2009"]
 author: titus_capilnean
 ---
 

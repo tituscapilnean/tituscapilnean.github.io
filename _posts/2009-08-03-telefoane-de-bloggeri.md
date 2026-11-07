@@ -2,7 +2,7 @@
 title: "Telefoane de bloggeri"
 date: 2009-08-03 13:50:26 +0000
 categories: ["Altele de online"]
-tags: ["blogger", "gadget", "online", "telecom"]
+tags: ["blogger", "online", "telecom"]
 author: titus_capilnean
 ---
 

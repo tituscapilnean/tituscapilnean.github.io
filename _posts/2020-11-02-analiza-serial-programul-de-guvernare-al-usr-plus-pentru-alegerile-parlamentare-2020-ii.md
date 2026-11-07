@@ -2,7 +2,7 @@
 title: "Analiza Serial: Programul de guvernare al USR-Plus pentru Alegerile Parlamentare 2020 (II)"
 date: 2020-11-02 04:26:24 +0000
 categories: ["Publicitate"]
-tags: ["guest-post", "sergiu-capilnean"]
+tags: []
 author: titus_capilnean
 ---
 

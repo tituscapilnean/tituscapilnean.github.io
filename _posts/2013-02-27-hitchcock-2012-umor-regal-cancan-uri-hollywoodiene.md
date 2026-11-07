@@ -2,7 +2,7 @@
 title: "Hitchcock (2012) – umor regal, cancan-uri hollywoodiene"
 date: 2013-02-27 16:26:53 +0000
 categories: ["Filme Bucuresti"]
-tags: ["cinema-city", "film", "hitchcock", "odeon"]
+tags: ["cinema-city", "film"]
 author: titus_capilnean
 ---
 

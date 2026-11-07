@@ -2,7 +2,7 @@
 title: "Merci ar trebui să își schimbe tema din reclamă"
 date: 2013-01-09 12:42:32 +0000
 categories: ["Marketing"]
-tags: ["asa-nu", "olinescu", "sinucidere", "tv"]
+tags: ["asa-nu", "tv"]
 author: titus_capilnean
 # EMBED_ISSUES: 1 embed(s) need review
 #   - [iframe] http://embed.trilulilu.ro/muzica-pop/malina-olinescu-merci-comercial

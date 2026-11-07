@@ -2,7 +2,7 @@
 title: "Adevaruri despre stadionul romanesc"
 date: 2009-09-10 10:26:32 +0000
 categories: ["Evenimente"]
-tags: ["calificari", "meci", "romania---austria", "stadion"]
+tags: []
 author: titus_capilnean
 ---
 

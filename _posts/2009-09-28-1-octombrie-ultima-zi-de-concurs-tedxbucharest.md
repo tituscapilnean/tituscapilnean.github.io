@@ -2,7 +2,7 @@
 title: "1 Octombrie – ultima zi de concurs TEDxBucharest"
 date: 2009-09-28 12:03:44 +0000
 categories: ["Evenimente"]
-tags: ["bilete", "concurs-de-idei", "cum-ajung", "intrare", "tedx", "tedxbucharest"]
+tags: ["tedx", "tedxbucharest"]
 author: titus_capilnean
 ---
 

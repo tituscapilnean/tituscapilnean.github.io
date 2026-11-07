@@ -2,7 +2,7 @@
 title: "Calling all arts – McCann trimite oameni in vacanta"
 date: 2010-07-23 09:09:44 +0000
 categories: ["Social Media"]
-tags: ["cazare", "joburi", "mccann-erickson"]
+tags: ["joburi"]
 author: titus_capilnean
 ---
 

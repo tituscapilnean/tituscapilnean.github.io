@@ -2,7 +2,7 @@
 title: "Miscarea inteligenta a celor de la Creative Monkeyz (Robotzii)"
 date: 2011-03-11 08:00:51 +0000
 categories: ["Marketing"]
-tags: ["analiza", "creative-monkeyz", "facebook", "robotzii", "youtube"]
+tags: ["analiza", "facebook", "youtube"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2011/miscarea-inteligenta-a-celor-de-la-creative-monkeyz-robotzii/robotzy-150x150.jpg)

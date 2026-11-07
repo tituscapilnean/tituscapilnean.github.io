@@ -2,7 +2,7 @@
 title: "La ce foloseste Internet Explorer"
 date: 2009-11-05 08:20:59 +0000
 categories: ["Social Media"]
-tags: ["de-ce", "design", "development", "internet-explorer", "thenextweb", "utilizare"]
+tags: ["de-ce", "design"]
 author: titus_capilnean
 ---
 

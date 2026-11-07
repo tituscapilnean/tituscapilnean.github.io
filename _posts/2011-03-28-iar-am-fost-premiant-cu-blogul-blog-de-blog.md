@@ -2,7 +2,7 @@
 title: "Iar am fost premiant cu blogul – Blog de blog"
 date: 2011-03-28 19:56:55 +0000
 categories: ["Evenimente"]
-tags: ["blogging", "gala"]
+tags: ["blogging"]
 author: titus_capilnean
 ---
 

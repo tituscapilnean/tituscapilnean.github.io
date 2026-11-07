@@ -2,7 +2,7 @@
 title: "De weekend – nu te plictisi"
 date: 2009-09-12 17:24:19 +0000
 categories: ["Altele de online"]
-tags: ["ce-sa-faci", "plictiseala", "plictisitor", "social-media", "weekend"]
+tags: ["social-media", "weekend"]
 author: titus_capilnean
 ---
 

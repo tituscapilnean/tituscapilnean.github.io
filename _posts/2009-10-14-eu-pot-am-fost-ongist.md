@@ -2,7 +2,7 @@
 title: "Eu pot, am fost ONGist"
 date: 2009-10-14 09:13:27 +0000
 categories: ["Evenimente"]
-tags: ["aiesec", "aplicare", "bucharest", "bucuresti", "recruitment", "recrutare"]
+tags: ["aiesec", "bucuresti", "recrutare"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Reactii – organizatorii Iarmaroc 2010 si-au cerut scuze"
 date: 2010-06-01 12:25:34 +0000
 categories: ["Social Media"]
-tags: ["2010", "iarmaroc", "reactie"]
+tags: ["2010", "iarmaroc"]
 author: titus_capilnean
 ---
 ![vinyl_shape_iarmaroc_logo](/assets/img/posts/2010/reactii-organizatorii-iarmaroc-2010-si-au-cerut-scuze/vinyl_shape_iarmaroc_logo-150x150.jpg)

@@ -2,7 +2,7 @@
 title: "Cand ma apuca dorul de duca, imi vine sa ma urc in avion"
 date: 2011-09-13 16:00:55 +0000
 categories: ["Publicitate"]
-tags: ["avion", "bilete-ieftine", "campanie", "paravion", "zbor"]
+tags: ["campanie", "paravion"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2011/cand-ma-apuca-dorul-de-duca-imi-vine-sa-ma-urc-in-avion/avion-personnage1-150x150.gif)

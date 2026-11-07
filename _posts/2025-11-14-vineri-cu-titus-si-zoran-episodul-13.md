@@ -2,7 +2,7 @@
 title: "Vineri cu Titus și Zoran – episodul 13"
 date: 2025-11-14 13:00:00 +0300
 categories: [Podcast, Romania]
-tags: [nationalism, natalitate, demografie, identitate, politica]
+tags: [politica]
 author: titus_capilnean
 ---
 

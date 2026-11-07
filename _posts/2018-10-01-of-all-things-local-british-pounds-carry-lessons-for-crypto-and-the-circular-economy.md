@@ -2,7 +2,7 @@
 title: "Of all things, local British Pounds carry lessons for crypto and the circular economy"
 date: 2018-10-01 04:10:07 +0000
 categories: [Blockchain, Politics, English]
-tags: [blockchain, circular economy, crypto]
+tags: [blockchain]
 author: Titus
 ---
 

@@ -2,7 +2,7 @@
 title: "Adevarul gol-golut despre tigari, expus in public – not"
 date: 2010-02-04 21:02:31 +0000
 categories: ["Marketing", "Publicitate"]
-tags: ["dileme", "fumat", "publciitate", "tigari"]
+tags: ["dileme", "tigari"]
 author: titus_capilnean
 ---
 

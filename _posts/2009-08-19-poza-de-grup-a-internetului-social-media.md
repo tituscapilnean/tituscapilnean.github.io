@@ -2,7 +2,7 @@
 title: "Poza de grup a internetului – social media"
 date: 2009-08-19 12:16:08 +0000
 categories: ["Altele de online", "Social Media"]
-tags: ["desen", "destractiv", "online", "poza", "social-media"]
+tags: ["online", "poza", "social-media"]
 author: titus_capilnean
 ---
 

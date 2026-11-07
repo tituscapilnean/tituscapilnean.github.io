@@ -2,7 +2,7 @@
 title: "Idei pentru Revelion 2012 cu avionul p-afara sau in tara"
 date: 2011-11-24 09:40:01 +0000
 categories: ["Altele de online"]
-tags: ["avion", "low-cost", "paravion", "revelion-2012"]
+tags: ["paravion"]
 author: titus_capilnean
 ---
 

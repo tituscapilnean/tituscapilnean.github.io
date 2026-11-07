@@ -2,7 +2,7 @@
 title: "Niste concursuri faine de care nu stie multa lume"
 date: 2010-01-27 07:42:49 +0000
 categories: ["Altele de online"]
-tags: ["concursuri", "europa", "informatii"]
+tags: ["concursuri", "europa"]
 author: titus_capilnean
 ---
 

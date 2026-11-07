@@ -2,7 +2,7 @@
 title: "Marea 2.0 – Melteni si coca in Eforie"
 date: 2009-07-30 18:54:28 +0000
 categories: ["Evenimente"]
-tags: ["distractiv", "jeg", "job", "mare", "online"]
+tags: ["distractiv", "job", "mare", "online"]
 author: titus_capilnean
 ---
 

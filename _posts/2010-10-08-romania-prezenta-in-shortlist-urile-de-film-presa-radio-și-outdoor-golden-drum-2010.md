@@ -2,7 +2,7 @@
 title: "România prezentă în shortlist-urile de Film, Presă, Radio și Outdoor [Golden Drum 2010]"
 date: 2010-10-08 17:42:26 +0000
 categories: ["Publicitate"]
-tags: ["2010", "golden-drum", "shortlist"]
+tags: ["2010", "golden-drum"]
 author: titus_capilnean
 ---
 

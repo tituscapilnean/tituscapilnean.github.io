@@ -2,7 +2,7 @@
 title: "24 Ianuarie 1859 – Romania nu exista inainte de data asta"
 date: 2011-01-24 12:00:59 +0000
 categories: ["Altele de online"]
-tags: ["romania", "unire"]
+tags: ["romania"]
 author: titus_capilnean
 ---
 

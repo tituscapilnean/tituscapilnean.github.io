@@ -2,7 +2,7 @@
 title: "TEDx Bucharest la Radio Romania International"
 date: 2009-10-27 11:49:43 +0000
 categories: ["Evenimente"]
-tags: ["radio", "tedx", "tedxbucharest"]
+tags: ["tedx", "tedxbucharest"]
 author: titus_capilnean
 ---
 

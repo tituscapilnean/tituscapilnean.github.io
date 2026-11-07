@@ -2,7 +2,7 @@
 title: "Notite de la cea mai mare conferinta regionala de online – Webit 2011"
 date: 2011-11-02 15:59:35 +0000
 categories: ["Altele de online"]
-tags: ["bulgaria", "cee", "conferinta", "iab", "webit"]
+tags: ["conferinta", "iab"]
 author: titus_capilnean
 # EMBED_ISSUES: 1 embed(s) need review
 #   - [iframe] http://www.slideshare.net/slideshow/embed_code/9738677

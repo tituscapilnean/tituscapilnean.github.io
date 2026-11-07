@@ -2,7 +2,7 @@
 title: "Nu vinde timp"
 date: 2013-08-19 09:07:27 +0000
 categories: ["Altele de online"]
-tags: ["angajat", "munca", "ore", "peste-program"]
+tags: ["munca"]
 author: titus_capilnean
 ---
 ![8-hour-day](/assets/img/posts/2013/nu-vinde-timp/8-hour-day.jpg)

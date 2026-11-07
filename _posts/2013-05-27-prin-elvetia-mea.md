@@ -2,7 +2,7 @@
 title: "Prin Elveția mea"
 date: 2013-05-27 17:55:36 +0000
 categories: ["Turism"]
-tags: ["elvetia", "excursie", "swiss"]
+tags: []
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Orange Online MeetUp #8 – SEM cu eSearchVision – live"
 date: 2010-09-20 16:44:12 +0000
 categories: ["Evenimente", "Marketing"]
-tags: ["online-meetup", "orange", "sem"]
+tags: ["online-meetup", "orange"]
 author: titus_capilnean
 ---
 

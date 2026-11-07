@@ -2,7 +2,7 @@
 title: "Soluție de ieșire din criză: munca"
 date: 2012-06-07 12:42:06 +0000
 categories: ["Altele de online"]
-tags: ["munca", "politica", "somaj"]
+tags: ["munca", "politica"]
 author: titus_capilnean
 ---
 

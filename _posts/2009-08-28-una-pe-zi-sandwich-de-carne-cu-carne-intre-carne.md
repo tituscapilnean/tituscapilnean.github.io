@@ -2,7 +2,7 @@
 title: "Una pe zi – Sandwich de carne cu carne, intre carne"
 date: 2009-08-28 12:31:48 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["bacon", "grasime", "inedit", "kfc", "pui", "sandwich"]
+tags: ["inedit", "kfc"]
 author: titus_capilnean
 ---
 

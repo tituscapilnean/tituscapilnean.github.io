@@ -2,7 +2,7 @@
 title: "AI Job Displacement Will Hit the Bottom of the Ladder First"
 date: 2026-03-15 00:00:00 +0000
 categories: [English, AI]
-tags: [ai, jobs, automation, labor market, displacement, diy]
+tags: [ai, jobs, automation]
 author: titus
 ---
 

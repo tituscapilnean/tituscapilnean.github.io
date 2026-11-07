@@ -2,7 +2,7 @@
 title: "Am fost la Madagascar 3: FUGĂRIŢI PRIN EUROPA (2012)"
 date: 2012-06-11 08:08:49 +0000
 categories: ["Filme Bucuresti"]
-tags: ["baneasa", "digiplex", "film"]
+tags: ["film"]
 author: titus_capilnean
 ---
 

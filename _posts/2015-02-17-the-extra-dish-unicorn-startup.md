@@ -2,7 +2,7 @@
 title: "The Extra Dish on Wall-Street.ro: Delicious business in the UK: A Unicorn start-up for food lovers"
 date: 2015-02-17 09:00:00 +0000
 categories: [English, More Startups]
-tags: [london, startup, the extra dish]
+tags: [startup]
 author: titus_capilnean
 ---
 

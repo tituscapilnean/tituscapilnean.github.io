@@ -2,7 +2,7 @@
 title: "Una pe zi – Anti-daunatoare"
 date: 2009-07-27 20:13:30 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["daunatori", "jerry", "tom"]
+tags: []
 author: titus_capilnean
 ---
 

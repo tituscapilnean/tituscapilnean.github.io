@@ -2,7 +2,7 @@
 title: My Investment Thesis
 date: 2020-07-09 10:00:00 +0000
 categories: [English, Venture Capital]
-tags: [investment, thesis, startup, fintech, blockchain, ai]
+tags: [startup, blockchain, ai]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Una scurta"
 date: 2010-09-09 16:25:46 +0000
 categories: ["Altele de online"]
-tags: ["cugetari", "personal"]
+tags: ["personal"]
 author: titus_capilnean
 ---
 

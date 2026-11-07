@@ -2,7 +2,7 @@
 title: "Gala Premiilor eCommerce se promoveaza rusinata"
 date: 2009-09-08 10:51:30 +0000
 categories: ["Marketing", "Social Media"]
-tags: ["analiza", "cumparaturi-pe-net", "ecommerce", "gala", "magazine-online", "promovare", "video"]
+tags: ["analiza", "promovare", "video"]
 author: titus_capilnean
 ---
 

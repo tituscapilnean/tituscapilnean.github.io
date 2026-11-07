@@ -2,7 +2,7 @@
 title: "Cum spui multumesc pe online"
 date: 2009-09-28 07:40:00 +0000
 categories: ["Altele de online"]
-tags: ["cum-sa-faci", "multumesc"]
+tags: ["cum-sa-faci"]
 author: titus_capilnean
 ---
 

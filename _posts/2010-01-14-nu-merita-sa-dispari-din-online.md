@@ -2,7 +2,7 @@
 title: "Nu merita sa dispari din online"
 date: 2010-01-14 19:59:04 +0000
 categories: ["Social Media"]
-tags: ["sinucidere", "social-media"]
+tags: ["social-media"]
 author: titus_capilnean
 ---
 

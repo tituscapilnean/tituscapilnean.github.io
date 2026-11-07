@@ -2,7 +2,7 @@
 title: "Navigating High Interest Rates in Small Business Acquisitions"
 date: 2023-12-11 10:00:00 +0000
 categories: [English, Finance]
-tags: [private market labs, smb, acquisition, sba, seller financing, interest rates, lenders]
+tags: [private market labs, smb, acquisition]
 author: titus_capilnean
 ---
 

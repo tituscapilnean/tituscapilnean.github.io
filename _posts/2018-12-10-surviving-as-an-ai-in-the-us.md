@@ -2,7 +2,7 @@
 title: Surviving as an AI in the US – the most litigious nation in the world
 date: 2018-12-10 09:00:00 +0000
 categories: [English, Technology]
-tags: [ai, law, liability, selfdriving]
+tags: [ai]
 author: titus_capilnean
 ---
 

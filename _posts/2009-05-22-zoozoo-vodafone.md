@@ -2,7 +2,7 @@
 title: "Zoozoo Vodafone"
 date: 2009-05-22 02:14:00 +0000
 categories: ["Publicitate"]
-tags: ["distractiv", "india", "vodafone", "zoozoo"]
+tags: ["distractiv", "vodafone"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Cum să îți reinstalezi Windows fără să pierzi prea mult timp"
 date: 2010-10-24 12:59:18 +0000
 categories: ["Altele de online"]
-tags: ["reinstalare", "windows"]
+tags: []
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2010/cum-sa-iți-reinstalezi-windows-fara-sa-pierzi-prea-mult-timp/blog-150x150.jpg)

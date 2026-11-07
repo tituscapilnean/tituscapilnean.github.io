@@ -2,7 +2,7 @@
 title: "Trupa de 5 din apartament isi doreste LCD"
 date: 2010-03-17 07:34:39 +0000
 categories: ["Publicitate"]
-tags: ["alexandrion", "concurs"]
+tags: ["concurs"]
 author: titus_capilnean
 ---
 

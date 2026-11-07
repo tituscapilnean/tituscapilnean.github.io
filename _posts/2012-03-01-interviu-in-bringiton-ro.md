@@ -2,7 +2,7 @@
 title: "Interviu in Bringiton.ro"
 date: 2012-03-01 17:13:23 +0000
 categories: ["Altele de online"]
-tags: ["bring-it-on", "dezvoltare", "interviu"]
+tags: []
 author: titus_capilnean
 ---
 

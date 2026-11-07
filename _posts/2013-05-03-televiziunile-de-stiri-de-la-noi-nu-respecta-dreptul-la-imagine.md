@@ -2,7 +2,7 @@
 title: "Televiziunile de știri de la noi nu respectă dreptul la imagine"
 date: 2013-05-03 16:38:28 +0000
 categories: ["Altele de online"]
-tags: ["drept", "imagine", "petrecere", "tv"]
+tags: ["imagine", "tv"]
 author: titus_capilnean
 ---
 

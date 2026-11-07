@@ -2,7 +2,7 @@
 title: "Scoate publicitatea din galeata"
 date: 2009-08-12 06:39:40 +0000
 categories: ["Marketing", "Publicitate"]
-tags: ["analiza", "galeata", "inedit", "inovatie", "nou", "schimbare"]
+tags: ["analiza", "inedit", "inovatie", "nou", "schimbare"]
 author: titus_capilnean
 ---
 

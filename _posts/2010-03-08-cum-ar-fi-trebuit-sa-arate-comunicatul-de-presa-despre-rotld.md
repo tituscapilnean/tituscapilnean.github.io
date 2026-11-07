@@ -2,7 +2,7 @@
 title: "Cum ar fi trebuit sa arate comunicatul de presa despre RoTLD"
 date: 2010-03-08 10:29:18 +0000
 categories: ["Social Media"]
-tags: ["comunicare", "domeniu", "rotld"]
+tags: ["comunicare"]
 author: titus_capilnean
 ---
 

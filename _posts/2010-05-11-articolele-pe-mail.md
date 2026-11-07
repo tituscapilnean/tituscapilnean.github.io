@@ -2,7 +2,7 @@
 title: "Articolele pe mail"
 date: 2010-05-11 19:56:53 +0000
 categories: ["Altele de online"]
-tags: ["newsletter", "plugin"]
+tags: []
 author: titus_capilnean
 ---
 

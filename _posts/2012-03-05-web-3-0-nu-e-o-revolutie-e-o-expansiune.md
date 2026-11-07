@@ -2,7 +2,7 @@
 title: "Web 3.0 nu e o revolutie, e o expansiune"
 date: 2012-03-05 07:00:26 +0000
 categories: ["Altele de online"]
-tags: ["concept", "idei", "web-3.0"]
+tags: ["concept", "idei"]
 author: titus_capilnean
 ---
 

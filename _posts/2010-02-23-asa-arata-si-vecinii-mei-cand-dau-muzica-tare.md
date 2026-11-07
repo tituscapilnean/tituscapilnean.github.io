@@ -2,7 +2,7 @@
 title: "Asa arata si vecinii mei cand dau muzica tare"
 date: 2010-02-23 14:38:24 +0000
 categories: ["Publicitate"]
-tags: ["festival", "muzica", "vecini"]
+tags: ["festival", "muzica"]
 author: titus_capilnean
 ---
 

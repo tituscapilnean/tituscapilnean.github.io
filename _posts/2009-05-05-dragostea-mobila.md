@@ -2,7 +2,7 @@
 title: "Dragostea mobila"
 date: 2009-05-05 04:00:00 +0000
 categories: ["Marketing"]
-tags: ["comunicare", "cosmote", "orange", "vodafone"]
+tags: ["comunicare", "orange", "vodafone"]
 author: titus_capilnean
 ---
 

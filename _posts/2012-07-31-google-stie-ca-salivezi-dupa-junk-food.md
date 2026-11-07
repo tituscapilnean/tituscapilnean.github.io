@@ -2,7 +2,7 @@
 title: "Google știe că salivezi după junk food"
 date: 2012-07-31 12:54:23 +0000
 categories: ["Marketing"]
-tags: ["contextual", "google", "kfc"]
+tags: ["google", "kfc"]
 author: titus_capilnean
 ---
 

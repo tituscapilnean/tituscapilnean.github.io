@@ -2,7 +2,7 @@
 title: Empowering, not imposing – a lesson for hard times
 date: 2020-05-02 10:00:00 +0300
 categories: [English, Strategy, Change Management]
-tags: [empowering, leadership, change]  
+tags: [leadership]
 author: titus_capilnean
 ---
 

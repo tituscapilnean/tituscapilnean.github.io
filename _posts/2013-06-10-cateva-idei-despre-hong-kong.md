@@ -2,7 +2,7 @@
 title: "Prima dată în Hong Kong – căldură, zgârie-nori și umezeală"
 date: 2013-06-10 06:49:56 +0000
 categories: ["Turism"]
-tags: ["2-zile", "hong-kong", "mba", "tura", "vizita"]
+tags: ["mba", "vizita"]
 author: titus_capilnean
 ---
 

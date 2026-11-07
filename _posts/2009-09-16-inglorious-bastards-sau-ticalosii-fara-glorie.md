@@ -2,7 +2,7 @@
 title: "Inglourious Basterds sau Ticalosii fara glorie"
 date: 2009-09-16 14:06:00 +0000
 categories: ["Altele de online"]
-tags: ["analiza", "basterds", "film", "inglourious-bastards", "razboi", "review", "tarantino", "ticalosi-fara-glorie"]
+tags: ["analiza", "film", "razboi"]
 author: titus_capilnean
 ---
 

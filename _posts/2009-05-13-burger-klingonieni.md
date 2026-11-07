@@ -2,7 +2,7 @@
 title: "Burger Klingonieni"
 date: 2009-05-13 18:14:00 +0000
 categories: ["Publicitate"]
-tags: ["burger-king", "distractiv", "star-trek"]
+tags: ["distractiv"]
 author: titus_capilnean
 ---
 

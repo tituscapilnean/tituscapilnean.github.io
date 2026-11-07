@@ -2,7 +2,7 @@
 title: "Mugur va vorbi la TEDx Bucharest"
 date: 2009-09-11 12:07:48 +0000
 categories: ["Evenimente"]
-tags: ["concurs", "highlight", "speakeri", "tedx", "tedxbucharest"]
+tags: ["concurs", "tedx", "tedxbucharest"]
 author: titus_capilnean
 ---
 

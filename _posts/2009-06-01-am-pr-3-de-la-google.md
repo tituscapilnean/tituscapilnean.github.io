@@ -2,7 +2,7 @@
 title: "Am PR 3 de la Google"
 date: 2009-06-01 21:40:00 +0000
 categories: ["Social Media"]
-tags: ["blogger", "google", "page-rank", "update"]
+tags: ["blogger", "google"]
 author: titus_capilnean
 ---
 

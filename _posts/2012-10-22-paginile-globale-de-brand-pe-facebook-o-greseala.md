@@ -2,7 +2,7 @@
 title: "Paginile globale de brand pe Facebook – o greseala"
 date: 2012-10-22 08:27:11 +0000
 categories: ["Social Media"]
-tags: ["branduri", "facebook", "global", "pagini"]
+tags: ["branduri", "facebook", "pagini"]
 author: titus_capilnean
 ---
 

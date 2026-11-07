@@ -2,7 +2,7 @@
 title: "Spam Miscarea Legionara"
 date: 2009-06-03 06:56:00 +0000
 categories: ["Social Media"]
-tags: ["carti", "mail", "spam"]
+tags: ["mail", "spam"]
 author: titus_capilnean
 ---
 

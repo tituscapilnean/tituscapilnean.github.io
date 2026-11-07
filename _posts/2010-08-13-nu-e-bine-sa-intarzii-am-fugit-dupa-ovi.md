@@ -2,7 +2,7 @@
 title: "Nu e bine sa intarzii – am fugit dupa Ovi"
 date: 2010-08-13 13:57:23 +0000
 categories: ["Publicitate"]
-tags: ["goana", "nokia-n900", "ovi"]
+tags: ["goana", "ovi"]
 author: titus_capilnean
 ---
 

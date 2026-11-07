@@ -2,7 +2,7 @@
 title: Failed food deliveries – a technology fix
 date: 2020-08-09 10:00:00 +0000
 categories: [English, Blockchain, Food Delivery]
-tags: [deliveries, tech, blockchain, identity, zero-knowledge]
+tags: [blockchain, identity]
 author: titus_capilnean
 ---
 

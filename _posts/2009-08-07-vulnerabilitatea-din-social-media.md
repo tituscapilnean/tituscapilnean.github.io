@@ -2,7 +2,7 @@
 title: "Vulnerabilitatea din social media"
 date: 2009-08-07 06:48:55 +0000
 categories: ["Social Media"]
-tags: ["anunt", "atac", "denial-of-service", "facebook", "google", "twitter"]
+tags: ["anunt", "facebook", "google", "twitter"]
 author: titus_capilnean
 ---
 

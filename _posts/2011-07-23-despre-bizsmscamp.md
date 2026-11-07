@@ -2,7 +2,7 @@
 title: "Despre #bizsmscamp, #bauau şi “Special” Media"
 date: 2011-07-23 07:20:28 +0000
 categories: ["Social Media"]
-tags: ["bizsmscamp", "paraul-rece", "social-media", "vox-populi"]
+tags: ["social-media", "vox-populi"]
 author: titus_capilnean
 ---
 

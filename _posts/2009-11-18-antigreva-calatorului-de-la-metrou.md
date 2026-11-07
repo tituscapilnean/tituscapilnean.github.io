@@ -2,7 +2,7 @@
 title: "Antigreva calatorului de la metrou"
 date: 2009-11-18 08:16:00 +0000
 categories: ["Altele de online"]
-tags: ["antiprotest", "ardem-cartela", "greva", "metrou", "protest"]
+tags: ["greva", "metrou", "protest"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Cum iti dai seama ca nu esti expert social media"
 date: 2011-01-06 09:25:19 +0000
 categories: ["Social Media"]
-tags: ["parere", "social-media"]
+tags: ["social-media"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2011/cum-iti-dai-seama-ca-nu-esti-expert-social-media/expert-150x150.png)

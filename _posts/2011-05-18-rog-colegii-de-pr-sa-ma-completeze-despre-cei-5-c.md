@@ -2,7 +2,7 @@
 title: "Rog colegii de PR sa completeze si sa dezbata cei 5 C"
 date: 2011-05-18 20:07:32 +0000
 categories: ["Relatii Publice"]
-tags: ["canal", "commitment", "consistenta", "continuitate", "creativitate", "online"]
+tags: ["creativitate", "online"]
 author: titus_capilnean
 ---
 

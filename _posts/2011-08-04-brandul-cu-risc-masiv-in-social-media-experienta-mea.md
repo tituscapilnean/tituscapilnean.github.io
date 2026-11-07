@@ -2,7 +2,7 @@
 title: "Brandul cu risc masiv in social media – experienta mea"
 date: 2011-08-04 12:52:13 +0000
 categories: ["Altele de online"]
-tags: ["brand", "controversa", "gestionare", "online", "social-media"]
+tags: ["brand", "online", "social-media"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2011/brandul-cu-risc-masiv-in-social-media-experienta-mea/risk-150x150.jpg)

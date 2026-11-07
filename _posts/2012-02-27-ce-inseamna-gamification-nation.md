@@ -2,7 +2,7 @@
 title: "Ce inseamna Gamification Nation"
 date: 2012-02-27 12:17:27 +0000
 categories: ["Online Training"]
-tags: ["facebook", "gamification", "jocuri", "online"]
+tags: ["facebook", "jocuri", "online"]
 author: titus_capilnean
 # EMBED_ISSUES: 1 embed(s) need review
 #   - [iframe] http://www.slideshare.net/slideshow/embed_code/11764998

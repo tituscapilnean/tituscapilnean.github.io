@@ -2,7 +2,7 @@
 title: "Cum să te angajezi? Două păreri de la top manageri"
 date: 2013-09-26 14:48:34 +0000
 categories: ["Business & Investitii"]
-tags: ["angajare", "cum-sa", "ge", "personalitate", "recrutare", "welch"]
+tags: ["angajare", "cum-sa", "recrutare"]
 author: titus_capilnean
 ---
 ![unemploymentline380x260_crop380w](/assets/img/posts/2013/cum-sa-te-angajezi-doua-pareri-de-la-top-manageri/unemploymentline380x260_crop380w-150x150.jpg)

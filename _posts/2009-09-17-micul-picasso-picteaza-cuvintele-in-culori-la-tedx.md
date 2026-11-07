@@ -2,7 +2,7 @@
 title: "Micul Picasso picteaza cuvintele in culori la TEDx"
 date: 2009-09-17 08:52:39 +0000
 categories: ["Evenimente"]
-tags: ["alexandra-nechita", "invitati", "speaker", "tedx", "tedxbucharest", "vorbitor"]
+tags: ["tedx", "tedxbucharest", "vorbitor"]
 author: titus_capilnean
 ---
 

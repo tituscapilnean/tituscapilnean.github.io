@@ -2,7 +2,7 @@
 title: Immutability is the foundation for identity
 date: 2019-12-05 10:00:00 +0000
 categories: [English, Blockchain]
-tags: [identity, blockchain, immutability]
+tags: [identity, blockchain]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Mobile Marketing Conference 2011 – un fel de live"
 date: 2011-05-05 06:45:03 +0000
 categories: ["Evenimente"]
-tags: ["conferinta", "live-blog", "mobile-marketing", "sms"]
+tags: ["conferinta", "live-blog", "mobile-marketing"]
 author: titus_capilnean
 ---
 

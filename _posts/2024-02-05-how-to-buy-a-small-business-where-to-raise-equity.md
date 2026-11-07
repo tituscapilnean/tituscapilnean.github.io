@@ -2,7 +2,7 @@
 title: "How to Buy a Small Business: Where to Raise Equity"
 date: 2024-02-05 10:00:00 +0000
 categories: [English, Finance]
-tags: [private market labs, smb, acquisition, equity, search fund, buyers]
+tags: [private market labs, smb, acquisition, search fund, buyers]
 author: titus_capilnean
 ---
 

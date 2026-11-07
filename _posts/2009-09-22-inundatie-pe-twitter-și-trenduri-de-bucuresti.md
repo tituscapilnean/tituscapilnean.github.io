@@ -2,7 +2,7 @@
 title: "Inundatie pe Twitter și trenduri de Bucuresti"
 date: 2009-09-22 15:45:50 +0000
 categories: ["Social Media"]
-tags: ["api", "geolocalizare", "inedit", "inundatie", "topic", "trending", "twitter"]
+tags: ["inedit", "twitter"]
 author: titus_capilnean
 ---
 

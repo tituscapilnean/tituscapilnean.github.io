@@ -2,7 +2,7 @@
 title: "Hat, ti-am luat brandul"
 date: 2009-09-05 11:58:25 +0000
 categories: ["Marketing"]
-tags: ["bfc", "bucuresti", "copiat", "fried-chicken", "kfc"]
+tags: ["bucuresti", "kfc"]
 author: titus_capilnean
 ---
 

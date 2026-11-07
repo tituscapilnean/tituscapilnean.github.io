@@ -2,7 +2,7 @@
 title: "ReEvoluția Culturală – pastel"
 date: 2009-07-03 09:40:00 +0000
 categories: ["Altele de online"]
-tags: ["emo", "ganduri", "manele"]
+tags: ["ganduri"]
 author: titus_capilnean
 ---
 

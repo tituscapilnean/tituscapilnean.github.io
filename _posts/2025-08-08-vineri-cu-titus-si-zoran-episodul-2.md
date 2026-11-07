@@ -2,7 +2,7 @@
 title: "Vineri cu Titus și Zoran – episodul 2"
 date: 2025-08-08 13:00:00 +0300
 categories: [Podcast, Romania]
-tags: [politica, justitie, trafic, ion iliescu, democratie, coruptie]
+tags: [politica, trafic, democratie, coruptie]
 author: titus_capilnean
 ---
 

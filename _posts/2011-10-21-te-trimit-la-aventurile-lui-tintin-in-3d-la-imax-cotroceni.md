@@ -2,7 +2,7 @@
 title: "Te trimit la Aventurile lui TinTin in 3D la IMAX Cotroceni"
 date: 2011-10-21 15:01:51 +0000
 categories: ["Filme Bucuresti"]
-tags: ["aventuri", "blogging", "concurs", "film", "imax", "samsung", "tintin"]
+tags: ["blogging", "concurs", "film", "imax", "samsung"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2011/te-trimit-la-aventurile-lui-tintin-in-3d-la-imax-cotroceni/Adventures-of-Tintin-poster-210x300.jpg)

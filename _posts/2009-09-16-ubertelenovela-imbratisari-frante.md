@@ -2,7 +2,7 @@
 title: "uberTelenovela Imbratisari frante"
 date: 2009-09-16 21:03:10 +0000
 categories: ["Altele de online"]
-tags: ["analiza", "film", "imbratisari-frante", "movieplex", "recenzie", "telenovela", "uber"]
+tags: ["analiza", "film", "recenzie"]
 author: titus_capilnean
 ---
 

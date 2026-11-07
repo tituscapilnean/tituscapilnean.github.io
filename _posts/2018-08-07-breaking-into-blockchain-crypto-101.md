@@ -2,7 +2,7 @@
 title: Breaking into Blockchain – Crypto 101
 date: 2018-08-07 00:00:00 +0000
 categories: [Crypto, Blockchain, English]
-tags: [beginner, blockchain, crypto]
+tags: [blockchain]
 author: Titus   
 ---
 

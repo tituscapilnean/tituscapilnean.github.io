@@ -2,7 +2,7 @@
 title: "The Gateway Got Specific"
 date: 2026-05-07 12:00:00 +0000
 categories: [English, AI]
-tags: [ai, agents, gateway, infrastructure, personal-ai, pricing, mcp, "2026"]
+tags: [ai, agents, infrastructure, "2026"]
 author: titus
 ---
 

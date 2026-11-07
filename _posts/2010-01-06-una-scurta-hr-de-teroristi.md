@@ -2,7 +2,7 @@
 title: "Una scurta – HR de teroristi"
 date: 2010-01-06 11:57:33 +0000
 categories: ["Altele de online"]
-tags: ["comics", "corporatii", "hr"]
+tags: ["comics"]
 author: titus_capilnean
 ---
 

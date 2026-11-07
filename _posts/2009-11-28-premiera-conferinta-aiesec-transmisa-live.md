@@ -2,7 +2,7 @@
 title: "Premiera: Conferinta AIESEC transmisa Live"
 date: 2009-11-28 08:30:34 +0000
 categories: ["Evenimente"]
-tags: ["aiesec", "conferinta", "romanian-youth-leadership-forum", "transmisiune"]
+tags: ["aiesec", "conferinta"]
 author: titus_capilnean
 ---
 

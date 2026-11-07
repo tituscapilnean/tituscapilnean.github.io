@@ -2,7 +2,7 @@
 title: "Facebrands.ro, acest SocialBakers.com al Romaniei"
 date: 2011-01-06 14:13:33 +0000
 categories: ["Social Media"]
-tags: ["facebook", "facebrands", "statistici"]
+tags: ["facebook", "statistici"]
 author: titus_capilnean
 ---
 

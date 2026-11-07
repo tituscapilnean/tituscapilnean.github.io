@@ -2,7 +2,7 @@
 title: "5 bloggeri romani la How To Web 2011"
 date: 2011-10-31 10:14:01 +0000
 categories: ["Altele de online"]
-tags: ["2011", "bloggeri-oficiali", "how-to-web"]
+tags: ["2011", "how-to-web"]
 author: titus_capilnean
 ---
 

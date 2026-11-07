@@ -2,7 +2,7 @@
 title: "Ideile bune sunt scumpe"
 date: 2012-09-18 11:18:33 +0000
 categories: ["Altele de online"]
-tags: ["costuri", "creatie", "idei"]
+tags: ["creatie", "idei"]
 author: titus_capilnean
 ---
 

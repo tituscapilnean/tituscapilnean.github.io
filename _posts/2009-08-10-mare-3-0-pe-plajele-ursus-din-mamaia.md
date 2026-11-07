@@ -2,7 +2,7 @@
 title: "Mare 3.0 pe plajele Ursus din Mamaia"
 date: 2009-08-10 15:51:48 +0000
 categories: ["Evenimente"]
-tags: ["bere", "h2o", "leandri", "mare", "plaja", "ursus"]
+tags: ["bere", "mare"]
 author: titus_capilnean
 ---
 

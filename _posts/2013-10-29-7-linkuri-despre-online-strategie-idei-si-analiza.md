@@ -2,7 +2,7 @@
 title: "7 linkuri despre online, strategie, idei și analiză"
 date: 2013-10-29 16:45:41 +0000
 categories: ["Online Training"]
-tags: ["invatare", "linkuri", "obicei", "online"]
+tags: ["online"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Word interzis la vanzare in SUA"
 date: 2009-08-13 12:05:11 +0000
 categories: ["Marketing"]
-tags: ["anunt", "international", "microsoft", "proces", "stire"]
+tags: ["anunt", "international", "microsoft", "stire"]
 author: titus_capilnean
 ---
 

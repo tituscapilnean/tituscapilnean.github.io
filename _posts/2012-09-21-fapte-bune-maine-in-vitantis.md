@@ -2,7 +2,7 @@
 title: "Fapte bune, maine, in Vitantis"
 date: 2012-09-21 12:10:34 +0000
 categories: ["Evenimente"]
-tags: ["autism", "campanie", "vitantis"]
+tags: ["campanie"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2012/fapte-bune-maine-in-vitantis/flyer-front1.jpg)

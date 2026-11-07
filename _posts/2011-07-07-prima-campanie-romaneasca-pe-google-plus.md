@@ -2,7 +2,7 @@
 title: "Prima campanie romaneasca pe Google Plus"
 date: 2011-07-07 06:21:43 +0000
 categories: ["Social Media"]
-tags: ["campanie", "fotografii", "google-plus", "spam", "tag"]
+tags: ["campanie", "spam"]
 author: titus_capilnean
 ---
 

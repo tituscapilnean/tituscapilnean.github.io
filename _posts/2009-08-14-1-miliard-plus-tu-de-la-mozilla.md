@@ -2,7 +2,7 @@
 title: "1 miliard plus tu – de la Mozilla"
 date: 2009-08-14 07:05:44 +0000
 categories: ["Social Media"]
-tags: ["anunt", "browser", "firefox", "online", "stire"]
+tags: ["anunt", "firefox", "online", "stire"]
 author: titus_capilnean
 ---
 

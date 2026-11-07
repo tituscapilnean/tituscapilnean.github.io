@@ -2,7 +2,7 @@
 title: "Lincoln (2012) – lecția de politică americană"
 date: 2013-01-29 09:21:57 +0000
 categories: ["Filme Bucuresti"]
-tags: ["film", "lincoln", "politica", "vox-populi"]
+tags: ["film", "politica", "vox-populi"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2013/lincoln-2012-lectia-de-politica-americana/drama-lincoln-a-avut-premiera-la-new-york-vezi-cat-de-impresionati-au-fost-criticii-americani-de-noul_1_size3-198x300.jpg)

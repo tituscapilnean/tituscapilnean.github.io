@@ -2,7 +2,7 @@
 title: "Poza de grup a internetului romanesc"
 date: 2009-08-20 12:06:42 +0000
 categories: ["Social Media"]
-tags: ["initiativa", "online", "poza-internetului", "social-media"]
+tags: ["online", "social-media"]
 author: titus_capilnean
 ---
 

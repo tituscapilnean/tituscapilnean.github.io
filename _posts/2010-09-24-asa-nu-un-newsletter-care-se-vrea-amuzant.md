@@ -2,7 +2,7 @@
 title: "Asa nu – un newsletter care se vrea amuzant"
 date: 2010-09-24 09:00:41 +0000
 categories: ["Marketing"]
-tags: ["fail", "newsletter"]
+tags: ["fail"]
 author: titus_capilnean
 ---
 

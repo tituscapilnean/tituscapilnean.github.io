@@ -2,7 +2,7 @@
 title: "Schimbare in Baia Mare"
 date: 2009-04-22 09:54:00 +0000
 categories: ["Altele de online"]
-tags: ["baia-mare", "schimbari"]
+tags: ["schimbari"]
 author: titus_capilnean
 ---
 

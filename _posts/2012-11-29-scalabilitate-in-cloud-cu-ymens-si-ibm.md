@@ -2,7 +2,7 @@
 title: "Scalabilitate în cloud, cu Ymens și IBM"
 date: 2012-11-29 18:46:31 +0000
 categories: ["Evenimente"]
-tags: ["cloud", "ibm", "scalabilitate", "ymens"]
+tags: []
 author: titus_capilnean
 ---
 

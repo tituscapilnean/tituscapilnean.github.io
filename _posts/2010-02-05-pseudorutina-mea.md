@@ -2,7 +2,7 @@
 title: "(pseudo)Rutina mea"
 date: 2010-02-05 08:46:55 +0000
 categories: ["Social Media"]
-tags: ["blogger", "leapsa", "rutina"]
+tags: ["blogger", "leapsa"]
 author: titus_capilnean
 ---
 

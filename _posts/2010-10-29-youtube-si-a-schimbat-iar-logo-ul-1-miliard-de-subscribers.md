@@ -2,7 +2,7 @@
 title: "Youtube si-a schimbat iar logo-ul – 1 miliard de subscribers"
 date: 2010-10-29 07:20:08 +0000
 categories: ["Social Media"]
-tags: ["subscribers", "youtube"]
+tags: ["youtube"]
 author: titus_capilnean
 # EMBED_ISSUES: 1 embed(s) need review
 #   - [iframe] http://www.youtube.com/subscribe_widget?p=fatratfpl

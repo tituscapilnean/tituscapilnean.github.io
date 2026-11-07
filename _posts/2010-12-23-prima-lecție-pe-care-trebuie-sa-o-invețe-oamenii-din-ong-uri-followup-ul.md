@@ -2,7 +2,7 @@
 title: "Prima lectie pe care trebuie sa o invete oamenii din ONG-uri – Followup-ul"
 date: 2010-12-23 07:37:05 +0000
 categories: ["Evenimente"]
-tags: ["networking", "ong", "sfaturi"]
+tags: ["ong", "sfaturi"]
 author: titus_capilnean
 ---
 

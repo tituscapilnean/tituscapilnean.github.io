@@ -2,7 +2,7 @@
 title: "Hamsterzilla ne invata economie"
 date: 2010-03-16 21:33:16 +0000
 categories: ["Altele de online"]
-tags: ["economie", "hamster"]
+tags: ["economie"]
 author: titus_capilnean
 ---
 

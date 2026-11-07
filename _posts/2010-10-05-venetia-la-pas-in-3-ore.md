@@ -2,7 +2,7 @@
 title: "Venetia la pas in 3 ore"
 date: 2010-10-05 20:18:23 +0000
 categories: ["Altele de online"]
-tags: ["2010", "golden-drum", "slovenia", "venetia"]
+tags: ["2010", "golden-drum"]
 author: titus_capilnean
 ---
 

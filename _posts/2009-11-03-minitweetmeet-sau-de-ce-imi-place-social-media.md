@@ -2,7 +2,7 @@
 title: "MiniTweetMeet sau de ce imi place social media"
 date: 2009-11-03 22:52:57 +0000
 categories: ["Evenimente", "Social Media"]
-tags: ["iesire", "mictweetmeet", "oameni", "relaxare", "tweetmeet", "twitter", "viata"]
+tags: ["oameni", "tweetmeet", "twitter", "viata"]
 author: titus_capilnean
 ---
 

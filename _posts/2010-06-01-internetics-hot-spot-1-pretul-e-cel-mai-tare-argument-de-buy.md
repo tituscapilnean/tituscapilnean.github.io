@@ -2,7 +2,7 @@
 title: "Internetics Hot Spot 1 – Pretul e cel mai tare argument de buy"
 date: 2010-06-01 22:04:25 +0000
 categories: ["Evenimente", "Social Media"]
-tags: ["hot-spot", "internetics"]
+tags: []
 author: titus_capilnean
 ---
 

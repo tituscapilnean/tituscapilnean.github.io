@@ -2,7 +2,7 @@
 title: "Cu ce m-am distrat azi dimineata"
 date: 2009-10-22 07:03:04 +0000
 categories: ["Altele de online"]
-tags: ["cartier", "distractiv", "hoti", "vecini"]
+tags: ["distractiv"]
 author: titus_capilnean
 ---
 

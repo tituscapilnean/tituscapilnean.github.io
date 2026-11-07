@@ -2,7 +2,7 @@
 title: "Top 10 Pitfalls to Avoid in Your Small Business Acquisition Journey"
 date: 2023-05-26 10:00:00 +0000
 categories: [English, Career]
-tags: [private market labs, smb, acquisition, search fund, operators]
+tags: [private market labs, smb, acquisition, search fund]
 author: titus_capilnean
 ---
 

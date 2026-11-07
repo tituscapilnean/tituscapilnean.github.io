@@ -2,7 +2,7 @@
 title: "Studiul Daedalus Millward Brown de la Webstock 2010"
 date: 2010-09-22 12:27:07 +0000
 categories: ["Social Media"]
-tags: ["daedalus", "statistici", "studiu"]
+tags: ["statistici", "studiu"]
 author: titus_capilnean
 ---
 

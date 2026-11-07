@@ -2,7 +2,7 @@
 title: "Smurfs 2 3D (2013) – educativ și fun"
 date: 2013-08-22 08:22:23 +0000
 categories: ["Filme Bucuresti"]
-tags: ["film", "smurfs", "strumpfii"]
+tags: ["film"]
 author: titus_capilnean
 ---
 ![Smurfs 2](/assets/img/posts/2013/smurfs-2-3d-2013-educativ-si-fun/WeZGuNmK80e3fj6RzRj31g-150x150.jpg)

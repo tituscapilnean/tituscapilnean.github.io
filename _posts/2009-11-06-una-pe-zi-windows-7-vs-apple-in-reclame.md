@@ -2,7 +2,7 @@
 title: "Una pe zi – Windows 7 vs. Apple in reclame"
 date: 2009-11-06 14:02:45 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["apple", "lansare", "promisiuni", "windows-7"]
+tags: ["apple", "lansare"]
 author: titus_capilnean
 ---
 

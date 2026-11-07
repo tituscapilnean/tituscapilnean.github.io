@@ -2,7 +2,7 @@
 title: "Statisitici Facebook Septembrie 2009"
 date: 2009-09-07 06:37:06 +0000
 categories: ["Marketing", "Social Media"]
-tags: ["facebook", "romania", "septembrie", "statistica", "utilizatori"]
+tags: ["facebook", "romania", "statistica", "utilizatori"]
 author: titus_capilnean
 ---
 

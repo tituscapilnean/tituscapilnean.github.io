@@ -2,7 +2,7 @@
 title: "De acum poți să schimbi numele paginii de Facebook"
 date: 2010-10-26 11:10:32 +0000
 categories: ["Social Media"]
-tags: ["facebook", "nume-pagina", "schimbare"]
+tags: ["facebook", "schimbare"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2010/de-acum-poți-sa-schimbi-numele-paginii-de-facebook/facebook_logo-150x150.jpg)

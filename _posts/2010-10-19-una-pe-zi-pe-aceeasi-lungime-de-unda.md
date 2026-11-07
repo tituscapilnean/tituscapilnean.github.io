@@ -2,7 +2,7 @@
 title: "Una pe zi – Pe aceeasi lungime de unda"
 date: 2010-10-19 16:40:21 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["catavencu", "online", "vodafone"]
+tags: ["online", "vodafone"]
 author: titus_capilnean
 ---
 

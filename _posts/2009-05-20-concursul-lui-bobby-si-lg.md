@@ -2,7 +2,7 @@
 title: "Concursul lui Bobby si LG"
 date: 2009-05-20 15:58:00 +0000
 categories: ["Social Media"]
-tags: ["concurs", "lg", "participare"]
+tags: ["concurs", "participare"]
 author: titus_capilnean
 ---
 

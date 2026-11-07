@@ -2,7 +2,7 @@
 title: "Cu mingea in geam ca in copilarie"
 date: 2009-05-28 05:06:00 +0000
 categories: ["Publicitate"]
-tags: ["distractiv", "geam-termopan", "qfort"]
+tags: ["distractiv"]
 author: titus_capilnean
 ---
 

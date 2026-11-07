@@ -2,7 +2,7 @@
 title: Portfolio Strategy – Betting my retirement on Generative AI
 date: 2023-06-16 10:00:00 +0800
 categories: [English, Finance, GenAI]
-tags: [portfolio, retirement, generative ai, etf, investment]
+tags: []
 author: titus_capilnean
 ---
 

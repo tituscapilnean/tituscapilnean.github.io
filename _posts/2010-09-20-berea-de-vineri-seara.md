@@ -2,7 +2,7 @@
 title: "Berea de vineri seara"
 date: 2010-09-20 15:04:36 +0000
 categories: ["Evenimente"]
-tags: ["bere", "degustare", "offline"]
+tags: ["bere", "offline"]
 author: titus_capilnean
 ---
 

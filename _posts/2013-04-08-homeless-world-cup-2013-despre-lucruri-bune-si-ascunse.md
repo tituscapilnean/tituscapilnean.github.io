@@ -2,7 +2,7 @@
 title: "Homeless World Cup 2013 – despre lucruri bune și ascunse"
 date: 2013-04-08 13:16:53 +0000
 categories: ["Evenimente"]
-tags: ["caritate", "cupa-mondiala", "fotbal", "homeless", "sport", "world-cup"]
+tags: ["sport"]
 author: titus_capilnean
 # EMBED_ISSUES: 1 embed(s) need review
 #   - [iframe] http://www.slideshare.net/slideshow/embed_code/18406856

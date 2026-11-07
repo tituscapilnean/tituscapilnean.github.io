@@ -2,7 +2,7 @@
 title: Competitive people, choose your battles
 date: 2020-02-17 10:00:00 +0200
 categories: [English, Life Strategy]
-tags: [competition, mindset, work, personal growth, sports]
+tags: []
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Pisici in cizme, motani incaltati, pisici peste tot"
 date: 2011-11-25 13:59:28 +0000
 categories: ["Filme Bucuresti"]
-tags: ["afi", "film", "imax", "motanul-incaltat", "samsung"]
+tags: ["film", "imax", "samsung"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2011/pisici-in-cizme-motani-incaltati-pisici-peste-tot/puss-in-boots-735370l-imagine-226x300.jpg)

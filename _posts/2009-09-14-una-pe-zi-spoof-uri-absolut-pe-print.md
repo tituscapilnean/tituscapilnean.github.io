@@ -2,7 +2,7 @@
 title: "Una pe zi – Spoof-uri Absolut pe print"
 date: 2009-09-14 13:02:53 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["absolut", "print", "spoof", "vodka"]
+tags: ["print", "spoof"]
 author: titus_capilnean
 ---
 

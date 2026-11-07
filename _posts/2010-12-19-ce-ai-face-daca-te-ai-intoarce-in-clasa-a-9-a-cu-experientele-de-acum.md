@@ -2,7 +2,7 @@
 title: "Ce ai face dacă te-ai întoarce în clasa a 9-a cu experiențele de acum?"
 date: 2010-12-19 09:00:54 +0000
 categories: ["Social Media"]
-tags: ["blogging", "leapsa", "liceu"]
+tags: ["blogging", "leapsa"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Ce asteptari aveti de la un brand de masini in online?"
 date: 2011-10-03 07:56:40 +0000
 categories: ["Marketing"]
-tags: ["branding", "campanie", "lux", "masini", "online"]
+tags: ["branding", "campanie", "masini", "online"]
 author: titus_capilnean
 ---
 

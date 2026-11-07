@@ -2,7 +2,7 @@
 title: "Conflictul dintre pozitia de specialist in comunicare si cea de blogger"
 date: 2011-08-11 12:31:39 +0000
 categories: ["Social Media"]
-tags: ["afaceri", "comunicare", "conflict", "idei", "specialist"]
+tags: ["comunicare", "conflict", "idei"]
 author: titus_capilnean
 ---
 

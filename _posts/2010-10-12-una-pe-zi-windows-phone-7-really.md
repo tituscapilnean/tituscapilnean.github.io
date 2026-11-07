@@ -2,7 +2,7 @@
 title: "Una pe zi – Windows Phone 7 Really…"
 date: 2010-10-12 14:59:47 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["mobil", "phone-7", "windows"]
+tags: ["mobil"]
 author: titus_capilnean
 ---
 

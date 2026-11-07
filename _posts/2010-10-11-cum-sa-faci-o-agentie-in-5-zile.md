@@ -2,7 +2,7 @@
 title: "Cum sa faci o agentie in 5 zile?"
 date: 2010-10-11 08:59:19 +0000
 categories: ["Publicitate"]
-tags: ["2010", "golden-drum", "ziua-4"]
+tags: ["2010", "golden-drum"]
 author: titus_capilnean
 ---
 

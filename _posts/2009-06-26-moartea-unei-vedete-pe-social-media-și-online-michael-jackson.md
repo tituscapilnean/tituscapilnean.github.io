@@ -2,7 +2,7 @@
 title: "Moartea unei vedete pe Social Media și Online – Michael Jackson"
 date: 2009-06-26 02:46:00 +0000
 categories: ["Evenimente"]
-tags: ["michael-jackson", "moarte", "social-media", "viral"]
+tags: ["social-media", "viral"]
 author: titus_capilnean
 ---
 

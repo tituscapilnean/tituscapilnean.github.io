@@ -2,7 +2,7 @@
 title: "La multi ani, fetelor"
 date: 2010-03-08 17:37:04 +0000
 categories: ["Altele de online"]
-tags: ["8-martie", "urari"]
+tags: ["urari"]
 author: titus_capilnean
 ---
 

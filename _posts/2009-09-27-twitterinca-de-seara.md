@@ -2,7 +2,7 @@
 title: "Twitterinca de seara"
 date: 2009-09-27 18:39:18 +0000
 categories: ["Social Media"]
-tags: ["misto", "politia-twitter", "twitter", "twittlejuice"]
+tags: ["twitter"]
 author: titus_capilnean
 ---
 

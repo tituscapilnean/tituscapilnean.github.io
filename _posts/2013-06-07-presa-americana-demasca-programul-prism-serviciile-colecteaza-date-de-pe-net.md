@@ -2,7 +2,7 @@
 title: "Presa americană demască programul PRISM – serviciile colectează date de pe net"
 date: 2013-06-07 08:55:06 +0000
 categories: ["Social Media"]
-tags: ["americani", "date", "nsa", "prism", "securitatea"]
+tags: ["americani", "date"]
 author: titus_capilnean
 ---
 ![big-brother-poster](/assets/img/posts/2013/presa-americana-demasca-programul-prism-serviciile-colecteaza-date-de-pe-net/big-brother-poster-150x150.jpg)

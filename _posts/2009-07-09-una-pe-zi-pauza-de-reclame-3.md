@@ -2,7 +2,7 @@
 title: "Una pe zi – Adobe"
 date: 2009-07-09 04:29:00 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["adobe"]
+tags: []
 author: titus_capilnean
 ---
 

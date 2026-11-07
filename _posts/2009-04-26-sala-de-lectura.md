@@ -2,7 +2,7 @@
 title: "Sala de Lectura"
 date: 2009-04-26 04:03:00 +0000
 categories: ["Publicitate"]
-tags: ["bar", "bucuresti", "locuri-de-blog", "recomandare"]
+tags: ["bucuresti", "locuri-de-blog", "recomandare"]
 author: titus_capilnean
 ---
 

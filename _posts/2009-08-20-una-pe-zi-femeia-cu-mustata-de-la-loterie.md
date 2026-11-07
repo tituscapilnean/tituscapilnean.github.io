@@ -2,7 +2,7 @@
 title: "Una pe zi – Femeia cu mustata de la Loterie"
 date: 2009-08-20 14:57:51 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["distractiv", "femeia-cu-mustata", "loterie", "monopoly"]
+tags: ["distractiv"]
 author: titus_capilnean
 ---
 

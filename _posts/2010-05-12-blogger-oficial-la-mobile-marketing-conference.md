@@ -2,7 +2,7 @@
 title: "Blogger oficial la Mobile Marketing Conference"
 date: 2010-05-12 08:38:21 +0000
 categories: ["Evenimente"]
-tags: ["conferinta", "live-blog", "mobile-marketing", "nokia-n900"]
+tags: ["conferinta", "live-blog", "mobile-marketing"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Virus pe Facebook"
 date: 2009-05-24 17:58:00 +0000
 categories: ["Social Media"]
-tags: ["facebook", "mesaj", "virus"]
+tags: ["facebook", "virus"]
 author: titus_capilnean
 ---
 

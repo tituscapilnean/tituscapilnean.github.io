@@ -2,7 +2,7 @@
 title: "Una pe zi – Creativitatea grevei Metrorex"
 date: 2009-11-16 16:43:08 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["bucucresti", "greva", "haos", "metrou"]
+tags: ["greva", "metrou"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Cele mai virale clipuri"
 date: 2009-06-29 07:21:00 +0000
 categories: ["Social Media"]
-tags: ["standout", "top", "viral"]
+tags: ["top", "viral"]
 author: titus_capilnean
 ---
 

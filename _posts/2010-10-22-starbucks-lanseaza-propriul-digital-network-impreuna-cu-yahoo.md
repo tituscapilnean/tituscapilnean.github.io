@@ -2,7 +2,7 @@
 title: "Starbucks lansează propriul Digital Network, împreună cu Yahoo"
 date: 2010-10-22 10:10:39 +0000
 categories: ["Social Media"]
-tags: ["starbucks", "yahoo"]
+tags: ["yahoo"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2010/starbucks-lanseaza-propriul-digital-network-impreuna-cu-yahoo/starbucks-150x150.jpg)

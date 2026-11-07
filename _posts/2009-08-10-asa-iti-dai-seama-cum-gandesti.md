@@ -2,7 +2,7 @@
 title: "Asa iti dai seama cum gandesti"
 date: 2009-08-10 08:30:05 +0000
 categories: ["Altele de online"]
-tags: ["distractiv", "test", "video", "weekend"]
+tags: ["distractiv", "video", "weekend"]
 author: titus_capilnean
 ---
 

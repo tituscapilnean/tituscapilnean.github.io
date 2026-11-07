@@ -2,7 +2,7 @@
 title: "Fillr a fost desemnat castigator (edit)"
 date: 2011-07-04 07:39:14 +0000
 categories: ["Social Media"]
-tags: ["antispam", "concurs", "nokia", "ploiesti", "qtdevelopers"]
+tags: ["concurs", "nokia"]
 author: titus_capilnean
 ---
 

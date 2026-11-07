@@ -2,7 +2,7 @@
 title: "Majoritatea start-up-urilor au nevoie de comunicare si branding"
 date: 2012-10-10 11:47:41 +0000
 categories: ["Evenimente", "Online Training"]
-tags: ["branding", "comunicare", "online", "venture-mentoring"]
+tags: ["branding", "comunicare", "online"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2012/majoritatea-start-up-urilor-au-nevoie-de-comunicare-si-branding/467-l-150x150.jpg)

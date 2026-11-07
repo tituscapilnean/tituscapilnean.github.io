@@ -2,7 +2,7 @@
 title: "Si serialele au campanii de promovare online"
 date: 2012-03-14 08:41:22 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["campanie", "mad-men", "serial"]
+tags: ["campanie"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2012/si-serialele-au-campanii-de-promovare-online/madmen-371x300.png)

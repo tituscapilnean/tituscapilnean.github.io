@@ -2,7 +2,7 @@
 title: "La ce zile sa mergi din Zilele Biz 2009"
 date: 2009-11-20 07:56:07 +0000
 categories: ["Evenimente"]
-tags: ["biz", "conferinta", "csr", "inovatie", "media", "online", "zilele-biz"]
+tags: ["conferinta", "csr", "inovatie", "media", "online", "zilele-biz"]
 author: titus_capilnean
 ---
 

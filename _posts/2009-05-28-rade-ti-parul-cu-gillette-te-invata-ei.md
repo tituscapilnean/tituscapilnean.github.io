@@ -2,7 +2,7 @@
 title: "Rade-ti parul cu Gillette – te invata ei"
 date: 2009-05-28 16:01:00 +0000
 categories: ["Publicitate"]
-tags: ["distractiv", "educativ", "gillette"]
+tags: ["distractiv"]
 author: titus_capilnean
 ---
 

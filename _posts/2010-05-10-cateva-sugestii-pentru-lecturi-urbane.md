@@ -2,7 +2,7 @@
 title: "Câteva sugestii pentru Lecturi Urbane"
 date: 2010-05-10 07:11:46 +0000
 categories: ["Evenimente", "Social Media"]
-tags: ["lecturi-urbane", "twitter"]
+tags: ["twitter"]
 author: titus_capilnean
 ---
 

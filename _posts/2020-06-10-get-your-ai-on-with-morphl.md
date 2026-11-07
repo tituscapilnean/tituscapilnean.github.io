@@ -2,7 +2,7 @@
 title: Get your AI On with MorphL – Marketing AI Products
 date: 2020-06-10 10:00:00 +0000
 categories: [English, Artificial Intelligence]
-tags: [podcast, marketing, ai]     
+tags: [marketing, ai]
 author: titus_capilnean
 ---
 

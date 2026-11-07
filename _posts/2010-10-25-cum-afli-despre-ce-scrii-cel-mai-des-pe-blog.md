@@ -2,7 +2,7 @@
 title: "Cum afli despre ce scrii cel mai des pe blog?"
 date: 2010-10-25 14:58:28 +0000
 categories: ["Social Media"]
-tags: ["blogging", "cuvinte", "distractiv"]
+tags: ["blogging", "distractiv"]
 author: titus_capilnean
 ---
 

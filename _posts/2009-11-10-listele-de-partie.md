@@ -2,7 +2,7 @@
 title: "Listele de partie"
 date: 2009-11-10 11:15:26 +0000
 categories: ["Evenimente", "Publicitate", "Turism"]
-tags: ["bloggeri", "concurs", "ski", "snow-explosion", "snowboard", "task"]
+tags: ["bloggeri", "concurs", "ski", "snow-explosion", "snowboard"]
 author: titus_capilnean
 ---
 

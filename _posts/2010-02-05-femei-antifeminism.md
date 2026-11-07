@@ -2,7 +2,7 @@
 title: "Femei antifeminism"
 date: 2010-02-05 12:13:14 +0000
 categories: ["Social Media"]
-tags: ["feminism", "link", "personal"]
+tags: ["personal"]
 author: titus_capilnean
 ---
 

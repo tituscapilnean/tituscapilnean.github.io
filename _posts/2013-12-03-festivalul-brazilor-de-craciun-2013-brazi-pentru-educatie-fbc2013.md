@@ -2,7 +2,7 @@
 title: "Festivalul Brazilor de Crăciun 2013 – brazi pentru educație #FBC2013"
 date: 2013-12-03 13:15:42 +0000
 categories: ["Evenimente"]
-tags: ["anunt", "cauza", "licitatie", "salvati-copiii"]
+tags: ["anunt"]
 author: titus_capilnean
 ---
 ![festivalul brazilor badge 2013 \(1\)](/assets/img/posts/2013/festivalul-brazilor-de-craciun-2013-brazi-pentru-educatie-fbc2013/festivalul-brazilor-badge-2013-1.jpg)

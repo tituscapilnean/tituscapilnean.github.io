@@ -2,7 +2,7 @@
 title: "Una pe zi – Fructe sexy"
 date: 2010-09-15 15:11:00 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["parfum"]
+tags: []
 author: titus_capilnean
 ---
 

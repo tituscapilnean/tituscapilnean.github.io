@@ -2,7 +2,7 @@
 title: "Una pe zi – Motociclistii nu sunt muste!"
 date: 2009-11-05 15:33:31 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["genial", "motociclisti", "muste", "norvegia"]
+tags: ["genial"]
 author: titus_capilnean
 ---
 

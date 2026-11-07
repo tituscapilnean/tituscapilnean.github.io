@@ -2,7 +2,7 @@
 title: "Internship in PR la The Practice – povesti cu oameni de zapada"
 date: 2011-10-24 17:04:57 +0000
 categories: ["Altele de online"]
-tags: ["internship", "the-practice"]
+tags: []
 author: titus_capilnean
 ---
 

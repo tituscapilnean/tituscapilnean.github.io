@@ -2,7 +2,7 @@
 title: "Problemă de corporatist și de freelancer – de unde comand de mâncare?"
 date: 2014-03-28 07:50:42 +0000
 categories: ["Altele de online"]
-tags: ["aplicatii", "comanda", "livrare", "mancare", "mobil"]
+tags: ["mobil"]
 author: titus_capilnean
 ---
 ![food-delivery-service-300x225](/assets/img/posts/2014/problema-de-corporatist-sau-freelancer-de-unde-comand-de-mancare/food-delivery-service-300x225.jpg)

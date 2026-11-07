@@ -2,7 +2,7 @@
 title: "Călătorie în lumea lui Jules Verne, versiunea IMAX 3D"
 date: 2012-02-08 21:41:24 +0000
 categories: ["Filme Bucuresti"]
-tags: ["film", "imax", "jules-verne", "samsung"]
+tags: ["film", "imax", "samsung"]
 author: titus_capilnean
 ---
 

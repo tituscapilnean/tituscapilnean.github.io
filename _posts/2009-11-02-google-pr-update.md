@@ -2,7 +2,7 @@
 title: "Google PR Update"
 date: 2009-11-02 12:09:56 +0000
 categories: ["Social Media"]
-tags: ["2009", "google", "noiembrie", "page-rank", "udate"]
+tags: ["2009", "google"]
 author: titus_capilnean
 ---
 

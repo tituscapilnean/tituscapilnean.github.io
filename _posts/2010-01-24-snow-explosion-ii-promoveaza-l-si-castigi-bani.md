@@ -2,7 +2,7 @@
 title: "Snow Explosion II – promoveaza-l si castigi bani"
 date: 2010-01-24 22:05:12 +0000
 categories: ["Marketing", "Turism"]
-tags: ["afiliat", "februarie", "snow-explosion", "snow-explosion-ii"]
+tags: ["afiliat", "snow-explosion"]
 author: titus_capilnean
 ---
 

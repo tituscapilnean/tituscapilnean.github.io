@@ -2,7 +2,7 @@
 title: "Facebook cu abonament"
 date: 2012-07-27 09:35:53 +0000
 categories: ["Social Media"]
-tags: ["facebook", "ipo", "rezultate", "venituri"]
+tags: ["facebook", "rezultate"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2012/facebook-cu-abonament/facebook-jpeg-400x225.jpg)

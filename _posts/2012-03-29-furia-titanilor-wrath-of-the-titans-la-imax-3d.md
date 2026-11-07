@@ -2,7 +2,7 @@
 title: "Furia Titanilor (Wrath of the Titans) la IMAX 3D"
 date: 2012-03-29 12:29:46 +0000
 categories: ["Filme Bucuresti"]
-tags: ["film", "furia-titanilor", "imax", "samsung"]
+tags: ["film", "imax", "samsung"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2012/furia-titanilor-wrath-of-the-titans-la-imax-3d/furia-titanilor-150x150.jpg)

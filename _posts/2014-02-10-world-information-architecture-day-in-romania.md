@@ -2,7 +2,7 @@
 title: "World Information Architecture Day în România"
 date: 2014-02-10 07:02:09 +0000
 categories: ["Evenimente"]
-tags: ["arhitectura-informatiei", "digital", "eveniment", "ux", "wiad"]
+tags: ["digital", "eveniment"]
 author: titus_capilnean
 ---
 ![WIAD-event-agenda-01-570x407](/assets/img/posts/2014/world-information-architecture-day-in-romania/WIAD-event-agenda-01-570x407-150x150.png)

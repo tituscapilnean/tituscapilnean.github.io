@@ -2,7 +2,7 @@
 title: "Anii 90 pe Facebook – grupul nostalgicilor"
 date: 2010-01-30 17:49:25 +0000
 categories: ["Social Media"]
-tags: ["anii-90", "copilarie", "facebook", "personal"]
+tags: ["facebook", "personal"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Frica de necunoscut: cookies și parlamentarii europeni"
 date: 2012-12-18 14:15:23 +0000
 categories: ["Marketing"]
-tags: ["cookie", "iab", "legislatie", "parlament", "ue"]
+tags: ["iab", "ue"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2012/frica-de-necunoscut-cookies-si-parlamentarii-europeni/cookiepolicy.jpg)

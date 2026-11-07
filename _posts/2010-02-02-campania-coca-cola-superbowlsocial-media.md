@@ -2,7 +2,7 @@
 title: "Campania Coca Cola SuperBowl+Social Media"
 date: 2010-02-02 16:13:19 +0000
 categories: ["Marketing", "Publicitate", "Social Media"]
-tags: ["coca-cola", "pepsi", "superbowl"]
+tags: ["coca-cola", "superbowl"]
 author: titus_capilnean
 ---
 

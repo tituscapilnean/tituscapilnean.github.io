@@ -2,7 +2,7 @@
 title: "Bloggerul de creveti si ecologistii"
 date: 2010-03-30 14:33:08 +0000
 categories: ["Publicitate"]
-tags: ["crevete", "eco"]
+tags: ["eco"]
 author: titus_capilnean
 ---
 

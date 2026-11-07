@@ -2,7 +2,7 @@
 title: "Vineri cu Titus și Zoran – episodul 17"
 date: 2026-03-06 13:00:00 +0300
 categories: [Podcast, Romania]
-tags: [razboi, ww3, romania, sua, geopolitica, NATO]
+tags: [razboi, romania, sua, geopolitica, NATO]
 author: titus_capilnean
 ---
 

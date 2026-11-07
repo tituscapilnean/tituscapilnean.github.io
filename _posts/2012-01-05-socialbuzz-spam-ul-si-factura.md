@@ -2,7 +2,7 @@
 title: "Socialbuzz, spam-ul si factura"
 date: 2012-01-05 09:48:08 +0000
 categories: ["Altele de online"]
-tags: ["romania", "servicii", "spam"]
+tags: ["romania", "spam"]
 author: titus_capilnean
 ---
 

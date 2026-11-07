@@ -2,7 +2,7 @@
 title: "Crestinism 2.0 – blogareala preoteasca"
 date: 2010-01-25 11:28:35 +0000
 categories: ["Social Media"]
-tags: ["crestinism-2.0"]
+tags: []
 author: titus_capilnean
 ---
 

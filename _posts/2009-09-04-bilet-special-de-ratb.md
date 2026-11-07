@@ -2,7 +2,7 @@
 title: "Bilet special de RATB"
 date: 2009-09-04 09:58:22 +0000
 categories: ["Altele de online"]
-tags: ["bilet", "masina-de-spalat", "ratb"]
+tags: []
 author: titus_capilnean
 ---
 

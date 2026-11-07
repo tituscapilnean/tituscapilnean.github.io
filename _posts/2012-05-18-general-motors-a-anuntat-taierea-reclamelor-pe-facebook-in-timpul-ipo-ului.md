@@ -2,7 +2,7 @@
 title: "General Motors a anunțat tăierea reclamelor pe Facebook în timpul IPO-ului"
 date: 2012-05-18 09:55:46 +0000
 categories: ["Social Media"]
-tags: ["facebook", "general-motors", "ipo", "reclame"]
+tags: ["facebook"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2012/general-motors-a-anuntat-taierea-reclamelor-pe-facebook-in-timpul-ipo-ului/gm-logo-going-up-150x150.png)

@@ -2,7 +2,7 @@
 title: "La ce foloseste Pinterest: pinblogging"
 date: 2012-02-09 12:35:39 +0000
 categories: ["Online Training"]
-tags: ["infografice", "online", "pinterest"]
+tags: ["infografice", "online"]
 author: titus_capilnean
 ---
 

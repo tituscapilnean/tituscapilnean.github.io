@@ -2,7 +2,7 @@
 title: "Social Reader – da sau nu?"
 date: 2012-01-20 12:05:46 +0000
 categories: ["Altele de online"]
-tags: ["2012", "google", "plus", "social-reader", "twitter"]
+tags: ["2012", "google", "twitter"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2012/social-reader-da-sau-nu/Summify-final-red-150x150.jpg)

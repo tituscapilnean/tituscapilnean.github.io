@@ -2,7 +2,7 @@
 title: "Facebook o sa ne localizeze"
 date: 2010-03-11 10:43:38 +0000
 categories: ["Altele de online"]
-tags: ["facebook", "geolocalizare", "harta"]
+tags: ["facebook", "harta"]
 author: titus_capilnean
 ---
 

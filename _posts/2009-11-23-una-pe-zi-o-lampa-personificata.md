@@ -2,7 +2,7 @@
 title: "Una pe zi – O lampa personificata"
 date: 2009-11-23 21:54:30 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["executie", "genial", "ikea"]
+tags: ["genial"]
 author: titus_capilnean
 ---
 

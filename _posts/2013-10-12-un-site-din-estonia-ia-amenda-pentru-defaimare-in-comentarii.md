@@ -2,7 +2,7 @@
 title: "Un site din Estonia ia amendă pentru defăimare în comentarii"
 date: 2013-10-12 14:05:32 +0000
 categories: ["Altele de online"]
-tags: ["decizie", "internet", "judecata", "online", "trolls"]
+tags: ["internet", "online"]
 author: titus_capilnean
 ---
 

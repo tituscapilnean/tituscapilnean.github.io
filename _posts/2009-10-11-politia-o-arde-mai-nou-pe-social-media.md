@@ -2,7 +2,7 @@
 title: "Politia o arde mai nou pe social media"
 date: 2009-10-11 11:32:11 +0000
 categories: ["Social Media"]
-tags: ["comunicare", "facebook", "informatii", "internati", "politia", "social-media", "twitter"]
+tags: ["comunicare", "facebook", "politia", "social-media", "twitter"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: Tax Breaks, not Taxes for People who Work From Home #WFH
 date: 2020-11-15 10:00:00 +0000
 categories: [English, Politics]
-tags: [politics, wfh, taxes]
+tags: []
 author: titus_capilnean
 ---
 

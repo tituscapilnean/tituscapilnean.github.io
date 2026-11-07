@@ -2,7 +2,7 @@
 title: "Tepe cu iPhone 4 si iPhone 4S cumparate de pe okazii"
 date: 2012-05-01 06:52:10 +0000
 categories: ["Marketing"]
-tags: ["internet", "iphone", "teapa"]
+tags: ["internet", "teapa"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2012/tepe-cu-iphone-4-si-iphone-4s-cumparate-de-pe-okazii/iphone-150x150.jpg)

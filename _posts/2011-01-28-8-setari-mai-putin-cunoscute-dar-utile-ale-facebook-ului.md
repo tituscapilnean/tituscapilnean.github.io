@@ -2,7 +2,7 @@
 title: "8 setari mai putin cunoscute, dar utile, ale Facebook-ului"
 date: 2011-01-28 08:28:30 +0000
 categories: ["Online Training"]
-tags: ["facebook", "tips", "tricks", "vox-populi"]
+tags: ["facebook", "vox-populi"]
 author: titus_capilnean
 ---
 

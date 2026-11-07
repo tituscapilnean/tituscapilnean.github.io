@@ -2,7 +2,7 @@
 title: "M-am mutat! Aici e acasa"
 date: 2009-07-12 16:05:25 +0000
 categories: ["Social Media"]
-tags: ["domeniu", "hosting", "mutare", "nou", "online"]
+tags: ["hosting", "nou", "online"]
 author: titus_capilnean
 ---
 

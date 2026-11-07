@@ -2,7 +2,7 @@
 title: "Manifest – cei 10% ”N-ai tupeu”"
 date: 2009-07-01 11:41:00 +0000
 categories: ["Social Media"]
-tags: ["antimanele", "banc", "manifest", "mass", "viral"]
+tags: ["viral"]
 author: titus_capilnean
 ---
 

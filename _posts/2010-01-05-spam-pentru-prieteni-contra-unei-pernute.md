@@ -2,7 +2,7 @@
 title: "Spam pentru prieteni contra unei pernute"
 date: 2010-01-05 14:13:46 +0000
 categories: ["Social Media"]
-tags: ["facebook", "perna", "spam"]
+tags: ["facebook", "spam"]
 author: titus_capilnean
 ---
 

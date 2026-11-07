@@ -2,7 +2,7 @@
 title: "OOH de gheață @ Pasajul Universității, by BBC Knowledge"
 date: 2013-06-03 11:49:18 +0000
 categories: ["Marketing"]
-tags: ["arctic", "bbc", "ocean", "ooh", "universitate"]
+tags: ["ooh"]
 author: titus_capilnean
 ---
 

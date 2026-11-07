@@ -2,7 +2,7 @@
 title: "Calculator de bani pierduti in sedinte – pentru corporatisti"
 date: 2010-02-23 10:11:25 +0000
 categories: ["Social Media"]
-tags: ["corporatist", "distractiv", "sedinte"]
+tags: ["distractiv"]
 author: titus_capilnean
 ---
 

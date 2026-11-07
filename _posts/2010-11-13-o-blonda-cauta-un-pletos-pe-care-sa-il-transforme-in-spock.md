@@ -2,7 +2,7 @@
 title: "O blonda cauta un pletos pe care sa il transforme in Spock"
 date: 2010-11-13 12:50:38 +0000
 categories: ["Altele de online"]
-tags: ["anunt", "spock", "tuns"]
+tags: ["anunt"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Fapta buna de 1 Iunie – cunosti un parinte?"
 date: 2011-05-11 11:30:04 +0000
 categories: ["Publicitate"]
-tags: ["1-iunie", "copii", "fapta-buna", "zibo"]
+tags: ["copii", "fapta-buna", "zibo"]
 author: titus_capilnean
 ---
 

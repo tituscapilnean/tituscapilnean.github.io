@@ -2,7 +2,7 @@
 title: Trump, Brexit și Liviu Dragnea sau Alegerile Parlamentare văzute din Diaspora
 date: 2016-12-13 09:00:00 +0200
 categories: [Romanian, Politica]
-tags: [alegeri, brexit, parlamentare, politica, trump]
+tags: [alegeri, politica]
 author: titus_capilnean
 ---
 

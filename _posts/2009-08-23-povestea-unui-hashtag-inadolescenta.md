@@ -2,7 +2,7 @@
 title: "Povestea unui hashtag – #inadolescenta"
 date: 2009-08-23 21:14:06 +0000
 categories: ["Social Media"]
-tags: ["analiza", "durata", "hashtag", "inadolescenta", "twitter"]
+tags: ["analiza", "hashtag", "twitter"]
 author: titus_capilnean
 ---
 

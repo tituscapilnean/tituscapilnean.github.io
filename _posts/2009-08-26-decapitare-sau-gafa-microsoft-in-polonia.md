@@ -2,7 +2,7 @@
 title: "Decapitare sau gafa Microsoft in Polonia"
 date: 2009-08-26 20:33:28 +0000
 categories: ["Marketing", "Social Media"]
-tags: ["brand", "fail", "gafa", "microsoft", "online", "scandal"]
+tags: ["brand", "fail", "microsoft", "online", "scandal"]
 author: titus_capilnean
 ---
 

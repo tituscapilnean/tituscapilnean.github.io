@@ -2,7 +2,7 @@
 title: "Românii și capitalismul, episodul RDS/Discovery"
 date: 2012-12-03 08:03:12 +0000
 categories: ["Altele de online"]
-tags: ["discovery", "rds", "romani", "scandal"]
+tags: ["scandal"]
 author: titus_capilnean
 ---
 

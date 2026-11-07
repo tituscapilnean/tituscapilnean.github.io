@@ -2,7 +2,7 @@
 title: "#Miscaretweetmeet – rezultate si cateva precizari"
 date: 2010-03-22 19:58:13 +0000
 categories: ["Evenimente", "Social Media"]
-tags: ["bicicleta", "flowboard", "reguli", "tweetmeet"]
+tags: ["bicicleta", "reguli", "tweetmeet"]
 author: titus_capilnean
 ---
 

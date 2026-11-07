@@ -2,7 +2,7 @@
 title: "Concurs pentru bloggeri"
 date: 2009-10-29 11:30:16 +0000
 categories: ["Marketing", "Social Media", "Turism"]
-tags: ["blogger", "bloggeri", "concurs", "gratis", "oficial", "premiu", "snow-explosion", "vacanta"]
+tags: ["blogger", "bloggeri", "concurs", "gratis", "premiu", "snow-explosion", "vacanta"]
 author: titus_capilnean
 ---
 

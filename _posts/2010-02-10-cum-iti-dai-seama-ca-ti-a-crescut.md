@@ -2,7 +2,7 @@
 title: "cum iti dai seama ca ti-a crescut"
 date: 2010-02-10 09:53:49 +0000
 categories: ["Social Media"]
-tags: ["persoanl", "times.ro", "vedete"]
+tags: ["persoanl"]
 author: titus_capilnean
 ---
 

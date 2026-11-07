@@ -2,7 +2,7 @@
 title: "Cauți un cumpărător pentru afacerea ta online? #VentureConnect"
 date: 2011-05-31 23:07:15 +0000
 categories: ["Evenimente"]
-tags: ["antreprenoriat", "evenimente", "investitori", "online"]
+tags: ["antreprenoriat", "evenimente", "online"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2011/cauți-un-cumparator-pentru-afacerea-ta-online-ventureconnect/venture-logo-400x218.png)

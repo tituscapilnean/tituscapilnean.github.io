@@ -2,7 +2,7 @@
 title: "Transformers 3 – Dark of the moon"
 date: 2011-06-30 07:00:36 +0000
 categories: ["Filme Bucuresti"]
-tags: ["film", "imax", "samsung", "transformers"]
+tags: ["film", "imax", "samsung"]
 author: titus_capilnean
 ---
 

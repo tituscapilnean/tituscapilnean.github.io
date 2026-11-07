@@ -2,7 +2,7 @@
 title: "Câteva idei de la primul meu training de comunicare în Social Media"
 date: 2010-11-05 07:33:03 +0000
 categories: ["Social Media"]
-tags: ["canale", "facebook", "linkedin", "training", "twitter"]
+tags: ["facebook", "linkedin", "training", "twitter"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2010/cateva-idei-de-la-primul-meu-training-de-comunicare-in-social-media/social-media-landscape-150x150.jpg)

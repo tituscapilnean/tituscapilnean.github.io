@@ -2,7 +2,7 @@
 title: "Red Robin – chemarea fast food-ului"
 date: 2010-02-25 15:00:58 +0000
 categories: ["Publicitate"]
-tags: ["bigfoot", "distractiv"]
+tags: ["distractiv"]
 author: titus_capilnean
 ---
 

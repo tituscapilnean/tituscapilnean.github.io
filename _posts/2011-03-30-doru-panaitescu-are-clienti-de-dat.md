@@ -2,7 +2,7 @@
 title: "Doru Panaitescu are clienti de dat"
 date: 2011-03-30 08:20:22 +0000
 categories: ["Marketing"]
-tags: ["agentii", "campanii", "oferte", "oportunitate"]
+tags: ["agentii", "campanii", "oportunitate"]
 author: titus_capilnean
 ---
 

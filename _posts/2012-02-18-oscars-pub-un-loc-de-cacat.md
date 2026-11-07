@@ -2,7 +2,7 @@
 title: "Oscar’s pub, un loc de cacat"
 date: 2012-02-18 12:16:10 +0000
 categories: ["Marketing"]
-tags: ["mizerie", "pub", "romania"]
+tags: ["mizerie", "romania"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2012/oscars-pub-un-loc-de-cacat/rude_irish_saying_tshirt-p235340209796518741z7tqq_400-150x150.jpg)

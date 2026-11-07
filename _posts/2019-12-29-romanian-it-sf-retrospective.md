@@ -2,7 +2,7 @@
 title: Romanian IT in San Francisco 2016 – 2018 retrospective (overdue) and some personal notes on events and community management
 date: 2019-12-29 10:00:00 +0000
 categories: [English, Community]
-tags: [romanianit, diaspora, retrospectives, sanfrancisco]
+tags: [diaspora]
 author: titus_capilnean
 ---
 

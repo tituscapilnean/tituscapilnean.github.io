@@ -2,7 +2,7 @@
 title: "Brainstorming pe Twitter #rebrandLife"
 date: 2010-11-08 10:02:16 +0000
 categories: ["Publicitate", "Social Media"]
-tags: ["brainstorming", "rebrand-life", "twitter"]
+tags: ["twitter"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2010/brainstorming-pe-twitter-rebrandlife/god-300x247-150x150.jpg)

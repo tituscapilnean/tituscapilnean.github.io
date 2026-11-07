@@ -2,7 +2,7 @@
 title: "ShortsUp 2011 – Hall of Fame cu chilotii in vine"
 date: 2011-01-24 08:00:13 +0000
 categories: ["Evenimente"]
-tags: ["film", "proiectie", "shortsup"]
+tags: ["film"]
 author: titus_capilnean
 ---
 

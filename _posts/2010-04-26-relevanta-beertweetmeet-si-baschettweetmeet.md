@@ -2,7 +2,7 @@
 title: "Relevanta #Beertweetmeet si #BaschetTweetMeet"
 date: 2010-04-26 19:08:38 +0000
 categories: ["Evenimente"]
-tags: ["baschet", "beertweetmeet", "bere", "offline"]
+tags: ["bere", "offline"]
 author: titus_capilnean
 ---
 

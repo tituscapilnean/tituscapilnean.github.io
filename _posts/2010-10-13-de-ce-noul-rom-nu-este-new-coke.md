@@ -2,7 +2,7 @@
 title: "De ce noul Rom nu este New Coke"
 date: 2010-10-13 09:11:21 +0000
 categories: ["Marketing"]
-tags: ["branduri", "gap", "logo", "noul-rom", "rom"]
+tags: ["branduri", "logo"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Una pe zi – Un jingle de anii ’80"
 date: 2010-10-21 14:51:41 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["catena"]
+tags: []
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Bloggerul si agentia de PR (I)"
 date: 2011-09-15 07:31:58 +0000
 categories: ["Online Training"]
-tags: ["agentie", "bloggeri", "comportament", "idei", "serial"]
+tags: ["agentie", "bloggeri", "idei"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2011/bloggerul-si-agentia-de-pr-i/q2-what-to-do-150x150.gif)

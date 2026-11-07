@@ -2,7 +2,7 @@
 title: "Una pe zi – za Facebook Girl"
 date: 2009-09-15 14:16:05 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["spoof", "stalker"]
+tags: ["spoof"]
 author: titus_capilnean
 ---
 

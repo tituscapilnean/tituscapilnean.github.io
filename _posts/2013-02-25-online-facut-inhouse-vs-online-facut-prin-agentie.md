@@ -2,7 +2,7 @@
 title: "Online făcut inhouse vs. Online făcut prin agenție"
 date: 2013-02-25 12:27:34 +0000
 categories: ["Online Training"]
-tags: ["furnizori", "munca", "online", "rezultate"]
+tags: ["munca", "online", "rezultate"]
 author: titus_capilnean
 ---
 

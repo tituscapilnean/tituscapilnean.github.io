@@ -2,7 +2,7 @@
 title: "Ce ti-e si cu concursurile online"
 date: 2009-11-05 09:36:51 +0000
 categories: ["Altele de online"]
-tags: ["bloguri", "concursuri", "lg", "online"]
+tags: ["bloguri", "concursuri", "online"]
 author: titus_capilnean
 ---
 

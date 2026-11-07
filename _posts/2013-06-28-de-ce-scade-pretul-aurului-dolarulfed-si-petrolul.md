@@ -2,7 +2,7 @@
 title: "De ce scade prețul aurului: Dolarul/FED și petrolul"
 date: 2013-06-28 13:12:02 +0000
 categories: ["Business & Investitii"]
-tags: ["aur", "bani", "bursa", "investitii"]
+tags: ["investitii"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: An Extra Dish of Lokshen Kugel
 date: 2014-12-19 10:00:00 +0000
 categories: [English, Startups]
-tags: [delivery, food, london, revolution, takeaway, the extra dish]
+tags: []
 author: titus_capilnean
 ---
 

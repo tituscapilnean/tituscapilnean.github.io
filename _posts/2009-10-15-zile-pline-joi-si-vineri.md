@@ -2,7 +2,7 @@
 title: "Zile pline – joi si vineri"
 date: 2009-10-15 09:02:10 +0000
 categories: ["Altele de online"]
-tags: ["comics", "haos", "lipsa-de-timp"]
+tags: ["comics"]
 author: titus_capilnean
 ---
 

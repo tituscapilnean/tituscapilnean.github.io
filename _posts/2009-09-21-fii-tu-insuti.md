@@ -2,7 +2,7 @@
 title: "Fii tu insuti – si pe www"
 date: 2009-09-21 07:40:39 +0000
 categories: ["Marketing", "Social Media"]
-tags: ["aiurea", "bobby-voicu", "campanie", "ficatzel", "fii-deștept", "fii-prost", "microsoft", "nu-fii-prost", "raluxa", "sadak", "windows.-ftw"]
+tags: ["campanie", "microsoft"]
 author: titus_capilnean
 ---
 

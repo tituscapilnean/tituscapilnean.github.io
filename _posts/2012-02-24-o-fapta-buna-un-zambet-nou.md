@@ -2,7 +2,7 @@
 title: "O faptă bună, un zâmbet nou"
 date: 2012-02-24 09:39:23 +0000
 categories: ["Publicitate"]
-tags: ["dentist", "fapta-buna", "implant"]
+tags: ["dentist", "fapta-buna"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2012/o-fapta-buna-un-zambet-nou/make-you-smile-150x150.jpg)

@@ -2,7 +2,7 @@
 title: "România Liberă – Banii cash sunt scumpi"
 date: 2016-05-12 11:31:35 +0000
 categories: ["Business & Investitii"]
-tags: ["cash", "diaspora", "diaspora-digitala", "digital", "transfergo"]
+tags: ["diaspora", "digital", "transfergo"]
 author: titus_capilnean
 ---
 

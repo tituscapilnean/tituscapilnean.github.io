@@ -2,7 +2,7 @@
 title: "In Barcelona nu mergi sa faci plaja"
 date: 2011-07-15 08:25:56 +0000
 categories: ["Turism"]
-tags: ["barcelona", "campanie", "city-break", "excursie", "paravion"]
+tags: ["barcelona", "campanie", "city-break", "paravion"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2011/in-barcelona-nu-mergi-sa-faci-plaja/1649694-View_from_park_Guel-Barcelona-150x150.jpg)

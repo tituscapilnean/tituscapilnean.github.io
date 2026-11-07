@@ -2,7 +2,7 @@
 title: "Un print slab de tot – mama UE"
 date: 2009-04-24 17:57:00 +0000
 categories: ["Publicitate"]
-tags: ["design", "guvern", "posm", "proiect"]
+tags: ["design", "guvern"]
 author: titus_capilnean
 ---
 

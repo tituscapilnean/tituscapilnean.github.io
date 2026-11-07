@@ -2,7 +2,7 @@
 title: "Three Out of Four: Grading My 2020 Unicorn Calls"
 date: 2026-04-14 12:00:00 +0000
 categories: [English, Investing]
-tags: [investing, venture, framework, unicorns, "2026"]
+tags: [investing, "2026"]
 author: titus
 ---
 

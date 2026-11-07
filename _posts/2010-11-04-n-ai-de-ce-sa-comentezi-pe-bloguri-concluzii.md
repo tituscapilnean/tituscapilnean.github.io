@@ -2,7 +2,7 @@
 title: "N-ai de ce să comentezi pe bloguri [concluzii]"
 date: 2010-11-04 08:15:33 +0000
 categories: ["Social Media"]
-tags: ["analiza", "blogging", "concluzii", "entuziasm"]
+tags: ["analiza", "blogging", "concluzii"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2010/n-ai-de-ce-sa-comentezi-pe-bloguri-concluzii/professional-blogger_id3720781_size480_2row-150x150.jpg)

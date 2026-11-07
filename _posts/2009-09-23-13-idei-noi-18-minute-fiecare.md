@@ -2,7 +2,7 @@
 title: "13 idei noi, 18 minute fiecare"
 date: 2009-09-23 09:36:27 +0000
 categories: ["Evenimente"]
-tags: ["concurs", "despre", "invitati", "speakeri", "tedx", "tedxbucharest", "vorbitori"]
+tags: ["concurs", "despre", "tedx", "tedxbucharest", "vorbitori"]
 author: titus_capilnean
 ---
 

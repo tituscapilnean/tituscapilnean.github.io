@@ -2,7 +2,7 @@
 title: "Țeapă pe Facebook cu Bucur Cosmin"
 date: 2013-03-02 10:38:25 +0000
 categories: ["Altele de online"]
-tags: ["cumparat", "experti", "fals", "fani", "teapa"]
+tags: ["fals", "fani", "teapa"]
 author: titus_capilnean
 ---
 ![experts puzzle](/assets/img/posts/2013/teapa-pe-facebook-cu-bucur-cosmin/Experts2_Fotolia_8872776_XS-150x150.jpg)

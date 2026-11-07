@@ -2,7 +2,7 @@
 title: "Vineri cu Titus și Zoran – episodul 14"
 date: 2025-12-05 13:00:00 +0300
 categories: [Podcast, Romania]
-tags: [alcool, sanatate, societate, cultura, romania]
+tags: [societate, romania]
 author: titus_capilnean
 ---
 

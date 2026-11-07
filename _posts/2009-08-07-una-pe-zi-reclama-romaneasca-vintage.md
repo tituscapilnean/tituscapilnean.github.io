@@ -2,7 +2,7 @@
 title: "Una pe zi – reclama romaneasca vintage"
 date: 2009-08-07 13:35:30 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["caterinca", "distractiv", "vintage"]
+tags: ["distractiv"]
 author: titus_capilnean
 ---
 

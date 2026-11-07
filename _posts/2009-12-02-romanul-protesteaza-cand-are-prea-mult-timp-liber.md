@@ -2,7 +2,7 @@
 title: "Românul protestează când are prea mult timp liber"
 date: 2009-12-02 08:27:40 +0000
 categories: ["Evenimente", "Social Media"]
-tags: ["1-decembrie", "facebook", "protest", "revolutie", "twitter", "ziua-naationala"]
+tags: ["facebook", "protest", "revolutie", "twitter"]
 author: titus_capilnean
 ---
 

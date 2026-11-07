@@ -2,7 +2,7 @@
 title: "Facebook la cura de slabire"
 date: 2009-09-11 07:11:10 +0000
 categories: ["Social Media"]
-tags: ["anunt", "facebook", "facebook-lite", "lansare", "nou"]
+tags: ["anunt", "facebook", "lansare", "nou"]
 author: titus_capilnean
 ---
 

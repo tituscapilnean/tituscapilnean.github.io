@@ -2,7 +2,7 @@
 title: "Dacă aș fi student, aș ocoli Oxford-ul pentru că a acceptat o așa gândire"
 date: 2013-07-26 08:30:31 +0000
 categories: ["Altele de online"]
-tags: ["oxford", "studenta-romanca", "studii"]
+tags: []
 author: titus_capilnean
 ---
 

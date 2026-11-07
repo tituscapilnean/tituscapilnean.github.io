@@ -2,7 +2,7 @@
 title: "Stoker – Legături suspecte (2013) – artă cinematografică"
 date: 2013-03-27 09:21:40 +0000
 categories: ["Filme Bucuresti"]
-tags: ["2013", "film", "nicole-kidman", "thriller"]
+tags: ["2013", "film"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Nu da ”Report” la orice tâmpenie irelevantă pe Facebook."
 date: 2013-04-16 07:52:35 +0000
 categories: ["Social Media"]
-tags: ["2013", "facebook", "pericole", "prostie", "report"]
+tags: ["2013", "facebook"]
 author: titus_capilnean
 ---
 

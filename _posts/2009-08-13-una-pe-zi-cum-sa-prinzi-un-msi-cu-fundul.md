@@ -2,7 +2,7 @@
 title: "Una pe zi – Cum sa prinzi un MSI cu fundul"
 date: 2009-08-13 06:21:01 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["distractiv", "laptop"]
+tags: ["distractiv"]
 author: titus_capilnean
 ---
 

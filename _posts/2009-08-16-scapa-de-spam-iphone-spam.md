@@ -2,7 +2,7 @@
 title: "Scap de Spam – iPhone SPAM"
 date: 2009-08-16 09:49:26 +0000
 categories: ["Social Media"]
-tags: ["cum-sa-te-feresti", "exemple", "mail", "online", "scapa-de-spam"]
+tags: ["mail", "online"]
 author: titus_capilnean
 ---
 

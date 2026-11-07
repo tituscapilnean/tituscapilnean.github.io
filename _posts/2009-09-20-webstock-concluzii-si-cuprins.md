@@ -2,7 +2,7 @@
 title: "Webstock – Concluzii si cuprins"
 date: 2009-09-20 11:51:58 +0000
 categories: ["Evenimente", "Social Media"]
-tags: ["analiza", "concluzii", "couprins", "live-blog", "navigare", "webstock-2009"]
+tags: ["analiza", "concluzii", "live-blog", "webstock-2009"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "BCR, transparenta si ONG-urile"
 date: 2011-05-27 14:52:21 +0000
 categories: ["Evenimente"]
-tags: ["bcr", "bloggeri", "csr", "gri", "raportare"]
+tags: ["bcr", "bloggeri", "csr"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2011/bcr-transparenta-si-ong-urile/IMG_20110526_153939-150x150.jpg)

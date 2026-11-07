@@ -2,7 +2,7 @@
 title: "Strategia online – relații versus experiență"
 date: 2013-01-30 07:56:21 +0000
 categories: ["Online Training"]
-tags: ["abordari", "ana-andjelic", "comunicare", "jay-baer", "online", "strategie"]
+tags: ["comunicare", "online", "strategie"]
 author: titus_capilnean
 # EMBED_ISSUES: 2 embed(s) need review
 #   - [iframe] http://www.slideshare.net/slideshow/embed_code/16202827?rel=0

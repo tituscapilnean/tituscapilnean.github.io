@@ -2,7 +2,7 @@
 title: "Ai o zi buna?"
 date: 2010-02-02 12:53:47 +0000
 categories: ["Social Media"]
-tags: ["campanie", "intrebare", "o-zi-buna"]
+tags: ["campanie"]
 author: titus_capilnean
 ---
 

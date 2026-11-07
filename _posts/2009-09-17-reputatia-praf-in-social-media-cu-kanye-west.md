@@ -2,7 +2,7 @@
 title: "Reputatia praf pe Social Media – cu Kanye West"
 date: 2009-09-17 12:00:57 +0000
 categories: ["Social Media"]
-tags: ["fail", "intrerupere", "kanye-west", "praf", "reputatie", "social-media"]
+tags: ["fail", "social-media"]
 author: titus_capilnean
 ---
 

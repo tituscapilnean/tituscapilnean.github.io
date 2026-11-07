@@ -2,7 +2,7 @@
 title: "Întrebările și sfaturile gratuite"
 date: 2012-11-29 07:24:44 +0000
 categories: ["Online Training"]
-tags: ["gratuit", "intrebari", "online", "sfaturi"]
+tags: ["intrebari", "online", "sfaturi"]
 author: titus_capilnean
 ---
 

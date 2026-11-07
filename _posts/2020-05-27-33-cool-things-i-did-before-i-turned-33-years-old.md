@@ -2,7 +2,7 @@
 title: 33 cool things I did before I turned 33
 date: 2020-05-27 10:00:00 +0300
 categories: [Life, English]
-tags: [life]
+tags: []
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Fa cadou un zambet de Craciun"
 date: 2009-12-09 09:52:29 +0000
 categories: ["Altele de online", "Evenimente"]
-tags: ["ajutor", "bucurie", "cadouri", "caritabil", "copii", "craciun", "fundraiser", "jucarii", "unatc"]
+tags: ["copii", "craciun"]
 author: titus_capilnean
 ---
 

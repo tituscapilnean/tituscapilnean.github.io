@@ -2,7 +2,7 @@
 title: "Rock of Ages (2012) – cu vedete, pe muzică rock"
 date: 2012-06-20 11:08:33 +0000
 categories: ["Filme Bucuresti"]
-tags: ["comedie", "film", "rock", "sun-plaza"]
+tags: ["comedie", "film"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Traim intr-o tara libera"
 date: 2010-03-26 13:08:08 +0000
 categories: ["Social Media"]
-tags: ["cenzura", "china", "google"]
+tags: ["china", "google"]
 author: titus_capilnean
 ---
 

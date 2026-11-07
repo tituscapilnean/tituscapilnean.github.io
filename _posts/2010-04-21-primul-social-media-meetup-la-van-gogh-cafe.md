@@ -2,7 +2,7 @@
 title: "Primul Social Media Meetup – la van Gogh cafe"
 date: 2010-04-21 08:42:07 +0000
 categories: ["Evenimente", "Social Media"]
-tags: ["lipscani", "meetup", "social-media"]
+tags: ["social-media"]
 author: titus_capilnean
 ---
 

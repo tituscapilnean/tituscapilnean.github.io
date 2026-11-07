@@ -2,7 +2,7 @@
 title: "Azi am aflat o chestie tare – cad meteori in SUA"
 date: 2009-10-21 12:36:36 +0000
 categories: ["Social Media"]
-tags: ["meteori", "meteoriti", "orionids", "orionizi", "ploiae", "social-media", "stire", "twitter"]
+tags: ["social-media", "stire", "twitter"]
 author: titus_capilnean
 ---
 

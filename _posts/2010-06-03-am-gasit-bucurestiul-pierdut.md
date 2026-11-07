@@ -2,7 +2,7 @@
 title: "Am gasit Bucurestiul pierdut"
 date: 2010-06-03 18:46:20 +0000
 categories: ["Evenimente"]
-tags: ["bucucresti", "fotografie"]
+tags: ["fotografie"]
 author: titus_capilnean
 ---
 

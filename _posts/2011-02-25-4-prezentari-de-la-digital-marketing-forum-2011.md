@@ -2,7 +2,7 @@
 title: "3 prezentari de la Digital Marketing Forum 2011"
 date: 2011-02-25 09:01:02 +0000
 categories: ["Evenimente"]
-tags: ["conferinta", "digital-forum", "prezentari"]
+tags: ["conferinta", "digital-forum"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Re-Zambeste: Campania faina a Dentestet"
 date: 2012-02-28 14:01:32 +0000
 categories: ["Publicitate"]
-tags: ["dentestet", "fapta-buna", "zambet"]
+tags: ["dentestet", "fapta-buna"]
 author: titus_capilnean
 ---
 

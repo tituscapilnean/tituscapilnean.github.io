@@ -2,7 +2,7 @@
 title: "Prima zi la job"
 date: 2009-05-25 18:57:00 +0000
 categories: ["Altele de online"]
-tags: ["job", "online", "prima-zi"]
+tags: ["job", "online"]
 author: titus_capilnean
 ---
 

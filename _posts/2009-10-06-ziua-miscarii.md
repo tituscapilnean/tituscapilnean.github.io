@@ -2,7 +2,7 @@
 title: "Miscarea de duminica"
 date: 2009-10-06 09:00:14 +0000
 categories: ["Evenimente"]
-tags: ["bicicleta", "bucuresti", "centru", "ploaie", "ziua-miscarii"]
+tags: ["bicicleta", "bucuresti"]
 author: titus_capilnean
 ---
 

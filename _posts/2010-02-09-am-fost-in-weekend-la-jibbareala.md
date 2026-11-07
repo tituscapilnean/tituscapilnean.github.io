@@ -2,7 +2,7 @@
 title: "Am fost in weekend la jibbareala"
 date: 2010-02-09 16:08:39 +0000
 categories: ["Evenimente"]
-tags: ["freejump", "snowpark", "zapada"]
+tags: ["zapada"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "iPhone + Android = iDroid"
 date: 2010-04-22 08:03:22 +0000
 categories: ["Cu telefonul"]
-tags: ["android"]
+tags: []
 author: titus_capilnean
 ---
 

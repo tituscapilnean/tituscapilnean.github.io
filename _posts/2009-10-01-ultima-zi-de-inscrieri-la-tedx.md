@@ -2,7 +2,7 @@
 title: "Ultima zi de inscrieri la TEDx"
 date: 2009-10-01 08:52:47 +0000
 categories: ["Evenimente"]
-tags: ["concurs", "deadline", "tedx", "tedxbucharest", "ultima-zi"]
+tags: ["concurs", "tedx", "tedxbucharest"]
 author: titus_capilnean
 ---
 

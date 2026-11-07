@@ -2,7 +2,7 @@
 title: "Pro si contra pagini globale pe Facebook"
 date: 2012-11-20 09:52:43 +0000
 categories: ["Social Media"]
-tags: ["controversa", "facebook", "facebrands", "pagini-globale"]
+tags: ["facebook"]
 author: titus_capilnean
 ---
 

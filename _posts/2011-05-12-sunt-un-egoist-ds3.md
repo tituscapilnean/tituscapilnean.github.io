@@ -2,7 +2,7 @@
 title: "Sunt un egoist #DS3"
 date: 2011-05-12 09:17:10 +0000
 categories: ["Publicitate"]
-tags: ["blogger", "citroen", "ds3"]
+tags: ["blogger"]
 author: titus_capilnean
 ---
 

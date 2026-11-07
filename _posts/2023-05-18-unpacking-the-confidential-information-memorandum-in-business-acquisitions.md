@@ -2,7 +2,7 @@
 title: "Unpacking the Confidential Information Memorandum in Business Acquisitions"
 date: 2023-05-18 10:00:00 +0000
 categories: [English, Finance]
-tags: [private market labs, smb, acquisition, cim, due diligence, process]
+tags: [private market labs, smb, acquisition, due diligence, process]
 author: titus_capilnean
 ---
 

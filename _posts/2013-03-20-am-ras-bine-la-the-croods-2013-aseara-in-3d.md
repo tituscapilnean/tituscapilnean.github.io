@@ -2,7 +2,7 @@
 title: "Am râs bine la The CROODS (2013) aseară, în 3D"
 date: 2013-03-20 13:07:51 +0000
 categories: ["Filme Bucuresti"]
-tags: ["3d", "cinema-city", "croods", "film", "odeon"]
+tags: ["3d", "cinema-city", "film"]
 author: titus_capilnean
 ---
 

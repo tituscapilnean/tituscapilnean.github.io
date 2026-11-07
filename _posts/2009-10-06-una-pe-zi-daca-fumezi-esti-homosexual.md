@@ -2,7 +2,7 @@
 title: "Una pe zi – Daca fumezi, esti homosexual"
 date: 2009-10-06 13:45:30 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["antifumat", "fumatori", "gay", "homosexuali", "tigari"]
+tags: ["tigari"]
 author: titus_capilnean
 ---
 

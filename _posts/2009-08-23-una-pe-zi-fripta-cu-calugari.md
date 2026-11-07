@@ -2,7 +2,7 @@
 title: "Una pe zi – Fripta cu calugari"
 date: 2009-08-23 19:14:48 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["distractiv", "fripta", "mountain-dew", "zen"]
+tags: ["distractiv"]
 author: titus_capilnean
 ---
 

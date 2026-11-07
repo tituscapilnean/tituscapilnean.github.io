@@ -2,7 +2,7 @@
 title: "Insight și infografie de la Conferința GfK – Menage a Digital Online and Offline"
 date: 2013-04-12 15:08:44 +0000
 categories: ["Sondaje și Studii"]
-tags: ["2013", "date", "gfk", "online", "statistici"]
+tags: ["2013", "date", "online", "statistici"]
 author: titus_capilnean
 # EMBED_ISSUES: 3 embed(s) need review
 #   - [iframe] //infogr.am/Key-Online-Data--Romania--2013

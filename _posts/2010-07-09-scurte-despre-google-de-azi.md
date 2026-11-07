@@ -2,7 +2,7 @@
 title: "Scurte despre Google, de azi"
 date: 2010-07-09 14:06:51 +0000
 categories: ["Social Media"]
-tags: ["connnect", "facebook", "fail", "youtube"]
+tags: ["facebook", "fail", "youtube"]
 author: titus_capilnean
 ---
 

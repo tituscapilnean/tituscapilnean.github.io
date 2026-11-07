@@ -2,7 +2,7 @@
 title: "Citire rapidă: esențială pentru web 2.0"
 date: 2013-01-16 08:32:23 +0000
 categories: ["Online Training"]
-tags: ["2013", "citit", "digital", "online"]
+tags: ["2013", "digital", "online"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2013/citire-rapida-esentiala-pentru-web-2-0/speed_reading_1-150x150.jpg)

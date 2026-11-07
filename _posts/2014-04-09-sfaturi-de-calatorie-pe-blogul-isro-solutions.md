@@ -2,7 +2,7 @@
 title: "Sfaturi de călătorie pe blogul ISRO Solutions"
 date: 2014-04-09 08:05:52 +0000
 categories: ["Turism"]
-tags: ["calatorii", "interviu", "siguranta"]
+tags: ["calatorii"]
 author: titus_capilnean
 ---
 ![IMG_4307](/assets/img/posts/2014/sfaturi-de-calatorie-pe-blogul-isro-solutions/IMG_4307-e1374538629720-150x150.jpg)

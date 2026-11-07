@@ -2,7 +2,7 @@
 title: "Linkedin in limba romana si Ad-uri targetate pentru Romania"
 date: 2011-06-22 10:30:33 +0000
 categories: ["Social Media"]
-tags: ["explicatii", "limba-romana", "linkedin", "romania"]
+tags: ["linkedin", "romania"]
 author: titus_capilnean
 ---
 

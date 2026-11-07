@@ -2,7 +2,7 @@
 title: "Pana si Youtube are vuvuzea"
 date: 2010-06-24 09:42:40 +0000
 categories: ["Social Media"]
-tags: ["vuvuzele", "youtube"]
+tags: ["youtube"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "PRForum 2010 – live blogging"
 date: 2010-03-23 07:25:04 +0000
 categories: ["Evenimente"]
-tags: ["live-blog", "pr-forum"]
+tags: ["live-blog"]
 author: titus_capilnean
 ---
 

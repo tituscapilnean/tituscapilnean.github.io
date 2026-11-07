@@ -2,7 +2,7 @@
 title: "Microexperiențele extraordinare construiesc un brand"
 date: 2013-04-11 09:22:43 +0000
 categories: ["Marketing", "Online Training"]
-tags: ["aiesec", "branding", "intern", "training"]
+tags: ["aiesec", "branding", "training"]
 author: titus_capilnean
 # EMBED_ISSUES: 1 embed(s) need review
 #   - [iframe] http://prezi.com/embed/39mwj7aeeu7b/?bgcolor=ffffff&lock_to_path=0&autoplay=0&autohide_ctrls=0&features=undefined&disabled_features=undefined

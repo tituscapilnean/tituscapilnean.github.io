@@ -2,7 +2,7 @@
 title: "Depresia, Facebook si asiguratorii"
 date: 2009-11-23 13:18:03 +0000
 categories: ["Social Media"]
-tags: ["depresie", "facebook", "fail", "job", "vacanta"]
+tags: ["facebook", "fail", "job", "vacanta"]
 author: titus_capilnean
 ---
 ![Picture-72](/assets/img/posts/2009/depresia-facebook-si-asiguratorii/Picture-72.png)

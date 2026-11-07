@@ -2,7 +2,7 @@
 title: Affiliate Marketing – Your Alternative eCommerce and Digital Monetization Strategy
 date: 2015-05-18 10:00:00 +0000
 categories: [English, Marketing]
-tags: [affiliate marketing, ecommerce, digital strategy]
+tags: []
 author: titus_capilnean
 ---
 Authors:

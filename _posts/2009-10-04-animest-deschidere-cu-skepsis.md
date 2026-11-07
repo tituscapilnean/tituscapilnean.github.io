@@ -2,7 +2,7 @@
 title: "Animest – deschidere cu skepsis"
 date: 2009-10-04 15:11:31 +0000
 categories: ["Evenimente"]
-tags: ["2009", "anim-est", "animatie", "animest", "bucuresti", "prima-zi"]
+tags: ["2009", "animest", "bucuresti"]
 author: titus_capilnean
 ---
 

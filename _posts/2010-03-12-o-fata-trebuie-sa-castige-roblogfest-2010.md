@@ -2,7 +2,7 @@
 title: "O fata trebuie sa castige roBlogFest 2010"
 date: 2010-03-12 12:32:51 +0000
 categories: ["Social Media"]
-tags: ["campanie", "fete", "roblogfest-2010"]
+tags: ["campanie"]
 author: titus_capilnean
 ---
 

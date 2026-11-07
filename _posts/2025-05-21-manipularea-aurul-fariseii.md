@@ -2,7 +2,7 @@
 title: "Manipularea, aurul și fariseii – gânduri după alegerile din 2025 care trebuiau să se termine în 2024"
 date: 2025-05-21 17:00:00 +0300
 categories: [Romanian, Politică]
-tags: [alegeri, dezinformare, geopolitică, RosiaMontana]
+tags: [alegeri]
 author: titus_capilnean
 ---
 

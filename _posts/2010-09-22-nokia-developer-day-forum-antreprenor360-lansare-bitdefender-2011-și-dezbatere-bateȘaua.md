@@ -2,7 +2,7 @@
 title: "Nokia Developer Day, Forum Antreprenor360, lansare BitDefender 2011 și dezbatere BateȘaua"
 date: 2010-09-22 08:04:44 +0000
 categories: ["Evenimente"]
-tags: ["antivirus", "biz", "conferinta", "dezbatere", "lansare", "nokia"]
+tags: ["conferinta", "dezbatere", "lansare", "nokia"]
 author: titus_capilnean
 ---
 

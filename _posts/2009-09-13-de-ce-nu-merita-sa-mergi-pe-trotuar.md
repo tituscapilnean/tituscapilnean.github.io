@@ -2,7 +2,7 @@
 title: "De ce nu merita sa mergi pe trotuar"
 date: 2009-09-13 17:33:13 +0000
 categories: ["Altele de online"]
-tags: ["atentie", "bucuresti", "cu-bicicleta", "gropi", "trotuar"]
+tags: ["bucuresti", "cu-bicicleta"]
 author: titus_capilnean
 ---
 

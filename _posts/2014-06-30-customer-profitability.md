@@ -2,7 +2,7 @@
 title: A customer who calls you every day is less profitable than one who pays on time and never calls you
 date: 2014-06-30 09:00:00 +0800
 categories: [English, Business Models]
-tags: [customer profitability, divestment, segmentation, clv]
+tags: []
 author: titus_capilnean
 ---
 

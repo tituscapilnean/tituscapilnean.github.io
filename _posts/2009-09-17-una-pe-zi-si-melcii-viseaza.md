@@ -2,7 +2,7 @@
 title: "Una pe zi – Si melcii viseaza"
 date: 2009-09-17 17:47:17 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["masina", "melc", "pragmatic", "vis"]
+tags: ["masina"]
 author: titus_capilnean
 ---
 

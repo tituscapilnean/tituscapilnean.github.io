@@ -2,7 +2,7 @@
 title: "Una pe zi – Entuziasmul copiilor"
 date: 2010-01-25 16:12:46 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["adfreak", "sociala", "uk"]
+tags: ["sociala", "uk"]
 author: titus_capilnean
 ---
 

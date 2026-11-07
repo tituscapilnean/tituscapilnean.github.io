@@ -2,7 +2,7 @@
 title: "De ce să faci campanii de comunicare online și pe telefoanele mobile?"
 date: 2013-11-28 17:56:09 +0000
 categories: ["Sondaje și Studii"]
-tags: ["2013", "net", "rata-de-penetrare", "romania"]
+tags: ["2013", "romania"]
 author: titus_capilnean
 ---
 

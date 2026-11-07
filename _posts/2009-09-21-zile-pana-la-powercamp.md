@@ -2,7 +2,7 @@
 title: "2 zile pana la Powercamp"
 date: 2009-09-21 04:11:59 +0000
 categories: ["Marketing"]
-tags: ["adrian-zamfira", "antonio-eram", "aura-cadis", "bobby-voicu", "daniel-bichis", "decebal-marin", "dragos-cabat", "eliza-rogalski", "eusediu-margasoiu", "kurt-weber", "liviu-taloi", "madalina-sava", "marius-ghenea", "powercamp", "septembrie"]
+tags: []
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Alt mod de a tine ceaiul"
 date: 2010-01-19 09:25:14 +0000
 categories: ["Publicitate"]
-tags: ["ceai", "inovatie"]
+tags: ["inovatie"]
 author: titus_capilnean
 ---
 

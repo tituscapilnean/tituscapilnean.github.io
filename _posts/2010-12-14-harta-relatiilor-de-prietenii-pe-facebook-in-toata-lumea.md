@@ -2,7 +2,7 @@
 title: "Harta relatiilor de prietenii pe Facebook in toata lumea"
 date: 2010-12-14 09:04:11 +0000
 categories: ["Social Media"]
-tags: ["facebook", "harta", "relatii"]
+tags: ["facebook", "harta"]
 author: titus_capilnean
 ---
 

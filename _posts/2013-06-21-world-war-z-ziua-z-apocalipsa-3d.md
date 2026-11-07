@@ -2,7 +2,7 @@
 title: "World War Z – Ziua Z: Apocalipsa (3D)"
 date: 2013-06-21 09:17:22 +0000
 categories: ["Filme Bucuresti"]
-tags: ["actiune", "film", "horror", "ziua-z", "zombie"]
+tags: ["film"]
 author: titus_capilnean
 # EMBED_ISSUES: 1 embed(s) need review
 #   - [iframe] http://www.youtube.com/embed/HcwTxRuq-uk

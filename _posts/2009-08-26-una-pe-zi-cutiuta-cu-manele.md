@@ -2,7 +2,7 @@
 title: "Una pe zi – Cutiuta cu manele"
 date: 2009-08-26 10:29:04 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["cutie-magica", "distractiv", "doncafe", "manele", "romania", "twitter"]
+tags: ["distractiv", "romania", "twitter"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "27 mai, 17:30 a inceput lansarea primei carti la care am contribuit si eu – Cartea Fețelor"
 date: 2011-05-27 22:45:44 +0000
 categories: ["Social Media"]
-tags: ["aparitii-media", "carte", "contributie", "facebook", "mentiune"]
+tags: ["carte", "facebook"]
 author: titus_capilnean
 ---
 

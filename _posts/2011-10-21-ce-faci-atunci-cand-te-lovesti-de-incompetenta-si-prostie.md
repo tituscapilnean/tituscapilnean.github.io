@@ -2,7 +2,7 @@
 title: "Ce faci atunci cand te lovesti de incompetenta si prostie"
 date: 2011-10-21 10:45:45 +0000
 categories: ["Altele de online"]
-tags: ["functionari", "incompetenta", "probleme", "prostie"]
+tags: ["probleme"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Zic ca e pozitiv ce s-a schimbat pe Facebook"
 date: 2009-10-26 12:57:25 +0000
 categories: ["Social Media"]
-tags: ["facebook", "live-feed", "pozitive", "schimbari", "social-media", "wall"]
+tags: ["facebook", "schimbari", "social-media"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Disclosure agreement – E-mail fun"
 date: 2010-10-12 12:25:01 +0000
 categories: ["Social Media"]
-tags: ["disclaimer", "email"]
+tags: ["email"]
 author: titus_capilnean
 ---
 

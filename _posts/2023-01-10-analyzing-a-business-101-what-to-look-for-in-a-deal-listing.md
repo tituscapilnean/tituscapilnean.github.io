@@ -2,7 +2,7 @@
 title: "Analyzing a Business 101: What to Look for in a Deal Listing"
 date: 2023-01-10 10:00:00 +0000
 categories: [English, Finance]
-tags: [private market labs, smb, acquisition, ebitda, sde, process]
+tags: [private market labs, smb, acquisition, process]
 author: titus_capilnean
 ---
 

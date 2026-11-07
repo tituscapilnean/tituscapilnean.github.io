@@ -2,7 +2,7 @@
 title: "Prince of Persia – Sands of Time"
 date: 2010-05-20 07:11:52 +0000
 categories: ["Evenimente"]
-tags: ["film", "prince-of-persia"]
+tags: ["film"]
 author: titus_capilnean
 ---
 

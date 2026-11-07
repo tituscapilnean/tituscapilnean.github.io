@@ -2,7 +2,7 @@
 title: "Caracal strain"
 date: 2009-09-09 21:14:44 +0000
 categories: ["Altele de online"]
-tags: ["caracal", "copacul-in-drum", "de-pe-internet"]
+tags: []
 author: titus_capilnean
 ---
 

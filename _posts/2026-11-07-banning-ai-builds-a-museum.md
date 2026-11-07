@@ -2,7 +2,7 @@
 title: "Ban AI at Work and You're Building a Museum"
 date: 2026-11-07 12:00:00 +0000
 categories: [English, AI]
-tags: [ai, agents, future of work, open source, software factory, "2026"]
+tags: [ai, agents, "2026"]
 author: titus
 ---
 

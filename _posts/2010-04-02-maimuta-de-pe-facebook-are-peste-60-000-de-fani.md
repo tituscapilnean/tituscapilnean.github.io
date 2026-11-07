@@ -2,7 +2,7 @@
 title: "Maimuta de pe Facebook are peste 60.000 de fani"
 date: 2010-04-02 08:42:12 +0000
 categories: ["Social Media"]
-tags: ["distractiv", "facebook", "maimuta"]
+tags: ["distractiv", "facebook"]
 author: titus_capilnean
 ---
 

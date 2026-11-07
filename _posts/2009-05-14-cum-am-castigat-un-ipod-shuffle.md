@@ -2,7 +2,7 @@
 title: "Cum am castigat un iPod Shuffle?"
 date: 2009-05-14 07:41:00 +0000
 categories: ["Evenimente"]
-tags: ["concurs", "conferinta", "live-blog", "markting"]
+tags: ["concurs", "conferinta", "live-blog"]
 author: titus_capilnean
 ---
 

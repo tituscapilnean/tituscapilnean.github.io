@@ -2,7 +2,7 @@
 title: "Twitter corporatist – convinge-ti seful"
 date: 2009-10-07 05:19:29 +0000
 categories: ["Social Media"]
-tags: ["angajati", "corporatist", "dilbert", "ego", "sef", "twitter"]
+tags: ["twitter"]
 author: titus_capilnean
 ---
 

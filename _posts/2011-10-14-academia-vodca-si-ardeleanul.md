@@ -2,7 +2,7 @@
 title: "Academia, vodca si ardeleanul"
 date: 2011-10-14 11:49:14 +0000
 categories: ["Evenimente"]
-tags: ["lansare", "online", "vodka"]
+tags: ["lansare", "online"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2011/academia-vodca-si-ardeleanul/IMG-20111013-00027-e1318592644111-150x150.jpg)

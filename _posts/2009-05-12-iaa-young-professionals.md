@@ -2,7 +2,7 @@
 title: "IAA Young Professionals"
 date: 2009-05-12 08:29:00 +0000
 categories: ["Evenimente"]
-tags: ["comunicare", "iaa", "organizatie", "recrutare"]
+tags: ["comunicare", "organizatie", "recrutare"]
 author: titus_capilnean
 ---
 

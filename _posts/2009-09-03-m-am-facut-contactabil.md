@@ -2,7 +2,7 @@
 title: "M-am facut contactabil"
 date: 2009-09-03 11:01:58 +0000
 categories: ["Altele de online"]
-tags: ["contact", "formular"]
+tags: []
 author: titus_capilnean
 ---
 

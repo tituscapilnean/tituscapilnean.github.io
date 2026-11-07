@@ -2,7 +2,7 @@
 title: "Una pe zi – Genocidul zilnic al părului"
 date: 2009-08-17 19:25:17 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["distractiv", "par"]
+tags: ["distractiv"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Wordcamp – fac niste lamuriri"
 date: 2009-09-04 11:10:13 +0000
 categories: ["Evenimente", "Social Media"]
-tags: ["clarificare", "romania", "social-media", "wordcamp", "wordpress"]
+tags: ["romania", "social-media", "wordpress"]
 author: titus_capilnean
 ---
 

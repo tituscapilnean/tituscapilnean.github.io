@@ -2,7 +2,7 @@
 title: "TEDxBucharest – 16 Octombrie – Mare concurs!"
 date: 2009-09-10 04:08:14 +0000
 categories: ["Evenimente"]
-tags: ["bucuresti", "concurs", "idei-extraordinare", "tedx", "tedxbucharest"]
+tags: ["bucuresti", "concurs", "tedx", "tedxbucharest"]
 author: titus_capilnean
 ---
 

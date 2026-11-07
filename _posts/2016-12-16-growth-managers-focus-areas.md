@@ -2,7 +2,7 @@
 title: 3 MUST Focus Areas for Growth Managers
 date: 2016-12-16 09:00:00 +0000
 categories: [English, Startups]
-tags: [definition, focus, growth, growth manager, investors, marketing, product, sales]
+tags: [growth, investors, marketing]
 author: titus_capilnean
 ---
 

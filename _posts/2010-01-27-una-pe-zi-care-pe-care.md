@@ -2,7 +2,7 @@
 title: "Una pe zi – Care pe care"
 date: 2010-01-27 10:44:40 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["comics", "foc"]
+tags: ["comics"]
 author: titus_capilnean
 ---
 ![O remarcă strălucită, aproape la fel de puternică în comparație cu unda solarului. ](/assets/img/posts/2010/una-pe-zi-care-pe-care/Stupid-Vampire-Joke-400x157.jpg)

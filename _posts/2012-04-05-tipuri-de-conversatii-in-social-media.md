@@ -2,7 +2,7 @@
 title: "Tipuri de conversații în social media"
 date: 2012-04-05 11:19:56 +0000
 categories: ["Online Training"]
-tags: ["clasificari", "social-media"]
+tags: ["social-media"]
 author: titus_capilnean
 ---
 

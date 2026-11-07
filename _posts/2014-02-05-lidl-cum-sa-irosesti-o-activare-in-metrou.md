@@ -2,7 +2,7 @@
 title: "Lidl, cum să irosești o activare în metrou?"
 date: 2014-02-05 14:35:39 +0000
 categories: ["Marketing"]
-tags: ["concept", "executie", "fail", "lidl", "qr-code"]
+tags: ["concept", "fail", "qr-code"]
 author: titus_capilnean
 ---
 ![photo](/assets/img/posts/2014/lidl-cum-sa-irosesti-o-activare-in-metrou/photo-400x300.jpg)

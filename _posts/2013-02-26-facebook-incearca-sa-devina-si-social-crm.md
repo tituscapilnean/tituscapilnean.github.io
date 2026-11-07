@@ -2,7 +2,7 @@
 title: "Facebook încearcă să devină (și) social CRM"
 date: 2013-02-26 13:49:55 +0000
 categories: ["Altele de online"]
-tags: ["facebook", "feature", "offline", "remarketing"]
+tags: ["facebook", "offline"]
 author: titus_capilnean
 ---
 

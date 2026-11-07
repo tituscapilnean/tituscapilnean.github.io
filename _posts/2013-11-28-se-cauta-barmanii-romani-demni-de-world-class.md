@@ -2,7 +2,7 @@
 title: "Se caută barmanii români demni de World Class"
 date: 2013-11-28 10:43:04 +0000
 categories: ["Evenimente"]
-tags: ["barmani", "concurs", "diageo", "world-class"]
+tags: ["concurs"]
 author: titus_capilnean
 # EMBED_ISSUES: 1 embed(s) need review
 #   - [iframe] //www.youtube.com/embed/Ki09fL3tptI

@@ -2,7 +2,7 @@
 title: "Noaptea devoratorilor de spectacol ieftin"
 date: 2009-10-10 14:20:41 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["balci", "caterinca", "cocalari", "concert-prost", "noaptea-devoratorilor-de-publicitate", "vama"]
+tags: ["noaptea-devoratorilor-de-publicitate", "vama"]
 author: titus_capilnean
 ---
 

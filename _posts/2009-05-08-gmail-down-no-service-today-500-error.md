@@ -2,7 +2,7 @@
 title: "Gmail Down – no service today – 500 Error"
 date: 2009-05-08 08:23:00 +0000
 categories: ["Social Media"]
-tags: ["anunt", "google", "serviciu"]
+tags: ["anunt", "google"]
 author: titus_capilnean
 ---
 

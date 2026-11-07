@@ -2,7 +2,7 @@
 title: "Cu taxiul prin Capitala"
 date: 2009-09-09 16:18:00 +0000
 categories: ["Altele de online"]
-tags: ["anunt", "atentie", "bucuresti", "taxi"]
+tags: ["anunt", "bucuresti"]
 author: titus_capilnean
 ---
 

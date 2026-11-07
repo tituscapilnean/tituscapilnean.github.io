@@ -2,7 +2,7 @@
 title: "Politica 2.0 – alegerile din Statele Unite și ce înseamnă asta pentru România"
 date: 2012-01-06 11:43:11 +0000
 categories: ["Altele de online"]
-tags: ["2012", "alegeri", "politica", "romania", "statele-unite"]
+tags: ["2012", "alegeri", "politica", "romania"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2012/politica-2-0-alegerile-din-statele-unite/politics-150x150.png)

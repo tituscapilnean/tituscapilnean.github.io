@@ -2,7 +2,7 @@
 title: "One Layer Deeper Than the Platform Can Swallow"
 date: 2026-04-30 12:00:00 +0000
 categories: [English, AI]
-tags: [ai, agents, infrastructure, mcp, routing, retrieval, "2026"]
+tags: [ai, agents, infrastructure, "2026"]
 author: titus
 ---
 

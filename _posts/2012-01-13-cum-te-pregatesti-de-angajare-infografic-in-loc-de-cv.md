@@ -2,7 +2,7 @@
 title: "Cum te pregatesti de angajare: Infografic in loc de CV"
 date: 2012-01-13 12:25:00 +0000
 categories: ["Uniunea Europeana"]
-tags: ["angajare", "cv", "infografic", "social-media"]
+tags: ["angajare", "social-media"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2012/cum-te-pregatesti-de-angajare-infografic-in-loc-de-cv/6344267aab735733b10e718e3638bd3c.jpg)

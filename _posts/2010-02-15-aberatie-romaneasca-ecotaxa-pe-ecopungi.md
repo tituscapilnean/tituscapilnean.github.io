@@ -2,7 +2,7 @@
 title: "Aberatie romaneasca – Ecotaxa pe ecopungi"
 date: 2010-02-15 15:48:30 +0000
 categories: ["Altele de online"]
-tags: ["eco", "romania", "taxe"]
+tags: ["eco", "romania"]
 author: titus_capilnean
 ---
 

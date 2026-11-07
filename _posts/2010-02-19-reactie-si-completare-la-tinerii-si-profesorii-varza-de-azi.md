@@ -2,7 +2,7 @@
 title: "Reactie si completare la – tinerii si profesorii ”varza” de azi"
 date: 2010-02-19 14:54:04 +0000
 categories: ["Social Media"]
-tags: ["initiativa", "invatare", "proactivitate"]
+tags: []
 author: titus_capilnean
 ---
 

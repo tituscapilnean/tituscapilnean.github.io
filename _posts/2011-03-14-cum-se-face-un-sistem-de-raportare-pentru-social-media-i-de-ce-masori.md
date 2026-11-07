@@ -2,7 +2,7 @@
 title: "Cum se face un sistem de raportare pentru Social Media (I) – De ce măsori"
 date: 2011-03-14 07:28:33 +0000
 categories: ["Online Training"]
-tags: ["cum-sa-faci", "monitorizare", "raport", "social-media"]
+tags: ["cum-sa-faci", "raport", "social-media"]
 author: titus_capilnean
 ---
 

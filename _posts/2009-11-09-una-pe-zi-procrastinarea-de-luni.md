@@ -2,7 +2,7 @@
 title: "Una pe zi – Procrastinarea de luni"
 date: 2009-11-09 18:51:29 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["paradigme", "social", "tales-of-a-mere-existence", "tipare"]
+tags: ["social"]
 author: titus_capilnean
 ---
 

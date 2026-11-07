@@ -2,7 +2,7 @@
 title: "Ocolul în jurul lumii prin AIESEC București"
 date: 2009-06-29 20:04:00 +0000
 categories: ["Evenimente"]
-tags: ["aiesec", "exchange", "recrutare"]
+tags: ["aiesec", "recrutare"]
 author: titus_capilnean
 ---
 

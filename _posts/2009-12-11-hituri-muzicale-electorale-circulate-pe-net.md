@@ -2,7 +2,7 @@
 title: "Hituri muzicale electorale circulate pe net"
 date: 2009-12-11 11:17:38 +0000
 categories: ["Altele de online"]
-tags: ["basescu", "caterinca-proasta", "geoana", "melodii", "muzica", "social-media", "teapa"]
+tags: ["basescu", "geoana", "muzica", "social-media", "teapa"]
 author: titus_capilnean
 ---
 

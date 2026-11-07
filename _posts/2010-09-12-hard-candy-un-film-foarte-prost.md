@@ -2,7 +2,7 @@
 title: "Hard Candy – un film foarte prost"
 date: 2010-09-12 10:09:57 +0000
 categories: ["Altele de online"]
-tags: ["film", "prost"]
+tags: ["film"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Una pe zi – Resident evil cu pizza"
 date: 2010-09-21 15:26:38 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["pizza", "zombie"]
+tags: []
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Live @ NetStartups – CERF 2009"
 date: 2009-06-04 13:39:00 +0000
 categories: ["Evenimente"]
-tags: ["live-blog", "startup", "web-si-social-media"]
+tags: ["live-blog", "startup"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: Cryptocurrencies – towards a circular economy
 date: 2018-08-03 09:00:00 +0000
 categories: [Blockchain, English]
-tags: [cryptocurrencies, circular economy]
+tags: []
 author: titus_capilnean
 ---
 

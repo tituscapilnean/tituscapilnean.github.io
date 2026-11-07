@@ -2,7 +2,7 @@
 title: "#Heineken007 – unboxing pe instagram"
 date: 2012-10-11 10:47:20 +0000
 categories: ["Relatii Publice"]
-tags: ["007", "campanie", "heineken", "instagram", "surpriza"]
+tags: ["campanie", "heineken"]
 author: titus_capilnean
 ---
 

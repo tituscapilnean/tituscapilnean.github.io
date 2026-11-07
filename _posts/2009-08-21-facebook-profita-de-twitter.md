@@ -2,7 +2,7 @@
 title: "Facebook profita de Twitter"
 date: 2009-08-21 08:20:45 +0000
 categories: ["Social Media"]
-tags: ["anunt", "facebook", "profit", "social-media", "twitter"]
+tags: ["anunt", "facebook", "social-media", "twitter"]
 author: titus_capilnean
 ---
 

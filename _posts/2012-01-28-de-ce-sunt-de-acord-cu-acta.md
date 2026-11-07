@@ -2,7 +2,7 @@
 title: "De ce sunt de acord cu ACTA"
 date: 2012-01-28 09:48:26 +0000
 categories: ["Altele de online"]
-tags: ["2012", "acta", "consecinte", "legi"]
+tags: ["2012"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2012/de-ce-sunt-de-acord-cu-acta/Acta.jpg)

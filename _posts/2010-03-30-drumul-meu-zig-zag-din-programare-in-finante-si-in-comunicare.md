@@ -2,7 +2,7 @@
 title: "Drumul meu – Zig-zag din programare in finante si in comunicare"
 date: 2010-03-30 10:20:08 +0000
 categories: ["Altele de online", "Publicitate"]
-tags: ["campanie", "drumul-tau", "ursus"]
+tags: ["campanie"]
 author: titus_capilnean
 ---
 

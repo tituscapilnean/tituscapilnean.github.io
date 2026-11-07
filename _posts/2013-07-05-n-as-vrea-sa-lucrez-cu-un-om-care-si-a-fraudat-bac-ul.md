@@ -2,7 +2,7 @@
 title: "N-aș vrea să lucrez cu un om care și-a fraudat BAC-ul"
 date: 2013-07-05 09:11:14 +0000
 categories: ["Altele de online"]
-tags: ["2013", "anchete", "bac", "frauda", "mita", "opinie"]
+tags: ["2013"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Cum scapi de like-urile date paginilor de pe Facebook?"
 date: 2012-02-19 17:02:24 +0000
 categories: ["Online Training"]
-tags: ["cum-sa-faci", "facebook", "like", "pagini", "unlike"]
+tags: ["cum-sa-faci", "facebook", "pagini"]
 author: titus_capilnean
 ---
 

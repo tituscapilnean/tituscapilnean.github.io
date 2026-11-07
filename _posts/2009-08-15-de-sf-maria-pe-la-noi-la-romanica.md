@@ -2,7 +2,7 @@
 title: "De Sf. Maria, pe la noi, la Romanica"
 date: 2009-08-15 19:30:02 +0000
 categories: ["Altele de online"]
-tags: ["distractiv", "inedit", "obiceiuri", "romania", "sarbatori", "video"]
+tags: ["distractiv", "inedit", "romania", "sarbatori", "video"]
 author: titus_capilnean
 ---
 

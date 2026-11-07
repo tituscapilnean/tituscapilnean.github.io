@@ -2,7 +2,7 @@
 title: "Adevarul despre adolescenti si Twitter"
 date: 2009-08-30 20:57:03 +0000
 categories: ["Marketing", "Social Media"]
-tags: ["adolescenti", "analiza", "online", "rezultate-noi", "studiu", "tineri", "twitter"]
+tags: ["analiza", "online", "studiu", "tineri", "twitter"]
 author: titus_capilnean
 ---
 

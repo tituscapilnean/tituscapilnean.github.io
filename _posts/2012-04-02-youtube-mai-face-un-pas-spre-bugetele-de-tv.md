@@ -2,7 +2,7 @@
 title: "Youtube mai face un pas spre bugetele de TV"
 date: 2012-04-02 09:52:31 +0000
 categories: ["Social Media"]
-tags: ["ads", "bugete", "tv", "youtube"]
+tags: ["ads", "tv", "youtube"]
 author: titus_capilnean
 ---
 

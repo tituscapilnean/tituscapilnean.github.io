@@ -2,7 +2,7 @@
 title: "Pagina noua – intrebari si raspunsuri"
 date: 2011-06-29 11:36:42 +0000
 categories: ["Social Media"]
-tags: ["consultanta", "intrebari", "sectiune"]
+tags: ["intrebari"]
 author: titus_capilnean
 ---
 

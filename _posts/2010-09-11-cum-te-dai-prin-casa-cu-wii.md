@@ -2,7 +2,7 @@
 title: "Cum te dai prin casa cu Wii"
 date: 2010-09-11 16:34:46 +0000
 categories: ["Publicitate"]
-tags: ["nintendo", "wii"]
+tags: []
 author: titus_capilnean
 ---
 

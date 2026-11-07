@@ -2,7 +2,7 @@
 title: "Consumul excesiv de TV dauneaza grav copilului tau"
 date: 2011-04-01 07:24:12 +0000
 categories: ["Publicitate"]
-tags: ["campanie", "consum", "copil", "tv", "zibo"]
+tags: ["campanie", "tv", "zibo"]
 author: titus_capilnean
 ---
 

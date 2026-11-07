@@ -2,7 +2,7 @@
 title: "Frica de dentist, bat-o vina!"
 date: 2011-07-20 11:56:37 +0000
 categories: ["Altele de online", "Publicitate"]
-tags: ["airflow", "bloggeri", "clinica", "dentestet", "dentist", "detartraj", "frica", "periaj"]
+tags: ["bloggeri", "dentestet", "dentist"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2011/frica-de-dentist-bat-o-vina/dent-estet-lanseaza-abonamentele-individuale-pentru-servicii-stomatologice-79000-400x243.jpg)

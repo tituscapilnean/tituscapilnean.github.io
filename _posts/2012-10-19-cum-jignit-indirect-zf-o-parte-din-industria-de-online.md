@@ -2,7 +2,7 @@
 title: "Cum a jignit (indirect) ZF o parte din industria de online"
 date: 2012-10-19 14:23:16 +0000
 categories: ["Altele de online"]
-tags: ["asa-nu", "digital", "trist", "zf"]
+tags: ["asa-nu", "digital"]
 author: titus_capilnean
 ---
 

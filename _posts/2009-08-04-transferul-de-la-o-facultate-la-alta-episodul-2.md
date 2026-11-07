@@ -2,7 +2,7 @@
 title: "Transferul de la o facultate la alta – episodul 2"
 date: 2009-08-04 15:13:35 +0000
 categories: ["Evenimente"]
-tags: ["ase", "birocratie", "facultate", "transfer"]
+tags: ["ase", "facultate", "transfer"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Cum arată traficul pe Social Media – Mai 2009"
 date: 2009-06-23 04:42:00 +0000
 categories: ["Social Media"]
-tags: ["facebook", "myspace", "social-media", "trafic"]
+tags: ["facebook", "social-media", "trafic"]
 author: titus_capilnean
 ---
 

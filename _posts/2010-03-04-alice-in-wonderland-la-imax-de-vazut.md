@@ -2,7 +2,7 @@
 title: "Alice in Wonderland la IMAX – de vazut"
 date: 2010-03-04 13:51:00 +0000
 categories: ["Filme Bucuresti"]
-tags: ["alice", "imax", "samsung"]
+tags: ["imax", "samsung"]
 author: titus_capilnean
 ---
 

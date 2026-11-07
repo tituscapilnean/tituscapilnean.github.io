@@ -2,7 +2,7 @@
 title: "Câteva idei după o vizită în Maroc"
 date: 2013-11-12 13:09:51 +0000
 categories: ["Turism"]
-tags: ["calatorii", "cultura", "maroc"]
+tags: ["calatorii"]
 author: titus_capilnean
 ---
 ![Tangier_Medina_01](/assets/img/posts/2013/cateva-idei-dupa-o-vizita-in-maroc/Tangier_Medina_01-150x150.jpg)

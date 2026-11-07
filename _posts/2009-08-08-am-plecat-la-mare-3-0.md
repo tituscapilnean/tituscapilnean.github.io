@@ -2,7 +2,7 @@
 title: "Am plecat la Mare 3.0"
 date: 2009-08-08 04:01:03 +0000
 categories: ["Cu telefonul"]
-tags: ["autostrada", "mare", "weekend"]
+tags: ["mare", "weekend"]
 author: titus_capilnean
 ---
 

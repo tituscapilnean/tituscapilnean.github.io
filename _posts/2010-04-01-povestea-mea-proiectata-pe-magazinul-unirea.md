@@ -2,7 +2,7 @@
 title: "Povestea mea proiectata pe magazinul Unirea"
 date: 2010-04-01 07:06:25 +0000
 categories: ["Evenimente", "Social Media"]
-tags: ["bloggeri", "drumul-tau", "unirea"]
+tags: ["bloggeri"]
 author: titus_capilnean
 ---
 

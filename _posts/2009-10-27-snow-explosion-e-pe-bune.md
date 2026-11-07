@@ -2,7 +2,7 @@
 title: "Snow Explosion e pe bune"
 date: 2009-10-27 20:37:14 +0000
 categories: ["Altele de online", "Evenimente", "Turism"]
-tags: ["austria", "munte", "ski", "snow-explosion", "snowboard"]
+tags: ["austria", "ski", "snow-explosion", "snowboard"]
 author: titus_capilnean
 ---
 

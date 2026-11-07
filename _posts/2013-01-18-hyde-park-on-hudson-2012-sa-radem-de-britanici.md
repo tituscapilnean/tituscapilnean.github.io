@@ -2,7 +2,7 @@
 title: "Hyde Park on Hudson (2012) – să râdem de britanici"
 date: 2013-01-18 09:20:40 +0000
 categories: ["Filme Bucuresti"]
-tags: ["americani", "britanici", "film", "interbelic"]
+tags: ["americani", "film"]
 author: titus_capilnean
 ---
 

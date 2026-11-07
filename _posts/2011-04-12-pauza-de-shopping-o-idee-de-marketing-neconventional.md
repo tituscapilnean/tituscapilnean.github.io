@@ -2,7 +2,7 @@
 title: "Pauza de shopping – o idee de marketing neconventional"
 date: 2011-04-12 12:39:40 +0000
 categories: ["Marketing"]
-tags: ["h&m", "idee", "metrou", "social-media"]
+tags: ["metrou", "social-media"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2011/pauza-de-shopping-o-idee-de-marketing-neconventional/hm21-150x150.jpg)

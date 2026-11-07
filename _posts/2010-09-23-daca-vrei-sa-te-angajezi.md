@@ -2,7 +2,7 @@
 title: "Daca vrei sa te angajezi"
 date: 2010-09-23 08:33:39 +0000
 categories: ["Social Media"]
-tags: ["cv", "recrutare", "slideshare"]
+tags: ["recrutare"]
 author: titus_capilnean
 ---
 

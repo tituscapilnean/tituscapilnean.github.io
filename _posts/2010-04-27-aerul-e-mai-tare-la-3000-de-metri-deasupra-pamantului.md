@@ -2,7 +2,7 @@
 title: "Aerul e mai tare la 3000 de metri deasupra pamantului"
 date: 2010-04-27 08:00:43 +0000
 categories: ["Evenimente", "Publicitate"]
-tags: ["campanie", "parasuta", "utv"]
+tags: ["campanie"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "De ce atata buzz cu Google Buzz"
 date: 2010-02-11 13:27:28 +0000
 categories: ["Social Media"]
-tags: ["antibuzz", "fail", "google", "retele", "social-media"]
+tags: ["fail", "google", "retele", "social-media"]
 author: titus_capilnean
 ---
 

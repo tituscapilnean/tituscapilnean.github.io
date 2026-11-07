@@ -2,7 +2,7 @@
 title: "Teatru in aer la Sibiu"
 date: 2011-06-05 22:12:53 +0000
 categories: ["Altele de online", "Evenimente", "Turism"]
-tags: ["fits", "sibiu"]
+tags: []
 author: titus_capilnean
 ---
 

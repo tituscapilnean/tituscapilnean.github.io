@@ -2,7 +2,7 @@
 title: "Reclame expandabile pe Facebook – da sau nu"
 date: 2011-10-19 12:13:29 +0000
 categories: ["Altele de online"]
-tags: ["expandabile", "facebook", "online"]
+tags: ["facebook", "online"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Centralizator bancuri cu si despre Geoana"
 date: 2009-12-10 11:32:14 +0000
 categories: ["Altele de online", "Social Media"]
-tags: ["alegeri", "chestii-interesante", "distractiv", "dume", "meme", "politica", "social-media"]
+tags: ["alegeri", "distractiv", "politica", "social-media"]
 author: titus_capilnean
 ---
 

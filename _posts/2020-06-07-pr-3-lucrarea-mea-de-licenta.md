@@ -2,7 +2,7 @@
 title: PR 3.0 – Lucrarea mea de licență din 2012
 date: 2020-06-07 10:00:00 +0300
 categories: [Romanian, PR]
-tags: [pr, comunicare, digital, romania, internet, licenta]
+tags: [pr, comunicare, digital, romania, internet]
 author: titus_capilnean
 ---
 

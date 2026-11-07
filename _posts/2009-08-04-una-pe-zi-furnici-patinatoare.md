@@ -2,7 +2,7 @@
 title: "Una pe zi – Furnici patinatoare"
 date: 2009-08-04 09:07:07 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["copy", "inedit"]
+tags: ["inedit"]
 author: titus_capilnean
 ---
 

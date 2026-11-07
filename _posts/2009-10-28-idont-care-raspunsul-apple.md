@@ -2,7 +2,7 @@
 title: "iDon’t care – raspunsul Apple"
 date: 2009-10-28 10:42:42 +0000
 categories: ["Social Media"]
-tags: ["apple", "motorola", "razboi", "smart", "social-media"]
+tags: ["apple", "motorola", "razboi", "social-media"]
 author: titus_capilnean
 ---
 

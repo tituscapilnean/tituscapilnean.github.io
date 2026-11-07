@@ -2,7 +2,7 @@
 title: "Embed pentru orice album de Picasa"
 date: 2010-02-01 08:39:03 +0000
 categories: ["Social Media"]
-tags: ["cum-sa-faci", "embed", "google", "picasa"]
+tags: ["cum-sa-faci", "google"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Una pe zi – Chipsuri pentru feministe"
 date: 2010-01-06 15:06:05 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["distractiv", "mindfuck"]
+tags: ["distractiv"]
 author: titus_capilnean
 ---
 

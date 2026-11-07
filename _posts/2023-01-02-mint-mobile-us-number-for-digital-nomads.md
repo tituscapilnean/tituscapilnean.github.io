@@ -2,7 +2,7 @@
 title: Mint Mobile – A US number for digital nomads
 date: 2023-01-02 10:00:00 +0000
 categories: [English, Digital Tips]
-tags: [mint mobile, digital nomads, travel, wifi calling, esim, us number]
+tags: []
 author: titus_capilnean
 ---
 

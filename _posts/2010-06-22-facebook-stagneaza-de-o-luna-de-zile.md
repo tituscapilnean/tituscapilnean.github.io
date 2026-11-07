@@ -2,7 +2,7 @@
 title: "Facebook stagneaza de o luna de zile"
 date: 2010-06-22 10:19:14 +0000
 categories: ["Social Media"]
-tags: ["numere-facebook", "utilizatori"]
+tags: ["utilizatori"]
 author: titus_capilnean
 ---
 

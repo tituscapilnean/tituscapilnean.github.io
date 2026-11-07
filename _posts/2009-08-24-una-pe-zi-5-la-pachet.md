@@ -2,7 +2,7 @@
 title: "Una pe zi – 5 la pachet"
 date: 2009-08-24 13:29:58 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["distractiv", "inedit", "reclame-americane"]
+tags: ["distractiv", "inedit"]
 author: titus_capilnean
 ---
 

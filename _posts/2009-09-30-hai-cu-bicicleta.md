@@ -2,7 +2,7 @@
 title: "Hai sa te misti cu bicicleta"
 date: 2009-09-30 08:19:32 +0000
 categories: ["Evenimente"]
-tags: ["bicicleta", "biciclisti", "concurs", "putindinfiecare", "sport", "ziua-miscarii"]
+tags: ["bicicleta", "concurs", "sport"]
 author: titus_capilnean
 ---
 

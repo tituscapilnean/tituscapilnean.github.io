@@ -2,7 +2,7 @@
 title: "Webinarii de educatie financiara (V)"
 date: 2011-07-01 06:00:24 +0000
 categories: ["Publicitate"]
-tags: ["bcr", "campanie", "cum-sa", "refinantare", "sfaturi", "webinarii"]
+tags: ["bcr", "campanie", "cum-sa", "refinantare", "sfaturi"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2011/webinarii-de-educatie-financiara-v/glob_mon.png)

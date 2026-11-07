@@ -2,7 +2,7 @@
 title: "Dilema splitului de buget in campaniile de online"
 date: 2012-10-23 09:25:21 +0000
 categories: ["Marketing"]
-tags: ["buget", "campanii", "roi", "social-media", "split"]
+tags: ["campanii", "roi", "social-media"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2012/dilema-splitului-de-buget-in-campaniile-de-online/not-one-big-budget-hit_7-reasons-to-start-your-holiday-shopping-now-150x150.jpg)

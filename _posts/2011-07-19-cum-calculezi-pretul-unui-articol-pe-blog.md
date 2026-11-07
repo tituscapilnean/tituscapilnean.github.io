@@ -2,7 +2,7 @@
 title: "Cum calculezi pretul unui articol pe blog?"
 date: 2011-07-19 13:13:35 +0000
 categories: ["Social Media"]
-tags: ["advertoriale", "articole", "calcule", "campanii", "costuri"]
+tags: ["campanii"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2011/cum-calculezi-pretul-unui-articol-pe-blog/blog2-150x150.jpg)

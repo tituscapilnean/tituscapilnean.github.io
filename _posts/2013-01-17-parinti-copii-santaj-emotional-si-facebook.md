@@ -2,7 +2,7 @@
 title: "Părinți, copii, șantaj emoțional și Facebook"
 date: 2013-01-17 06:28:10 +0000
 categories: ["Social Media"]
-tags: ["adoptie", "caine", "copii", "experti", "facebook", "milion"]
+tags: ["copii", "facebook"]
 author: titus_capilnean
 ---
 

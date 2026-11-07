@@ -2,7 +2,7 @@
 title: "Cum sa ai succes din siajul unei prime parti"
 date: 2010-04-28 06:46:48 +0000
 categories: ["Evenimente"]
-tags: ["film", "iron-man-2", "vizionare"]
+tags: ["film"]
 author: titus_capilnean
 ---
 

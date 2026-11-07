@@ -2,7 +2,7 @@
 title: "România în studiul Mediascope Europe – avanpremieră"
 date: 2012-07-09 15:05:08 +0000
 categories: ["Marketing"]
-tags: ["avanpremiera", "mediascope", "online", "romania-2012"]
+tags: ["online"]
 author: titus_capilnean
 ---
 

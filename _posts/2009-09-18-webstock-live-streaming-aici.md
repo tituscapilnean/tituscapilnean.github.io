@@ -2,7 +2,7 @@
 title: "Webstock Live Streaming – aici"
 date: 2009-09-18 04:02:26 +0000
 categories: ["Social Media"]
-tags: ["2009", "embed", "in-direct", "live-streaming", "webstock"]
+tags: ["2009", "webstock"]
 author: titus_capilnean
 # EMBED_ISSUES: 1 embed(s) need review
 #   - [iframe] http://assets.whispercast.ro/player/events/player.html?event_id=2009_09_WebStock

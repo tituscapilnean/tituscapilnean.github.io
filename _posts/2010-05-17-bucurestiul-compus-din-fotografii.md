@@ -2,7 +2,7 @@
 title: "Bucurestiul compus din fotografii"
 date: 2010-05-17 19:53:34 +0000
 categories: ["Evenimente"]
-tags: ["bucuresti", "fotografie", "muzeu"]
+tags: ["bucuresti", "fotografie"]
 author: titus_capilnean
 ---
 

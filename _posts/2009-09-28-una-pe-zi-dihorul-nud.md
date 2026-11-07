@@ -2,7 +2,7 @@
 title: "Una pe zi – Dihorul nud"
 date: 2009-09-28 15:08:12 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["bere", "budweiser", "dihor", "nud"]
+tags: ["bere", "budweiser"]
 author: titus_capilnean
 ---
 

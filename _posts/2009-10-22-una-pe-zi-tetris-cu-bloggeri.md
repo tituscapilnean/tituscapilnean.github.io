@@ -2,7 +2,7 @@
 title: "Una pe zi – Tetris cu bloggeri"
 date: 2009-10-22 13:01:59 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["arhi", "bloggeri", "criserb", "joc", "piticu", "tetris", "video", "visurat"]
+tags: ["arhi", "bloggeri", "joc", "video"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Cum fac un infografic?"
 date: 2013-02-07 08:43:52 +0000
 categories: ["Online Training"]
-tags: ["cum-sa", "infografice", "unelte"]
+tags: ["cum-sa", "infografice"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Ai grija ce pui pe Facebook, s-ar putea sa iti stearga contul!"
 date: 2010-11-18 07:00:21 +0000
 categories: ["Social Media"]
-tags: ["cenzura", "facebook", "web-2.0"]
+tags: ["facebook", "web-2.0"]
 author: titus_capilnean
 ---
 

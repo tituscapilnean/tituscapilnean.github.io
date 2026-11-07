@@ -2,7 +2,7 @@
 title: "Cum sa inchizi un blog de hater"
 date: 2010-08-26 15:38:05 +0000
 categories: ["Social Media"]
-tags: ["blogspot", "hater", "wordpress"]
+tags: ["wordpress"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2010/cum-sa-inchizi-un-blog-de-hater/troll_2-272x300.jpg)

@@ -2,7 +2,7 @@
 title: "iPhone Fail – BSOD"
 date: 2009-08-31 09:22:23 +0000
 categories: ["Cu telefonul"]
-tags: ["blocat", "bsod", "crash", "safe-mode"]
+tags: []
 author: titus_capilnean
 ---
 

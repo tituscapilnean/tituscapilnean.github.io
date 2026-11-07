@@ -2,7 +2,7 @@
 title: "Ai ratat si defrisarea"
 date: 2009-12-08 09:17:51 +0000
 categories: ["Social Media"]
-tags: ["cop15", "copenhaga", "hopenhagen", "trending-topic", "twitter"]
+tags: ["twitter"]
 author: titus_capilnean
 ---
 

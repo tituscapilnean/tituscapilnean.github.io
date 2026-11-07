@@ -2,7 +2,7 @@
 title: "Ursul hipster și RoBlogFest(er)-ul"
 date: 2010-03-29 16:44:56 +0000
 categories: ["Social Media"]
-tags: ["castigatori", "roblogfest-2010"]
+tags: ["castigatori"]
 author: titus_capilnean
 ---
 

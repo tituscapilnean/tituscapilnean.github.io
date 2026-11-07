@@ -2,7 +2,7 @@
 title: "De dimineata – Energie subtila"
 date: 2010-02-03 10:21:16 +0000
 categories: ["Altele de online"]
-tags: ["de-dimineata", "in-loc-de-cafea", "muzica", "personal"]
+tags: ["in-loc-de-cafea", "muzica", "personal"]
 author: titus_capilnean
 ---
 

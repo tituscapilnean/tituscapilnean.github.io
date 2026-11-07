@@ -2,7 +2,7 @@
 title: "Una pe zi – Animest 2010"
 date: 2010-09-23 15:42:04 +0000
 categories: ["Istoria reclamelor bune"]
-tags: ["2010", "animest", "festival-de-animatie"]
+tags: ["2010", "animest"]
 author: titus_capilnean
 ---
 

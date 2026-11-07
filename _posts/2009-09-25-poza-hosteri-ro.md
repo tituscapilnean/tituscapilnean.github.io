@@ -2,7 +2,7 @@
 title: "Poza gazduitorilor de site-uri din Romania"
 date: 2009-09-25 04:39:42 +0000
 categories: ["Social Media"]
-tags: ["analiza", "backend", "hosting", "poza", "romania", "south-park"]
+tags: ["analiza", "hosting", "poza", "romania"]
 author: titus_capilnean
 ---
 

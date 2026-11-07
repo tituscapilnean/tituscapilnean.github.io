@@ -2,7 +2,7 @@
 title: "Tuborg Greenfest – recenzii"
 date: 2009-09-06 16:12:35 +0000
 categories: ["Cu telefonul", "Evenimente"]
-tags: ["bere", "bucuresti", "izvor", "monden", "party"]
+tags: ["bere", "bucuresti", "party"]
 author: titus_capilnean
 ---
 

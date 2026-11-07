@@ -2,7 +2,7 @@
 title: "Responsive web în România – Vitantis.ro"
 date: 2012-07-05 12:11:09 +0000
 categories: ["Altele de online"]
-tags: ["responsive-web", "vitantis", "websiteuri"]
+tags: []
 author: titus_capilnean
 ---
 

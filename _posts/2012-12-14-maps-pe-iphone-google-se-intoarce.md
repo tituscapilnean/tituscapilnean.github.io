@@ -2,7 +2,7 @@
 title: "Maps pe iPhone: Google se întoarce"
 date: 2012-12-14 09:50:37 +0000
 categories: ["Marketing"]
-tags: ["apple", "fun", "google", "maps"]
+tags: ["apple", "fun", "google"]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Evaluare cu ajutorul social media"
 date: 2010-01-08 07:51:26 +0000
 categories: ["Altele de online", "Social Media"]
-tags: ["johari-window", "social-media", "test"]
+tags: ["social-media"]
 author: titus_capilnean
 ---
 

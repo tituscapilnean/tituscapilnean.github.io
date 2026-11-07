@@ -2,7 +2,7 @@
 title: "Fereastra de creativitate/productivitate"
 date: 2010-06-14 21:55:24 +0000
 categories: ["Altele de online"]
-tags: ["creativitate", "fereastra", "sfaturi-de-viata"]
+tags: ["creativitate"]
 author: titus_capilnean
 ---
 

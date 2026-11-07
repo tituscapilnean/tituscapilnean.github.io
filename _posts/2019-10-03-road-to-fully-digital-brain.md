@@ -2,7 +2,7 @@
 title: "The road to a fully digital brain v1.0"
 date: 2019-10-03 10:00:00 +0000
 categories: [English, Brain Interfaces]
-tags: [brain interfaces, ai, neuralink, future, consciousness, immortality]
+tags: [ai]
 author: titus_capilnean
 ---
 

@@ -2,7 +2,7 @@
 title: "Butonul de dat pe Twitter"
 date: 2010-01-26 06:14:50 +0000
 categories: ["Social Media"]
-tags: ["buton", "share", "twitter"]
+tags: ["share", "twitter"]
 author: titus_capilnean
 ---
 

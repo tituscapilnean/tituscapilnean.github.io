@@ -2,7 +2,7 @@
 title: "Piata romaneasca de online vazuta de la Interact Barcelona 2012"
 date: 2012-07-20 12:03:56 +0000
 categories: ["Online Training"]
-tags: ["2012", "barcelona", "interact"]
+tags: ["2012", "barcelona"]
 author: titus_capilnean
 ---
 

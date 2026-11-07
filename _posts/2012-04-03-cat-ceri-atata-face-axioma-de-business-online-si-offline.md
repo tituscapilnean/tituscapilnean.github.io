@@ -2,7 +2,7 @@
 title: "Cât ceri, atâta face – axiomă de business online și offline"
 date: 2012-04-03 13:26:15 +0000
 categories: ["Altele de online"]
-tags: ["business", "incepator", "online", "preturi"]
+tags: ["business", "online"]
 author: titus_capilnean
 ---
 ![](/assets/img/posts/2012/cat-ceri-atata-face-axioma-de-business-online-si-offline/work-for-free-150x150.png)

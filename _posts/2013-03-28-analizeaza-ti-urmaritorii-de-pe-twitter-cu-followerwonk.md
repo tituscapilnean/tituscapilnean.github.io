@@ -2,7 +2,7 @@
 title: "Analizează-ți urmăritorii de pe Twitter cu Followerwonk"
 date: 2013-03-28 14:33:32 +0000
 categories: ["Social Media"]
-tags: ["influenta", "masurare", "tool", "twitter"]
+tags: ["influenta", "twitter"]
 author: titus_capilnean
 ---
 
