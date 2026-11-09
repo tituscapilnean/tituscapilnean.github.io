@@ -8,6 +8,7 @@ on:
       - .gitignore
       - README.md
       - LICENSE
+      - 'pipeline/**'
 
 permissions:
   contents: read

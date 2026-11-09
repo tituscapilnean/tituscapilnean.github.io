@@ -32,6 +32,7 @@ cd assets/lib && npm install && npm run build
 - **`assets/lib/`** — Frontend dependencies (FontAwesome, Mermaid, TocBot, etc.) managed via npm
 - **`tools/`** — `run.sh` (dev server), `test.sh` (production build + validation)
 - **`.github/workflows/pages-deploy.yml`** — CI/CD: builds with `JEKYLL_ENV=production` and deploys to GitHub Pages on push to main
+- **`pipeline/`** — Separate swamp repo for writing posts: idea, voice interview, draft, review, fact-check, publish, PR (`blog-factory`). Excluded from the Jekyll build and from CI. See `pipeline/README.md`
 - **`.github/workflows/pr-check.yml`** — runs the production build plus html-proofer on every pull request
 
 ## Known Gotchas
