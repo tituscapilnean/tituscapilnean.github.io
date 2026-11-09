@@ -1,0 +1,326 @@
+type: '@swamp/software-factory'
+typeVersion: 2026.06.24.1
+id: 2dc94916-5137-4355-b883-7d159bfe497c
+name: blog-factory
+version: 1
+tags:
+  purpose: blog-pipeline
+# Turns an idea into a published post on tituscapilnean.ro, in Titus's
+# pre-AI voice. One work item per article; the work item is the post slug.
+# Deterministic steps run on the blog-pipeline behavior
+# (@tituscapilnean/blog-interview). Titus approves the outline and the final
+# draft, and merges the PR himself.
+globalArguments:
+  stages:
+    - id: capture
+      initial: true
+      description: Write down the idea in Titus's own words, with a working title.
+      work:
+        mode: interactive
+        skills: [titus-blog-voice]
+      artifacts:
+        - name: idea
+          schema:
+            type: object
+            required: [title, idea]
+            properties:
+              title: { type: string, minLength: 1 }
+              idea: { type: string, minLength: 1 }
+              moment: { type: string }
+      transitions:
+        - name: stub
+          to: stubbing
+          gates:
+            - type: artifact-exists
+              config: { artifact: idea }
+
+    - id: stubbing
+      description: Create _drafts/<slug>.md from the stub template.
+      work:
+        mode: method
+        method:
+          modelIdOrName: blog-pipeline
+          methodName: create_stub
+          inputs:
+            slug: '${{ self.workItem }}'
+            title: '${{ data.latest(self.name, "artifact-idea").payload.title }}'
+            idea: '${{ data.latest(self.name, "artifact-idea").payload.idea }}'
+        resultEvidence: stub-run
+      transitions:
+        - name: research
+          to: research
+          gates:
+            - type: evidence-recorded
+              config: { name: stub-run, requireField: { status: succeeded } }
+
+    - id: research
+      description: Research the topic and propose an outline in the stub.
+      work:
+        mode: interactive
+        skills: [titus-blog-voice]
+        constraints: agent-constraints/blog-research.md
+      artifacts:
+        - name: outline
+          schema:
+            type: object
+            required: [workingTitle, topic, beats, openQuestions, sources]
+            properties:
+              workingTitle: { type: string, minLength: 1 }
+              topic: { type: string, minLength: 1 }
+              beats: { type: array, minItems: 6, items: { type: string } }
+              framework: { type: string }
+              openQuestions: { type: array, items: { type: string } }
+              sources:
+                type: array
+                items:
+                  type: object
+                  required: [title, url]
+                  properties:
+                    title: { type: string }
+                    url: { type: string }
+                    verified: { type: boolean }
+      transitions:
+        - name: interview
+          to: interview
+          gates:
+            - type: artifact-exists
+              config: { artifact: outline }
+
+    - id: interview
+      description: Voice-interview Titus one question at a time with blog-pipeline ask.
+      work:
+        mode: interactive
+        skills: [titus-blog-voice]
+        constraints: agent-constraints/blog-interview.md
+      artifacts:
+        - name: interview
+          schema:
+            type: object
+            required: [answers, keyQuotes]
+            properties:
+              answers:
+                type: array
+                minItems: 3
+                items:
+                  type: object
+                  required: [question, dataName, takeaway]
+                  properties:
+                    question: { type: string }
+                    dataName: { type: string }
+                    takeaway: { type: string }
+              keyQuotes: { type: array, items: { type: string } }
+              followUps:
+                type: array
+                items:
+                  type: object
+                  required: [question, answer]
+                  properties:
+                    question: { type: string }
+                    answer: { type: string }
+      transitions:
+        - name: revise-outline
+          to: outline-approval
+          gates:
+            - type: artifact-exists
+              config: { artifact: interview }
+
+    - id: outline-approval
+      description: Rebuild the outline from the interview and get Titus's go-ahead.
+      work:
+        mode: interactive
+        skills: [titus-blog-voice]
+      artifacts:
+        - name: approved-outline
+          schema:
+            type: object
+            required: [workingTitle, beats, changesFromInterview]
+            properties:
+              workingTitle: { type: string, minLength: 1 }
+              beats: { type: array, minItems: 6, items: { type: string } }
+              changesFromInterview: { type: string, minLength: 1 }
+              openQuestions: { type: array, items: { type: string } }
+      transitions:
+        - name: draft
+          to: drafting
+          gates:
+            - type: artifact-exists
+              config: { artifact: approved-outline }
+            - type: human-approval
+              config: { id: outline-approval }
+        - name: more-interview
+          to: interview
+
+    - id: drafting
+      description: Write the draft into the stub's Draft section in Titus's pre-AI voice.
+      work:
+        mode: interactive
+        skills: [titus-blog-voice]
+      artifacts:
+        - name: draft
+          schema:
+            type: object
+            required: [path, words, summary]
+            properties:
+              path: { type: string, minLength: 1 }
+              words: { type: integer, minimum: 1 }
+              summary: { type: string, minLength: 1 }
+      transitions:
+        - name: review
+          to: review
+          gates:
+            - type: artifact-exists
+              config: { artifact: draft }
+
+    - id: review
+      description: Adversarial review against the voice profile and the pre-AI posts.
+      work:
+        mode: dispatch
+        skills: [titus-blog-voice]
+        constraints: agent-constraints/blog-review.md
+        systemPrompt: |
+          You are a tough editor. Follow agent-constraints/blog-review.md for
+          the draft at
+          ${{ data.latest(self.name, "artifact-draft").payload.path }}
+          Record findings with severities; do not soften them.
+      artifacts:
+        - name: voice-review
+          kind: findings
+          reviews: draft
+      transitions:
+        - name: revise
+          to: revising
+          gates:
+            - type: artifact-fresh
+              config: { artifact: voice-review, recordedThisCycle: true }
+
+    - id: revising
+      description: Apply the review, then resolve each finding with a note (fixed, or why not).
+      work:
+        mode: interactive
+        skills: [titus-blog-voice]
+      transitions:
+        - name: fact-check
+          to: fact-check
+          gates:
+            - type: findings-clear
+              config: { artifact: voice-review, blocking: [critical, high] }
+        - name: re-review
+          to: review
+
+    - id: fact-check
+      description: Check every external claim against primary sources and fix the draft.
+      work:
+        mode: interactive
+      artifacts:
+        - name: fact-check
+          kind: findings
+          reviews: draft
+      transitions:
+        - name: lint
+          to: lint
+          gates:
+            - type: artifact-exists
+              config: { artifact: fact-check }
+            - type: findings-clear
+              config: { artifact: fact-check, blocking: [critical, high, medium] }
+
+    - id: lint
+      description: Hard voice and frontmatter rules. No LLM.
+      work:
+        mode: method
+        method:
+          modelIdOrName: blog-pipeline
+          methodName: lint
+          inputs:
+            slug: '${{ self.workItem }}'
+        resultEvidence: lint-run
+      transitions:
+        - name: pass
+          to: final-approval
+          gates:
+            - type: evidence-recorded
+              config: { name: lint-run, requireField: { status: succeeded } }
+        - name: fail
+          to: revising
+          gates:
+            - type: evidence-recorded
+              config: { name: lint-run, requireField: { status: failed } }
+
+    - id: final-approval
+      description: Titus reads the final draft and picks the publish date.
+      work:
+        mode: interactive
+      artifacts:
+        - name: publish-plan
+          schema:
+            type: object
+            required: [date]
+            properties:
+              date: { type: string, pattern: '^\d{4}-\d{2}-\d{2}$' }
+              postSlug: { type: string, pattern: '^[a-z0-9][a-z0-9-]*$' }
+      transitions:
+        - name: publish
+          to: publishing
+          gates:
+            - type: artifact-exists
+              config: { artifact: publish-plan }
+            - type: human-approval
+              config: { id: publish-approval }
+        - name: revise
+          to: revising
+
+    - id: publishing
+      description: Strip the working notes, set the date, move the post to _posts/.
+      work:
+        mode: method
+        method:
+          modelIdOrName: blog-pipeline
+          methodName: publish
+          inputs:
+            slug: '${{ self.workItem }}'
+            date: '${{ data.latest(self.name, "artifact-publish-plan").payload.date }}'
+        resultEvidence: publish-run
+      transitions:
+        - name: open-pr
+          to: pull-request
+          gates:
+            - type: evidence-recorded
+              config: { name: publish-run, requireField: { status: succeeded } }
+
+    - id: pull-request
+      description: Branch from main, commit only the post, open the PR. Titus merges.
+      work:
+        mode: interactive
+        constraints: agent-constraints/blog-publish.md
+      evidence:
+        - name: pull-request
+          schema:
+            type: object
+            required: [url, branch]
+            properties:
+              url: { type: string, minLength: 1 }
+              branch: { type: string, minLength: 1 }
+              checks: { type: string, enum: [passed, failed, pending] }
+      transitions:
+        - name: done
+          to: done
+          gates:
+            - type: evidence-recorded
+              config: { name: pull-request }
+
+    - id: done
+      terminal: true
+
+    - id: aborted
+      terminal: true
+
+  globalTransitions:
+    - name: abort
+      to: aborted
+      gates:
+        - type: human-approval
+          config: { id: abort-confirmation }
+reports:
+  require:
+    - { name: "@swamp/software-factory/work-item-summary", methods: [summary] }
+methods: {}

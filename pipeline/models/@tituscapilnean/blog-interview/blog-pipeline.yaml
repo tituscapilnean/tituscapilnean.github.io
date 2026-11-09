@@ -1,0 +1,9 @@
+type: '@tituscapilnean/blog-interview'
+typeVersion: 2026.11.08.2
+id: 400ea23c-eff5-4310-a16f-4e32e6bba134
+name: blog-pipeline
+version: 1
+tags:
+  purpose: blog-pipeline
+globalArguments: {}
+methods: {}
